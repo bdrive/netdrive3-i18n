@@ -1,0 +1,1765 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Language: lv_LV\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../NetDriveUI/adddrive.ui:17
+msgctxt "AddDrive|"
+msgid "Add Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:55
+msgctxt "AddDrive|"
+msgid "STORAGE TYPE"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:124
+msgctxt "AddDrive|"
+msgid "CONNECT"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:137
+msgctxt "AddDrive|"
+msgid "OPTIONS"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:146
+msgctxt "AddDrive|"
+msgid "Save authentication information"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:173
+msgctxt "AddDrive|"
+msgid "help_msg"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:185
+msgctxt "AddDrive|"
+msgid "REMOTE PATH"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:192
+msgctxt "AddDrive|"
+msgid "/"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:213
+msgctxt "AddDrive|"
+msgid "BROWSE"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:240
+msgctxt "AddDrive|"
+msgid "LABEL"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:277
+msgctxt "AddDrive|"
+msgid "MOUNT"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:294
+msgctxt "AddDrive|"
+msgid "as"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:322
+msgctxt "AddDrive|"
+msgid "AUTO CONNECT OPTIONS"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:328
+msgctxt "AddDrive|"
+msgid "No automatic mount"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:341
+msgctxt "AddDrive|"
+msgid "Mount on boot"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:348
+msgctxt "AddDrive|"
+msgid "Mount on login"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:358
+msgctxt "AddDrive|"
+msgid "UPLOAD OPTIONS"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:364
+msgctxt "AddDrive|"
+msgid "Use on-the-fly uploading in Explorer"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:374
+msgctxt "AddDrive|"
+msgid "Use background uploading"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:387
+msgctxt "AddDrive|"
+msgid "READ ONLY OPTIONS"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:393
+msgctxt "AddDrive|"
+msgid "Writable drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:403
+msgctxt "AddDrive|"
+msgid "Read only drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:413
+msgctxt "AddDrive|"
+msgid "ADVANCED OPTION"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:419
+msgctxt "AddDrive|"
+msgid "Always retrieve file list from server"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:426
+msgctxt "AddDrive|"
+msgid "As a removable drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:433
+msgctxt "AddDrive|"
+msgid "Treat files and folders starting with a dot as hidden"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:440
+msgctxt "AddDrive|"
+msgid "Use static filesystem(Experimental)"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:147
+msgctxt "AddDrive|"
+msgid "COLOR"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:492 ../../NetDriveUI/adddrive.cpp:518
+#: ../../NetDriveUI/adddrive.cpp:526 ../../NetDriveUI/adddrive.cpp:534
+#: ../../NetDriveUI/adddrive.cpp:545 ../../NetDriveUI/adddrive.cpp:566
+#: ../../NetDriveUI/adddrive.cpp:1405
+msgctxt "AddDrive|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:493
+msgctxt "AddDrive|"
+msgid "Please press CONNECT button to set connection information."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:519
+msgctxt "AddDrive|"
+msgid ""
+"A drive name cannot contain any of the following characters:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:527
+msgctxt "AddDrive|"
+msgid "Please type in drive name."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:535
+msgctxt "AddDrive|"
+msgid "The maximum length of the drive name is 50."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:546
+msgctxt "AddDrive|"
+msgid "Please select remote path."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:567
+msgctxt "AddDrive|"
+msgid "Please type in a different name since this drive name is already used."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1405
+msgctxt "AddDrive|"
+msgid " Please try again by pressing the CONNECT button."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1471
+msgctxt "AddDrive|"
+msgid "We do not support this protocol."
+msgstr ""
+
+#: ../../NetDriveUI/addsyncinfo.ui:32
+msgctxt "AddSyncInfo|"
+msgid "AddSyncInfo"
+msgstr ""
+
+#: ../../NetDriveUI/addsynclogin.ui:32
+msgctxt "AddSyncLogin|"
+msgid "AddSyncLogin"
+msgstr ""
+
+#: ../../../common/authtemplate.ui:14
+msgctxt "AuthTemplate|"
+msgid "AuthTemplate"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
+msgctxt "BDLogin|"
+msgid "Login"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:128
+msgctxt "BDLogin|"
+msgid "Email"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:141
+msgctxt "BDLogin|"
+msgid "Password"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:148
+msgctxt "BDLogin|"
+msgid "Keep me logged in"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:182
+msgctxt "BDLogin|"
+msgid "OR"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:203
+msgctxt "BDLogin|"
+msgid "Sign in with"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:213
+msgctxt "BDLogin|"
+msgid "Facebook"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:220
+msgctxt "BDLogin|"
+msgid "Twitter"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:227
+msgctxt "BDLogin|"
+msgid "Google"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:241
+msgctxt "BDLogin|"
+msgid "message"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.ui:273
+msgctxt "BDLogin|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdloginbuttons.ui:20
+msgctxt "BDLoginButtons|"
+msgid "BDLoginButtons"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdmessagebox.ui:17
+msgctxt "BDMessageBox|"
+msgid "BDMessageBox"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdmessagebox.ui:124
+msgctxt "BDMessageBox|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Gulim'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><br /></p></body></html>"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdpassphrase.ui:14
+#: ../../../ui_helper/bdui/bdpassphrase.ui:29
+msgctxt "BDPassphrase|"
+msgid "Passphrase"
+msgstr ""
+
+#: ../../ndagent/BDUser.cpp:509
+msgctxt "BDUser|"
+msgid ""
+"Login failed because communication with the server failed. Please check your "
+"proxy or Internet connection."
+msgstr ""
+
+#: ../../ndagent/BDUser.cpp:524
+msgctxt "BDUser|"
+msgid "Login failed. Please click here to check."
+msgstr ""
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:14
+msgctxt "BDUserPassword|"
+msgid "Authentication Information"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:29
+msgctxt "BDUserPassword|"
+msgid "Password"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:36
+msgctxt "BDUserPassword|"
+msgid "User"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:241
+msgctxt "ConfigureDrive|"
+msgid "Configure Drive"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:14
+msgctxt "FlatAbout|"
+msgid "ABOUT"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:54
+#, qt-format
+msgctxt "FlatAbout|"
+msgid "%1"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:61
+msgctxt "FlatAbout|"
+msgid "Copyright Bdrive 2011-2017. All Rights Reserved."
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:68
+#, qt-format
+msgctxt "FlatAbout|"
+msgid "Version %1"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:112
+#, qt-format
+msgctxt "FlatAbout|"
+msgid "Licensed to %1"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatabout.ui:135
+msgctxt "FlatAbout|"
+msgid "Trial"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatbaseshadow.ui:14
+msgctxt "FlatBaseShadow|"
+msgid "FlatBaseShadow"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatmemberinfo.ui:26
+msgctxt "FlatMemberInfo|"
+msgid "FlatMemberInfo"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatmenubar.ui:20
+msgctxt "FlatMenuBar|"
+msgid "FlatMenuBar"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatmenubar.ui:240
+msgctxt "FlatMenuBar|"
+msgid "Search"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:14
+msgctxt "FlatSettingContents|"
+msgid "SETTINGS"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:39
+msgctxt "FlatSettingContents|"
+msgid "GENERAL"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:60
+msgctxt "FlatSettingContents|"
+msgid "Start at login"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:67
+msgctxt "FlatSettingContents|"
+msgid "Launch Windows Explorer when newly connected to a remote storage."
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:77
+msgctxt "FlatSettingContents|"
+msgid "Update NetDrive automatically"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:87
+msgctxt "FlatSettingContents|"
+msgid "Update to beta version if available"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:99
+msgctxt "FlatSettingContents|"
+msgid "Language"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:137
+msgctxt "FlatSettingContents|"
+msgid "CACHE"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:158
+msgctxt "FlatSettingContents|"
+msgid "NetDrive keeps temporary copies of remote files in local disk."
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:167
+msgctxt "FlatSettingContents|"
+msgid "Cache path"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:184
+msgctxt "FlatSettingContents|"
+msgid "BROWSE"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:209
+msgctxt "FlatSettingContents|"
+msgid "Currently 0.00 GB disk space available."
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:218
+msgctxt "FlatSettingContents|"
+msgid "Use up to"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:228
+msgctxt "FlatSettingContents|"
+msgid "GB for disk cache"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:253
+msgctxt "FlatSettingContents|"
+msgid "LOG"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:274
+msgctxt "FlatSettingContents|"
+msgid "Log level"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:307
+msgctxt "FlatSettingContents|"
+msgid "OPEN LOG FOLDER"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:333
+msgctxt "FlatSettingContents|"
+msgid "NETWORK"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:339
+msgctxt "FlatSettingContents|"
+msgid "PROXY SETTINGS"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:60
+msgctxt "FlatSettingContents|"
+msgid "Launch Finder when newly connected to a remote storage"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:94
+msgctxt "FlatSettingContents|"
+msgid "Open Directory"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flattab.ui:20
+msgctxt "FlatTab|"
+msgid "FlatTab"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:14
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid "%1 Update"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:74
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid "A new version of %1 is avaliable!"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:81
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid ""
+"%1 %2 is now avaliable - you have %3. Would you like to download it now?"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:88
+msgctxt "FlatUpdate|"
+msgid "Release Note:"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:105
+msgctxt "FlatUpdate|"
+msgid "Automatically download and install updated version in the future"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:121
+msgctxt "FlatUpdate|"
+msgid "SKIP THIS VERSION"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:128
+msgctxt "FlatUpdate|"
+msgid "REMIND ME LATER"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.ui:135
+msgctxt "FlatUpdate|"
+msgid "INSTALL UPDATE"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:157
+msgctxt "NDFlatUI|"
+msgid ""
+"The services of %s must be running, but they are not running. Do you want to "
+"run them now?"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:492 ../../NetDriveUI/ndflatui.cpp:837
+#: ../../NetDriveUI/ndflatui.cpp:903 ../../NetDriveUI/ndflatui.cpp:936
+#: ../../NetDriveUI/ndflatui.cpp:950 ../../NetDriveUI/ndflatui.cpp:962
+#: ../../NetDriveUI/ndflatui.cpp:2166 ../../NetDriveUI/ndflatui.cpp:3167
+#: ../../NetDriveUI/ndflatui.cpp:3173
+msgctxt "NDFlatUI|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:651
+msgctxt "NDFlatUI|"
+msgid "Add drive failure has occured because of duplicate drive name."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:655
+msgctxt "NDFlatUI|"
+msgid "Failed to add drive."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:834
+msgctxt "NDFlatUI|"
+msgid ""
+"This issue might be caused by the network connection with Bdrive server "
+"which usually occurs when Bdrive server or your PC may not be connected to "
+"the Internet.\n"
+"If you are connected to the Internet and still have this issue, please visit "
+"https ://support.bdrive.com to leave a note."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:937
+msgctxt "NDFlatUI|"
+msgid "Failed to delete drive."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1012
+msgctxt "NDFlatUI|"
+msgid "NetDrive Agent is starting."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1016
+msgctxt "NDFlatUI|"
+msgid "Initializing Agent."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1019
+msgctxt "NDFlatUI|"
+msgid "Initailizing SDK."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1025
+msgctxt "NDFlatUI|"
+msgid "Checking network."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1028
+msgctxt "NDFlatUI|"
+msgid "Logging remembered users in."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1033
+msgctxt "NDFlatUI|"
+msgid "Mounting drives on boot."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1040
+msgctxt "NDFlatUI|"
+msgid "Agent is ready."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1048
+msgctxt "NDFlatUI|"
+msgid "Connecting to NetDrive Agent."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1170
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "Failed to upload %1."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1989
+msgctxt "NDFlatUI|"
+msgid "&Open"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1992
+msgctxt "NDFlatUI|"
+msgid "&Quit"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1995
+msgctxt "NDFlatUI|"
+msgid "&Check for Updates"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1998
+msgctxt "NDFlatUI|"
+msgid "&Login"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2002
+msgctxt "NDFlatUI|"
+msgid "Log&out"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2015
+msgctxt "NDFlatUI|"
+msgid "Initializing..."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2135
+msgctxt "NDFlatUI|"
+msgid "NetDrive is Quiting..."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2167
+msgctxt "NDFlatUI|"
+msgid ""
+"If you log out, 'mount on boot' items will not connect automatically. Are "
+"you sure to log out?"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2301
+msgctxt "NDFlatUI|"
+msgid "Logging out..."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2764
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "Current version %1 is the latest version available."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2936
+msgctxt "NDFlatUI|"
+msgid "Drives"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2941
+msgctxt "NDFlatUI|"
+msgid "Settings"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2944
+msgctxt "NDFlatUI|"
+msgid "Uploading"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2949
+msgctxt "NDFlatUI|"
+msgid "About"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2952
+msgctxt "NDFlatUI|"
+msgid "Account Info"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2955
+msgctxt "NDFlatUI|"
+msgid "Manage License"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2958
+msgctxt "NDFlatUI|"
+msgid "Login"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2961
+msgctxt "NDFlatUI|"
+msgid "Logout"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2964
+msgctxt "NDFlatUI|"
+msgid "NetDrive Help"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2967
+msgctxt "NDFlatUI|"
+msgid "View"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2968
+msgctxt "NDFlatUI|"
+msgid "Account"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2969
+msgctxt "NDFlatUI|"
+msgid "Help"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:3167
+msgctxt "NDFlatUI|"
+msgid "Couldn't get drive's info"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:3173
+msgctxt "NDFlatUI|"
+msgid "Couldn't get drive's name"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:17
+msgctxt "NetDriveSettings|"
+msgid "Settings"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:35
+msgctxt "NetDriveSettings|"
+msgid " CloudSync "
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:53
+msgctxt "NetDriveSettings|"
+msgid "Run CloudSync when Windows start"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:68
+msgctxt "NetDriveSettings|"
+msgid "Language"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:80
+msgctxt "NetDriveSettings|"
+msgid "Update CloudSync automatically"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:87
+msgctxt "NetDriveSettings|"
+msgid "Update to beta version if available."
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:94
+msgctxt "NetDriveSettings|"
+msgid "Notify sync messages"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:104
+msgctxt "NetDriveSettings|"
+msgid " Speed limit "
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:110
+msgctxt "NetDriveSettings|"
+msgid "Limit download speed"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:141
+#: ../../NetDriveUI/netdrivesettings.ui:194
+msgctxt "NetDriveSettings|"
+msgid "99999"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:144
+#: ../../NetDriveUI/netdrivesettings.ui:197
+msgctxt "NetDriveSettings|"
+msgid "0"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:154
+#: ../../NetDriveUI/netdrivesettings.ui:207
+msgctxt "NetDriveSettings|"
+msgid "KB/s"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:163
+msgctxt "NetDriveSettings|"
+msgid "Limit upload speed"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:219
+msgctxt "NetDriveSettings|"
+msgid " Log "
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:227
+msgctxt "NetDriveSettings|"
+msgid "Log level"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:250
+msgctxt "NetDriveSettings|"
+msgid " Open log folder "
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:290
+msgctxt "NetDriveSettings|"
+msgid "<a href=\"license\">About CloudSync</a>"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:301
+msgctxt "NetDriveSettings|"
+msgid " Setup Proxy "
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:321
+msgctxt "NetDriveSettings|"
+msgid "OK"
+msgstr ""
+
+#: ../../NetDriveUI/netdrivesettings.ui:331
+msgctxt "NetDriveSettings|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../NetDriveUI/progressingdlg.ui:14
+msgctxt "ProgressingDlg|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/progressingdlg.ui:22 ../../NetDriveUI/progressingdlg.ui:29
+msgctxt "ProgressingDlg|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:17
+msgctxt "ProxySelector|"
+msgid "PROXY SETTINGS"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:27
+msgctxt "ProxySelector|"
+msgid "Use system proxy settings"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:36
+msgctxt "ProxySelector|"
+msgid "PROXY TYPE"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:45
+msgctxt "ProxySelector|"
+msgid "None"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:52
+msgctxt "ProxySelector|"
+msgid "SOCKS 5"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:59
+msgctxt "ProxySelector|"
+msgid "HTTP"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:66
+msgctxt "ProxySelector|"
+msgid "SOCKS 4"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:89
+msgctxt "ProxySelector|"
+msgid "User"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:96
+msgctxt "ProxySelector|"
+msgid "Password"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:103
+msgctxt "ProxySelector|"
+msgid "Port"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyselector.ui:133
+msgctxt "ProxySelector|"
+msgid "Host"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:192
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"Bdrive server returned an error. If the issue persists, please contact %1 "
+"support."
+msgstr ""
+
+#: ../../../common/ndcore.cpp:238
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"<br/><br/>Error code : %1<br/>Description : %2<br/><br/>Tracking ID : <a "
+"href=\"https://accounts.bdrive.com/report/?%4\">%3</a>"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:242
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"<br/><br/>Error code : %1<br/><br/>Tracking ID : <a "
+"href=\"https://accounts.bdrive.com/report/?%3\">%2</a>"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:936 ../../../common/ndcore.cpp:1557
+msgctxt "QApplication|"
+msgid "Subscription status"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:946 ../../../common/ndcore.cpp:1558
+msgctxt "QApplication|"
+msgid "Subscription type"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:956 ../../../common/ndcore.cpp:1559
+msgctxt "QApplication|"
+msgid "Max registered devices"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:966 ../../../common/ndcore.cpp:1560
+msgctxt "QApplication|"
+msgid "Max sessions (concurrent access)"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:1561
+msgctxt "QApplication|"
+msgid "type"
+msgstr ""
+
+#: ../../../common/ndcore.cpp:1562
+msgctxt "QApplication|"
+msgid "multi_user"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:164
+#: ../../../ui_helper/bdui/bdlogin.cpp:172
+msgctxt "QApplication|"
+msgid "Login"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:164
+msgctxt "QApplication|"
+msgid "Email address required to login"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:172
+msgctxt "QApplication|"
+msgid "Proper password required to login"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdloginbase.cpp:22
+msgctxt "QApplication|"
+msgid "LOGIN"
+msgstr ""
+
+#: ../../../ui_helper/bdui/bdmessagebox.cpp:78
+msgctxt "QApplication|"
+msgid "Detail"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.cpp:141
+#, qt-format
+msgctxt "QApplication|"
+msgid "A new version of %1 is available!"
+msgstr ""
+
+#: ../../../ui_helper/bdui/flatupdate.cpp:147
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"%1 %2 is now available - you have %3. Would you like to download it now?"
+msgstr ""
+
+#: ../../../ui_helper/proxy/proxyfactory.cpp:29
+#: ../../../ui_helper/proxy/proxyfactory.cpp:76
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"%1 could not connect to Bdrive Server. This device may be offline or proxy "
+"settings may be required. Do you want proxy settings?"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
+msgctxt "QApplication|"
+msgid "Send Crash Report"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
+msgctxt "QApplication|"
+msgid "Failed to upload crash info."
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:206
+msgctxt "QApplication|"
+msgid "It's wrong data. Try again, please."
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:243
+msgctxt "QApplication|"
+msgid ""
+"There is another Bdrive account logged in this device. Do you want to log "
+"the account out and log your account in?"
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:258
+msgctxt "QApplication|"
+msgid "Failed to get drive list. Try again, please."
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:200
+msgctxt "QApplication|"
+msgid "BROWSE"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:694
+msgctxt "QApplication|"
+msgid "NETWORK"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:704 ../../NetDriveUI/ndflatui.cpp:1626
+msgctxt "QApplication|"
+msgid "PROXY SETTINGS"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:966
+msgctxt "QApplication|"
+msgid "Please check login credentials again"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:970
+msgctxt "QApplication|"
+msgid "Please check the server information"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:974
+msgctxt "QApplication|"
+msgid "Please check the SSL information"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:978
+msgctxt "QApplication|"
+msgid "Please check the connection information"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:981
+msgctxt "QApplication|"
+msgid "Connection failed"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:153
+msgctxt "QApplication|"
+msgid "Auto"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:823
+msgctxt "QApplication|"
+msgid "CONNECT"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:980
+msgctxt "QApplication|"
+msgid "Failed to set option."
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1172
+msgctxt "QApplication|"
+msgid "Authentication failed"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1172
+#, qt-format
+msgctxt "QApplication|"
+msgid "Authentication with %1 has failed"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1207 ../../NetDriveUI/adddrive.cpp:1392
+msgctxt "QApplication|"
+msgid "DISCONNECT"
+msgstr ""
+
+#: ../../NetDriveUI/failedupload.cpp:33
+msgctxt "QApplication|"
+msgid "CANCEL ALL"
+msgstr ""
+
+#: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
+msgctxt "QApplication|"
+msgid "CANCEL SELECTED"
+msgstr ""
+
+#: ../../NetDriveUI/failedupload.cpp:45
+msgctxt "QApplication|"
+msgid "RETRY ALL"
+msgstr ""
+
+#: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
+msgctxt "QApplication|"
+msgid "RETRY SELECTED"
+msgstr ""
+
+#: ../../NetDriveUI/failedupload.cpp:92
+msgctxt "QApplication|"
+msgid "SAVE AS"
+msgstr ""
+
+#: ../../NetDriveUI/main.cpp:120
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to get information of service %1"
+msgstr ""
+
+#: ../../NetDriveUI/main.cpp:121 ../../NetDriveUI/main.cpp:133
+#: ../../NetDriveUI/main.cpp:145 ../../NetDriveUI/ndflatui.cpp:660
+#: ../../NetDriveUI/qdriveitem.cpp:401 ../../NetDriveUI/qdriveitem.cpp:589
+msgctxt "QApplication|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/main.cpp:132
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to set start type of service %1"
+msgstr ""
+
+#: ../../NetDriveUI/main.cpp:144
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to start service %1"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:241
+msgctxt "QApplication|"
+msgid "DRIVES"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:247
+msgctxt "QApplication|"
+msgid "UPLOADING"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:286 ../../NetDriveUI/ndflatui.cpp:1649
+msgctxt "QApplication|"
+msgid "SETTINGS"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:297
+msgctxt "QApplication|"
+msgid "ABOUT"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1605
+msgctxt "QApplication|"
+msgid "Create a free Bdrive account"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1607
+msgctxt "QApplication|"
+msgid "Can't log in?"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1683
+msgctxt "QApplication|"
+msgid "Device authorization"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1684
+msgctxt "QApplication|"
+msgid ""
+"We could not verify if your account has been used on this device before.\n"
+"To ensure your account security, you need to add this device to your trusted "
+"devices before you can complete the sign in.\n"
+"\n"
+"If the issue persists, please contact NetDrive support."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1910
+msgctxt "QApplication|"
+msgid "Notice"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2509
+msgctxt "QApplication|"
+msgid "ACCOUNT INFO"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2516
+msgctxt "QApplication|"
+msgid "MANAGE LICENSE"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2525
+msgctxt "QApplication|"
+msgid "LOGOUT"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2751
+#, qt-format
+msgctxt "QApplication|"
+msgid "<a href=\"update\">%1 %2 is now available!</a>"
+msgstr ""
+
+#: ../../NetDriveUI/protocoldll.cpp:21
+msgctxt "QApplication|"
+msgid ""
+"If it is the first connection and there are a lot of files, the connection "
+"may take a long time."
+msgstr ""
+
+#: ../../NetDriveUI/protocoldll.cpp:24
+msgctxt "QApplication|"
+msgid "Rename and move operations are not supported."
+msgstr ""
+
+#: ../../NetDriveUI/protocoldll.cpp:207
+msgctxt "QApplication|"
+msgid "Wait for authentication..."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1219
+msgctxt "QApplication|"
+msgid "Open"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1224
+msgctxt "QApplication|"
+msgid "Config"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1228
+msgctxt "QApplication|"
+msgid "Duplicate"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1234
+msgctxt "QApplication|"
+msgid "Delete"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1239
+msgctxt "QApplication|"
+msgid "Log"
+msgstr ""
+
+#: ../../NetDriveUI/selectfolder.cpp:161
+msgctxt "QApplication|"
+msgid "Folder listing failed"
+msgstr ""
+
+#: ../../NetDriveUI/selectfolder.cpp:161
+msgctxt "QApplication|"
+msgid "Can not retrieve folder list from server."
+msgstr ""
+
+#: ../../NetDriveUI/sortitemwidget.cpp:38
+msgctxt "QApplication|"
+msgid "Name"
+msgstr ""
+
+#: ../../NetDriveUI/sortitemwidget.cpp:43
+msgctxt "QApplication|"
+msgid "Letter"
+msgstr ""
+
+#: ../../NetDriveUI/update.cpp:30
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"NetDrive %1 is now available. You have %2. Would you like to update now?"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
+msgctxt "QAuthDlg|"
+msgid "Authentication Rquired"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
+msgctxt "QAuthDlg|"
+msgid ""
+"The proxy requires a username and password.\n"
+"\n"
+"Your connection to this site is not private."
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
+msgctxt "QAuthDlg|"
+msgid "User Name"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
+msgctxt "QAuthDlg|"
+msgid "Password"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
+msgctxt "QAuthDlg|"
+msgid "Log In"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
+msgctxt "QAuthDlg|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1172
+msgctxt "QCoreApplication|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.ui:26
+msgctxt "QDriveItem|"
+msgid "QDriveItem"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.ui:78
+msgctxt "QDriveItem|"
+msgid "Logo"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.ui:239
+msgctxt "QDriveItem|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.ui:264 ../../NetDriveUI/qdriveitem.cpp:633
+#: ../../NetDriveUI/qdriveitem.cpp:1029
+msgctxt "QDriveItem|"
+msgid "CONNECT"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:129
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:132 ../../NetDriveUI/qdriveitem.cpp:150
+#: ../../NetDriveUI/qdriveitem.cpp:166 ../../NetDriveUI/qdriveitem.cpp:534
+#: ../../NetDriveUI/qdriveitem.cpp:546 ../../NetDriveUI/qdriveitem.cpp:1141
+msgctxt "QDriveItem|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:147
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to unmount %1. Try later again."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:163
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Are you sure you want to disconnect %1?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:398
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "There is no log file for [%1]."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:547
+msgctxt "QDriveItem|"
+msgid "Unmount failed"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:579
+msgctxt "QDriveItem|"
+msgid "Failed to configure drive because of the duplicated name."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:583
+msgctxt "QDriveItem|"
+msgid "Failed to configure drive."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:624
+msgctxt "QDriveItem|"
+msgid "CANCEL"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:630 ../../NetDriveUI/qdriveitem.cpp:1028
+msgctxt "QDriveItem|"
+msgid "NOT CONNECTED"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1035
+msgctxt "QDriveItem|"
+msgid "CONNECTING"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1041
+msgctxt "QDriveItem|"
+msgid "CONNECTED"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1042
+msgctxt "QDriveItem|"
+msgid "DISCONNECT"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1048
+msgctxt "QDriveItem|"
+msgid "DISCONNECTING"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1139
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Are you sure you want to delete %1?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitemlists.ui:14
+msgctxt "QDriveItemLists|"
+msgid "QDriveItemLists"
+msgstr ""
+
+#: ../../../common/aerrorstring.cpp:9
+msgctxt "QObject|"
+msgid "A serious problem occurred. Please reinstall NetDrive."
+msgstr ""
+
+#: ../../../common/aerrorstring.cpp:11
+msgctxt "QObject|"
+msgid "Success."
+msgstr ""
+
+#: ../../../common/aerrorstring.cpp:13
+msgctxt "QObject|"
+msgid "Failed."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:23
+msgctxt "QObject|"
+msgid "Access Denied."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:27
+msgctxt "QObject|"
+msgid "Path not found."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:31
+msgctxt "QObject|"
+msgid "Connection error."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:35
+msgctxt "QObject|"
+msgid "Drive letter already used."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:39
+msgctxt "QObject|"
+msgid "Mount Error."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:43
+msgctxt "QObject|"
+msgid "Mount process is not executed."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:47
+msgctxt "QObject|"
+msgid ""
+"Files are currently being uploading. Do you want to disconnect forcefully?"
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:51
+msgctxt "QObject|"
+msgid "NetDrive is not initialized."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:55
+msgctxt "QObject|"
+msgid "No available drive letter."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:59
+msgctxt "QObject|"
+msgid "Wrong Parameter."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:63
+msgctxt "QObject|"
+msgid "Network path already used."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:67
+msgctxt "QObject|"
+msgid "Cache path error."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:71
+msgctxt "QObject|"
+msgid "Operation Failed."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:75
+msgctxt "QObject|"
+msgid "Not logged in user."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:79
+msgctxt "QObject|"
+msgid ""
+"The protocol version you are using is different from the product version. "
+"Please reinstall."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:83
+msgctxt "QObject|"
+msgid "You cannot use this version. Please install the version you can use."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:87
+msgctxt "QObject|"
+msgid "Not supported protocol type"
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:91
+msgctxt "QObject|"
+msgid "Already mounted drive item."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:95
+msgctxt "QObject|"
+msgid "Error occurred."
+msgstr ""
+
+#: ../../nd3cmd/nd3cmd.cpp:978
+msgctxt "QObject|"
+msgid "Successfully disconnected."
+msgstr ""
+
+#: ../../nd3cmd/nd3cmd.cpp:982
+msgctxt "QObject|"
+msgid "There is no drive to disconnect."
+msgstr ""
+
+#: ../../nd3cmd/nd3cmd.cpp:986
+msgctxt "QObject|"
+msgid "Timeout occured while disconnecting."
+msgstr ""
+
+#: ../../nd3cmd/nd3cmd.cpp:991
+msgctxt "QObject|"
+msgid "If you want, execute with -f option"
+msgstr ""
+
+#: ../../nd3cmd/nd3cmd.cpp:996
+msgctxt "QObject|"
+msgid "Unmount failed."
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
+msgctxt "QSenderDlg|"
+msgid "Send Crash Report"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:46
+msgctxt "QSenderDlg|"
+msgid "The application [] has quit unexpectedly."
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
+msgctxt "QSenderDlg|"
+msgid ""
+"A report has been created that you can send to Bdrive Inc. to help identify "
+"the problem.\n"
+"\n"
+"Please provide us any detailed description of what happened before the "
+"crash.\n"
+"\n"
+"The information you send us will help us to fix this problem and it will not "
+"be used except for debugging purpose."
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
+msgctxt "QSenderDlg|"
+msgid "minutes remaining."
+msgstr ""
+
+#: ../../NetDriveUI/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "SelectFolder"
+msgstr ""
+
+#: ../../NetDriveUI/selectfolder.ui:71
+msgctxt "SelectFolder|"
+msgid "CREATE NEW FOLDER"
+msgstr ""
+
+#: ../../NetDriveUI/sortitemwidget.ui:14
+msgctxt "SortItemWidget|"
+msgid "SortItemWidget"
+msgstr ""
+
+#: ../../NetDriveUI/sortitemwidget.cpp:13
+msgctxt "SortItemWidget|"
+msgid "Sort by"
+msgstr ""
+
+#: ../../../common/urlwidget.ui:14
+msgctxt "URLWidget|"
+msgid "URLWidget"
+msgstr ""
+
+#: ../../../common/urlwidget.ui:37
+msgctxt "URLWidget|"
+msgid "URL"
+msgstr ""
+
+#: ../../../common/urlwidget.ui:47
+msgctxt "URLWidget|"
+msgid "Port"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:14
+msgctxt "Update|"
+msgid "NetDrive Update"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:78
+msgctxt "Update|"
+msgid "A new version of NetDrive is available!"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:104
+msgctxt "Update|"
+msgid "Release notes:"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:127
+msgctxt "Update|"
+msgid "Automatically download and install updated version in the future"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:150
+msgctxt "Update|"
+msgid "Skip this version"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:157
+msgctxt "Update|"
+msgid "Later"
+msgstr ""
+
+#: ../../NetDriveUI/update.ui:164
+msgctxt "Update|"
+msgid "Update"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.ui:26
+msgctxt "UploadItem|"
+msgid "UploadIteam"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.ui:58 ../../NetDriveUI/uploaditem.ui:76
+#: ../../NetDriveUI/uploaditem.ui:89 ../../NetDriveUI/uploaditem.ui:106
+#: ../../NetDriveUI/uploaditem.ui:141
+msgctxt "UploadItem|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.cpp:105
+msgctxt "UploadItem|"
+msgid "Failed to upload"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.cpp:241
+msgctxt "UploadItem|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.cpp:244
+msgctxt "UploadItem|"
+msgid "Retry"
+msgstr ""
+
+#: ../../NetDriveUI/uploaditem.cpp:247
+msgctxt "UploadItem|"
+msgid "Save as"
+msgstr ""
+
+#: ../../NetDriveUI/uploadstatusbase.ui:14
+msgctxt "UploadStatusBase|"
+msgid "UploadStatusBase"
+msgstr ""
+
+#: ../../NetDriveUI/uploadings.ui:14
+msgctxt "Uploadings|"
+msgid "UPLOADINGS"
+msgstr ""
+
+#: ../../NetDriveUI/uploadings.cpp:21
+msgctxt "Uploadings|"
+msgid "No files are being uploaded."
+msgstr ""
+
+#: ../../NetDriveUI/uploadings.cpp:59 ../../NetDriveUI/uploadings.cpp:74
+msgctxt "Uploadings|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/uploadings.cpp:59
+msgctxt "Uploadings|"
+msgid "Failed to retry."
+msgstr ""
+
+#: ../../NetDriveUI/uploadings.cpp:74
+msgctxt "Uploadings|"
+msgid "Failed to save as."
+msgstr ""
+
+#: ../../../ui_helper/oauth2/waiter.ui:14
+msgctxt "Waiter|"
+msgid "Wait for authentication"
+msgstr ""
+
+#: ../../../common_helper/bdcrash/bdcrashsender/bdcrashsender.ui:16
+msgctxt "bdcrashsenderClass|"
+msgid "bdcrashsender"
+msgstr ""
+
+#: ../../NetDriveUI/drives.ui:14
+msgctxt "drive_page|"
+msgid "Profiles"
+msgstr ""

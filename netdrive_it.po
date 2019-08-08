@@ -398,14 +398,14 @@ msgstr ""
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
-msgid "A new version of %1 is avaliable!"
+msgid "A new version of %1 is available!"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
-"%1 %2 is now avaliable - you have %3. Would you like to download it now?"
+"%1 %2 is now available - you have %3. Would you like to download it now?"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88

@@ -398,14 +398,14 @@ msgstr "%1 업데이트"
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
-msgid "A new version of %1 is avaliable!"
+msgid "A new version of %1 is available!"
 msgstr "%1 새로운 버젼이 있습니다!"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
-"%1 %2 is now avaliable - you have %3. Would you like to download it now?"
+"%1 %2 is now available - you have %3. Would you like to download it now?"
 msgstr "%1 %2가 나왔습니다. - 사용하고 있는 버젼은 %3입니다. 지금 다운로드 하겠습니까?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88

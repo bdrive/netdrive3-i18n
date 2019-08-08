@@ -157,7 +157,7 @@ msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
-msgstr "다음의 문자들은 이름에 포함될 수 없습니다./ \\ [ ] : | < > + = ; , ? *"
+msgstr "다음의 문자들은 이름에 포함될 수 없습니다:\n/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"

@@ -179,12 +179,12 @@ msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr "이미 사용되고 있는 이름입니다. 다른 이름을 입력해 주세요."
 
-#: ../../NetDriveUI/adddrive.cpp:1405
+#: ../../NetDriveUI/adddrive.cpp:1406
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr " 연결 버튼을 눌러서 다시 시도해 주세요."
 
-#: ../../NetDriveUI/adddrive.cpp:1471
+#: ../../NetDriveUI/adddrive.cpp:1472
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "이 프로토콜은 지원되지 않습니다."
@@ -861,18 +861,18 @@ msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr "옵션을 설정하는데 실패했습니다."
 
-#: ../../NetDriveUI/adddrive.cpp:1172
+#: ../../NetDriveUI/adddrive.cpp:1173
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr "인증 실패"
 
-#: ../../NetDriveUI/adddrive.cpp:1172
+#: ../../NetDriveUI/adddrive.cpp:1173
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr "%1으로 인증하는데 실패했습니다."
 
-#: ../../NetDriveUI/adddrive.cpp:1207 ../../NetDriveUI/adddrive.cpp:1392
+#: ../../NetDriveUI/adddrive.cpp:1208 ../../NetDriveUI/adddrive.cpp:1393
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr "연결 끊기"
@@ -1312,6 +1312,11 @@ msgstr ""
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
 msgstr "분 남았습니다."
+
+#: ../../NetDriveUI/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "SelectFolder"
+msgstr "폴더 선택"
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"

@@ -179,12 +179,12 @@ msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1405
+#: ../../NetDriveUI/adddrive.cpp:1406
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1471
+#: ../../NetDriveUI/adddrive.cpp:1472
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr ""
@@ -854,18 +854,18 @@ msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1172
+#: ../../NetDriveUI/adddrive.cpp:1173
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1172
+#: ../../NetDriveUI/adddrive.cpp:1173
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1207 ../../NetDriveUI/adddrive.cpp:1392
+#: ../../NetDriveUI/adddrive.cpp:1208 ../../NetDriveUI/adddrive.cpp:1393
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr ""
@@ -1299,6 +1299,11 @@ msgstr ""
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
+msgstr ""
+
+#: ../../NetDriveUI/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "SelectFolder"
 msgstr ""
 
 #: ../../NetDriveUI/selectfolder.ui:71

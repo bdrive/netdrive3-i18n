@@ -25,25 +25,26 @@ Taiwanese Mandarin | [netdrive_zh-TW.po](https://github.com/NetDrive/netdrive-i1
 
 You need GitHub account to transalte language files. Please sign up and continue.
 
-### After login select the language file you want to translate.
+### 1. After login select the language file you want to translate.
 
 <img src="images/readme-select-file.png" border="1">
 
-### Click the pencil icon to edit the file.
+### 2. Click the pencil icon to edit the file.
 
 <img src="images/readme-click-pencil.png">
 
-### Forked repository will be created under your account and you can edit your copy of the file.
+### 3. Forked repository will be created under your account and you can edit your copy of the file.
 
 <img src="images/readme-edit.png">
 
-### Enter translated text inside the double quote after msgstr.
+### 4. Enter translated text inside the double quote after msgstr.
 
 <img src="images/readme-msgstr.png">
 
-### After translation leave some message in the 'Propose file change' form and click 'Propose file change' to submit your translation.
+### 5. After translation leave some message in the 'Propose file change' form and click 'Propose file change' to submit your translation.
 
 <img src="images/readme-submit.png">
 
-### Submitted translation will be added to the Pull requests.
+### 6. Submitted translation will be added to the Pull requests.
 
+Pull requests will be reviewed by collaborators and accepted if there is no problem.

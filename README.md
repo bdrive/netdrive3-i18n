@@ -27,7 +27,7 @@ You need GitHub account to transalte language files. Please sign up and continue
 
 ### After login select the language file you want to translate.
 
-<img src="images/readme-select-file.png">
+<img src="images/readme-select-file.png" border="1">
 
 ### Click the pencil icon to edit the file.
 

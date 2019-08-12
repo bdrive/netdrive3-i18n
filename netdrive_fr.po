@@ -318,72 +318,77 @@ msgctxt "FlatSettingContents|"
 msgid "Language"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:137
+#: ../../NetDriveUI/flatsettingcontents.ui:119
+msgctxt "FlatSettingContents|"
+msgid "Help us translate!"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:144
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:158
+#: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:167
+#: ../../NetDriveUI/flatsettingcontents.ui:174
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:184
+#: ../../NetDriveUI/flatsettingcontents.ui:191
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:218
+#: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:228
+#: ../../NetDriveUI/flatsettingcontents.ui:235
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:253
+#: ../../NetDriveUI/flatsettingcontents.ui:260
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:274
+#: ../../NetDriveUI/flatsettingcontents.ui:281
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:307
+#: ../../NetDriveUI/flatsettingcontents.ui:314
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:333
+#: ../../NetDriveUI/flatsettingcontents.ui:340
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:339
+#: ../../NetDriveUI/flatsettingcontents.ui:346
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:61
+#: ../../NetDriveUI/flatsettingcontents.cpp:63
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:95
+#: ../../NetDriveUI/flatsettingcontents.cpp:97
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:120
+#: ../../NetDriveUI/flatsettingcontents.cpp:122
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -913,22 +918,23 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:241
+#: ../../NetDriveUI/ndflatui.cpp:241 ../../NetDriveUI/ndflatui.cpp:3245
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:247
+#: ../../NetDriveUI/ndflatui.cpp:247 ../../NetDriveUI/ndflatui.cpp:3247
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr ""
 
 #: ../../NetDriveUI/ndflatui.cpp:286 ../../NetDriveUI/ndflatui.cpp:1649
+#: ../../NetDriveUI/ndflatui.cpp:3249
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:297
+#: ../../NetDriveUI/ndflatui.cpp:297 ../../NetDriveUI/ndflatui.cpp:3243
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr ""
@@ -1034,12 +1040,12 @@ msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
 msgstr ""
 
-#: ../../NetDriveUI/sortitemwidget.cpp:38
+#: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
 msgstr ""
 
-#: ../../NetDriveUI/sortitemwidget.cpp:43
+#: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
 msgid "Letter"
 msgstr ""
@@ -1311,7 +1317,7 @@ msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
 msgstr ""
 
-#: ../../NetDriveUI/sortitemwidget.cpp:13
+#: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
 msgstr ""

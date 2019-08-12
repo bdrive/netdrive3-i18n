@@ -320,72 +320,77 @@ msgctxt "FlatSettingContents|"
 msgid "Language"
 msgstr "언어"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:137
+#: ../../NetDriveUI/flatsettingcontents.ui:119
+msgctxt "FlatSettingContents|"
+msgid "Help us translate!"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:144
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
 msgstr "캐시"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:158
+#: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
 msgstr "넷드라이브는 원격지 파일의 일부 복사본을 로컬 디스크에 임시로 저장합니다."
 
-#: ../../NetDriveUI/flatsettingcontents.ui:167
+#: ../../NetDriveUI/flatsettingcontents.ui:174
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
 msgstr "캐시 경로"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:184
+#: ../../NetDriveUI/flatsettingcontents.ui:191
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
 msgstr "검색"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:218
+#: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr " "
 
-#: ../../NetDriveUI/flatsettingcontents.ui:228
+#: ../../NetDriveUI/flatsettingcontents.ui:235
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr "GB 까지 캐시로 사용"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:253
+#: ../../NetDriveUI/flatsettingcontents.ui:260
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr "로그"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:274
+#: ../../NetDriveUI/flatsettingcontents.ui:281
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr "로그 레벨"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:307
+#: ../../NetDriveUI/flatsettingcontents.ui:314
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr "로그 폴더 열기"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:333
+#: ../../NetDriveUI/flatsettingcontents.ui:340
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr "네트워크"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:339
+#: ../../NetDriveUI/flatsettingcontents.ui:346
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "프록시 설정"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:61
+#: ../../NetDriveUI/flatsettingcontents.cpp:63
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr "원격 저장소에 새로 연결시 파인더 실행"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:95
+#: ../../NetDriveUI/flatsettingcontents.cpp:97
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "디렉토리 열기"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:120
+#: ../../NetDriveUI/flatsettingcontents.cpp:122
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -922,22 +927,23 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "서비스 %1을 시작하는데 실패했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:241
+#: ../../NetDriveUI/ndflatui.cpp:241 ../../NetDriveUI/ndflatui.cpp:3245
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "드라이브 목록"
 
-#: ../../NetDriveUI/ndflatui.cpp:247
+#: ../../NetDriveUI/ndflatui.cpp:247 ../../NetDriveUI/ndflatui.cpp:3247
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "업로딩 목록"
 
 #: ../../NetDriveUI/ndflatui.cpp:286 ../../NetDriveUI/ndflatui.cpp:1649
+#: ../../NetDriveUI/ndflatui.cpp:3249
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "설정"
 
-#: ../../NetDriveUI/ndflatui.cpp:297
+#: ../../NetDriveUI/ndflatui.cpp:297 ../../NetDriveUI/ndflatui.cpp:3243
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "정보"
@@ -1043,12 +1049,12 @@ msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
 msgstr "폴더 목록을 서버로부터 가져오는데 실패했습니다."
 
-#: ../../NetDriveUI/sortitemwidget.cpp:38
+#: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
 msgstr "이름"
 
-#: ../../NetDriveUI/sortitemwidget.cpp:43
+#: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
 msgid "Letter"
 msgstr "드라이브 문자"
@@ -1325,7 +1331,7 @@ msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
 msgstr "새 폴더 생성"
 
-#: ../../NetDriveUI/sortitemwidget.cpp:13
+#: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
 msgstr "정렬"

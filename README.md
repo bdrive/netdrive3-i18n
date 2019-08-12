@@ -23,7 +23,7 @@ Taiwanese Mandarin | [netdrive_zh-TW.po](https://github.com/NetDrive/netdrive-i1
 
 # How to Translate
 
-You need Github account to transalte language files. Please sign up and continue.
+You need GitHub account to transalte language files. Please sign up and continue.
 
 After login select the language file you want to translate.
 

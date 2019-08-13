@@ -2,10 +2,10 @@
     "languages": [ "ko", "en" ],
     "ko": {
         "version": 1,
-        "url": "https://github.com/NetDrive/netdrive-i18n/qm/netdrive_ko.qm"
+        "url": ["https://github.com/NetDrive/netdrive-i18n/qm/netdrive_ko.qm"]
     },
     "en": {
         "version": 1,
-        "url": "https://github.com/NetDrive/netdrive-i18n/qm/netdrive_en.qm"
+        "url": ["https://github.com/NetDrive/netdrive-i18n/qm/netdrive_en.qm"]
     }
 }

@@ -10,7 +10,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "Aggiungi un disco"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"

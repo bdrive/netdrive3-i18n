@@ -3,8 +3,4 @@
         "version": 1,
         "url": ["https://github.com/bdrive/netdrive3-i18n/raw/master/qm/netdrive_ko.qm"]
     },
-    "en": {
-        "version": 1,
-        "url": ["https://github.com/bdrive/netdrive3-i18n/raw/master/qm/netdrive_en.qm"]
-    }
 }

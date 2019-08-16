@@ -380,17 +380,17 @@ msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "프록시 설정"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:63
+#: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr "원격 저장소에 새로 연결시 파인더 실행"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:97
+#: ../../NetDriveUI/flatsettingcontents.cpp:88
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "디렉토리 열기"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:122
+#: ../../NetDriveUI/flatsettingcontents.cpp:113
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -440,7 +440,7 @@ msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
 msgstr "업데이트 설치"
 
-#: ../../NetDriveUI/ndflatui.cpp:157
+#: ../../NetDriveUI/ndflatui.cpp:162
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -448,32 +448,32 @@ msgid ""
 "run them now?"
 msgstr "%1 서비스는 반드시 실행되고 있어야 합니다. 그런데 실행되고 있지 않습니다. 지금 실행시키겠습니까?"
 
-#: ../../NetDriveUI/ndflatui.cpp:259
+#: ../../NetDriveUI/ndflatui.cpp:264
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
 msgstr "업로딩"
 
-#: ../../NetDriveUI/ndflatui.cpp:267
+#: ../../NetDriveUI/ndflatui.cpp:272
 msgctxt "NDFlatUI|"
 msgid "WAITING"
 msgstr "대기"
 
-#: ../../NetDriveUI/ndflatui.cpp:275
+#: ../../NetDriveUI/ndflatui.cpp:280
 msgctxt "NDFlatUI|"
 msgid "FAILED"
 msgstr "실패"
 
-#: ../../NetDriveUI/ndflatui.cpp:651
+#: ../../NetDriveUI/ndflatui.cpp:656
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
 msgstr "중복된 이름이 있어서 드라이브 추가를 실패했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:655
+#: ../../NetDriveUI/ndflatui.cpp:660
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
 msgstr "드라이브 추가를 실패했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:834
+#: ../../NetDriveUI/ndflatui.cpp:839
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -486,176 +486,176 @@ msgstr ""
 "Bdrive의 서버와의 연결에 실패했습니다. 일반적으로 인터넷 연결이 안되어 있는 경우입니다. 인터넷 연결이 되어 있는데 이 문제가 "
 "발생한다면  %1을 방문해서 글을 남겨주세요."
 
-#: ../../NetDriveUI/ndflatui.cpp:937
+#: ../../NetDriveUI/ndflatui.cpp:942
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
 msgstr "드라이브 삭제를 실패했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:1012
+#: ../../NetDriveUI/ndflatui.cpp:1017
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
 msgstr "NetDrive Agent 시작중."
 
-#: ../../NetDriveUI/ndflatui.cpp:1016
+#: ../../NetDriveUI/ndflatui.cpp:1021
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
 msgstr "Agent의 초기화중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1019
+#: ../../NetDriveUI/ndflatui.cpp:1024
 msgctxt "NDFlatUI|"
 msgid "Initailizing SDK."
 msgstr "SDK의 초기화중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1025
+#: ../../NetDriveUI/ndflatui.cpp:1030
 msgctxt "NDFlatUI|"
 msgid "Checking network."
 msgstr "Network 확인중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1028
+#: ../../NetDriveUI/ndflatui.cpp:1033
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
 msgstr "저장된 사용자 로그인중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1033
+#: ../../NetDriveUI/ndflatui.cpp:1038
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
 msgstr "부팅시 연결하는 드라이브들의 연결중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1040
+#: ../../NetDriveUI/ndflatui.cpp:1046
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
 msgstr "Agent 준비 완료."
 
-#: ../../NetDriveUI/ndflatui.cpp:1048
+#: ../../NetDriveUI/ndflatui.cpp:1054
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
 msgstr "NetDrive Agent에 연결중"
 
-#: ../../NetDriveUI/ndflatui.cpp:1170
+#: ../../NetDriveUI/ndflatui.cpp:1198
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "%1 업로드 실패"
 
-#: ../../NetDriveUI/ndflatui.cpp:1988
+#: ../../NetDriveUI/ndflatui.cpp:2016
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "열기"
 
-#: ../../NetDriveUI/ndflatui.cpp:1991
+#: ../../NetDriveUI/ndflatui.cpp:2019
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "종료"
 
-#: ../../NetDriveUI/ndflatui.cpp:1994
+#: ../../NetDriveUI/ndflatui.cpp:2022
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "업데이트 확인"
 
-#: ../../NetDriveUI/ndflatui.cpp:1997
+#: ../../NetDriveUI/ndflatui.cpp:2025
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "로그인"
 
-#: ../../NetDriveUI/ndflatui.cpp:2001
+#: ../../NetDriveUI/ndflatui.cpp:2029
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "로그아웃"
 
-#: ../../NetDriveUI/ndflatui.cpp:2014
+#: ../../NetDriveUI/ndflatui.cpp:2042
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "초기화중..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2134
+#: ../../NetDriveUI/ndflatui.cpp:2162
 msgctxt "NDFlatUI|"
 msgid "NetDrive is Quiting..."
 msgstr "종료중..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2166
+#: ../../NetDriveUI/ndflatui.cpp:2194
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
 msgstr "로그아웃하면, '부팅시 연결' 아이템은 자동으로 연결되지 않습니다. 로그아웃 하겠습니까?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2300
+#: ../../NetDriveUI/ndflatui.cpp:2328
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "로그아웃중..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2764
+#: ../../NetDriveUI/ndflatui.cpp:2792
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "%1 현재 버젼이 최신입니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:2936
+#: ../../NetDriveUI/ndflatui.cpp:2964
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "드라이브 목록"
 
-#: ../../NetDriveUI/ndflatui.cpp:2941
+#: ../../NetDriveUI/ndflatui.cpp:2969
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "설정"
 
-#: ../../NetDriveUI/ndflatui.cpp:2944
+#: ../../NetDriveUI/ndflatui.cpp:2972
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "업로드 목록"
 
-#: ../../NetDriveUI/ndflatui.cpp:2949
+#: ../../NetDriveUI/ndflatui.cpp:2977
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "정보"
 
-#: ../../NetDriveUI/ndflatui.cpp:2952
+#: ../../NetDriveUI/ndflatui.cpp:2980
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr "계정 정보"
 
-#: ../../NetDriveUI/ndflatui.cpp:2955
+#: ../../NetDriveUI/ndflatui.cpp:2983
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "라이센스 관리"
 
-#: ../../NetDriveUI/ndflatui.cpp:2958
+#: ../../NetDriveUI/ndflatui.cpp:2986
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "로그인"
 
-#: ../../NetDriveUI/ndflatui.cpp:2961
+#: ../../NetDriveUI/ndflatui.cpp:2989
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "로그아웃"
 
-#: ../../NetDriveUI/ndflatui.cpp:2964
+#: ../../NetDriveUI/ndflatui.cpp:2992
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "NetDrive 도움말"
 
-#: ../../NetDriveUI/ndflatui.cpp:2967
+#: ../../NetDriveUI/ndflatui.cpp:2995
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "보기"
 
-#: ../../NetDriveUI/ndflatui.cpp:2968
+#: ../../NetDriveUI/ndflatui.cpp:2996
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "계정"
 
-#: ../../NetDriveUI/ndflatui.cpp:2969
+#: ../../NetDriveUI/ndflatui.cpp:2997
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "도움말"
 
-#: ../../NetDriveUI/ndflatui.cpp:3167
+#: ../../NetDriveUI/ndflatui.cpp:3195
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "드라이브의 정보를 가져오지 못했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:3173
+#: ../../NetDriveUI/ndflatui.cpp:3201
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "드라이브의 이름을 가져오지 못했습니다."
@@ -712,27 +712,27 @@ msgid ""
 "support."
 msgstr "Bdrive의 서버가 에러를 반환했습니다. 문제가 지속되면, %1에게 문의하시기 바랍니다."
 
-#: ../../../common/ndcore.cpp:936 ../../../common/ndcore.cpp:1557
+#: ../../../common/ndcore.cpp:943 ../../../common/ndcore.cpp:1605
 msgctxt "QApplication|"
 msgid "Subscription status"
 msgstr "구독 상태"
 
-#: ../../../common/ndcore.cpp:946 ../../../common/ndcore.cpp:1558
+#: ../../../common/ndcore.cpp:953 ../../../common/ndcore.cpp:1606
 msgctxt "QApplication|"
 msgid "Subscription type"
 msgstr "구독 형태"
 
-#: ../../../common/ndcore.cpp:956 ../../../common/ndcore.cpp:1559
+#: ../../../common/ndcore.cpp:963 ../../../common/ndcore.cpp:1607
 msgctxt "QApplication|"
 msgid "Max registered devices"
 msgstr "등록된 최대 장치수"
 
-#: ../../../common/ndcore.cpp:966 ../../../common/ndcore.cpp:1560
+#: ../../../common/ndcore.cpp:973 ../../../common/ndcore.cpp:1608
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
 msgstr "최대 세션수 (동시 접근)"
 
-#: ../../../common/ndcore.cpp:1561
+#: ../../../common/ndcore.cpp:1609
 msgctxt "QApplication|"
 msgid "type"
 msgstr "형태"
@@ -823,7 +823,7 @@ msgctxt "QApplication|"
 msgid "NETWORK"
 msgstr "네트워크"
 
-#: ../../../common/authtemplate.cpp:704 ../../NetDriveUI/ndflatui.cpp:1626
+#: ../../../common/authtemplate.cpp:704 ../../NetDriveUI/ndflatui.cpp:1654
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "프록시 설정"
@@ -927,43 +927,43 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "서비스 %1을 시작하는데 실패했습니다."
 
-#: ../../NetDriveUI/ndflatui.cpp:241 ../../NetDriveUI/ndflatui.cpp:3245
+#: ../../NetDriveUI/ndflatui.cpp:246 ../../NetDriveUI/ndflatui.cpp:3273
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "드라이브 목록"
 
-#: ../../NetDriveUI/ndflatui.cpp:247 ../../NetDriveUI/ndflatui.cpp:3247
+#: ../../NetDriveUI/ndflatui.cpp:252 ../../NetDriveUI/ndflatui.cpp:3275
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "업로딩 목록"
 
-#: ../../NetDriveUI/ndflatui.cpp:286 ../../NetDriveUI/ndflatui.cpp:1649
-#: ../../NetDriveUI/ndflatui.cpp:3249
+#: ../../NetDriveUI/ndflatui.cpp:291 ../../NetDriveUI/ndflatui.cpp:1677
+#: ../../NetDriveUI/ndflatui.cpp:3277
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "설정"
 
-#: ../../NetDriveUI/ndflatui.cpp:297 ../../NetDriveUI/ndflatui.cpp:3243
+#: ../../NetDriveUI/ndflatui.cpp:302 ../../NetDriveUI/ndflatui.cpp:3271
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "정보"
 
-#: ../../NetDriveUI/ndflatui.cpp:1605
+#: ../../NetDriveUI/ndflatui.cpp:1633
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "무료 Bdrive 계정 만들기"
 
-#: ../../NetDriveUI/ndflatui.cpp:1607
+#: ../../NetDriveUI/ndflatui.cpp:1635
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "로그인 문제 문의"
 
-#: ../../NetDriveUI/ndflatui.cpp:1682
+#: ../../NetDriveUI/ndflatui.cpp:1710
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "장치 인증"
 
-#: ../../NetDriveUI/ndflatui.cpp:1683
+#: ../../NetDriveUI/ndflatui.cpp:1711
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -971,27 +971,27 @@ msgid ""
 "leave a note."
 msgstr "디바이스ID를 얻는데 실패했기 때문에 NetDrive는 종료됩니다. %1을 방문해서 글을 남겨주세요."
 
-#: ../../NetDriveUI/ndflatui.cpp:1909
+#: ../../NetDriveUI/ndflatui.cpp:1937
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "알림"
 
-#: ../../NetDriveUI/ndflatui.cpp:2508
+#: ../../NetDriveUI/ndflatui.cpp:2536
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "계정 정보"
 
-#: ../../NetDriveUI/ndflatui.cpp:2515
+#: ../../NetDriveUI/ndflatui.cpp:2543
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "라이센스 관리"
 
-#: ../../NetDriveUI/ndflatui.cpp:2524
+#: ../../NetDriveUI/ndflatui.cpp:2552
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "로그아웃"
 
-#: ../../NetDriveUI/ndflatui.cpp:2750
+#: ../../NetDriveUI/ndflatui.cpp:2778
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"

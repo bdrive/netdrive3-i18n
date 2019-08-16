@@ -1322,7 +1322,7 @@ msgstr "Utente non connesso."
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
-"Please reinstall."
+"Please reinstall NetDrive."
 msgstr ""
 "La versione del protocollo in uso è differente dalla versione prodotto.\n"
 "Reinstallala."
@@ -1382,7 +1382,7 @@ msgstr "minuti rimanenti."
 
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
-msgid "SelectFolder"
+msgid "Select Folder"
 msgstr "Seleziona cartella"
 
 #: ../../NetDriveUI/selectfolder.ui:71

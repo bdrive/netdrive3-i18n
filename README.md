@@ -21,8 +21,8 @@ Slovak | [netdrive_sk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/n
 Spanish | [netdrive_es.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_es.po) |  |
 Ukrainian | [netdrive_uk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_uk.po) |  |
 Vietnamese | [netdrive_vi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_vi.po) |  |
-Chinese Simplified | [netdrive_zh-CN.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-CN.po) |  |
-Taiwanese Mandarin | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) |  |
+Simplified Chinese | [netdrive_zh-CN.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-CN.po) |  |
+Traditional Chinese | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) |  |
 
 # How to Translate
 

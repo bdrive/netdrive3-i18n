@@ -2,6 +2,7 @@
 
 Language | File Name | The most recent version translated |
 ----------|----------|------------|
+Armenian | [netdrive_hy.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_hy.po) |  |
 Catalan | [netdrive_ca.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_ca.po) |  |
 Czech | [netdrive_cs.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_cs.po) |  |
 German | [netdrive_de.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_de.po) |  |
@@ -17,8 +18,10 @@ Latvian | [netdrive_lv.po](https://github.com/NetDrive/netdrive-i18n/blob/master
 Polish | [netdrive_pl.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_pl.po) |  |
 Russian | [netdrive_ru.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_ru.po) |  |
 Slovak | [netdrive_sk.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_sk.po) |  |
+Spanish | [netdrive_es.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_es.po) |  |
 Ukrainian | [netdrive_uk.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_uk.po) |  |
-Chinese | [netdrive_zh-CN.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_zh-CN.po) |  |
+Vietnamese | [netdrive_vi.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_vi.po) |  |
+Chinese Simplified | [netdrive_zh-CN.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_zh-CN.po) |  |
 Taiwanese Mandarin | [netdrive_zh-TW.po](https://github.com/NetDrive/netdrive-i18n/blob/master/netdrive_zh-TW.po) |  |
 
 # How to Translate

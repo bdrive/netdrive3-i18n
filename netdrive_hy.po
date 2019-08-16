@@ -1261,7 +1261,7 @@ msgstr ""
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
-"Please reinstall."
+"Please reinstall NetDrive."
 msgstr ""
 
 #: ../../NetDriveUI/errmsg.cpp:83
@@ -1309,7 +1309,7 @@ msgstr ""
 
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
-msgid "SelectFolder"
+msgid "Select Folder"
 msgstr ""
 
 #: ../../NetDriveUI/selectfolder.ui:71

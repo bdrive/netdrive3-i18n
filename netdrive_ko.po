@@ -1270,8 +1270,14 @@ msgstr "로그인 되지 않은 사용자입니다."
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
-"Please reinstall."
-msgstr "프로토콜의 버젼이 제품의 버젼과 다릅니다. 재설치해 주세요."
+"Please reinstall NetDrive."
+msgstr ""
+
+#~ msgctxt "QObject|"
+#~ msgid ""
+#~ "The protocol version you are using is different from the product version. "
+#~ "Please reinstall."
+#~ msgstr "프로토콜의 버젼이 제품의 버젼과 다릅니다. 재설치해 주세요."
 
 #: ../../NetDriveUI/errmsg.cpp:83
 msgctxt "QObject|"
@@ -1321,10 +1327,14 @@ msgctxt "QSenderDlg|"
 msgid "minutes remaining."
 msgstr "분 남았습니다."
 
+#~ msgctxt "SelectFolder|"
+#~ msgid "SelectFolder"
+#~ msgstr "폴더 선택"
+
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
-msgid "SelectFolder"
-msgstr "폴더 선택"
+msgid "Select Folder"
+msgstr ""
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"

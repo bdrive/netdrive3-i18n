@@ -12,7 +12,7 @@ fr | French | [netdrive_fr.po](https://github.com/bdrive/netdrive3-i18n/blob/mas
 hy | Armenian | [netdrive_hy.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_hy.po) |  | |
 he | Hebrew | [netdrive_he.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_he.po) |  | |
 hu | Hungarian | [netdrive_hu.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_hu.po) |  | |
-it | Italian | [netdrive_it.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_it.po) |  | [@bovirus](https://github.com/bovirus) |
+it | Italian | [netdrive_it.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_it.po) | 3.8 beta | [@bovirus](https://github.com/bovirus) |
 ja | Japanese | [netdrive_ja.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ja.po) |  | |
 ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.8 beta | [@JulianYoon](https://github.com/JulianYoon) |
 lv | Latvian | [netdrive_lv.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_lv.po) |  | |

@@ -50,7 +50,7 @@ msgstr "NHÃN"
 #: ../../NetDriveUI/adddrive.ui:277
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr "GẮN"
+msgstr "KẾT NỐI"
 
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
@@ -70,12 +70,12 @@ msgstr "Không tự động gắn ổ đĩa"
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr "Gắn ổ đĩa khi khởi động"
+msgstr "Kết nối ổ đĩa khi khởi động"
 
 #: ../../NetDriveUI/adddrive.ui:348
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr "Gắn ổ đĩa khi đăng nhập"
+msgstr "Kết nối ổ đĩa khi đăng nhập"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
@@ -527,7 +527,7 @@ msgstr "Ghi lại những người dùng đã biết."
 #: ../../NetDriveUI/ndflatui.cpp:1038
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
-msgstr "Gắn ổ đĩa khi khởi động."
+msgstr "Kết nối ổ đĩa khi khởi động."
 
 #: ../../NetDriveUI/ndflatui.cpp:1046
 msgctxt "NDFlatUI|"
@@ -586,7 +586,7 @@ msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
 msgstr ""
-"Nếu bạn đăng xuất, các tập tin 'được gắn khi khởi động' sẽ không được tư động kết nối. Bạn "
+"Nếu bạn đăng xuất, các tập tin 'được kết nối khi khởi động' sẽ không được tự động kết nối. Bạn "
 "có chắc muốn đăng xuất?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2328
@@ -1130,7 +1130,7 @@ msgstr "KẾT NỐI"
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
-msgstr "%1 là đường đân đã được gắn. Bạn có muốn gỡ %1 để tiếp tục?"
+msgstr "%1 là đường dẫn đã được liên kết. Bạn có muốn gỡ %1 để tiếp tục?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:152
 #, qt-format
@@ -1244,7 +1244,7 @@ msgstr "Lỗi gắn."
 #: ../../NetDriveUI/errmsg.cpp:43
 msgctxt "QObject|"
 msgid "Mount process is not executed."
-msgstr "Chưa thực hiện gắn ổ đĩa."
+msgstr "Chưa thực hiện kết nối ổ đĩa."
 
 #: ../../NetDriveUI/errmsg.cpp:47
 msgctxt "QObject|"
@@ -1310,7 +1310,7 @@ msgstr "Loại giao thức không được hỗ trợ"
 #: ../../NetDriveUI/errmsg.cpp:91
 msgctxt "QObject|"
 msgid "Already mounted drive item."
-msgstr "Đã gắn tập tin ổ đĩa."
+msgstr "Đã liên kết tập tin ổ đĩa."
 
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
@@ -1436,7 +1436,7 @@ msgstr "Thử lại không thành công."
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr "Thất bại khi lưu."
+msgstr "Lưu thất bại."
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"

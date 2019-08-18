@@ -164,7 +164,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr "Hãy điền tên ổ đĩa"
+msgstr "Hãy điền tên ổ đĩa."
 
 #: ../../NetDriveUI/adddrive.cpp:535
 msgctxt "AddDrive|"
@@ -274,8 +274,8 @@ msgstr "VỀ"
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
-msgid "Đã cấp phép cho %1"
-msgstr ""
+msgid "Licensed to %1"
+msgstr "Đã cấp phép cho %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
@@ -416,17 +416,17 @@ msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
 msgstr ""
-"%1 %2 hiện đã có sẵn - bạn đang dùng %3. Bạn có muốn tải nó về ngay?"
+"%1 %2 hiện đã có sẵn - bạn đang có %3. Bạn có muốn tải nó về ngay?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr "Ghi chú phát hành"
+msgstr "Ghi chú phát hành:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
 msgid "Automatically download and install updated version in the future"
-msgstr "Từ động tải về và cài đặt bản cập nhật trong tương lai"
+msgstr "Tự động tải về và cài đặt bản cập nhật trong tương lai"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:121
 msgctxt "FlatUpdate|"
@@ -623,7 +623,7 @@ msgstr "Về"
 #: ../../NetDriveUI/ndflatui.cpp:2980
 msgctxt "NDFlatUI|"
 msgid "Account Info"
-msgstr ""
+msgstr "Thông tin tài khoản"
 
 #: ../../NetDriveUI/ndflatui.cpp:2983
 msgctxt "NDFlatUI|"
@@ -754,7 +754,7 @@ msgstr "Đăng nhập"
 #: ../../../ui_helper/bdui/bdlogin.cpp:164
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr "Cần có địa chỉ thư điện tử để đăng nhập"
+msgstr "Cần địa chỉ thư điện tử để đăng nhập"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:172
 msgctxt "QApplication|"
@@ -982,8 +982,8 @@ msgid ""
 "NetDrive will be quit because failed to get device id. Please visit %1 to "
 "leave a note."
 msgstr ""
-"NetDrive sẽ thoát vì không thể lấy ID thiết bị. Hãy đến %1 để "
-"báo cáo."
+"NetDrive sẽ thoát vì không thể lấy ID thiết bị. Hãy đến %1 và "
+"để lại lời nhắn."
 
 #: ../../NetDriveUI/ndflatui.cpp:1937
 msgctxt "QApplication|"
@@ -1023,7 +1023,7 @@ msgstr ""
 #: ../../NetDriveUI/protocoldll.cpp:24
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr " Không hỗ trợ đặt lại tên và di chuyển."
+msgstr "Không hỗ trợ đặt lại tên và di chuyển."
 
 #: ../../NetDriveUI/protocoldll.cpp:207
 msgctxt "QApplication|"
@@ -1136,7 +1136,7 @@ msgstr "%1 là đường đân đã được gắn. Bạn có muốn gỡ %1 đ�
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
-msgstr "Không thể gỡ %1, hãy thử lại sau"
+msgstr "Không thể gỡ %1, hãy thử lại sau."
 
 #: ../../NetDriveUI/qdriveitem.cpp:168
 #, qt-format
@@ -1148,7 +1148,7 @@ msgstr "Bạn chắc chắn muốn ngắt kết nối %1?"
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
-msgstr "Không có tập tin ghi nhật kí về [%1]"
+msgstr "Không có tập tin ghi nhật kí về [%1]."
 
 #: ../../NetDriveUI/qdriveitem.cpp:552
 msgctxt "QDriveItem|"
@@ -1234,7 +1234,7 @@ msgstr "Kết nối thất bại."
 #: ../../NetDriveUI/errmsg.cpp:35
 msgctxt "QObject|"
 msgid "Drive letter already used."
-msgstr "Kí tự cho ổ đĩa đã được sử dụng."
+msgstr "Kí tự ổ đĩa đã được sử dụng."
 
 #: ../../NetDriveUI/errmsg.cpp:39
 msgctxt "QObject|"
@@ -1366,7 +1366,7 @@ msgstr "Xếp theo"
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
 msgid "Port"
-msgstr ""
+msgstr "Cổng"
 
 #: ../../NetDriveUI/update.ui:14
 msgctxt "Update|"
@@ -1426,7 +1426,7 @@ msgstr "Lưu như"
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
 msgid "No files are being uploaded."
-msgstr "Không có tập tin nào đang được tải lên."
+msgstr "Hiện không tải lên tập tin nào."
 
 #: ../../NetDriveUI/uploadings.cpp:59
 msgctxt "Uploadings|"
@@ -1436,7 +1436,7 @@ msgstr "Thử lại không thành công."
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr "Thất bại khi lưu."
+msgstr "Lưu thất bại."
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"

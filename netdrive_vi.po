@@ -350,7 +350,7 @@ msgstr "DUYỆT"
 #: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr "Dùng tới"
+msgstr "Dùng"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:235
 msgctxt "FlatSettingContents|"

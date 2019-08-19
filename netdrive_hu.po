@@ -158,7 +158,7 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr "A meghajtó neve nem tartalmazhatja az alábbi karaktereket:\n"
-"/ \\ [ ] : | < > + = ; , ? *""
+"/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"
@@ -1286,13 +1286,9 @@ msgstr "Nem bejelentlezett felhasználó"
 
 #: ../../NetDriveUI/errmsg.cpp:79
 msgctxt "QObject|"
-msgid ""
-"The protocol version you are using is different from the product version. "
+msgid "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
-msgstr ""
-
-105/5000
-"A használt protokollverzió eltér a termék verziójától."
+msgstr "A használt protokollverzió eltér a termék verziójától."
 "Kérjük, telepítse újra a NetDrive-ot."
 
 #: ../../NetDriveUI/errmsg.cpp:83

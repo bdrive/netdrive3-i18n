@@ -100,7 +100,7 @@ msgstr "OPCIONES DE SOLO LECTURA"
 #: ../../NetDriveUI/adddrive.ui:393
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr "disco Escribible"
+msgstr "Disco escribible"
 
 #: ../../NetDriveUI/adddrive.ui:403
 msgctxt "AddDrive|"
@@ -150,7 +150,7 @@ msgstr "disco local"
 #: ../../NetDriveUI/adddrive.cpp:493
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr "Por favor presione el botón CONECTAR para establecer la información de conexión"
+msgstr "Por favor presione el botón CONECTAR para establecer la información de conexión."
 
 #: ../../NetDriveUI/adddrive.cpp:519
 msgctxt "AddDrive|"
@@ -164,7 +164,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr "Por favor escriba en el nombe de disco"
+msgstr "Por favor escriba en el nombe de disco."
 
 #: ../../NetDriveUI/adddrive.cpp:535
 msgctxt "AddDrive|"
@@ -421,7 +421,7 @@ msgstr ""
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr "Notas de versión"
+msgstr "Notas de versión:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
@@ -465,7 +465,7 @@ msgstr "ESPERANDO"
 #: ../../NetDriveUI/ndflatui.cpp:280
 msgctxt "NDFlatUI|"
 msgid "FAILED"
-msgstr "FALLÓ"
+msgstr "FALLIDO"
 
 #: ../../NetDriveUI/ndflatui.cpp:656
 msgctxt "NDFlatUI|"
@@ -1022,7 +1022,7 @@ msgstr ""
 #: ../../NetDriveUI/protocoldll.cpp:24
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr "Operaciones de renombrar y mover no está soportadas."
+msgstr "Operaciones de renombrar y mover no están soportadas."
 
 #: ../../NetDriveUI/protocoldll.cpp:207
 msgctxt "QApplication|"

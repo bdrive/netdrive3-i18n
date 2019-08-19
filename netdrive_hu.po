@@ -394,7 +394,7 @@ msgstr "Könyvtár megnyitása"
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr "Jelenleg %0.2 GB szabad hely érhető el "
+msgstr "Jelenleg %0.2f GB szabad hely érhető el "
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format

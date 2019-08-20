@@ -1269,7 +1269,7 @@ msgstr "Parámetro incorrecto."
 #: ../../NetDriveUI/errmsg.cpp:63
 msgctxt "QObject|"
 msgid "Network path already used."
-msgstr "Ruta de red ya ocupada."
+msgstr "Ruta de red ya usada."
 
 #: ../../NetDriveUI/errmsg.cpp:67
 msgctxt "QObject|"

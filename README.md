@@ -17,7 +17,7 @@ ja | Japanese | [netdrive_ja.po](https://github.com/bdrive/netdrive3-i18n/blob/m
 ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.8 beta | [@JulianYoon](https://github.com/JulianYoon) |
 lv | Latvian | [netdrive_lv.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_lv.po) |  | |
 po | Polish | [netdrive_pl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_pl.po) |  | |
-ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.8 beta | [hookzof](https://github.com/hookzof) and [iFrez](https://github.com/iFrez) |
+ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.8 beta | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
 sk | Slovak | [netdrive_sk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_sk.po) |  | |
 uk | Ukrainian | [netdrive_uk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_uk.po) |  | |
 vi | Vietnamese | [netdrive_vi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_vi.po) | 3.8 beta | [@thanthhot](https://github.com/thanhthot) |

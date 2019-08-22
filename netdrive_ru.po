@@ -40,7 +40,7 @@ msgstr "УДАЛЕННЫЙ ПУТЬ"
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr "ПРОСМОТР"
+msgstr "ОБЗОР"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
@@ -110,7 +110,7 @@ msgstr "Диск только для чтения"
 #: ../../NetDriveUI/adddrive.ui:413
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr "ДОПОЛНИТЕЛЬНЫЙ ПАРАМЕТР"
+msgstr "ДОПОЛНИТЕЛЬНЫЕ ПАРАМЕТРЫ"
 
 #: ../../NetDriveUI/adddrive.ui:419
 msgctxt "AddDrive|"
@@ -184,7 +184,7 @@ msgstr "Пожалуйста, введите другое имя, так как 
 #: ../../NetDriveUI/adddrive.cpp:1406
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr "Пожалуйста, попробуйте еще раз, нажав кнопку ПОДКЛЮЧИТЬСЯ."
+msgstr " Пожалуйста, попробуйте еще раз, нажав кнопку ПОДКЛЮЧИТЬСЯ."
 
 #: ../../NetDriveUI/adddrive.cpp:1472
 msgctxt "AddDrive|"
@@ -315,7 +315,7 @@ msgstr "Проверять обновления автоматически"
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr "Проверьте наличие обновлений до бета-версии, если доступно"
+msgstr "Проверять наличие обновлений до бета-версии, если доступно"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:99
 msgctxt "FlatSettingContents|"
@@ -345,7 +345,7 @@ msgstr "Путь к кэшу"
 #: ../../NetDriveUI/flatsettingcontents.ui:191
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr "ПРОСМОТР"
+msgstr "ОБЗОР"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
@@ -828,7 +828,7 @@ msgstr "Не удалось получить список дисков. Попр
 #: ../../../common/authtemplate.cpp:200
 msgctxt "QApplication|"
 msgid "BROWSE"
-msgstr "ПРОСМОТР"
+msgstr "ОБЗОР"
 
 #: ../../../common/authtemplate.cpp:694
 msgctxt "QApplication|"

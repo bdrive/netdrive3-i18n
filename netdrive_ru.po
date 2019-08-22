@@ -194,7 +194,7 @@ msgstr "Мы не поддерживаем этот протокол."
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr "Авторизоваться"
+msgstr "Авторизация"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
@@ -219,7 +219,7 @@ msgstr "ИЛИ"
 #: ../../../ui_helper/bdui/bdlogin.ui:203
 msgctxt "BDLogin|"
 msgid "Sign in with"
-msgstr "Войти в систему с"
+msgstr "Войти в систему через"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:273
 msgctxt "BDLogin|"
@@ -436,7 +436,7 @@ msgstr "ПРОПУСТИТЬ ЭТУ ВЕРСИЮ"
 #: ../../../ui_helper/bdui/flatupdate.ui:128
 msgctxt "FlatUpdate|"
 msgid "REMIND ME LATER"
-msgstr "НАПОМНИ МНЕ ПОЗЖЕ"
+msgstr "НАПОМНИТЬ МНЕ ПОЗЖЕ"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:135
 msgctxt "FlatUpdate|"
@@ -754,7 +754,7 @@ msgstr "Авторизоваться"
 #: ../../../ui_helper/bdui/bdlogin.cpp:164
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr "Адрес электронной почты, необходимый для входа"
+msgstr "Для входа необходим адрес электронной почты"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:172
 msgctxt "QApplication|"
@@ -1167,7 +1167,7 @@ msgstr "Не удалось настроить диск."
 #: ../../NetDriveUI/qdriveitem.cpp:629
 msgctxt "QDriveItem|"
 msgid "CANCEL"
-msgstr "ОТМЕНИТЬ"
+msgstr "ОТМЕНА"
 
 #: ../../NetDriveUI/qdriveitem.cpp:635 ../../NetDriveUI/qdriveitem.cpp:1033
 msgctxt "QDriveItem|"

@@ -50,4 +50,4 @@ You need GitHub account to transalte language files. Please sign up and continue
 
 ### 6. Submitted translation will be added to the Pull requests.
 
-Pull requests will be reviewed by collaborators and accepted if there is no problem.
+Pull requests will be reviewed by collaborators and accepted if there is no problem..

@@ -5,7 +5,7 @@
 es | Spanish | [netdrive_es.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_es.po) | 3.8 beta | [@pjmh81](https://github.com/Pjmh81) |
 ca | Catalan | [netdrive_ca.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ca.po) |  | |
 cs | Czech | [netdrive_cs.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_cs.po) |  | |
-de | German | [netdrive_de.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_de.po) |  | |
+de | German | [netdrive_de.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_de.po) | 3.8 beta  | [Reiser89](https://github.com/Reiser89) |
 en | English | [netdrive_en.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_en.po) | 3.8 beta | |
 fi | Finnish | [netdrive_fi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_fi.po) |  | |
 fr | French | [netdrive_fr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_fr.po) |  | |

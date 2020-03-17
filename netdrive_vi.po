@@ -350,7 +350,7 @@ msgstr "DUYỆT"
 #: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr "Dùng tới"
+msgstr "Dùng"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:235
 msgctxt "FlatSettingContents|"
@@ -489,7 +489,7 @@ msgid ""
 "%1 to leave a note."
 msgstr ""
 "Sự cố này có thể là do kết nối mạng tới máy chủ Bdrive "
-"thường xảy ra khi máy chru Bserver hoặc máy tính của bạn không được kết nối với "
+"thường xảy ra khi máy chủ Bserver hoặc máy tính của bạn không được kết nối với "
 "mạng Internet.\n"
 "Nếu bạn đã kết nối tới Internet mà vẫn gặp lỗi trên, hãy ghé "
 "%1 và để lại thông báo."

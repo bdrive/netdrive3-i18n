@@ -47,112 +47,149 @@ msgctxt "AddDrive|"
 msgid "LABEL"
 msgstr "МЕТКА"
 
-#: ../../NetDriveUI/adddrive.ui:277
+#: ../../NetDriveUI/adddrive.ui:312
+msgctxt "AddDrive|"
+msgid "ITEM LOCATION"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
 msgstr "МОНТИРОВАНИЕ"
 
-#: ../../NetDriveUI/adddrive.ui:294
+#: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "as"
 msgstr "как"
 
-#: ../../NetDriveUI/adddrive.ui:322
+#: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
 msgstr "ПАРАМЕТРЫ АВТОМАТИЧЕСКОГО ПОДКЛЮЧЕНИЯ"
 
-#: ../../NetDriveUI/adddrive.ui:328
+#: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
 msgstr "Без автоматического монтирования"
 
-#: ../../NetDriveUI/adddrive.ui:341
+#: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
 msgstr "Смонтировать при загрузке"
 
-#: ../../NetDriveUI/adddrive.ui:348
+#: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
 msgstr "Смонтировать при входе"
 
-#: ../../NetDriveUI/adddrive.ui:358
+#: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
 msgstr "ПАРАМЕТРЫ ЗАГРУЗКИ"
 
-#: ../../NetDriveUI/adddrive.ui:364
+#: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
 msgstr "Использовать загрузку на лету в Проводнике"
 
-#: ../../NetDriveUI/adddrive.ui:374
+#: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
 msgstr "Использовать фоновую загрузку"
 
-#: ../../NetDriveUI/adddrive.ui:387
+#: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
 msgstr "ПАРАМЕТРЫ ТОЛЬКО ДЛЯ ЧТЕНИЯ"
 
-#: ../../NetDriveUI/adddrive.ui:393
+#: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
 msgstr "Записывающий диск"
 
-#: ../../NetDriveUI/adddrive.ui:403
+#: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
 msgstr "Диск только для чтения"
 
-#: ../../NetDriveUI/adddrive.ui:413
+#: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ ПАРАМЕТРЫ"
 
-#: ../../NetDriveUI/adddrive.ui:419
+#: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
 msgstr "Всегда получать список файлов с сервера"
 
-#: ../../NetDriveUI/adddrive.ui:426
+#: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
 msgstr "В качестве съемного диска"
 
-#: ../../NetDriveUI/adddrive.ui:433
+#: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
 msgstr "Обрабатывать файлы и папки, начинающиеся с точки, как скрытые"
 
-#: ../../NetDriveUI/adddrive.ui:440
+#: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
 msgstr "Использовать статическую файловую систему(Экспериментально)"
 
-#: ../../NetDriveUI/adddrive.cpp:147
+#: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
 msgstr "ЦВЕТ"
 
-#: ../../NetDriveUI/adddrive.cpp:187
+#: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
 msgstr "сетевой диск"
 
-#: ../../NetDriveUI/adddrive.cpp:188
+#: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
 msgstr "локальный диск"
 
-#: ../../NetDriveUI/adddrive.cpp:493
+#: ../../NetDriveUI/adddrive.cpp:293
+msgctxt "AddDrive|"
+msgid "In account"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:294
+msgctxt "AddDrive|"
+msgid "In device"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:351
+msgctxt "AddDrive|"
+msgid "Add a Personal Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:357
+msgctxt "AddDrive|"
+msgid "Add a Team Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:436
+msgctxt "AddDrive|"
+msgid "Configure a Team Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:441
+msgctxt "AddDrive|"
+msgid "Configure a Personal Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr "Пожалуйста, нажмите кнопку ПОДКЛЮЧИТЬСЯ, чтобы установить информацию о соединении."
+msgstr ""
+"Пожалуйста, нажмите кнопку ПОДКЛЮЧИТЬСЯ, чтобы установить информацию о "
+"соединении."
 
-#: ../../NetDriveUI/adddrive.cpp:519
+#: ../../NetDriveUI/adddrive.cpp:671
 msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
@@ -161,32 +198,40 @@ msgstr ""
 "Имя диска не может содержать следующие символы:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
-#: ../../NetDriveUI/adddrive.cpp:527
+#: ../../NetDriveUI/adddrive.cpp:679
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
 msgstr "Пожалуйста, введите имя диска."
 
-#: ../../NetDriveUI/adddrive.cpp:535
+#: ../../NetDriveUI/adddrive.cpp:687
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
 msgstr "Максимальная длина имени диска - 50."
 
-#: ../../NetDriveUI/adddrive.cpp:546
+#: ../../NetDriveUI/adddrive.cpp:698
 msgctxt "AddDrive|"
 msgid "Please select remote path."
 msgstr "Пожалуйста, выберите удаленный путь."
 
-#: ../../NetDriveUI/adddrive.cpp:567
+#: ../../NetDriveUI/adddrive.cpp:719
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr "Пожалуйста, введите другое имя, так как это имя диска уже используется."
+msgstr ""
+"Пожалуйста, введите другое имя, так как это имя диска уже используется."
 
-#: ../../NetDriveUI/adddrive.cpp:1406
+#: ../../NetDriveUI/adddrive.cpp:1585
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr " Пожалуйста, попробуйте еще раз, нажав кнопку ПОДКЛЮЧИТЬСЯ."
 
-#: ../../NetDriveUI/adddrive.cpp:1472
+#: ../../NetDriveUI/adddrive.cpp:1652
+msgctxt "AddDrive|"
+msgid ""
+"This team drive has no connection information set yet. Do you want to do it "
+"now?"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "Мы не поддерживаем этот протокол."
@@ -232,19 +277,17 @@ msgctxt "BDPassphrase|"
 msgid "Passphrase"
 msgstr "Ключевая фраза"
 
-#: ../../ndagent/BDUser.cpp:509
-msgctxt "BDUser|"
-msgid ""
-"Login failed because communication with the server failed. Please check your "
-"proxy or Internet connection."
-msgstr ""
-"Ошибка входа в систему из-за сбоя связи с сервером. Пожалуйста, проверьте ваш "
-"прокси или подключение к интернету."
+#~ msgctxt "BDUser|"
+#~ msgid ""
+#~ "Login failed because communication with the server failed. Please check "
+#~ "your proxy or Internet connection."
+#~ msgstr ""
+#~ "Ошибка входа в систему из-за сбоя связи с сервером. Пожалуйста, проверьте "
+#~ "ваш прокси или подключение к интернету."
 
-#: ../../ndagent/BDUser.cpp:524
-msgctxt "BDUser|"
-msgid "Login failed. Please click here to check."
-msgstr "Ошибка входа. Пожалуйста, нажмите здесь, чтобы проверить."
+#~ msgctxt "BDUser|"
+#~ msgid "Login failed. Please click here to check."
+#~ msgstr "Ошибка входа. Пожалуйста, нажмите здесь, чтобы проверить."
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
@@ -261,10 +304,9 @@ msgctxt "BDUserPassword|"
 msgid "User"
 msgstr "Пользователь"
 
-#: ../../NetDriveUI/qdriveitem.cpp:246
-msgctxt "ConfigureDrive|"
-msgid "Configure Drive"
-msgstr "Настроить Диск"
+#~ msgctxt "ConfigureDrive|"
+#~ msgid "Configure Drive"
+#~ msgstr "Настроить Диск"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
@@ -305,7 +347,8 @@ msgstr "Запустить при входе"
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr "Запустить проводник Windows при новом подключении к удаленному хранилищу."
+msgstr ""
+"Запустить проводник Windows при новом подключении к удаленному хранилищу."
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
@@ -317,67 +360,72 @@ msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
 msgstr "Проверять наличие обновлений до бета-версии, если доступно"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:99
+#: ../../NetDriveUI/flatsettingcontents.ui:94
+msgctxt "FlatSettingContents|"
+msgid "Unlock all locked files when disconnecting drive"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
 msgid "Language"
 msgstr "Язык"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:119
+#: ../../NetDriveUI/flatsettingcontents.ui:126
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
 msgstr "Помогите нам перевести!"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:144
+#: ../../NetDriveUI/flatsettingcontents.ui:151
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
 msgstr "КЭШ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:165
+#: ../../NetDriveUI/flatsettingcontents.ui:172
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
 msgstr "NetDrive хранит временные копии удаленных файлов на локальном диске."
 
-#: ../../NetDriveUI/flatsettingcontents.ui:174
+#: ../../NetDriveUI/flatsettingcontents.ui:181
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
 msgstr "Путь к кэшу"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:191
+#: ../../NetDriveUI/flatsettingcontents.ui:198
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
 msgstr "ОБЗОР"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:225
+#: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr "Использовать до"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:235
+#: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr "ГБ для дискового кэша"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:260
+#: ../../NetDriveUI/flatsettingcontents.ui:267
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr "ЖУРНАЛ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:281
+#: ../../NetDriveUI/flatsettingcontents.ui:288
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr "Уровень журнала"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:314
+#: ../../NetDriveUI/flatsettingcontents.ui:321
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr "ОТКРЫТЬ ПАПКУ ЖУРНАЛА"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:340
+#: ../../NetDriveUI/flatsettingcontents.ui:347
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr "СЕТЬ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:346
+#: ../../NetDriveUI/flatsettingcontents.ui:353
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "НАСТРОЙКИ ПРОКСИ"
@@ -387,12 +435,12 @@ msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr "Запустить Finder при новом подключении к удаленному хранилищу"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:88
+#: ../../NetDriveUI/flatsettingcontents.cpp:89
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "Открыть Каталог"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:113
+#: ../../NetDriveUI/flatsettingcontents.cpp:114
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -415,8 +463,7 @@ msgstr "Доступна новая версия %1!"
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
-"%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
+msgstr "%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
@@ -443,42 +490,118 @@ msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
 msgstr "УСТАНОВИТЬ ОБНОВЛЕНИЕ"
 
-#: ../../NetDriveUI/ndflatui.cpp:162
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
+msgctxt "LockedFileListDlg|"
+msgid "Locked Files List"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+msgctxt "LockedFileListDlg|"
+msgid "There is no locked file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+msgctxt "LockedFileListDlg|"
+msgid "Unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+msgctxt "LockedFileListDlg|"
+msgid "Force unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
+#, qt-format
+msgctxt "LockedFileListDlg|"
+msgid "Locked files list in %1"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
+msgctxt "LockedFileModel|"
+msgid "Missing"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
+msgctxt "LockedFileModel|"
+msgid "Path"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
+msgctxt "LockedFileModel|"
+msgid "Locked by"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
+msgctxt "LockedFileModel|"
+msgid "Device"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
+msgctxt "LockedFileModel|"
+msgid "Status"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The services of %1 must be running, but they are not running. Do you want to "
 "run them now?"
 msgstr ""
-"Службы %1 должны быть запущены, но они не работают. Хотите ли вы "
-"запустить их сейчас?"
+"Службы %1 должны быть запущены, но они не работают. Хотите ли вы запустить "
+"их сейчас?"
 
-#: ../../NetDriveUI/ndflatui.cpp:264
+#: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
 msgstr "ЗАГРУЗКА"
 
-#: ../../NetDriveUI/ndflatui.cpp:272
+#: ../../NetDriveUI/uploadstatusbase.cpp:63
 msgctxt "NDFlatUI|"
 msgid "WAITING"
 msgstr "ОЖИДАНИЕ"
 
-#: ../../NetDriveUI/ndflatui.cpp:280
+#: ../../NetDriveUI/uploadstatusbase.cpp:66
 msgctxt "NDFlatUI|"
 msgid "FAILED"
 msgstr "НЕ УДАЛОСЬ"
 
-#: ../../NetDriveUI/ndflatui.cpp:656
+#: ../../NetDriveUI/ndflatui.cpp:209
+msgctxt "NDFlatUI|"
+msgid " (Maintainer)"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:531
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available!"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:726
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"The team drive [%1] was unmounted because it was unpublished by "
+"administrator."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:872
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"Do you want to publish [%1] to team members now? You can publish it later."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:892
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
 msgstr "Произошла ошибка добавления диска из-за повторяющегося имени диска."
 
-#: ../../NetDriveUI/ndflatui.cpp:660
+#: ../../NetDriveUI/ndflatui.cpp:896
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
 msgstr "Не удалось добавить диск."
 
-#: ../../NetDriveUI/ndflatui.cpp:839
+#: ../../NetDriveUI/ndflatui.cpp:1084
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -488,184 +611,194 @@ msgid ""
 "If you are connected to the Internet and still have this issue, please visit "
 "%1 to leave a note."
 msgstr ""
-"Эта проблема может быть вызвана с сетевым соединением к серверу Bdrive "
-"что обычно происходит, когда сервер Bdrive или ваш компьютер не могут быть подключены к "
-"Интернету.\n"
-"Если вы подключены к Интернету и все еще имеете эту проблему, пожалуйста, посетите "
-"%1 чтобы оставить обращение."
+"Эта проблема может быть вызвана с сетевым соединением к серверу Bdrive что "
+"обычно происходит, когда сервер Bdrive или ваш компьютер не могут быть "
+"подключены к Интернету.\n"
+"Если вы подключены к Интернету и все еще имеете эту проблему, пожалуйста, "
+"посетите %1 чтобы оставить обращение."
 
-#: ../../NetDriveUI/ndflatui.cpp:942
+#: ../../NetDriveUI/ndflatui.cpp:1181
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
 msgstr "Не удалось удалить диск."
 
-#: ../../NetDriveUI/ndflatui.cpp:1017
+#: ../../NetDriveUI/ndflatui.cpp:1263
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
 msgstr "Агент NetDrive запускается."
 
-#: ../../NetDriveUI/ndflatui.cpp:1021
+#: ../../NetDriveUI/ndflatui.cpp:1267
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
 msgstr "Инициализация Агента."
 
-#: ../../NetDriveUI/ndflatui.cpp:1024
+#: ../../NetDriveUI/ndflatui.cpp:1270
 msgctxt "NDFlatUI|"
 msgid "Initailizing SDK."
 msgstr "Инициализация SDK."
 
-#: ../../NetDriveUI/ndflatui.cpp:1030
+#: ../../NetDriveUI/ndflatui.cpp:1276
 msgctxt "NDFlatUI|"
 msgid "Checking network."
 msgstr "Проверка сети."
 
-#: ../../NetDriveUI/ndflatui.cpp:1033
+#: ../../NetDriveUI/ndflatui.cpp:1279
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
 msgstr "Вход в систему запомнил пользователей."
 
-#: ../../NetDriveUI/ndflatui.cpp:1038
+#: ../../NetDriveUI/ndflatui.cpp:1284
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
 msgstr "Монтирование дисков при загрузке."
 
-#: ../../NetDriveUI/ndflatui.cpp:1046
+#: ../../NetDriveUI/ndflatui.cpp:1292
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
 msgstr "Агент готов."
 
-#: ../../NetDriveUI/ndflatui.cpp:1054
+#: ../../NetDriveUI/ndflatui.cpp:1300
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
 msgstr "Подключение к Агенту NetDrive."
 
-#: ../../NetDriveUI/ndflatui.cpp:1198
+#: ../../NetDriveUI/ndflatui.cpp:1487
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "Не удалось загрузить %1."
 
-#: ../../NetDriveUI/ndflatui.cpp:2016
+#: ../../NetDriveUI/ndflatui.cpp:1930
+msgctxt "NDFlatUI|"
+msgid "Failed to connect Bdrive server."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2409
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "&Открыть"
 
-#: ../../NetDriveUI/ndflatui.cpp:2019
+#: ../../NetDriveUI/ndflatui.cpp:2412
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "&Выход"
 
-#: ../../NetDriveUI/ndflatui.cpp:2022
+#: ../../NetDriveUI/ndflatui.cpp:2415
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "&Проверить наличие обновлений"
 
-#: ../../NetDriveUI/ndflatui.cpp:2025
+#: ../../NetDriveUI/ndflatui.cpp:2418
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "&Авторизоваться"
 
-#: ../../NetDriveUI/ndflatui.cpp:2029
+#: ../../NetDriveUI/ndflatui.cpp:2422
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "&Выйти"
 
-#: ../../NetDriveUI/ndflatui.cpp:2042
+#: ../../NetDriveUI/ndflatui.cpp:2429
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "Инициализация..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2162
+#: ../../NetDriveUI/ndflatui.cpp:2460
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2581
 msgctxt "NDFlatUI|"
 msgid "NetDrive is Quiting..."
 msgstr "NetDrive Выходит..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2194
+#: ../../NetDriveUI/ndflatui.cpp:2621
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
 msgstr ""
-"Если вы выйдете из системы, элементы 'монтирование при загрузке' не будут подключаться автоматически. Вы "
-"уверены, что хотите выйти?"
+"Если вы выйдете из системы, элементы 'монтирование при загрузке' не будут "
+"подключаться автоматически. Вы уверены, что хотите выйти?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2328
+#: ../../NetDriveUI/ndflatui.cpp:2757
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "Выход из системы..."
 
-#: ../../NetDriveUI/ndflatui.cpp:2792
+#: ../../NetDriveUI/ndflatui.cpp:3237
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "Текущая версия %1 является последней доступной версией."
 
-#: ../../NetDriveUI/ndflatui.cpp:2964
+#: ../../NetDriveUI/ndflatui.cpp:3412
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "Диски"
 
-#: ../../NetDriveUI/ndflatui.cpp:2969
+#: ../../NetDriveUI/ndflatui.cpp:3417
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "Настройки"
 
-#: ../../NetDriveUI/ndflatui.cpp:2972
+#: ../../NetDriveUI/ndflatui.cpp:3420
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "Загрузка"
 
-#: ../../NetDriveUI/ndflatui.cpp:2977
+#: ../../NetDriveUI/ndflatui.cpp:3425
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "О нас"
 
-#: ../../NetDriveUI/ndflatui.cpp:2980
+#: ../../NetDriveUI/ndflatui.cpp:3428
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr "Информация об Аккаунте"
 
-#: ../../NetDriveUI/ndflatui.cpp:2983
+#: ../../NetDriveUI/ndflatui.cpp:3431
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "Управление Лицензией"
 
-#: ../../NetDriveUI/ndflatui.cpp:2986
+#: ../../NetDriveUI/ndflatui.cpp:3434
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "Авторизоваться"
 
-#: ../../NetDriveUI/ndflatui.cpp:2989
+#: ../../NetDriveUI/ndflatui.cpp:3437
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "Выйти"
 
-#: ../../NetDriveUI/ndflatui.cpp:2992
+#: ../../NetDriveUI/ndflatui.cpp:3440
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "Справка NetDrive"
 
-#: ../../NetDriveUI/ndflatui.cpp:2995
+#: ../../NetDriveUI/ndflatui.cpp:3443
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "Посмотреть"
 
-#: ../../NetDriveUI/ndflatui.cpp:2996
+#: ../../NetDriveUI/ndflatui.cpp:3444
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "Аккаунт"
 
-#: ../../NetDriveUI/ndflatui.cpp:2997
+#: ../../NetDriveUI/ndflatui.cpp:3445
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "Помощь"
 
-#: ../../NetDriveUI/ndflatui.cpp:3195
+#: ../../NetDriveUI/ndflatui.cpp:3644
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "Не удалось получить информацию о диске"
 
-#: ../../NetDriveUI/ndflatui.cpp:3201
+#: ../../NetDriveUI/ndflatui.cpp:3653
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "Не удалось получить имя диска"
@@ -710,53 +843,53 @@ msgctxt "ProxySelector|"
 msgid "Host"
 msgstr "Хост"
 
-#: ../../../common/ndcore.cpp:192
+#: ../../../common/ndcore.cpp:245
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "Bdrive server returned an error. If the issue persists, please contact %1 "
 "support."
 msgstr ""
-"Сервер Bdrive вернул ошибку. Если проблема не устранена, пожалуйста, свяжитесь с %1 "
-"поддержкой."
+"Сервер Bdrive вернул ошибку. Если проблема не устранена, пожалуйста, "
+"свяжитесь с %1 поддержкой."
 
-#: ../../../common/ndcore.cpp:943 ../../../common/ndcore.cpp:1605
+#: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
 msgctxt "QApplication|"
 msgid "Subscription status"
 msgstr "Статус подписки"
 
-#: ../../../common/ndcore.cpp:953 ../../../common/ndcore.cpp:1606
+#: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
 msgctxt "QApplication|"
 msgid "Subscription type"
 msgstr "Тип подписки"
 
-#: ../../../common/ndcore.cpp:963 ../../../common/ndcore.cpp:1607
+#: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
 msgctxt "QApplication|"
 msgid "Max registered devices"
 msgstr "Макс. зарегистрированных устройств"
 
-#: ../../../common/ndcore.cpp:973 ../../../common/ndcore.cpp:1608
+#: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
 msgstr "Макс. сессий (одновременный доступ)"
 
-#: ../../../common/ndcore.cpp:1609
+#: ../../../common/ndcore.cpp:1601
 msgctxt "QApplication|"
 msgid "type"
 msgstr "тип"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:164
-#: ../../../ui_helper/bdui/bdlogin.cpp:172
+#: ../../../ui_helper/bdui/bdlogin.cpp:176
+#: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Авторизоваться"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:164
+#: ../../../ui_helper/bdui/bdlogin.cpp:176
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Для входа необходим адрес электронной почты"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:172
+#: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Для входа требуется правильный пароль"
@@ -782,8 +915,7 @@ msgstr "Доступна новая версия %1!"
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
-"%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
+msgstr "%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -793,8 +925,9 @@ msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
 msgstr ""
-"%1 не удалось подключиться к серверу Bdrive. Это устройство может быть в автономном режиме или могут "
-"потребоваться настройки прокси. Вы хотите настроить прокси?"
+"%1 не удалось подключиться к серверу Bdrive. Это устройство может быть в "
+"автономном режиме или могут потребоваться настройки прокси. Вы хотите "
+"настроить прокси?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
@@ -806,92 +939,90 @@ msgctxt "QApplication|"
 msgid "Failed to upload crash info."
 msgstr "Не удалось загрузить информацию о сбое."
 
-#: ../../ndagent/BDUserManager.cpp:206
-msgctxt "QApplication|"
-msgid "It's wrong data. Try again, please."
-msgstr "Это неверные данные. Попробуйте еще раз, пожалуйста."
+#~ msgctxt "QApplication|"
+#~ msgid "It's wrong data. Try again, please."
+#~ msgstr "Это неверные данные. Попробуйте еще раз, пожалуйста."
 
-#: ../../ndagent/BDUserManager.cpp:243
-msgctxt "QApplication|"
-msgid ""
-"There is another Bdrive account logged in this device. Do you want to log "
-"the account out and log your account in?"
-msgstr ""
-"На этом устройстве есть еще одна учетная запись Bdrive. Вы хотите выйти из "
-"учетной записи и войти в свою учетную запись?"
+#~ msgctxt "QApplication|"
+#~ msgid ""
+#~ "There is another Bdrive account logged in this device. Do you want to log "
+#~ "the account out and log your account in?"
+#~ msgstr ""
+#~ "На этом устройстве есть еще одна учетная запись Bdrive. Вы хотите выйти "
+#~ "из учетной записи и войти в свою учетную запись?"
 
-#: ../../ndagent/BDUserManager.cpp:258
-msgctxt "QApplication|"
-msgid "Failed to get drive list. Try again, please."
-msgstr "Не удалось получить список дисков. Попробуйте еще раз, пожалуйста."
+#~ msgctxt "QApplication|"
+#~ msgid "Failed to get drive list. Try again, please."
+#~ msgstr "Не удалось получить список дисков. Попробуйте еще раз, пожалуйста."
 
-#: ../../../common/authtemplate.cpp:200
+#: ../../../common/authtemplate.cpp:202
 msgctxt "QApplication|"
 msgid "BROWSE"
 msgstr "ОБЗОР"
 
-#: ../../../common/authtemplate.cpp:694
+#: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
 msgctxt "QApplication|"
 msgid "NETWORK"
 msgstr "СЕТЬ"
 
-#: ../../../common/authtemplate.cpp:704 ../../NetDriveUI/ndflatui.cpp:1654
+#: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
+#: ../../NetDriveUI/ndflatui.cpp:2002
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "НАСТРОЙКИ ПРОКСИ"
 
-#: ../../../common/authtemplate.cpp:966
+#: ../../../common/authtemplate.cpp:972
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
 msgstr "Пожалуйста, проверьте учетные данные еще раз"
 
-#: ../../../common/authtemplate.cpp:970
+#: ../../../common/authtemplate.cpp:976
 msgctxt "QApplication|"
 msgid "Please check the server information"
 msgstr "Пожалуйста, проверьте информацию о сервере"
 
-#: ../../../common/authtemplate.cpp:974
+#: ../../../common/authtemplate.cpp:980
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
 msgstr "Пожалуйста, проверьте информацию SSL"
 
-#: ../../../common/authtemplate.cpp:978
+#: ../../../common/authtemplate.cpp:984
 msgctxt "QApplication|"
 msgid "Please check the connection information"
 msgstr "Пожалуйста, проверьте информацию о соединении"
 
-#: ../../../common/authtemplate.cpp:981
+#: ../../../common/authtemplate.cpp:987
 msgctxt "QApplication|"
 msgid "Connection failed"
 msgstr "Ошибка подключения"
 
-#: ../../NetDriveUI/adddrive.cpp:153
+#: ../../NetDriveUI/adddrive.cpp:157
 msgctxt "QApplication|"
 msgid "Auto"
 msgstr "Авто"
 
-#: ../../NetDriveUI/adddrive.cpp:823
+#: ../../NetDriveUI/adddrive.cpp:986
 msgctxt "QApplication|"
 msgid "CONNECT"
 msgstr "ПОДКЛЮЧИТЬСЯ"
 
-#: ../../NetDriveUI/adddrive.cpp:980
+#: ../../NetDriveUI/adddrive.cpp:1154
 msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr "Не удалось установить параметр."
 
-#: ../../NetDriveUI/adddrive.cpp:1173
+#: ../../NetDriveUI/adddrive.cpp:1348
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr "Ошибка аутентификации"
 
-#: ../../NetDriveUI/adddrive.cpp:1173
+#: ../../NetDriveUI/adddrive.cpp:1348
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr "Аутентификация с %1 не удалась"
 
-#: ../../NetDriveUI/adddrive.cpp:1208 ../../NetDriveUI/adddrive.cpp:1393
+#: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr "ОТКЛЮЧИТЬСЯ"
@@ -921,146 +1052,165 @@ msgctxt "QApplication|"
 msgid "SAVE AS"
 msgstr "СОХРАНИТЬ КАК"
 
-#: ../../NetDriveUI/main.cpp:120
+#: ../../NetDriveUI/main.cpp:125
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
 msgstr "Не удалось получить информацию службы %1"
 
-#: ../../NetDriveUI/main.cpp:132
+#: ../../NetDriveUI/main.cpp:137
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
 msgstr "Не удалось установить тип запуска службы %1"
 
-#: ../../NetDriveUI/main.cpp:144
+#: ../../NetDriveUI/main.cpp:149
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "Не удалось запустить службу %1"
 
-#: ../../NetDriveUI/ndflatui.cpp:246 ../../NetDriveUI/ndflatui.cpp:3273
+#: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "ДИСКИ"
 
-#: ../../NetDriveUI/ndflatui.cpp:252 ../../NetDriveUI/ndflatui.cpp:3275
+#: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "ЗАГРУЗКА"
 
-#: ../../NetDriveUI/ndflatui.cpp:291 ../../NetDriveUI/ndflatui.cpp:1677
-#: ../../NetDriveUI/ndflatui.cpp:3277
+#: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
+#: ../../NetDriveUI/ndflatui.cpp:3736
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "НАСТРОЙКИ"
 
-#: ../../NetDriveUI/ndflatui.cpp:302 ../../NetDriveUI/ndflatui.cpp:3271
+#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "О НАС"
 
-#: ../../NetDriveUI/ndflatui.cpp:1633
+#: ../../NetDriveUI/ndflatui.cpp:1980
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "Создайте бесплатный аккаунт Bdrive"
 
-#: ../../NetDriveUI/ndflatui.cpp:1635
+#: ../../NetDriveUI/ndflatui.cpp:1982
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "Не можете войти?"
 
-#: ../../NetDriveUI/ndflatui.cpp:1710
+#: ../../NetDriveUI/ndflatui.cpp:2058
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "Авторизация устройства"
 
-#: ../../NetDriveUI/ndflatui.cpp:1711
+#: ../../NetDriveUI/ndflatui.cpp:2059
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "NetDrive will be quit because failed to get device id. Please visit %1 to "
 "leave a note."
 msgstr ""
-"NetDrive будет завершен, поскольку не удалось получить идентификатор устройства. Пожалуйста, посетите %1 чтобы "
-"оставить обращение."
+"NetDrive будет завершен, поскольку не удалось получить идентификатор "
+"устройства. Пожалуйста, посетите %1 чтобы оставить обращение."
 
-#: ../../NetDriveUI/ndflatui.cpp:1937
+#: ../../NetDriveUI/ndflatui.cpp:2329
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "Уведомление"
 
-#: ../../NetDriveUI/ndflatui.cpp:2536
+#: ../../NetDriveUI/ndflatui.cpp:2977
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "ИНФОРМАЦИЯ ОБ АККАУНТЕ"
 
-#: ../../NetDriveUI/ndflatui.cpp:2543
+#: ../../NetDriveUI/ndflatui.cpp:2984
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "УПРАВЛЕНИЕ ЛИЦЕНЗИЕЙ"
 
-#: ../../NetDriveUI/ndflatui.cpp:2552
+#: ../../NetDriveUI/ndflatui.cpp:2993
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "ВЫЙТИ"
 
-#: ../../NetDriveUI/ndflatui.cpp:2778
+#: ../../NetDriveUI/ndflatui.cpp:3223
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
 msgstr "%1 %2 теперь доступна!"
 
-#: ../../NetDriveUI/protocoldll.cpp:21
-msgctxt "QApplication|"
-msgid ""
-"If it is the first connection and there are a lot of files, the connection "
-"may take a long time."
-msgstr ""
-"Если это первое соединение и много файлов, соединение "
-"может занять много времени."
+#~ msgctxt "QApplication|"
+#~ msgid ""
+#~ "If it is the first connection and there are a lot of files, the "
+#~ "connection may take a long time."
+#~ msgstr ""
+#~ "Если это первое соединение и много файлов, соединение может занять много "
+#~ "времени."
 
-#: ../../NetDriveUI/protocoldll.cpp:24
+#: ../../../common/protocolmap.h:16
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
 msgstr "Операции переименования и перемещения не поддерживаются."
 
-#: ../../NetDriveUI/protocoldll.cpp:207
+#: ../../../common/protocolmap.h:26
+msgctxt "QApplication|"
+msgid "Recommend to register your own API KEY and SECRET KEY."
+msgstr ""
+
+#: ../../NetDriveUI/ndprotocoldll.cpp:130
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
 msgstr "Дождитесь аутентификации..."
 
-#: ../../NetDriveUI/qdriveitem.cpp:1224
+#: ../../NetDriveUI/qdriveitem.cpp:1606
 msgctxt "QApplication|"
 msgid "Open"
 msgstr "Открыть"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1229
+#: ../../NetDriveUI/qdriveitem.cpp:1619
+msgctxt "QApplication|"
+msgid "Publish"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1626
+msgctxt "QApplication|"
+msgid "Republish"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1629
+msgctxt "QApplication|"
+msgid "Unpublish"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1637
 msgctxt "QApplication|"
 msgid "Config"
 msgstr "Конфигурация"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1233
+#: ../../NetDriveUI/qdriveitem.cpp:1645
 msgctxt "QApplication|"
 msgid "Duplicate"
 msgstr "Дублировать"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1239
+#: ../../NetDriveUI/qdriveitem.cpp:1651
 msgctxt "QApplication|"
 msgid "Delete"
 msgstr "Удалить"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1244
+#: ../../NetDriveUI/qdriveitem.cpp:1657
 msgctxt "QApplication|"
 msgid "Log"
 msgstr "Журнал"
 
-#: ../../NetDriveUI/selectfolder.cpp:161
+#: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
 msgstr "Не удалось вывести список папок"
 
-#: ../../NetDriveUI/selectfolder.cpp:161
+#: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
 msgstr "Не удается получить список папок с сервера."
@@ -1080,8 +1230,7 @@ msgstr "Буква"
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr ""
-"NetDrive %1 теперь доступен. У вас %2. Вы хотите обновить сейчас?"
+msgstr "NetDrive %1 теперь доступен. У вас %2. Вы хотите обновить сейчас?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
@@ -1119,86 +1268,157 @@ msgctxt "QAuthDlg|"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: ../../NetDriveUI/qdriveitem.ui:264 ../../NetDriveUI/qdriveitem.cpp:436
-#: ../../NetDriveUI/qdriveitem.cpp:638 ../../NetDriveUI/qdriveitem.cpp:1034
+#: ../../ndagent/BDUserManager.cpp:212
+#, fuzzy
+msgctxt "QCoreApplication|"
+msgid "It's wrong data. Try again, please."
+msgstr "Это неверные данные. Попробуйте еще раз, пожалуйста."
+
+#: ../../ndagent/BDUserManager.cpp:246
+#, fuzzy
+msgctxt "QCoreApplication|"
+msgid ""
+"There is another Bdrive account logged in this device. Do you want to log "
+"the account out and log your account in?"
+msgstr ""
+"На этом устройстве есть еще одна учетная запись Bdrive. Вы хотите выйти из "
+"учетной записи и войти в свою учетную запись?"
+
+#: ../../ndagent/BDUserManager.cpp:261
+#, fuzzy
+msgctxt "QCoreApplication|"
+msgid "Failed to get drive list. Try again, please."
+msgstr "Не удалось получить список дисков. Попробуйте еще раз, пожалуйста."
+
+#: ../../NetDriveUI/qdriveitem.ui:276
+#, fuzzy
+msgctxt "QDriveItem|"
+msgid "BROWSE"
+msgstr "ОБЗОР"
+
+#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:741
+#: ../../NetDriveUI/qdriveitem.cpp:944 ../../NetDriveUI/qdriveitem.cpp:1433
 msgctxt "QDriveItem|"
 msgid "CONNECT"
 msgstr "ПОДКЛЮЧИТЬСЯ"
 
-#: ../../NetDriveUI/qdriveitem.cpp:134
+#: ../../NetDriveUI/qdriveitem.cpp:181
+msgctxt "QDriveItem|"
+msgid "Failed to open file browser."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:184
+msgctxt "QDriveItem|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:223
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
 msgstr "%1 путь уже смонтирован. Вы хотите размонтировать %1 для продолжения?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:152
+#: ../../NetDriveUI/qdriveitem.cpp:241
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
 msgstr "Не удалось размонтировать %1. Попробуйте позже."
 
-#: ../../NetDriveUI/qdriveitem.cpp:168
+#: ../../NetDriveUI/qdriveitem.cpp:257
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
 msgstr "Вы уверены, что хотите отключить %1?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:403
+#: ../../NetDriveUI/qdriveitem.cpp:624
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "[%1] is not configured yet after published. Do you want to config?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:665
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
 msgstr "Для [%1] нет файла журнала."
 
-#: ../../NetDriveUI/qdriveitem.cpp:552
+#: ../../NetDriveUI/qdriveitem.cpp:699
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to publish [%1]."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:719
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to unpublish [%1]"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:857
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
 msgstr "Не удалось размонтировать"
 
-#: ../../NetDriveUI/qdriveitem.cpp:584
+#: ../../NetDriveUI/qdriveitem.cpp:889
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
 msgstr "Не удалось настроить диск из-за повторяющегося имени."
 
-#: ../../NetDriveUI/qdriveitem.cpp:588
+#: ../../NetDriveUI/qdriveitem.cpp:893
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
 msgstr "Не удалось настроить диск."
 
-#: ../../NetDriveUI/qdriveitem.cpp:629
+#: ../../NetDriveUI/qdriveitem.cpp:934
 msgctxt "QDriveItem|"
 msgid "CANCEL"
 msgstr "ОТМЕНА"
 
-#: ../../NetDriveUI/qdriveitem.cpp:635 ../../NetDriveUI/qdriveitem.cpp:1033
+#: ../../NetDriveUI/qdriveitem.cpp:941 ../../NetDriveUI/qdriveitem.cpp:1432
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
 msgstr "НЕ ПОДКЛЮЧЕН"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1040
+#: ../../NetDriveUI/qdriveitem.cpp:1439
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
 msgstr "СОЕДИНЕНИЕ"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1046
+#: ../../NetDriveUI/qdriveitem.cpp:1445
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
 msgstr "ПОДКЛЮЧЕН"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1047
+#: ../../NetDriveUI/qdriveitem.cpp:1446
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
 msgstr "ОТКЛЮЧИТЬСЯ"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1053
+#: ../../NetDriveUI/qdriveitem.cpp:1452
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
 msgstr "ОТСОЕДИНЕНИЕ"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1144
+#: ../../NetDriveUI/qdriveitem.cpp:1524
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
 msgstr "Вы уверены, что хотите удалить %1?"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1809
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Do you want to publish [%1] to team members?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1827
+#, qt-format
+msgctxt "QDriveItem|"
+msgid ""
+"When unpublished, the drive of the member being mounted is unmounted and the "
+"file not saved in the drive may be lost.\n"
+"Do you want to unpublish [%1] from team members?"
+msgstr ""
 
 #: ../../../common/aerrorstring.cpp:9
 msgctxt "QObject|"
@@ -1293,13 +1513,15 @@ msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
 msgstr ""
-"Используемая версия протокола отличается от версии продукта. "
-"Пожалуйста, переустановите NetDrive."
+"Используемая версия протокола отличается от версии продукта. Пожалуйста, "
+"переустановите NetDrive."
 
 #: ../../NetDriveUI/errmsg.cpp:83
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
-msgstr "Вы не можете использовать эту версию. Пожалуйста, установите версию, которую вы можете использовать."
+msgstr ""
+"Вы не можете использовать эту версию. Пожалуйста, установите версию, которую "
+"вы можете использовать."
 
 #: ../../NetDriveUI/errmsg.cpp:87
 msgctxt "QObject|"
@@ -1313,8 +1535,103 @@ msgstr "Уже смонтированный элемент диска."
 
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
+msgid "You do not have permission."
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:99
+msgctxt "QObject|"
 msgid "Error occurred."
 msgstr "Произошла ошибка."
+
+#: ../../ndagent/BDUser.cpp:632
+#, fuzzy
+msgctxt "QObject|"
+msgid ""
+"Login failed because communication with the server failed. Please check your "
+"proxy or Internet connection."
+msgstr ""
+"Ошибка входа в систему из-за сбоя связи с сервером. Пожалуйста, проверьте "
+"ваш прокси или подключение к интернету."
+
+#: ../../ndagent/BDUser.cpp:647
+#, fuzzy
+msgctxt "QObject|"
+msgid "Login failed. Please click here to check."
+msgstr "Ошибка входа. Пожалуйста, нажмите здесь, чтобы проверить."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
+msgctxt "QObject|"
+msgid "An error occurred on the push server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
+msgctxt "QObject|"
+msgid "The file is already locked."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
+msgctxt "QObject|"
+msgid "The drive does not exist."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
+msgctxt "QObject|"
+msgid "The file does not exist in the locked files list"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
+msgctxt "QObject|"
+msgid "The file is locked by another user."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
+msgctxt "QObject|"
+msgid "The file is locked on another device."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to refresh %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to lock %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to unlock %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to force unlock %1."
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:14
+msgctxt "QSelectItemType|"
+msgid "Select a drive type"
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:22
+msgctxt "QSelectItemType|"
+msgid "Select a drive type you want to add."
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:45
+msgctxt "QSelectItemType|"
+msgid "Team drive item"
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:52
+msgctxt "QSelectItemType|"
+msgid "Personal drive item"
+msgstr ""
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
@@ -1339,8 +1656,8 @@ msgstr ""
 "Пожалуйста, предоставьте нам любое подробное описание того, что произошло до "
 "падения.\n"
 "\n"
-"Информация, которую вы нам отправите, поможет нам решить эту проблему и не будет "
-"использоваться, кроме как для целей отладки."
+"Информация, которую вы нам отправите, поможет нам решить эту проблему и не "
+"будет использоваться, кроме как для целей отладки."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"

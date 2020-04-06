@@ -50,7 +50,7 @@ msgstr "이름"
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "아이템 위치"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
@@ -155,32 +155,32 @@ msgstr "로컬 드라이브"
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "계정에 저장"
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "장치에 저장"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "개인드라이브 추가"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "팀드라이브 추가"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "팀드라이브 설정"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "개인드라이브 설정"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
@@ -226,7 +226,7 @@ msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr "이 팀드라이브는 아직 연결 정보가 설정되지 않았습니다. 지금 설정하시겠습니까?"
 
 #: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
@@ -303,6 +303,272 @@ msgstr "사용자"
 #~ msgid "Configure Drive"
 #~ msgstr "드라이브 설정"
 
+#: ../../../ui_helper/filebrowser/downloadprogress.ui:32
+msgctxt "Dialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloaditem.cpp:12
+msgctxt "DownloadItem|"
+msgid "Preparing Download..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
+msgctxt "DownloadProgressDlg|"
+msgid "File Download"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowser.ui:14
+msgctxt "FileBrowser|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowser.ui:47
+msgctxt "FileBrowser|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
+msgctxt "FileBrowserManager|"
+msgid "Save to Downloads Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
+msgctxt "FileBrowserManager|"
+msgid "Download to..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Open"
+msgstr "열기"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
+msgctxt "FileBrowserManager|"
+msgid "Reload"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:802
+msgctxt "FileBrowserManager|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
+msgctxt "FileBrowserManager|"
+msgid "Move"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Delete"
+msgstr "삭제"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:907
+msgctxt "FileBrowserManager|"
+msgid "New folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Get Shareable Link"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
+msgctxt "FileBrowserManager|"
+msgid "Lock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Unlock"
+msgstr "잠금 풀기"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Force unlock"
+msgstr "강제 잠금 풀기"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
+msgctxt "FileBrowserManager|"
+msgid "Locked files list"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Connection Fail"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+msgctxt "FileBrowserManager|"
+msgid "Failed to connect protocol."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1162
+msgctxt "FileBrowserManager|"
+msgid "Failed to get file list."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Failed to get root ID."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Reload Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Failed to reload folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
+msgctxt "FileBrowserManager|"
+msgid "Download Complete."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "File downloading failed"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "Can not download file from server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid ""
+"Successful to get shareable link.\n"
+"%1\n"
+"Click the OK button to copy the shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Failed to get shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:802
+msgctxt "FileBrowserManager|"
+msgid "Failed to rename file with "
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:822
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:847
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+msgctxt "FileBrowserManager|"
+msgid "Move File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:822
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:847
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:875
+msgctxt "FileBrowserManager|"
+msgid "Delete File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:875
+msgctxt "FileBrowserManager|"
+msgid "Failed to delete file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:907
+msgctxt "FileBrowserManager|"
+msgid "Failed to create new folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:919
+msgctxt "FileBrowserManager|"
+msgid "Lock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:919
+msgctxt "FileBrowserManager|"
+msgid "Failed to lock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+msgctxt "FileBrowserManager|"
+msgid "Unlock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+msgctxt "FileBrowserManager|"
+msgid "Failed to unlock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:990
+msgctxt "FileBrowserManager|"
+msgid "Failed Action"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:990
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "A file with the same name as %1 exists."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1006
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file to destination folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1019
+msgctxt "FileBrowserManager|"
+msgid "Destination folder has a file with the same name."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1086
+msgctxt "FileBrowserManager|"
+msgid "File Open"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1086
+msgctxt "FileBrowserManager|"
+msgid "Failed to create temporary directory."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
+msgctxt "FileBrowserManager|"
+msgid "Get File List"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+#, fuzzy
+msgctxt "FileTreeModel|"
+msgid "Name"
+msgstr "이름"
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Size"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Modified"
+msgstr ""
+
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
@@ -357,7 +623,7 @@ msgstr "사용 가능한 베타 버젼을 확인"
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "드라이드의 연결을 끊을때 잠긴 모든 파일을 풀기"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
@@ -484,56 +750,61 @@ msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
 msgstr "업데이트 설치"
 
+#: ../../../ui_helper/filebrowser/downloaditem.ui:32
+msgctxt "Form1|"
+msgid "Form"
+msgstr ""
+
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "잠긴 파일 목록"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "잠긴 파일이 없습니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "잠금 풀기"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "강제 잠금 풀기"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "%1에 있는 잠긴 파일 목록"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "존재하지 않음"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "경로"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "잠근 사용자"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "장치"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 #: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
@@ -566,14 +837,13 @@ msgstr ""
 #: ../../NetDriveUI/ndflatui.cpp:531
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available!"
-msgstr ""
+msgstr "NetDrive File Lock Service를 사용할 수 없습니다."
 
 #: ../../NetDriveUI/ndflatui.cpp:726
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
-"The team drive [%1] was unmounted because it was unpublished by "
-"administrator."
+"The team drive [%1] was unmounted because it was unpublished by maintainer."
 msgstr ""
 
 #: ../../NetDriveUI/ndflatui.cpp:872
@@ -581,7 +851,7 @@ msgstr ""
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "[%1]를 팀 멤버들에게 게시하겠습니까? 나중에 게시할 수도 있습니다."
 
 #: ../../NetDriveUI/ndflatui.cpp:892
 msgctxt "NDFlatUI|"
@@ -660,7 +930,7 @@ msgstr "%1 업로드 실패"
 #: ../../NetDriveUI/ndflatui.cpp:1930
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "Bdrive 서버에 접속 실패"
 
 #: ../../NetDriveUI/ndflatui.cpp:2409
 msgctxt "NDFlatUI|"
@@ -695,7 +965,7 @@ msgstr "초기화중..."
 #: ../../NetDriveUI/ndflatui.cpp:2460
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available"
-msgstr ""
+msgstr "NetDrive FIle Lock Service를 사용할 수 없습니다."
 
 #: ../../NetDriveUI/ndflatui.cpp:2581
 msgctxt "NDFlatUI|"
@@ -1139,7 +1409,7 @@ msgstr "이름변경(Rename)과 이동(Move) 명령을 지원하지 않음"
 #: ../../../common/protocolmap.h:26
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr ""
+msgstr "사용자의 API KEY와 SECRET KEY 등록을 추천합니다."
 
 #: ../../NetDriveUI/ndprotocoldll.cpp:130
 msgctxt "QApplication|"
@@ -1154,17 +1424,17 @@ msgstr "열기"
 #: ../../NetDriveUI/qdriveitem.cpp:1619
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "게시"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1626
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "재게시"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1629
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "게시 취소"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1637
 msgctxt "QApplication|"
@@ -1186,11 +1456,13 @@ msgctxt "QApplication|"
 msgid "Log"
 msgstr "로그"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
 msgstr "폴더 목록 실패"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
@@ -1247,13 +1519,11 @@ msgid "Cancel"
 msgstr "취소"
 
 #: ../../ndagent/BDUserManager.cpp:212
-#, fuzzy
 msgctxt "QCoreApplication|"
 msgid "It's wrong data. Try again, please."
 msgstr "잘못된 데이터입니다. 다시 시도하세요."
 
 #: ../../ndagent/BDUserManager.cpp:246
-#, fuzzy
 msgctxt "QCoreApplication|"
 msgid ""
 "There is another Bdrive account logged in this device. Do you want to log "
@@ -1261,13 +1531,11 @@ msgid ""
 msgstr "이 장차에 이미 로그인한 다른 Bdrive 계정이 있습니다. 그 계정을 로그아웃 시키고 다시 로그인하겠습니까?"
 
 #: ../../ndagent/BDUserManager.cpp:261
-#, fuzzy
 msgctxt "QCoreApplication|"
 msgid "Failed to get drive list. Try again, please."
 msgstr "드라이브 목록을 가져오는데 실패했습니다. 다시 시도해 주세요."
 
 #: ../../NetDriveUI/qdriveitem.ui:276
-#, fuzzy
 msgctxt "QDriveItem|"
 msgid "BROWSE"
 msgstr "검색"
@@ -1281,7 +1549,7 @@ msgstr "연결"
 #: ../../NetDriveUI/qdriveitem.cpp:181
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "파일 브라우저 열기 실패"
 
 #: ../../NetDriveUI/qdriveitem.cpp:184
 msgctxt "QDriveItem|"
@@ -1310,7 +1578,7 @@ msgstr "%1의 연결 끊으시겠습니까?"
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr ""
+msgstr "[%1]는 게시 후에 아직 설정되지 않았습니다. 설정하시겠습니까?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:665
 #, qt-format
@@ -1322,13 +1590,13 @@ msgstr "%1에 대한 로그파일이 없습니다."
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "[%1]의 게시 실패"
 
 #: ../../NetDriveUI/qdriveitem.cpp:719
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "[%1]의 게시 취소 실패"
 
 #: ../../NetDriveUI/qdriveitem.cpp:857
 msgctxt "QDriveItem|"
@@ -1385,7 +1653,7 @@ msgstr "%1를 삭제하시겠습니까?"
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "[%1]를 팀 멤버들에게 게시하겠습니까?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1827
 #, qt-format
@@ -1395,6 +1663,8 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
+"게시 취소하면, 팀 드라이브를 연결하고 있는 멤버들의 드라이브는 연결이 끊기고 저장되지 않은 파일들을 읽어버릴 수 있습니다. \\n게시 "
+"취소하시겠습니까?"
 
 #: ../../../common/aerrorstring.cpp:9
 msgctxt "QObject|"
@@ -1487,7 +1757,7 @@ msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
-msgstr ""
+msgstr "프로토콜의 버젼이 제품의 버젼과 다릅니다. NetDrive를 재설치해 주세요."
 
 #~ msgctxt "QObject|"
 #~ msgid ""
@@ -1513,7 +1783,7 @@ msgstr "이미 연결된 드라이브입니다."
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr ""
+msgstr "권한이 없습니다."
 
 #: ../../NetDriveUI/errmsg.cpp:99
 msgctxt "QObject|"
@@ -1521,7 +1791,6 @@ msgid "Error occurred."
 msgstr "에러 발생"
 
 #: ../../ndagent/BDUser.cpp:632
-#, fuzzy
 msgctxt "QObject|"
 msgid ""
 "Login failed because communication with the server failed. Please check your "
@@ -1529,7 +1798,6 @@ msgid ""
 msgstr "서버와의 통신에 문제가 있어서 로그인하지 못했습니다. 인터넷 연결 또는 프록시 설정을 확인해 주세요."
 
 #: ../../ndagent/BDUser.cpp:647
-#, fuzzy
 msgctxt "QObject|"
 msgid "Login failed. Please click here to check."
 msgstr "로그인을 실패했습니다. 이곳을 눌러 확인해 주세요."
@@ -1537,76 +1805,97 @@ msgstr "로그인을 실패했습니다. 이곳을 눌러 확인해 주세요."
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
-msgstr ""
+msgstr "푸시 서버에서 에러가 발생했습니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr ""
+msgstr "이미 잠긴 파일입니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr ""
+msgstr "드라이브가 존재하지 않습니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr ""
+msgstr "잠긴 파일 목록에 없습니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr ""
+msgstr "다른 사용자가 이미 잠근 파일입니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr ""
+msgstr "다른 장치에서 이미 잠긴 파일입니다."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr ""
+msgstr "%1의 갱신 실패"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr ""
+msgstr "%1의 잠금 실패"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr ""
+msgstr "%1의 잠금 풀기 실패"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
+msgstr "%1의 강제 잠금 풀기 실패"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:957
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"%1 failed because the locked file is in the folder. Unlock the file and try "
+"again."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:963
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 failed because the file is locked. Unlock the file and try again."
 msgstr ""
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr ""
+msgstr "드라이브 타입 선택"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr ""
+msgstr "추가하려는 타입을 선택하세요."
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr ""
+msgstr "팀드라이브"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr ""
+msgstr "개인드라이브"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
@@ -1636,19 +1925,89 @@ msgctxt "QSenderDlg|"
 msgid "minutes remaining."
 msgstr "분 남았습니다."
 
+#: ../../../ui_helper/filebrowser/rename.ui:14
+msgctxt "Rename|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:43
+msgctxt "Rename|"
+msgid "New name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:101
+msgctxt "Rename|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:114
+#, fuzzy
+msgctxt "Rename|"
+msgid "Cancel"
+msgstr "취소"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:11
+msgctxt "RenameDlg|"
+msgid "Create Directory"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:12
+msgctxt "RenameDlg|"
+msgid "Directory name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:16
+msgctxt "RenameDlg|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:17
+msgctxt "RenameDlg|"
+msgid "New name:"
+msgstr ""
+
 #~ msgctxt "SelectFolder|"
 #~ msgid "SelectFolder"
 #~ msgstr "폴더 선택"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
-msgstr ""
+msgstr "폴더 선택"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Folder listing failed"
+msgstr "폴더 목록 실패"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Can not retrieve folder list from server."
+msgstr "폴더 목록을 서버로부터 가져오는데 실패했습니다."
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
 msgstr "새 폴더 생성"
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:49
+msgctxt "SelectFolder|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:59
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Cancel"
+msgstr "취소"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"

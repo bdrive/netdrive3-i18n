@@ -306,6 +306,270 @@ msgstr "Felhasználó"
 #~ msgid "Configure Drive"
 #~ msgstr "Meghajtó beállítása"
 
+#: ../../../ui_helper/filebrowser/downloadprogress.ui:32
+msgctxt "Dialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloaditem.cpp:12
+msgctxt "DownloadItem|"
+msgid "Preparing Download..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
+msgctxt "DownloadProgressDlg|"
+msgid "File Download"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowser.ui:14
+msgctxt "FileBrowser|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowser.ui:47
+msgctxt "FileBrowser|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
+msgctxt "FileBrowserManager|"
+msgid "Save to Downloads Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
+msgctxt "FileBrowserManager|"
+msgid "Download to..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Open"
+msgstr "Megnyit"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
+msgctxt "FileBrowserManager|"
+msgid "Reload"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:802
+msgctxt "FileBrowserManager|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
+msgctxt "FileBrowserManager|"
+msgid "Move"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
+#, fuzzy
+msgctxt "FileBrowserManager|"
+msgid "Delete"
+msgstr "Töröl"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:907
+msgctxt "FileBrowserManager|"
+msgid "New folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Get Shareable Link"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
+msgctxt "FileBrowserManager|"
+msgid "Lock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
+msgctxt "FileBrowserManager|"
+msgid "Unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
+msgctxt "FileBrowserManager|"
+msgid "Force unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
+msgctxt "FileBrowserManager|"
+msgid "Locked files list"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Connection Fail"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+msgctxt "FileBrowserManager|"
+msgid "Failed to connect protocol."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1162
+msgctxt "FileBrowserManager|"
+msgid "Failed to get file list."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Failed to get root ID."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Reload Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Failed to reload folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
+msgctxt "FileBrowserManager|"
+msgid "Download Complete."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "File downloading failed"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "Can not download file from server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid ""
+"Successful to get shareable link.\n"
+"%1\n"
+"Click the OK button to copy the shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Failed to get shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:802
+msgctxt "FileBrowserManager|"
+msgid "Failed to rename file with "
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:822
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:847
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+msgctxt "FileBrowserManager|"
+msgid "Move File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:822
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:847
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:875
+msgctxt "FileBrowserManager|"
+msgid "Delete File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:875
+msgctxt "FileBrowserManager|"
+msgid "Failed to delete file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:907
+msgctxt "FileBrowserManager|"
+msgid "Failed to create new folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:919
+msgctxt "FileBrowserManager|"
+msgid "Lock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:919
+msgctxt "FileBrowserManager|"
+msgid "Failed to lock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+msgctxt "FileBrowserManager|"
+msgid "Unlock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+msgctxt "FileBrowserManager|"
+msgid "Failed to unlock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:990
+msgctxt "FileBrowserManager|"
+msgid "Failed Action"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:990
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "A file with the same name as %1 exists."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1006
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file to destination folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1019
+msgctxt "FileBrowserManager|"
+msgid "Destination folder has a file with the same name."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1086
+msgctxt "FileBrowserManager|"
+msgid "File Open"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1086
+msgctxt "FileBrowserManager|"
+msgid "Failed to create temporary directory."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
+msgctxt "FileBrowserManager|"
+msgid "Get File List"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+#, fuzzy
+msgctxt "FileTreeModel|"
+msgid "Name"
+msgstr "Név"
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Size"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Modified"
+msgstr ""
+
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
@@ -487,6 +751,11 @@ msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
 msgstr "FRISSÍTÉS TELEPÍTÉSE"
 
+#: ../../../ui_helper/filebrowser/downloaditem.ui:32
+msgctxt "Form1|"
+msgid "Form"
+msgstr ""
+
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
@@ -577,8 +846,7 @@ msgstr ""
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
-"The team drive [%1] was unmounted because it was unpublished by "
-"administrator."
+"The team drive [%1] was unmounted because it was unpublished by maintainer."
 msgstr ""
 
 #: ../../NetDriveUI/ndflatui.cpp:872
@@ -1201,11 +1469,13 @@ msgctxt "QApplication|"
 msgid "Log"
 msgstr "Napló"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
 msgstr "A mappák listázása sikertelen"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
@@ -1607,6 +1877,27 @@ msgctxt "QObject|"
 msgid "Failed to force unlock %1."
 msgstr ""
 
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:957
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"%1 failed because the locked file is in the folder. Unlock the file and try "
+"again."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:963
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 failed because the file is locked. Unlock the file and try again."
+msgstr ""
+
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
@@ -1657,15 +1948,85 @@ msgctxt "QSenderDlg|"
 msgid "minutes remaining."
 msgstr "perc van hátra"
 
+#: ../../../ui_helper/filebrowser/rename.ui:14
+msgctxt "Rename|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:43
+msgctxt "Rename|"
+msgid "New name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:101
+msgctxt "Rename|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:114
+#, fuzzy
+msgctxt "Rename|"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:11
+msgctxt "RenameDlg|"
+msgid "Create Directory"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:12
+msgctxt "RenameDlg|"
+msgid "Directory name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:16
+msgctxt "RenameDlg|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:17
+msgctxt "RenameDlg|"
+msgid "New name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
 msgstr "Mappa kiválasztása"
 
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Folder listing failed"
+msgstr "A mappák listázása sikertelen"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Can not retrieve folder list from server."
+msgstr "A mappák listája nem érhető el a szereverről"
+
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
 msgstr "ÚJ MAPPA LÉTREHOZÁSA"
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:49
+msgctxt "SelectFolder|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:59
+#, fuzzy
+msgctxt "SelectFolder|"
+msgid "Cancel"
+msgstr "Mégsem"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"

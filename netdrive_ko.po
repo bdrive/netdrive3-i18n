@@ -814,7 +814,7 @@ msgstr "실패"
 #: ../../NetDriveUI/ndflatui.cpp:209
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr " (팀드라이브 관리자)"
 
 #: ../../NetDriveUI/ndflatui.cpp:531
 msgctxt "NDFlatUI|"
@@ -826,7 +826,7 @@ msgstr "NetDrive File Lock Service를 사용할 수 없습니다."
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "팀드라이브 관리자에 의해 게시가 취소되었기 때문에 [%1] 드라이브는 연결이 끊겼습니다."
 
 #: ../../NetDriveUI/ndflatui.cpp:872
 #, qt-format

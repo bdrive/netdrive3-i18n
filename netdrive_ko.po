@@ -5,6 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: ko_KR\n"
+"X-Source-Language: C\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../NetDriveUI/adddrive.ui:17

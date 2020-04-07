@@ -157,7 +157,8 @@ msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
-msgstr "磁盘名不能包含下列任何字符:\n"
+msgstr ""
+"磁盘名不能包含下列任何字符:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:527
@@ -190,7 +191,8 @@ msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "不支持的协议"
 
-#: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
+#: ../../../ui_helper/bdui/bdlogin.ui:14
+#: ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
 msgstr "登录"
@@ -776,7 +778,8 @@ msgctxt "QApplication|"
 msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
-msgstr " %1 无法连接到Bdrive服务器。此设备可能脱机或需要代理设置。需要设置代理么?"
+msgstr ""
+" %1 无法连接到Bdrive服务器。此设备可能脱机或需要代理设置。需要设置代理么?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
@@ -1402,3 +1405,647 @@ msgstr "另存为失败"
 msgctxt "Waiter|"
 msgid "Wait for authentication"
 msgstr "等待验证"
+
+#: ../../NetDriveUI/adddrive.ui:312
+msgctxt "AddDrive|"
+msgid "ITEM LOCATION"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:293
+msgctxt "AddDrive|"
+msgid "In account"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:294
+msgctxt "AddDrive|"
+msgid "In device"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:351
+msgctxt "AddDrive|"
+msgid "Add a Personal Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:357
+msgctxt "AddDrive|"
+msgid "Add a Team Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:436
+msgctxt "AddDrive|"
+msgid "Configure a Team Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:441
+msgctxt "AddDrive|"
+msgid "Configure a Personal Drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1652
+msgctxt "AddDrive|"
+msgid ""
+"This team drive has no connection information set yet. Do you want to do it "
+"now?"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloadprogress.ui:32
+msgctxt "Dialog|"
+msgid "Progress"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloaditem.cpp:12
+msgctxt "DownloadItem|"
+msgid "Preparing Download..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
+msgctxt "DownloadProgressDlg|"
+msgid "File Download"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
+msgctxt "FileBrowserManager|"
+msgid "Save to Downloads Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
+msgctxt "FileBrowserManager|"
+msgid "Download to..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
+msgctxt "FileBrowserManager|"
+msgid "Open"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
+msgctxt "FileBrowserManager|"
+msgid "Reload"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
+msgctxt "FileBrowserManager|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
+msgctxt "FileBrowserManager|"
+msgid "Move"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
+msgctxt "FileBrowserManager|"
+msgid "Delete"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+msgctxt "FileBrowserManager|"
+msgid "New folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Get Shareable Link"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
+msgctxt "FileBrowserManager|"
+msgid "Lock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
+msgctxt "FileBrowserManager|"
+msgid "Unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
+msgctxt "FileBrowserManager|"
+msgid "Force unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
+msgctxt "FileBrowserManager|"
+msgid "Locked files list"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Connection Fail"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+msgctxt "FileBrowserManager|"
+msgid "Failed to connect protocol."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
+msgctxt "FileBrowserManager|"
+msgid "Failed to get file list."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Failed to get root ID."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Reload Folder"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Failed to reload folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
+msgctxt "FileBrowserManager|"
+msgid "Download Complete."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "File downloading failed"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "Can not download file from server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid ""
+"Successful to get shareable link.\n"
+"%1\n"
+"Click the OK button to copy the shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Failed to get shareable link."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "Failed to rename file with %1"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1004
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
+msgctxt "FileBrowserManager|"
+msgid "Move File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+msgctxt "FileBrowserManager|"
+msgid "Delete File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+msgctxt "FileBrowserManager|"
+msgid "Failed to delete file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+msgctxt "FileBrowserManager|"
+msgid "Failed to create new folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+msgctxt "FileBrowserManager|"
+msgid "Lock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+msgctxt "FileBrowserManager|"
+msgid "Failed to lock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+msgctxt "FileBrowserManager|"
+msgid "Unlock File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+msgctxt "FileBrowserManager|"
+msgid "Failed to unlock the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+msgctxt "FileBrowserManager|"
+msgid "Failed Action"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "A file with the same name as %1 exists."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file to destination folder."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+msgctxt "FileBrowserManager|"
+msgid "Destination folder has a file with the same name."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+msgctxt "FileBrowserManager|"
+msgid "File Open"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+msgctxt "FileBrowserManager|"
+msgid "Failed to create temporary directory."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
+msgctxt "FileBrowserManager|"
+msgid "Get File List"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Name"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Size"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Modified"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:94
+msgctxt "FlatSettingContents|"
+msgid "Unlock all locked files when disconnecting drive"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
+msgctxt "LockedFileListDlg|"
+msgid "Locked Files List"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+msgctxt "LockedFileListDlg|"
+msgid "There is no locked file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+msgctxt "LockedFileListDlg|"
+msgid "Unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+msgctxt "LockedFileListDlg|"
+msgid "Force unlock"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
+#, qt-format
+msgctxt "LockedFileListDlg|"
+msgid "Locked files list in %1"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
+msgctxt "LockedFileModel|"
+msgid "Missing"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
+msgctxt "LockedFileModel|"
+msgid "Path"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
+msgctxt "LockedFileModel|"
+msgid "Locked by"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
+msgctxt "LockedFileModel|"
+msgid "Device"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
+msgctxt "LockedFileModel|"
+msgid "Status"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:209
+msgctxt "NDFlatUI|"
+msgid " (Maintainer)"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:531
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available!"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:726
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"The team drive [%1] was unmounted because it was unpublished by maintainer."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:872
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"Do you want to publish [%1] to team members now? You can publish it later."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1930
+msgctxt "NDFlatUI|"
+msgid "Failed to connect Bdrive server."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2460
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available"
+msgstr ""
+
+#: ../../../common/protocolmap.h:26
+msgctxt "QApplication|"
+msgid "Recommend to register your own API KEY and SECRET KEY."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1619
+msgctxt "QApplication|"
+msgid "Publish"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1626
+msgctxt "QApplication|"
+msgid "Republish"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1629
+msgctxt "QApplication|"
+msgid "Unpublish"
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:212
+msgctxt "QCoreApplication|"
+msgid "It's wrong data. Try again, please."
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:246
+msgctxt "QCoreApplication|"
+msgid ""
+"There is another Bdrive account logged in this device. Do you want to log "
+"the account out and log your account in?"
+msgstr ""
+
+#: ../../ndagent/BDUserManager.cpp:261
+msgctxt "QCoreApplication|"
+msgid "Failed to get drive list. Try again, please."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.ui:276
+msgctxt "QDriveItem|"
+msgid "BROWSE"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:181
+msgctxt "QDriveItem|"
+msgid "Failed to open file browser."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:184
+msgctxt "QDriveItem|"
+msgid "NetDrive"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:624
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "[%1] is not configured yet after published. Do you want to config?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:699
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to publish [%1]."
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:719
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to unpublish [%1]"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1809
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Do you want to publish [%1] to team members?"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1827
+#, qt-format
+msgctxt "QDriveItem|"
+msgid ""
+"When unpublished, the drive of the member being mounted is unmounted and the "
+"file not saved in the drive may be lost.\n"
+"Do you want to unpublish [%1] from team members?"
+msgstr ""
+
+#: ../../NetDriveUI/errmsg.cpp:95
+msgctxt "QObject|"
+msgid "You do not have permission."
+msgstr ""
+
+#: ../../ndagent/BDUser.cpp:632
+msgctxt "QObject|"
+msgid ""
+"Login failed because communication with the server failed. Please check your "
+"proxy or Internet connection."
+msgstr ""
+
+#: ../../ndagent/BDUser.cpp:647
+msgctxt "QObject|"
+msgid "Login failed. Please click here to check."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
+msgctxt "QObject|"
+msgid "An error occurred on the push server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
+msgctxt "QObject|"
+msgid "The file is already locked."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
+msgctxt "QObject|"
+msgid "The drive does not exist."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
+msgctxt "QObject|"
+msgid "The file does not exist in the locked files list"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
+msgctxt "QObject|"
+msgid "The file is locked by another user."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
+msgctxt "QObject|"
+msgid "The file is locked on another device."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to refresh %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to lock %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to unlock %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to force unlock %1."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
+msgctxt "QObject|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
+msgctxt "QObject|"
+msgid "Move"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
+msgctxt "QObject|"
+msgid "Delete"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"%1 failed because the locked file is in the folder. Unlock the file and try "
+"again."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 failed because the file is locked. Unlock the file and try again."
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:14
+msgctxt "QSelectItemType|"
+msgid "Select a drive type"
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:22
+msgctxt "QSelectItemType|"
+msgid "Select a drive type you want to add."
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:45
+msgctxt "QSelectItemType|"
+msgid "Team drive item"
+msgstr ""
+
+#: ../../NetDriveUI/qselectitemtype.ui:52
+msgctxt "QSelectItemType|"
+msgid "Personal drive item"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:43
+msgctxt "Rename|"
+msgid "New name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:101
+msgctxt "Rename|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/rename.ui:114
+msgctxt "Rename|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:11
+msgctxt "RenameDlg|"
+msgid "Create Directory"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:12
+msgctxt "RenameDlg|"
+msgid "Directory name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:16
+msgctxt "RenameDlg|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:17
+msgctxt "RenameDlg|"
+msgid "New name:"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+msgctxt "SelectFolder|"
+msgid "Folder listing failed"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+msgctxt "SelectFolder|"
+msgid "Can not retrieve folder list from server."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:49
+msgctxt "SelectFolder|"
+msgid "OK"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:59
+msgctxt "SelectFolder|"
+msgid "Cancel"
+msgstr ""

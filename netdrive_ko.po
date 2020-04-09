@@ -5,6 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: ko_KR\n"
+"X-Source-Language: C\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../NetDriveUI/adddrive.ui:17
@@ -378,12 +379,12 @@ msgstr "잠금"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr "잠금 풀기"
+msgstr "잠금 해제"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr "강제 잠금 풀기"
+msgstr "강제 잠금 해제"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
@@ -612,7 +613,7 @@ msgstr "사용 가능한 베타 버젼을 확인"
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr "드라이드의 연결을 끊을때 잠긴 모든 파일을 풀기"
+msgstr "드라이브의 연결을 끊을때 잠긴 모든 파일의 잠금 해제하기"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
@@ -752,12 +753,12 @@ msgstr "잠긴 파일이 없습니다."
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr "잠금 풀기"
+msgstr "잠금 해제"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr "강제 잠금 풀기"
+msgstr "강제 잠금 해제"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
@@ -1523,7 +1524,7 @@ msgstr "이 장차에 이미 로그인한 다른 Bdrive 계정이 있습니다. 
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr "검색"
+msgstr "탐색"
 
 #: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
 #: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
@@ -1831,13 +1832,13 @@ msgstr "%1의 잠금 실패"
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr "%1의 잠금 풀기 실패"
+msgstr "%1의 잠금 해제 실패"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr "%1의 강제 잠금 풀기 실패"
+msgstr "%1의 강제 잠금 해제 실패"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
 msgctxt "QObject|"

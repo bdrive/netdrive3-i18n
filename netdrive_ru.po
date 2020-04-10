@@ -420,7 +420,7 @@ msgstr "Не удалось получить список файлов."
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr "Не удалось получить ID root."
+msgstr "Не удалось получить root ID."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"

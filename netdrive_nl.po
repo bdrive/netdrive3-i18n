@@ -960,7 +960,7 @@ msgid ""
 "you sure to log out?"
 msgstr ""
 "Als je uitlogt, worden de items met 'kopelen bij opstarten' niet automatisch "
-"gekoppeld. Weet u zeker dat u wilt uitloggen?
+"gekoppeld. Weet u zeker dat u wilt uitloggen?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2858
 msgctxt "NDFlatUI|"
@@ -1233,7 +1233,7 @@ msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
 msgstr ""
-%1 kon niet verbinden met de Bdriver server. Dit apparaat kan ofline zijn of "
+"%1 kon niet verbinden met de Bdriver server. Dit apparaat kan ofline zijn of "
 "proxy instellingen zijn nodig. Wil je proxy instellingen?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
@@ -1263,7 +1263,7 @@ msgid ""
 "may take a long time."
 msgstr ""
 "Als dit de eesrte verbinding is en er veel bestanden zijn, kan de verbinding "
-"wat langer duren".
+"wat langer duren."
 
 #: ../../../common/protocolmap.h:17
 msgctxt "QApplication|"
@@ -1481,8 +1481,8 @@ msgstr "Letter"
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr "
-""Netdrive %1 is nu beschikbaar. Je hebt %2. Wil je nu bijwerken?"
+msgstr ""
+"Netdrive %1 is nu beschikbaar. Je hebt %2. Wil je nu bijwerken?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
@@ -1907,7 +1907,7 @@ msgid ""
 "be used except for debugging purpose."
 msgstr ""
 "Er is een rapport aangemaakt dat naar Bdrive Inc. opgestuurd kan worden om "
-"te helpen het probleem vast te stellen.\n"item
+"te helpen het probleem vast te stellen.\n"
 "\n"
 "geef ons een gedetailleerde beschrijving van wat er gebeurde voor de crash.\n"
 "\n"

@@ -2,12 +2,13 @@
 
 | Code | Language | File Name | The most recent version translated | Contributors |
 ----------| ----------|----------|------------|---------|
+nl | Dutch | [netdrive_nl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_nl.po) | 3.9 | tchabot |
+ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.9 | [@JulianYoon](https://github.com/JulianYoon) |
+ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.9 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
 es | Spanish | [netdrive_es.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_es.po) | 3.8 | [@pjmh81](https://github.com/Pjmh81) |
 de | German | [netdrive_de.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_de.po) | 3.8  | [Reiser89](https://github.com/Reiser89) |
 hu | Hungarian | [netdrive_hu.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_hu.po) | 3.8 | oreg |
 it | Italian | [netdrive_it.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_it.po) | 3.8 | [@bovirus](https://github.com/bovirus) |
-ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.8 | [@JulianYoon](https://github.com/JulianYoon) |
-ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.8 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
 vi | Vietnamese | [netdrive_vi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_vi.po) | 3.8 | [@thanthhot](https://github.com/thanhthot) |
 zh-CN | Simplified Chinese | [netdrive_zh-CN.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-CN.po) | 3.8 | [@airxw](https://github.com/airxw) |
 ca | Catalan | [netdrive_ca.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ca.po) |  | |

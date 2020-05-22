@@ -229,7 +229,6 @@ msgid ""
 msgid ""
 "Deze Team Schijf heeft nog geen verbindings gegevens. Wil je dit nu doen?"
 
-
 #: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."

@@ -10,47 +10,47 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "增加驅動"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "儲存空間類型"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "連接"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "選項"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "儲存驗證資訊"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "遠端路徑"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "瀏覽"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "標籤"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "掛載"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
@@ -60,97 +60,97 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "自動連接選項"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "手動掛載"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "開機時掛載"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "登入時掛載"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "上傳選項"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "在檔案總管中上傳"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "後臺上傳"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "唯讀選項"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "可寫儲存空間"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "唯讀儲存空間"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "進階選項"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr ""
+msgstr "永遠從伺服器檢索檔案列表"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "作為可攜式裝置"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ""
+msgstr "不顯示隱藏檔案及資料夾"
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr ""
+msgstr "使用靜態檔案系統(實驗性)"
 
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "顏色"
 
 #: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "網路硬碟"
 
 #: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "本地硬碟"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr ""
+msgstr "請按連接按鈕設定連接資訊"
 
 #: ../../NetDriveUI/adddrive.cpp:671
 msgctxt "AddDrive|"
@@ -158,36 +158,38 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
+"硬碟名稱不能包含下列任何符號:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:679
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr ""
+msgstr "請輸入儲存空間名稱"
 
 #: ../../NetDriveUI/adddrive.cpp:687
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
-msgstr ""
+msgstr "儲存空間名稱最大長度為50字"
 
 #: ../../NetDriveUI/adddrive.cpp:698
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr ""
+msgstr "請選擇遠端路徑"
 
 #: ../../NetDriveUI/adddrive.cpp:719
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr ""
+msgstr "名稱已被使用，請使用其他名稱"
 
 #: ../../NetDriveUI/adddrive.cpp:1585
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr ""
+msgstr "按“連接”按鈕後再試一次"
 
 #: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
-msgstr ""
+msgstr "不支持這個協定"
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
@@ -234,166 +236,166 @@ msgstr ""
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
 msgid "Email"
-msgstr ""
+msgstr "電子信箱"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
 msgid "Keep me logged in"
-msgstr ""
+msgstr "保持登入狀態"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
 msgid "OR"
-msgstr ""
+msgstr "或"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:203
 msgctxt "BDLogin|"
 msgid "Sign in with"
-msgstr ""
+msgstr "使用其他登入方式"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:273
 msgctxt "BDLogin|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
 msgid "Passphrase"
-msgstr ""
+msgstr "金鑰"
 
 #: ../../ndagent/BDUser.cpp:632
 msgctxt "BDUser|"
 msgid ""
 "Login failed because communication with the server failed. Please check your "
 "proxy or Internet connection."
-msgstr ""
+msgstr "登入失敗，無法連接到伺服器，請檢察代理伺服器或網路連接"
 
 #: ../../ndagent/BDUser.cpp:647
 msgctxt "BDUser|"
 msgid "Login failed. Please click here to check."
-msgstr ""
+msgstr "登入失敗，點擊查看"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
 msgid "Authentication Information"
-msgstr ""
+msgstr "身分驗證資訊"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
 msgid "User"
-msgstr ""
+msgstr "使用者名稱"
 
 #: ../../NetDriveUI/qdriveitem.cpp:356
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
-msgstr ""
+msgstr "設置儲存空間"
 
 #: ../../../ui_helper/filebrowser/downloadprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "進度"
 
 #: ../../../ui_helper/filebrowser/downloaditem.cpp:12
 msgctxt "DownloadItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "正在準備下載..."
 
 #: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
 msgctxt "DownloadProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "檔案下載"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "儲存到下載資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "下載到..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
 msgctxt "FileBrowserManager|"
 msgid "Open"
-msgstr ""
+msgstr "開啟"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "重新整理"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "重新命名"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
 msgctxt "FileBrowserManager|"
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "新建資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "取得可分享的連結"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "鎖定"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "解鎖"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "強制解鎖"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "上鎖檔案列表"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "連接失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 msgctxt "FileBrowserManager|"
@@ -404,37 +406,37 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "無法取得檔案列表"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "無法取得ROOT ID"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "重新載入資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "無法重新整理資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "下載完成"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "下載失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "無法從伺服器下載檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
 #, qt-format
@@ -444,11 +446,14 @@ msgid ""
 "%1\n"
 "Click the OK button to copy the shareable link."
 msgstr ""
+"成功取得可分享連結\n"
+"%1\n"
+"按下OK以複製連結"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "無法取得可下載的連結"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 #, qt-format
@@ -462,59 +467,59 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "移動檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "無法移動檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "刪除檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "無法刪除檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "無法新增資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "鎖定檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "無法鎖定檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "解鎖檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "無法解鎖檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "操作失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "檔案名 %1 已存在"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
 msgctxt "FileBrowserManager|"
@@ -529,27 +534,27 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "開啟檔案"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "無法建立臨時資料夾"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "取得檔案列表"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
@@ -559,203 +564,203 @@ msgstr ""
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
-msgstr ""
+msgstr "關於"
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr ""
+msgstr "授權給 %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr ""
+msgstr "試用"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
 msgctxt "FlatSettingContents|"
 msgid "GENERAL"
-msgstr ""
+msgstr "一般"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
 msgid "Start at login"
-msgstr ""
+msgstr "登入時開始"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr ""
+msgstr "使用Windows檔案管理連接到新的遠端儲存空間"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "自動檢查更新"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr ""
+msgstr "在可用情況下檢查測試版的更新"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
 msgid "Language"
-msgstr ""
+msgstr "語言"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:126
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
-msgstr ""
+msgstr "幫助我們翻譯!"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:151
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
-msgstr ""
+msgstr "快取"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:172
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "NetDrive在本地硬碟上保存遠端檔案的臨時副本"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:181
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr ""
+msgstr "快取路徑"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:198
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr ""
+msgstr "瀏覽"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr ""
+msgstr "用量"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
-msgstr ""
+msgstr "GB用於硬碟快取"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:267
 msgctxt "FlatSettingContents|"
 msgid "LOG"
-msgstr ""
+msgstr "日誌"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:288
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr ""
+msgstr "日誌等級"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:321
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr ""
+msgstr "開啟日誌資料夾"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:347
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
-msgstr ""
+msgstr "網路"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:353
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "代理伺服器設置"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
-msgstr ""
+msgstr "新連接到遠端儲存空間時啟動搜尋"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:89
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
-msgstr ""
+msgstr "開啟目錄"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:114
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr ""
+msgstr "硬碟目前有 %0.2f GB的可用空間"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "當中斷與空間的連接時解鎖所有上鎖的檔案"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "%1 Update"
-msgstr ""
+msgstr "%1 更新"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "有新的版本 %1 可以更新"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 可用，你目前使用的版本為 %3 ，是否需要更新?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr ""
+msgstr "更新日誌"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "以後自動下載並安裝更新"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:121
 msgctxt "FlatUpdate|"
 msgid "SKIP THIS VERSION"
-msgstr ""
+msgstr "跳過這個版本"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:128
 msgctxt "FlatUpdate|"
 msgid "REMIND ME LATER"
-msgstr ""
+msgstr "稍後提醒我"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:135
 msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
-msgstr ""
+msgstr "安裝更新"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "上鎖的檔案清單"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "沒有上鎖的檔案"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "解鎖"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "強制解鎖"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
@@ -771,22 +776,22 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "路徑"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "被鎖定"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "儲存空間"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "狀態"
 
 #: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
@@ -794,32 +799,32 @@ msgctxt "NDFlatUI|"
 msgid ""
 "The services of %1 must be running, but they are not running. Do you want to "
 "run them now?"
-msgstr ""
+msgstr "必要的 %1 服務未被啟動，是否現在啟動?"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "上傳中"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:63
 msgctxt "NDFlatUI|"
 msgid "WAITING"
-msgstr ""
+msgstr "等待中"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:66
 msgctxt "NDFlatUI|"
 msgid "FAILED"
-msgstr ""
+msgstr "失敗"
 
 #: ../../NetDriveUI/ndflatui.cpp:892
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
-msgstr ""
+msgstr "由於有重複的空間名稱，無法新增儲存空間"
 
 #: ../../NetDriveUI/ndflatui.cpp:896
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
-msgstr ""
+msgstr "無法新增儲存空間"
 
 #: ../../NetDriveUI/ndflatui.cpp:1084
 #, qt-format
@@ -830,255 +835,255 @@ msgid ""
 "the Internet.\n"
 "If you are connected to the Internet and still have this issue, please visit "
 "%1 to leave a note."
-msgstr ""
+msgstr "檢查網路連接，如果網路連接正常，請瀏覽 %1 進行說明"
 
 #: ../../NetDriveUI/ndflatui.cpp:1181
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
-msgstr ""
+msgstr "刪除儲存空間失敗"
 
 #: ../../NetDriveUI/ndflatui.cpp:1263
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
-msgstr ""
+msgstr "正在啟動NetDrive代理"
 
 #: ../../NetDriveUI/ndflatui.cpp:1267
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
-msgstr ""
+msgstr "正在初始化代理"
 
 #: ../../NetDriveUI/ndflatui.cpp:1270
 msgctxt "NDFlatUI|"
 msgid "Initailizing SDK."
-msgstr ""
+msgstr "正在初始化SDK"
 
 #: ../../NetDriveUI/ndflatui.cpp:1276
 msgctxt "NDFlatUI|"
 msgid "Checking network."
-msgstr ""
+msgstr "檢查網路"
 
 #: ../../NetDriveUI/ndflatui.cpp:1279
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
-msgstr ""
+msgstr "使用記住的使用者名稱登入"
 
 #: ../../NetDriveUI/ndflatui.cpp:1284
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
-msgstr ""
+msgstr "開機時掛載"
 
 #: ../../NetDriveUI/ndflatui.cpp:1292
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
-msgstr ""
+msgstr "代理可用"
 
 #: ../../NetDriveUI/ndflatui.cpp:1300
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
-msgstr ""
+msgstr "正在連接到NetDrive代理"
 
 #: ../../NetDriveUI/ndflatui.cpp:1487
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
-msgstr ""
+msgstr "上傳 %1 失敗"
 
 #: ../../NetDriveUI/ndflatui.cpp:2409
 msgctxt "NDFlatUI|"
 msgid "&Open"
-msgstr ""
+msgstr "開啟"
 
 #: ../../NetDriveUI/ndflatui.cpp:2412
 msgctxt "NDFlatUI|"
 msgid "&Quit"
-msgstr ""
+msgstr "退出"
 
 #: ../../NetDriveUI/ndflatui.cpp:2415
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
-msgstr ""
+msgstr "檢查更新"
 
 #: ../../NetDriveUI/ndflatui.cpp:2418
 msgctxt "NDFlatUI|"
 msgid "&Login"
-msgstr ""
+msgstr "登入"
 
 #: ../../NetDriveUI/ndflatui.cpp:2422
 msgctxt "NDFlatUI|"
 msgid "Log&out"
-msgstr ""
+msgstr "登出"
 
 #: ../../NetDriveUI/ndflatui.cpp:2429
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
-msgstr ""
+msgstr "正在初始化..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2581
 msgctxt "NDFlatUI|"
 msgid "NetDrive is Quiting..."
-msgstr ""
+msgstr "正在退出NetDrive..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2621
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
-msgstr ""
+msgstr "如果您登出，“開機時掛載”選項將不會自動連接，您確定要登出嗎?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2757
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
-msgstr ""
+msgstr "正在登出"
 
 #: ../../NetDriveUI/ndflatui.cpp:3237
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
-msgstr ""
+msgstr "目前最新的版本是 %!"
 
 #: ../../NetDriveUI/ndflatui.cpp:3412
 msgctxt "NDFlatUI|"
 msgid "Drives"
-msgstr ""
+msgstr "儲存空間"
 
 #: ../../NetDriveUI/ndflatui.cpp:3417
 msgctxt "NDFlatUI|"
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/ndflatui.cpp:3420
 msgctxt "NDFlatUI|"
 msgid "Uploading"
-msgstr ""
+msgstr "正在上傳"
 
 #: ../../NetDriveUI/ndflatui.cpp:3425
 msgctxt "NDFlatUI|"
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #: ../../NetDriveUI/ndflatui.cpp:3428
 msgctxt "NDFlatUI|"
 msgid "Account Info"
-msgstr ""
+msgstr "帳戶資訊"
 
 #: ../../NetDriveUI/ndflatui.cpp:3431
 msgctxt "NDFlatUI|"
 msgid "Manage License"
-msgstr ""
+msgstr "管理授權"
 
 #: ../../NetDriveUI/ndflatui.cpp:3434
 msgctxt "NDFlatUI|"
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #: ../../NetDriveUI/ndflatui.cpp:3437
 msgctxt "NDFlatUI|"
 msgid "Logout"
-msgstr ""
+msgstr "登出"
 
 #: ../../NetDriveUI/ndflatui.cpp:3440
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
-msgstr ""
+msgstr "NetDrive說明"
 
 #: ../../NetDriveUI/ndflatui.cpp:3443
 msgctxt "NDFlatUI|"
 msgid "View"
-msgstr ""
+msgstr "視窗"
 
 #: ../../NetDriveUI/ndflatui.cpp:3444
 msgctxt "NDFlatUI|"
 msgid "Account"
-msgstr ""
+msgstr "帳戶"
 
 #: ../../NetDriveUI/ndflatui.cpp:3445
 msgctxt "NDFlatUI|"
 msgid "Help"
-msgstr ""
+msgstr "說明"
 
 #: ../../NetDriveUI/ndflatui.cpp:3644
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
-msgstr ""
+msgstr "無法取得儲存空間資訊"
 
 #: ../../NetDriveUI/ndflatui.cpp:3653
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
-msgstr ""
+msgstr "無法取得儲存空間名稱"
 
 #: ../../NetDriveUI/ndflatui.cpp:209
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr "(管理者)"
 
 #: ../../NetDriveUI/ndflatui.cpp:531
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available!"
-msgstr ""
+msgstr "目前無法使用NetDrive檔案鎖定服務!"
 
 #: ../../NetDriveUI/ndflatui.cpp:726
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "由於管理者取消公開，團隊儲存空間 [%1] 已被取消掛載"
 
 #: ../../NetDriveUI/ndflatui.cpp:872
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "您想要現在公開 [%1] 給團隊成員嗎?您也可以稍後再公開"
 
 #: ../../NetDriveUI/ndflatui.cpp:1930
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "無法連結到Bdrive伺服器"
 
 #: ../../NetDriveUI/ndflatui.cpp:2460
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available"
-msgstr ""
+msgstr "目前無法使用NetDrive檔案鎖定服務!"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "代理伺服器設定"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:27
 msgctxt "ProxySelector|"
 msgid "Use system proxy settings"
-msgstr ""
+msgstr "使用系統代理伺服器設定"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:36
 msgctxt "ProxySelector|"
 msgid "PROXY TYPE"
-msgstr ""
+msgstr "代理伺服器類型"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:45
 msgctxt "ProxySelector|"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:89
 msgctxt "ProxySelector|"
 msgid "User"
-msgstr ""
+msgstr "使用者名稱"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:96
 msgctxt "ProxySelector|"
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:103
 msgctxt "ProxySelector|"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:133
 msgctxt "ProxySelector|"
 msgid "Host"
-msgstr ""
+msgstr "主機"
 
 #: ../../../common/ndcore.cpp:245
 #, qt-format
@@ -1086,71 +1091,71 @@ msgctxt "QApplication|"
 msgid ""
 "Bdrive server returned an error. If the issue persists, please contact %1 "
 "support."
-msgstr ""
+msgstr "Bdrive回報錯誤，如果問題依然存在，請聯繫 %1 取得協助"
 
 #: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
 msgctxt "QApplication|"
 msgid "Subscription status"
-msgstr ""
+msgstr "訂閱狀態"
 
 #: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
 msgctxt "QApplication|"
 msgid "Subscription type"
-msgstr ""
+msgstr "訂閱類型"
 
 #: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
 msgctxt "QApplication|"
 msgid "Max registered devices"
-msgstr ""
+msgstr "最大綁定裝置數"
 
 #: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
-msgstr ""
+msgstr "最大連接數"
 
 #: ../../../common/ndcore.cpp:1601
 msgctxt "QApplication|"
 msgid "type"
-msgstr ""
+msgstr "類型"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr ""
+msgstr "需使用電子信箱登入"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Proper password required to login"
-msgstr ""
+msgstr "需用密碼登入"
 
 #: ../../../ui_helper/bdui/bdloginbase.cpp:22
 msgctxt "QApplication|"
 msgid "LOGIN"
-msgstr ""
+msgstr "登入"
 
 #: ../../../ui_helper/bdui/bdmessagebox.cpp:78
 msgctxt "QApplication|"
 msgid "Detail"
-msgstr ""
+msgstr msgstr "詳細資訊"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:141
 #, qt-format
 msgctxt "QApplication|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "有新的 %1 版本可用"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:147
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 可用，您現在的版本為 %3 ，是否需要現在更新?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1159,178 +1164,178 @@ msgctxt "QApplication|"
 msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
-msgstr ""
+msgstr "%1 無法連接到Bdrive伺服器，該裝置可能已經離線或需要設置代理伺服器，是否設置代理伺服器?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "回報錯誤"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
 msgctxt "QApplication|"
 msgid "Failed to upload crash info."
-msgstr ""
+msgstr "無法上傳錯誤資訊"
 
 #: ../../ndagent/BDUserManager.cpp:213
 msgctxt "QApplication|"
 msgid "It's wrong data. Try again, please."
-msgstr ""
+msgstr "資料有誤，是否重試?"
 
 #: ../../ndagent/BDUserManager.cpp:262
 msgctxt "QApplication|"
 msgid "Failed to get drive list. Try again, please."
-msgstr ""
+msgstr "無法取得空間列表，請重試"
 
 #: ../../../common/authtemplate.cpp:202
 msgctxt "QApplication|"
 msgid "BROWSE"
-msgstr ""
+msgstr "瀏覽"
 
 #: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
 msgctxt "QApplication|"
 msgid "NETWORK"
-msgstr ""
+msgstr "網路"
 
 #: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
 #: ../../NetDriveUI/ndflatui.cpp:2002
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "代理伺服器設置"
 
 #: ../../../common/authtemplate.cpp:972
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
-msgstr ""
+msgstr "請再次檢查登入資訊"
 
 #: ../../../common/authtemplate.cpp:976
 msgctxt "QApplication|"
 msgid "Please check the server information"
-msgstr ""
+msgstr "請檢察伺服器資訊"
 
 #: ../../../common/authtemplate.cpp:980
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
-msgstr ""
+msgstr "請檢察SSL資訊"
 
 #: ../../../common/authtemplate.cpp:984
 msgctxt "QApplication|"
 msgid "Please check the connection information"
-msgstr ""
+msgstr "請檢察連接資訊"
 
 #: ../../../common/authtemplate.cpp:987
 msgctxt "QApplication|"
 msgid "Connection failed"
-msgstr ""
+msgstr "連接失敗"
 
 #: ../../NetDriveUI/adddrive.cpp:157
 msgctxt "QApplication|"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 #: ../../NetDriveUI/adddrive.cpp:986
 msgctxt "QApplication|"
 msgid "CONNECT"
-msgstr ""
+msgstr "連接"
 
 #: ../../NetDriveUI/adddrive.cpp:1154
 msgctxt "QApplication|"
 msgid "Failed to set option."
-msgstr ""
+msgstr "無法設定選項"
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 msgctxt "QApplication|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "身分驗證失敗"
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
-msgstr ""
+msgstr "因為 %1 導致驗證失敗"
 
 #: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
 msgctxt "QApplication|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "中斷連接"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
 msgid "CANCEL ALL"
-msgstr ""
+msgstr "全部取消"
 
 #: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
 msgctxt "QApplication|"
 msgid "CANCEL SELECTED"
-msgstr ""
+msgstr "取消選中的項目"
 
 #: ../../NetDriveUI/failedupload.cpp:45
 msgctxt "QApplication|"
 msgid "RETRY ALL"
-msgstr ""
+msgstr "全部重試"
 
 #: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
 msgctxt "QApplication|"
 msgid "RETRY SELECTED"
-msgstr ""
+msgstr "重試選中的項目"
 
 #: ../../NetDriveUI/failedupload.cpp:92
 msgctxt "QApplication|"
 msgid "SAVE AS"
-msgstr ""
+msgstr "另存新檔"
 
 #: ../../NetDriveUI/main.cpp:125
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
-msgstr ""
+msgstr "取得 %1 服務資訊失敗"
 
 #: ../../NetDriveUI/main.cpp:137
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
-msgstr ""
+msgstr "無法設置 %1 服務的啟動類型"
 
 #: ../../NetDriveUI/main.cpp:149
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
-msgstr ""
+msgstr "無法啟動 %1 服務"
 
 #: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
 msgctxt "QApplication|"
 msgid "DRIVES"
-msgstr ""
+msgstr "儲存空間"
 
 #: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
 msgctxt "QApplication|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "正在上傳"
 
 #: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
 #: ../../NetDriveUI/ndflatui.cpp:3736
 msgctxt "QApplication|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
 msgctxt "QApplication|"
 msgid "ABOUT"
-msgstr ""
+msgstr "關於"
 
 #: ../../NetDriveUI/ndflatui.cpp:1980
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
-msgstr ""
+msgstr "建立免費的Bdrive帳戶"
 
 #: ../../NetDriveUI/ndflatui.cpp:1982
 msgctxt "QApplication|"
 msgid "Can't log in?"
-msgstr ""
+msgstr "無法登入?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2058
 msgctxt "QApplication|"
 msgid "Device authorization"
-msgstr ""
+msgstr "裝置授權"
 
 #: ../../NetDriveUI/ndflatui.cpp:2059
 #, qt-format
@@ -1338,92 +1343,92 @@ msgctxt "QApplication|"
 msgid ""
 "NetDrive will be quit because failed to get device id. Please visit %1 to "
 "leave a note."
-msgstr ""
+msgstr "因為無法取得裝置ID，NetDrive即將退出，請訪問 %1 並留言"
 
 #: ../../NetDriveUI/ndflatui.cpp:2329
 msgctxt "QApplication|"
 msgid "Notice"
-msgstr ""
+msgstr "注意"
 
 #: ../../NetDriveUI/ndflatui.cpp:2977
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
-msgstr ""
+msgstr "帳戶資訊"
 
 #: ../../NetDriveUI/ndflatui.cpp:2984
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
-msgstr ""
+msgstr "管理授權"
 
 #: ../../NetDriveUI/ndflatui.cpp:2993
 msgctxt "QApplication|"
 msgid "LOGOUT"
-msgstr ""
+msgstr "登出"
 
 #: ../../NetDriveUI/ndflatui.cpp:3223
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
-msgstr ""
+msgstr "%1 %2 目前可用"
 
 #: ../../../common/protocolmap.h:11
 msgctxt "QApplication|"
 msgid ""
 "If it is the first connection and there are a lot of files, the connection "
 "may take a long time."
-msgstr ""
+msgstr "如果是第一次連接，因為有較多檔案，可能需要等待比較長的時間"
 
 #: ../../../common/protocolmap.h:17
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr ""
+msgstr "不支援重新命名及移動的操作"
 
 #: ../../NetDriveUI/ndprotocoldll.cpp:130
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
-msgstr ""
+msgstr "等待授權"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1608
 msgctxt "QApplication|"
 msgid "Open"
-msgstr ""
+msgstr "開啟"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1639
 msgctxt "QApplication|"
 msgid "Config"
-msgstr ""
+msgstr "配置"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1647
 msgctxt "QApplication|"
 msgid "Duplicate"
-msgstr ""
+msgstr "重複"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1653
 msgctxt "QApplication|"
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1659
 msgctxt "QApplication|"
 msgid "Log"
-msgstr ""
+msgstr "日誌"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "無法排列資料夾"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "無法從伺服器檢索資料夾列表"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
@@ -1435,7 +1440,7 @@ msgstr ""
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr ""
+msgstr "NetDrive %1 可更新，目前使用版本為 %2 ，是否現在更新?"
 
 #: ../../../common/protocolmap.h:27
 msgctxt "QApplication|"
@@ -1445,22 +1450,22 @@ msgstr ""
 #: ../../NetDriveUI/qdriveitem.cpp:1621
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "公開"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1628
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "重新公開"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1631
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "取消公開"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
 msgid "Authentication Required"
-msgstr ""
+msgstr "需要授權"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
 msgctxt "QAuthDlg|"
@@ -1468,130 +1473,130 @@ msgid ""
 "The proxy requires a username and password.\n"
 "\n"
 "Your connection to this site is not private."
-msgstr ""
+msgstr "需要代理伺服器使用者名稱及密碼，您與這個網站連接不是私人的"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
 msgctxt "QAuthDlg|"
 msgid "User Name"
-msgstr ""
+msgstr "使用者名稱"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
 msgctxt "QAuthDlg|"
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
 msgctxt "QAuthDlg|"
 msgid "Log In"
-msgstr ""
+msgstr "登入"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
 msgctxt "QAuthDlg|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../ndagent/BDUserManager.cpp:247
 msgctxt "QCoreApplication|"
 msgid ""
 "There is another Bdrive account logged in this device. Do you want to log "
 "the account out and log your account in?"
-msgstr ""
+msgstr "有另一個Bdrive在本裝置上登入，您是否要將其登出並重新登入目前的帳戶?"
 
 #: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
 #: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECT"
-msgstr ""
+msgstr "連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:223
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
-msgstr ""
+msgstr "%1 已掛載，是否要取消掛載 %1 以繼續?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:241
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
-msgstr ""
+msgstr "無法取消掛載 %1 ，請稍後重試"
 
 #: ../../NetDriveUI/qdriveitem.cpp:257
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
-msgstr ""
+msgstr "您是否想要中斷與 %1 的連接?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:667
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
-msgstr ""
+msgstr "沒有 %1 的日誌檔"
 
 #: ../../NetDriveUI/qdriveitem.cpp:859
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
-msgstr ""
+msgstr "取消掛載失敗"
 
 #: ../../NetDriveUI/qdriveitem.cpp:891
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
-msgstr ""
+msgstr "因有重複名稱，無法配置儲存空間"
 
 #: ../../NetDriveUI/qdriveitem.cpp:895
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
-msgstr ""
+msgstr "無法配置儲存空間"
 
 #: ../../NetDriveUI/qdriveitem.cpp:936
 msgctxt "QDriveItem|"
 msgid "CANCEL"
-msgstr ""
+msgstr "取消"
 
 #: ../../NetDriveUI/qdriveitem.cpp:943 ../../NetDriveUI/qdriveitem.cpp:1434
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
-msgstr ""
+msgstr "未連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
-msgstr ""
+msgstr "正在連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1447
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
-msgstr ""
+msgstr "已連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "中斷連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1454
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
-msgstr ""
+msgstr "正在中斷連接"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1526
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
-msgstr ""
+msgstr "您確定要刪除 %1 嗎?"
 
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr ""
+msgstr "瀏覽"
 
 #: ../../NetDriveUI/qdriveitem.cpp:181
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "無法開啟檔案瀏覽器"
 
 #: ../../NetDriveUI/qdriveitem.cpp:184
 msgctxt "QDriveItem|"
 msgid "NetDrive"
-msgstr ""
+msgstr "NetDrive"
 
 #: ../../NetDriveUI/qdriveitem.cpp:626
 #, qt-format
@@ -1603,19 +1608,19 @@ msgstr ""
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "無法共享 [%1] "
 
 #: ../../NetDriveUI/qdriveitem.cpp:721
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "無法取消共享 [%1] "
 
 #: ../../NetDriveUI/qdriveitem.cpp:1811
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "您確定要與團隊成員共享 [%1]嗎?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1829
 #, qt-format
@@ -1625,124 +1630,126 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
+"當你取消共享，已掛載空間的其他成員將被取消掛載，"
+"文件將不會被儲存並可能遺失\n""您是否要自團隊成員取消掛載 [%1] ?"
 
 #: ../../../common/aerrorstring.cpp:9
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall NetDrive."
-msgstr ""
+msgstr "發生嚴重問題，請重新安裝NetDrive"
 
 #: ../../../common/aerrorstring.cpp:11
 msgctxt "QObject|"
 msgid "Success."
-msgstr ""
+msgstr "成功"
 
 #: ../../../common/aerrorstring.cpp:13
 msgctxt "QObject|"
 msgid "Failed."
-msgstr ""
+msgstr "失敗"
 
 #: ../../NetDriveUI/errmsg.cpp:23
 msgctxt "QObject|"
 msgid "Access Denied."
-msgstr ""
+msgstr "拒絕訪問"
 
 #: ../../NetDriveUI/errmsg.cpp:27
 msgctxt "QObject|"
 msgid "Path not found."
-msgstr ""
+msgstr "未找到路徑"
 
 #: ../../NetDriveUI/errmsg.cpp:31
 msgctxt "QObject|"
 msgid "Connection error."
-msgstr ""
+msgstr "連接錯誤"
 
 #: ../../NetDriveUI/errmsg.cpp:35
 msgctxt "QObject|"
 msgid "Drive letter already used."
-msgstr ""
+msgstr "儲存空間代號已被使用"
 
 #: ../../NetDriveUI/errmsg.cpp:39
 msgctxt "QObject|"
 msgid "Mount Error."
-msgstr ""
+msgstr "掛載錯誤"
 
 #: ../../NetDriveUI/errmsg.cpp:43
 msgctxt "QObject|"
 msgid "Mount process is not executed."
-msgstr ""
+msgstr "未執行掛載指令"
 
 #: ../../NetDriveUI/errmsg.cpp:47
 msgctxt "QObject|"
 msgid ""
 "Files are currently being uploading. Do you want to disconnect forcefully?"
-msgstr ""
+msgstr "正在上傳檔案，您是否要強制中斷連接?"
 
 #: ../../NetDriveUI/errmsg.cpp:51
 msgctxt "QObject|"
 msgid "NetDrive is not initialized."
-msgstr ""
+msgstr "NetDrive沒有初始化"
 
 #: ../../NetDriveUI/errmsg.cpp:55
 msgctxt "QObject|"
 msgid "No available drive letter."
-msgstr ""
+msgstr "沒有可用的儲存空間代號"
 
 #: ../../NetDriveUI/errmsg.cpp:59
 msgctxt "QObject|"
 msgid "Wrong Parameter."
-msgstr ""
+msgstr "參數錯誤"
 
 #: ../../NetDriveUI/errmsg.cpp:63
 msgctxt "QObject|"
 msgid "Network path already used."
-msgstr ""
+msgstr "網路路徑已被使用"
 
 #: ../../NetDriveUI/errmsg.cpp:67
 msgctxt "QObject|"
 msgid "Cache path error."
-msgstr ""
+msgstr "快取路徑錯誤"
 
 #: ../../NetDriveUI/errmsg.cpp:71
 msgctxt "QObject|"
 msgid "Operation Failed."
-msgstr ""
+msgstr "操作失敗"
 
 #: ../../NetDriveUI/errmsg.cpp:75
 msgctxt "QObject|"
 msgid "Not logged in user."
-msgstr ""
+msgstr "未登入的使用者"
 
 #: ../../NetDriveUI/errmsg.cpp:79
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
-msgstr ""
+msgstr "您使用的協議版本與本產品版本不同，請重新安裝NetDrive"
 
 #: ../../NetDriveUI/errmsg.cpp:83
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
-msgstr ""
+msgstr "本版本已不再可用，請更新以繼續使用"
 
 #: ../../NetDriveUI/errmsg.cpp:87
 msgctxt "QObject|"
 msgid "Not supported protocol type"
-msgstr ""
+msgstr "不受支援的協定"
 
 #: ../../NetDriveUI/errmsg.cpp:91
 msgctxt "QObject|"
 msgid "Already mounted drive item."
-msgstr ""
+msgstr msgstr "已掛載的儲存空間"
 
 #: ../../NetDriveUI/errmsg.cpp:99
 msgctxt "QObject|"
 msgid "Error occurred."
-msgstr ""
+msgstr "發生錯誤"
 
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr ""
+msgstr "您沒有權限"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
 msgctxt "QObject|"
@@ -1752,66 +1759,66 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr ""
+msgstr "本文件已鎖定"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr ""
+msgstr "儲存空間不存在"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr ""
+msgstr "本文件不在上鎖檔案列表"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr ""
+msgstr "本檔案被其他使用者鎖定"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr ""
+msgstr "本檔案在其他儲存空間被鎖定"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr ""
+msgstr "無法重新整理 %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr ""
+msgstr "無法鎖定 %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr ""
+msgstr "無法解鎖 %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr ""
+msgstr "無法強制解鎖 %1"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
 msgctxt "QObject|"
 msgid "Rename"
-msgstr ""
+msgstr "重新命名"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
 msgctxt "QObject|"
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
 #, qt-format
@@ -1819,38 +1826,38 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr ""
+msgstr "因資料夾中的檔案被鎖定導致 %1 失敗，請解鎖檔案並再試一次"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr ""
+msgstr "因檔案被鎖定導致 %1 失敗，請解鎖檔案並再試一次"
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr ""
+msgstr "選擇儲存空間類型"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr ""
+msgstr "請選擇您想要新增的儲存空間類型"
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr ""
+msgstr "團隊儲存空間"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr ""
+msgstr "個人儲存空間"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "回報錯誤"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
 msgctxt "QSenderDlg|"
@@ -1863,17 +1870,17 @@ msgid ""
 "\n"
 "The information you send us will help us to fix this problem and it will not "
 "be used except for debugging purpose."
-msgstr ""
+msgstr "是否將錯誤資訊回報給Bdrive以協助他們解決問題?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
-msgstr ""
+msgstr "(分鐘)剩餘"
 
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr ""
+msgstr "新名稱"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
@@ -1883,48 +1890,48 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/rename.ui:114
 msgctxt "Rename|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr ""
+msgstr "建立目錄"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr ""
+msgstr "目錄名稱"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr ""
+msgstr "重新命名"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr ""
+msgstr "新名稱"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
-msgstr ""
+msgstr "選擇資料夾"
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
-msgstr ""
+msgstr "新增資料夾"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "取得資料夾列表失敗"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "無法自伺服器取得資料夾列表"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:49
 msgctxt "SelectFolder|"
@@ -1934,89 +1941,89 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/selectfolder.ui:59
 msgctxt "SelectFolder|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
-msgstr ""
+msgstr "排列"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 #: ../../NetDriveUI/update.ui:14
 msgctxt "Update|"
 msgid "NetDrive Update"
-msgstr ""
+msgstr "NetDrive更新"
 
 #: ../../NetDriveUI/update.ui:78
 msgctxt "Update|"
 msgid "A new version of NetDrive is available!"
-msgstr ""
+msgstr "NetDrive有新的版本可用!"
 
 #: ../../NetDriveUI/update.ui:104
 msgctxt "Update|"
 msgid "Release notes:"
-msgstr ""
+msgstr "更新日誌"
 
 #: ../../NetDriveUI/update.ui:127
 msgctxt "Update|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "以後自動下載並安裝新"
 
 #: ../../NetDriveUI/update.ui:150
 msgctxt "Update|"
 msgid "Skip this version"
-msgstr ""
+msgstr "跳過此版本"
 
 #: ../../NetDriveUI/update.ui:157
 msgctxt "Update|"
 msgid "Later"
-msgstr ""
+msgstr "稍後"
 
 #: ../../NetDriveUI/update.ui:164
 msgctxt "Update|"
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: ../../NetDriveUI/uploaditem.cpp:105
 msgctxt "UploadItem|"
 msgid "Failed to upload"
-msgstr ""
+msgstr "上傳失敗"
 
 #: ../../NetDriveUI/uploaditem.cpp:241
 msgctxt "UploadItem|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../NetDriveUI/uploaditem.cpp:244
 msgctxt "UploadItem|"
 msgid "Retry"
-msgstr ""
+msgstr "重試"
 
 #: ../../NetDriveUI/uploaditem.cpp:247
 msgctxt "UploadItem|"
 msgid "Save as"
-msgstr ""
+msgstr "另存新檔"
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
 msgid "No files are being uploaded."
-msgstr ""
+msgstr "沒有上傳任何檔案"
 
 #: ../../NetDriveUI/uploadings.cpp:59
 msgctxt "Uploadings|"
 msgid "Failed to retry."
-msgstr ""
+msgstr "重試失敗"
 
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr ""
+msgstr "無法另存新檔"
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
 msgid "Wait for authentication"
-msgstr ""
+msgstr "等待驗證"

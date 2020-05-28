@@ -2,6 +2,7 @@
 
 | Code | Language | File Name | The most recent version translated | Contributors |
 ----------| ----------|----------|------------|---------|
+zh-TW | Traditional Chinese | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) | 3.9 | [@Hs0](https://github.com/Hs0) |
 nl | Dutch | [netdrive_nl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_nl.po) | 3.9 | tchabot |
 ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.9 | [@JulianYoon](https://github.com/JulianYoon) |
 ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.9 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
@@ -22,7 +23,6 @@ lv | Latvian | [netdrive_lv.po](https://github.com/bdrive/netdrive3-i18n/blob/ma
 po | Polish | [netdrive_pl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_pl.po) |  | |
 sk | Slovak | [netdrive_sk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_sk.po) |  | |
 uk | Ukrainian | [netdrive_uk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_uk.po) |  | |
-zh-TW | Traditional Chinese | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) |  | |
 
 # How to Translate
 

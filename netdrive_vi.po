@@ -648,11 +648,7 @@ msgstr "DUYỆT"
 #, fuzzy
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr ""
-"#-#-#-#-#  netdrive_vi.po  #-#-#-#-#\n"
-"Dùng\n"
-"#-#-#-#-#  netdrive_vi.po  #-#-#-#-#\n"
-"Dùng tới"
+msgstr "Sử dụng tối đa"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"

@@ -10,7 +10,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr "增加驅動"
+msgstr "加入儲存空間"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
@@ -209,29 +209,29 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "新增個人儲存空間"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "新增團隊儲存空間"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "配置團隊儲存空間"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "配置個人儲存空間"
 
 #: ../../NetDriveUI/adddrive.cpp:1652
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr "本團隊儲存空間尚未設置連接資訊，您要現在設置嗎?"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"

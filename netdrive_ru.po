@@ -207,7 +207,7 @@ msgstr "В аккаунте"
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr "В устройстве"
+msgstr "На устройстве"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"

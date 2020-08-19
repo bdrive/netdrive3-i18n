@@ -10,147 +10,147 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "Přidat disk"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "Typ uložiště"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "Připojit"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "Možnosti"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "Uložit ověřovací údaje"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "Vzdálená cesta"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "Hledat"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "Označení"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "Připojit"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "Jako"
 
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "Možnosti automatického připojení"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "Nepřipojovat automaticky"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "Připojit při bootu"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "Připojit při přihlášní"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "Možnosti nahrávání"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "Používat on-the-fly nahrávání v prohlížeči souborů"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "Nahrávat na pozadí"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "Možnosti pouze pro čtení"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "Zapisovatelný disk"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "Disk pouze pro čtení"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "Pokročilá nastavení"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr ""
+msgstr "Vždy získat seznam souborů od serveru"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "Jako odnímatelný disk"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ""
+msgstr "Považovat složky a soubory začínající tečkou jako skryté"
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr ""
+msgstr "Používat statický souborový systém (Experimentální)"
 
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "Barva"
 
 #: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "Síťový disk"
 
 #: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "Místní disk"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr ""
+msgstr "Prosím zmáčkněte tlačítko PŘIPOJIT pro nastavení informací o připojení."
 
 #: ../../NetDriveUI/adddrive.cpp:671
 msgctxt "AddDrive|"
@@ -158,283 +158,285 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
+"Jméno disku nemůže obsahovat žádný z následujících znaků:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:679
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr ""
+msgstr "Prosím zadejte jméno disku."
 
 #: ../../NetDriveUI/adddrive.cpp:687
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
-msgstr ""
+msgstr "Maximální délka jména disku je 50 znaků."
 
 #: ../../NetDriveUI/adddrive.cpp:698
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr ""
+msgstr "Prosím vyberte vzdálenou cestu."
 
 #: ../../NetDriveUI/adddrive.cpp:719
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr ""
+msgstr "Prosím zadejte jiné jméno, protože toho jméno je již použito u jiného disku."
 
 #: ../../NetDriveUI/adddrive.cpp:1585
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr ""
+msgstr "Prosím zkuste to znovu kliknutím na tlačítko PŘIPOJIT."
 
 #: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
-msgstr ""
+msgstr "Nepodporujeme tento protokol."
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "Pozice položky"
 
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr V ůčtu""
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "V zařízení"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "Přidejte osobní disk"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "Přidejte disk pro skupinu"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "Konfigurujte disk pro skupinu"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "Konfigurujte osobní disk"
 
 #: ../../NetDriveUI/adddrive.cpp:1652
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr Tento disk pro skupinu nemá zadané žádné informace pro připojení. Chcete je zadat teď?""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Zůstat přihlášen"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
 msgid "OR"
-msgstr ""
+msgstr "nebo"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:203
 msgctxt "BDLogin|"
 msgid "Sign in with"
-msgstr ""
+msgstr "Přihlásit se přes"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:273
 msgctxt "BDLogin|"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
 msgid "Passphrase"
-msgstr ""
+msgstr "Přístupová fráze"
 
 #: ../../ndagent/BDUser.cpp:632
 msgctxt "BDUser|"
 msgid ""
 "Login failed because communication with the server failed. Please check your "
 "proxy or Internet connection."
-msgstr ""
+msgstr "Přpiojení selhalo kvůli selhání komunikace se serverem. Prosím zkontrolujte proxy nebo vaše připojení k internetu."
 
 #: ../../ndagent/BDUser.cpp:647
 msgctxt "BDUser|"
 msgid "Login failed. Please click here to check."
-msgstr ""
+msgstr "Přihlášení selhalo. Prosím klikněte sem pro zkontrolování."
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
 msgid "Authentication Information"
-msgstr ""
+msgstr "Přístupové informace"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
 msgid "User"
-msgstr ""
+msgstr "Uživatel"
 
 #: ../../NetDriveUI/qdriveitem.cpp:356
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
-msgstr ""
+msgstr "Zkonfiguurujte disk"
 
 #: ../../../ui_helper/filebrowser/downloadprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "Postup"
 
 #: ../../../ui_helper/filebrowser/downloaditem.cpp:12
 msgctxt "DownloadItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "Připravování stahování..."
 
 #: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
 msgctxt "DownloadProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "Stahování souboru"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "Uložit do stažených souborů"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "Stahování do..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
 msgctxt "FileBrowserManager|"
 msgid "Open"
-msgstr ""
+msgstr "Otevřít"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "Znovunačíst"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "Přejmenovat"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "Přesunout"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
 msgctxt "FileBrowserManager|"
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "Nová složka"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "Získat sdílitelný odkaz"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "Zamknout"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "Odemknout"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "Nuceně odemknout"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "Seznam zamčených souborů"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "Selhání připojení"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "Připojení protokolu selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "Získání seznamu složek selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "Získání root ID selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "Znovunačíst složku"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "Znovunačítánísložky selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "Stahování dokončeno."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "Stahování selhalo"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "Nemůžu stáhnout soubor ze serveru."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
 #, qt-format
@@ -443,18 +445,20 @@ msgid ""
 "Successful to get shareable link.\n"
 "%1\n"
 "Click the OK button to copy the shareable link."
-msgstr ""
+msgstr "Odkaz na sdílení úspěšně získán.\n"
+"%1\n"
+"Zmáčkněte tlačítko OK pro zkopírování odkazu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "Získání odkazu pro sdílení selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "Přejmenování složky na %1 selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
@@ -462,331 +466,331 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "Přesunout soubor"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "Přemístění souboru selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "Smazat soubor"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "Smazání souboru selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "Vytvoření nové složky selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "Zamknout soubor"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "Zamknutí souboru selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "Odemknout soubor."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "Odemknutísouboru selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "Proces selhal"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "Soubor se stejným názvem jako %1 již existuje."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr ""
+msgstr "Přemístění souboru do cílové složky selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr ""
+msgstr "Cílová složka má soubor se stejným jménem."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "Složka otevřena"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "Vytvoření dočasné složky selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "Získat seznam souborů"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "Velikost"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr ""
+msgstr "Zmněněno"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
-msgstr ""
+msgstr "O"
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr ""
+msgstr "Licencováno na %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr ""
+msgstr "Zkušební"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
 msgid "Search"
-msgstr ""
+msgstr "Hledat"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "Nastavnení"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
 msgctxt "FlatSettingContents|"
 msgid "GENERAL"
-msgstr ""
+msgstr "Hlavní"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
 msgid "Start at login"
-msgstr ""
+msgstr "Spustit při přihlášení"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr ""
+msgstr "Spustit průzkumník souborů při novém připojení ke vzdálenému disku."
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Automaticky kontrolovat aktualizace"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr ""
+msgstr "Kontrolovat aktualizace na beta verze"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:126
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
-msgstr ""
+msgstr "Pomozte nám s překlady!"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:151
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
-msgstr ""
+msgstr "mezipaměť"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:172
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "NetDrive uchovává dočasné kopie vzdálených souborý v místním disku."
 
 #: ../../NetDriveUI/flatsettingcontents.ui:181
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr ""
+msgstr "Cesta k mezipaměti"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:198
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr ""
+msgstr "Hledat"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr ""
+msgstr "Používat maximálně"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
-msgstr ""
+msgstr "GB pro mezipaměť"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:267
 msgctxt "FlatSettingContents|"
 msgid "LOG"
-msgstr ""
+msgstr "Výpis"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:288
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr ""
+msgstr "Úroveň výpisu"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:321
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr ""
+msgstr "Otevřít složku s výpisy"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:347
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
-msgstr ""
+msgstr "Síť"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:353
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "Nastavení proxy"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
-msgstr ""
+msgstr "Spustit Finder při novém připojení vzdáleného uložiště"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:89
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
-msgstr ""
+msgstr "Otevřít složku"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:114
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr ""
+msgstr "Aktuálně %0.2f GB folného místa na disku"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "Odemknout všechny zamčené soubory při odpojování od disku"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "%1 Update"
-msgstr ""
+msgstr "%1 Aktualizace"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "Nová verze %1 je dostupná!"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 je nynídostupná - máte %3. Chcete nyní stáhnout?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr ""
+msgstr "Poznámky k vydání:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "V budoucnu automaticky stahovat a instalovat nové verze"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:121
 msgctxt "FlatUpdate|"
 msgid "SKIP THIS VERSION"
-msgstr ""
+msgstr "Přeskočit tuto verzi"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:128
 msgctxt "FlatUpdate|"
 msgid "REMIND ME LATER"
-msgstr ""
+msgstr "Připomenout později"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:135
 msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
-msgstr ""
+msgstr "Nainstalovat aktualizaci"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "Seznam zamčených souborů"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "Není zde žádný zamčený soubor."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "Odemknout"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "Nuceně odemknout"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "List zamčených souborů v %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "Chybí"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "Cesta"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "Zamčeno"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "Zařízení"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
@@ -794,32 +798,32 @@ msgctxt "NDFlatUI|"
 msgid ""
 "The services of %1 must be running, but they are not running. Do you want to "
 "run them now?"
-msgstr ""
+msgstr "Služby %1 musí být spuštěny, ale nenjsou. Chcete je sputit?"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "Nahrávání"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:63
 msgctxt "NDFlatUI|"
 msgid "WAITING"
-msgstr ""
+msgstr "čeakání"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:66
 msgctxt "NDFlatUI|"
 msgid "FAILED"
-msgstr ""
+msgstr "Selhání"
 
 #: ../../NetDriveUI/ndflatui.cpp:892
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
-msgstr ""
+msgstr "Při přidání disku se vyskytla chyba, protože jeho jméno již obsazeno."
 
 #: ../../NetDriveUI/ndflatui.cpp:896
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
-msgstr ""
+msgstr "Přidání disku selhalo."
 
 #: ../../NetDriveUI/ndflatui.cpp:1084
 #, qt-format
@@ -831,254 +835,256 @@ msgid ""
 "If you are connected to the Internet and still have this issue, please visit "
 "%1 to leave a note."
 msgstr ""
+"Tato chyba může být způsobena připojením k Bdrive serveru což se obvykle děje pokud Bdrive servery nebo váš počítač nejsou připojené k internetu.\n"
+"Pokud jste připojeni k internetu a stále máte tento problém, navštivte prosím %1."
 
 #: ../../NetDriveUI/ndflatui.cpp:1181
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
-msgstr ""
+msgstr "Smazání disku selhalo."
 
 #: ../../NetDriveUI/ndflatui.cpp:1263
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
-msgstr ""
+msgstr "NetDrive agent startuje."
 
 #: ../../NetDriveUI/ndflatui.cpp:1267
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
-msgstr ""
+msgstr "Inicializování agenta."
 
 #: ../../NetDriveUI/ndflatui.cpp:1270
 msgctxt "NDFlatUI|"
 msgid "Initailizing SDK."
-msgstr ""
+msgstr "Inicializování SDK."
 
 #: ../../NetDriveUI/ndflatui.cpp:1276
 msgctxt "NDFlatUI|"
 msgid "Checking network."
-msgstr ""
+msgstr "Kontrolování síťě"
 
 #: ../../NetDriveUI/ndflatui.cpp:1279
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
-msgstr ""
+msgstr "Přihlašování uloženého uživatele."
 
 #: ../../NetDriveUI/ndflatui.cpp:1284
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
-msgstr ""
+msgstr "Připojování disků při bootování."
 
 #: ../../NetDriveUI/ndflatui.cpp:1292
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
-msgstr ""
+msgstr "Agent je připraven"
 
 #: ../../NetDriveUI/ndflatui.cpp:1300
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
-msgstr ""
+msgstr "Připojování k NetDrive Agentu."
 
 #: ../../NetDriveUI/ndflatui.cpp:1487
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
-msgstr ""
+msgstr "Nahrávání %1 selhalo."
 
 #: ../../NetDriveUI/ndflatui.cpp:2409
 msgctxt "NDFlatUI|"
 msgid "&Open"
-msgstr ""
+msgstr "Otevřít"
 
 #: ../../NetDriveUI/ndflatui.cpp:2412
 msgctxt "NDFlatUI|"
 msgid "&Quit"
-msgstr ""
+msgstr "Zavřít"
 
 #: ../../NetDriveUI/ndflatui.cpp:2415
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
-msgstr ""
+msgstr "Hledání aktualizací"
 
 #: ../../NetDriveUI/ndflatui.cpp:2418
 msgctxt "NDFlatUI|"
 msgid "&Login"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../NetDriveUI/ndflatui.cpp:2422
 msgctxt "NDFlatUI|"
 msgid "Log&out"
-msgstr ""
+msgstr "Odhlásit se"
 
 #: ../../NetDriveUI/ndflatui.cpp:2429
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
-msgstr ""
+msgstr "Inicializování..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2581
 msgctxt "NDFlatUI|"
 msgid "NetDrive is Quiting..."
-msgstr ""
+msgstr "NetDrive se zavírá..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2621
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
-msgstr ""
+msgstr "Opravdu se chcete odhlásit?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2757
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
-msgstr ""
+msgstr "Odhlašování..."
 
 #: ../../NetDriveUI/ndflatui.cpp:3237
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
-msgstr ""
+msgstr "Aktuální verze %1 je aktuální."
 
 #: ../../NetDriveUI/ndflatui.cpp:3412
 msgctxt "NDFlatUI|"
 msgid "Drives"
-msgstr ""
+msgstr "Disk"
 
 #: ../../NetDriveUI/ndflatui.cpp:3417
 msgctxt "NDFlatUI|"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: ../../NetDriveUI/ndflatui.cpp:3420
 msgctxt "NDFlatUI|"
 msgid "Uploading"
-msgstr ""
+msgstr "Nahrávání"
 
 #: ../../NetDriveUI/ndflatui.cpp:3425
 msgctxt "NDFlatUI|"
 msgid "About"
-msgstr ""
+msgstr "O"
 
 #: ../../NetDriveUI/ndflatui.cpp:3428
 msgctxt "NDFlatUI|"
 msgid "Account Info"
-msgstr ""
+msgstr "Informace o účtu"
 
 #: ../../NetDriveUI/ndflatui.cpp:3431
 msgctxt "NDFlatUI|"
 msgid "Manage License"
-msgstr ""
+msgstr "Spravovat Licenci"
 
 #: ../../NetDriveUI/ndflatui.cpp:3434
 msgctxt "NDFlatUI|"
 msgid "Login"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../NetDriveUI/ndflatui.cpp:3437
 msgctxt "NDFlatUI|"
 msgid "Logout"
-msgstr ""
+msgstr "Odhlásit se"
 
 #: ../../NetDriveUI/ndflatui.cpp:3440
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
-msgstr ""
+msgstr "NetDrive Nápověda"
 
 #: ../../NetDriveUI/ndflatui.cpp:3443
 msgctxt "NDFlatUI|"
 msgid "View"
-msgstr ""
+msgstr "Pohled"
 
 #: ../../NetDriveUI/ndflatui.cpp:3444
 msgctxt "NDFlatUI|"
 msgid "Account"
-msgstr ""
+msgstr "Účet"
 
 #: ../../NetDriveUI/ndflatui.cpp:3445
 msgctxt "NDFlatUI|"
 msgid "Help"
-msgstr ""
+msgstr "Nápověda"
 
 #: ../../NetDriveUI/ndflatui.cpp:3644
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
-msgstr ""
+msgstr "Nemůžu získat informace o disku"
 
 #: ../../NetDriveUI/ndflatui.cpp:3653
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
-msgstr ""
+msgstr "Nemůžu získat jméno disku"
 
 #: ../../NetDriveUI/ndflatui.cpp:209
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr "(Administrátor)"
 
 #: ../../NetDriveUI/ndflatui.cpp:531
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available!"
-msgstr ""
+msgstr "NetDrive File Lock je nedostupný!"
 
 #: ../../NetDriveUI/ndflatui.cpp:726
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "Disk pro skupinu [%1] byl odpojen administrátorem."
 
 #: ../../NetDriveUI/ndflatui.cpp:872
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "Chcete zveřejnit [%1] ostatním členům skupiny? Můžete to udělat později."
 
 #: ../../NetDriveUI/ndflatui.cpp:1930
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "Nepodařilo se se připojit na Bdrive servery."
 
 #: ../../NetDriveUI/ndflatui.cpp:2460
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available"
-msgstr ""
+msgstr "NetDrive zámek souborů je nedostupný"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "Nastavení proxy"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:27
 msgctxt "ProxySelector|"
 msgid "Use system proxy settings"
-msgstr ""
+msgstr "Používat systemová nastavení proxy"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:36
 msgctxt "ProxySelector|"
 msgid "PROXY TYPE"
-msgstr ""
+msgstr "Typ proxy"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:45
 msgctxt "ProxySelector|"
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:89
 msgctxt "ProxySelector|"
 msgid "User"
-msgstr ""
+msgstr "Uživatel"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:96
 msgctxt "ProxySelector|"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:103
 msgctxt "ProxySelector|"
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:133
 msgctxt "ProxySelector|"
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 #: ../../../common/ndcore.cpp:245
 #, qt-format
@@ -1086,71 +1092,71 @@ msgctxt "QApplication|"
 msgid ""
 "Bdrive server returned an error. If the issue persists, please contact %1 "
 "support."
-msgstr ""
+msgstr "Bdrive servery vrací chybu. Pokud tento problém přetrvává, kontaktujte %1"
 
 #: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
 msgctxt "QApplication|"
 msgid "Subscription status"
-msgstr ""
+msgstr "Status odběru"
 
 #: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
 msgctxt "QApplication|"
 msgid "Subscription type"
-msgstr ""
+msgstr "Typ odběru"
 
 #: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
 msgctxt "QApplication|"
 msgid "Max registered devices"
-msgstr ""
+msgstr "Maximální počet registrovaných zařízení"
 
 #: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
-msgstr ""
+msgstr "Maximální počet sessionů."
 
 #: ../../../common/ndcore.cpp:1601
 msgctxt "QApplication|"
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Login"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr ""
+msgstr "Emailová adresa je vyžadována pro přihlášení."
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Proper password required to login"
-msgstr ""
+msgstr "Správné helo je vyžadováno pro přihlášní"
 
 #: ../../../ui_helper/bdui/bdloginbase.cpp:22
 msgctxt "QApplication|"
 msgid "LOGIN"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../../ui_helper/bdui/bdmessagebox.cpp:78
 msgctxt "QApplication|"
 msgid "Detail"
-msgstr ""
+msgstr "Podrobnosti"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:141
 #, qt-format
 msgctxt "QApplication|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "Nová verze %1 je dostupná!"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:147
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 je nynídostupná - máte %3. Chcete začit stahování teď?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1159,178 +1165,178 @@ msgctxt "QApplication|"
 msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
-msgstr ""
+msgstr "%1 se nemohl připojit k Bdrive Serveru. Toto zařízení může být offline nebo proxy nastavení jsou vyžadována. Chcete nastavit nastavení proxy."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "Odeslat záznam zhroucení"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
 msgctxt "QApplication|"
 msgid "Failed to upload crash info."
-msgstr ""
+msgstr "Nahrávání záznamu zhroucení selhalo."
 
 #: ../../ndagent/BDUserManager.cpp:213
 msgctxt "QApplication|"
 msgid "It's wrong data. Try again, please."
-msgstr ""
+msgstr "Špatné data. Zkuste to znovu."
 
 #: ../../ndagent/BDUserManager.cpp:262
 msgctxt "QApplication|"
 msgid "Failed to get drive list. Try again, please."
-msgstr ""
+msgstr "Získání seznamu disků selhalo. Zkuste to znovu prosím."
 
 #: ../../../common/authtemplate.cpp:202
 msgctxt "QApplication|"
 msgid "BROWSE"
-msgstr ""
+msgstr "Hledání"
 
 #: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
 msgctxt "QApplication|"
 msgid "NETWORK"
-msgstr ""
+msgstr "Síť"
 
 #: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
 #: ../../NetDriveUI/ndflatui.cpp:2002
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "Nastavení proxy"
 
 #: ../../../common/authtemplate.cpp:972
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
-msgstr ""
+msgstr "Prosím překontrolujte přihlašovací údaje."
 
 #: ../../../common/authtemplate.cpp:976
 msgctxt "QApplication|"
 msgid "Please check the server information"
-msgstr ""
+msgstr "Prosím zkontrolujte informace o serveru"
 
 #: ../../../common/authtemplate.cpp:980
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
-msgstr ""
+msgstr "Prosím zkontrolujte SSL informace"
 
 #: ../../../common/authtemplate.cpp:984
 msgctxt "QApplication|"
 msgid "Please check the connection information"
-msgstr ""
+msgstr "Prosím zkontrolujte připojovací údaje"
 
 #: ../../../common/authtemplate.cpp:987
 msgctxt "QApplication|"
 msgid "Connection failed"
-msgstr ""
+msgstr "Připojení selhalo"
 
 #: ../../NetDriveUI/adddrive.cpp:157
 msgctxt "QApplication|"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: ../../NetDriveUI/adddrive.cpp:986
 msgctxt "QApplication|"
 msgid "CONNECT"
-msgstr ""
+msgstr "Připojit"
 
 #: ../../NetDriveUI/adddrive.cpp:1154
 msgctxt "QApplication|"
 msgid "Failed to set option."
-msgstr ""
+msgstr "Selhání při nastavování možnosti."
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 msgctxt "QApplication|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "Ověření selhalo"
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
-msgstr ""
+msgstr "Ověření s %1 selhalo"
 
 #: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
 msgctxt "QApplication|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "Odpojit"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
 msgid "CANCEL ALL"
-msgstr ""
+msgstr "Zrušit vše"
 
 #: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
 msgctxt "QApplication|"
 msgid "CANCEL SELECTED"
-msgstr ""
+msgstr "Zrušit vybrané"
 
 #: ../../NetDriveUI/failedupload.cpp:45
 msgctxt "QApplication|"
 msgid "RETRY ALL"
-msgstr ""
+msgstr "Znovu zkusit vše"
 
 #: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
 msgctxt "QApplication|"
 msgid "RETRY SELECTED"
-msgstr ""
+msgstr "Znovu zkusit vybrané"
 
 #: ../../NetDriveUI/failedupload.cpp:92
 msgctxt "QApplication|"
 msgid "SAVE AS"
-msgstr ""
+msgstr "Uložit jako"
 
 #: ../../NetDriveUI/main.cpp:125
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
-msgstr ""
+msgstr "Nepodařilo se získat informace o službě %1"
 
 #: ../../NetDriveUI/main.cpp:137
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
-msgstr ""
+msgstr "Selhání při startovaní služby %1"
 
 #: ../../NetDriveUI/main.cpp:149
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
-msgstr ""
+msgstr "Selhání při startování úlohy %1"
 
 #: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
 msgctxt "QApplication|"
 msgid "DRIVES"
-msgstr ""
+msgstr "Disky"
 
 #: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
 msgctxt "QApplication|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "Nahrávání"
 
 #: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
 #: ../../NetDriveUI/ndflatui.cpp:3736
 msgctxt "QApplication|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "Nastavení"
 
 #: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
 msgctxt "QApplication|"
 msgid "ABOUT"
-msgstr ""
+msgstr "O"
 
 #: ../../NetDriveUI/ndflatui.cpp:1980
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
-msgstr ""
+msgstr "Vytvořte si Bdrive účet zdarma"
 
 #: ../../NetDriveUI/ndflatui.cpp:1982
 msgctxt "QApplication|"
 msgid "Can't log in?"
-msgstr ""
+msgstr "Nemůžete se přihlásit?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2058
 msgctxt "QApplication|"
 msgid "Device authorization"
-msgstr ""
+msgstr "Zařízení autorizováno"
 
 #: ../../NetDriveUI/ndflatui.cpp:2059
 #, qt-format
@@ -1338,129 +1344,129 @@ msgctxt "QApplication|"
 msgid ""
 "NetDrive will be quit because failed to get device id. Please visit %1 to "
 "leave a note."
-msgstr ""
+msgstr "NetDrive se zavře protože nešlo získat id zařízení. Prosím navšťivte %1 na napsání poznámky."
 
 #: ../../NetDriveUI/ndflatui.cpp:2329
 msgctxt "QApplication|"
 msgid "Notice"
-msgstr ""
+msgstr "Poznámka"
 
 #: ../../NetDriveUI/ndflatui.cpp:2977
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
-msgstr ""
+msgstr "Informace o účtu"
 
 #: ../../NetDriveUI/ndflatui.cpp:2984
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
-msgstr ""
+msgstr "Spravovat licenci"
 
 #: ../../NetDriveUI/ndflatui.cpp:2993
 msgctxt "QApplication|"
 msgid "LOGOUT"
-msgstr ""
+msgstr "Odhlásit se"
 
 #: ../../NetDriveUI/ndflatui.cpp:3223
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
-msgstr ""
+msgstr "%1 %2 je nyní dostupný!"
 
 #: ../../../common/protocolmap.h:11
 msgctxt "QApplication|"
 msgid ""
 "If it is the first connection and there are a lot of files, the connection "
 "may take a long time."
-msgstr ""
+msgstr "Toto je první připojení a je tu spousta souborů, připojení může trvat dlouho."
 
 #: ../../../common/protocolmap.h:17
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr ""
+msgstr "Přejmenovat a přemístit nejsou podporované operace."
 
 #: ../../NetDriveUI/ndprotocoldll.cpp:130
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
-msgstr ""
+msgstr "Počkat na ověření..."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1608
 msgctxt "QApplication|"
 msgid "Open"
-msgstr ""
+msgstr "Otevřít"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1639
 msgctxt "QApplication|"
 msgid "Config"
-msgstr ""
+msgstr "Konfigurace"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1647
 msgctxt "QApplication|"
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikát"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1653
 msgctxt "QApplication|"
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1659
 msgctxt "QApplication|"
 msgid "Log"
-msgstr ""
+msgstr "Výpis"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "Výpis obsahu složky selhal"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "Nemůžu získat seznam souborů ze serveru."
 
 #: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
 msgid "Letter"
-msgstr ""
+msgstr "Písmeno"
 
 #: ../../NetDriveUI/update.cpp:30
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr ""
+msgstr "NetDrive %1 je nyní dostupný. Máte %2. Chcete aktualizovat?"
 
 #: ../../../common/protocolmap.h:27
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr ""
+msgstr "Doporučeno registrovat valstní API klíč a soukromý klíč."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1621
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "Zveřejnit"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1628
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "Znovuzveřejnit"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1631
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "Odveřejnit"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
 msgid "Authentication Required"
-msgstr ""
+msgstr "Ověření vyžadováno"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
 msgctxt "QAuthDlg|"
@@ -1468,154 +1474,156 @@ msgid ""
 "The proxy requires a username and password.\n"
 "\n"
 "Your connection to this site is not private."
-msgstr ""
+msgstr "Proxy vyžaduje uživatelské jméno a heslo.\n"
+"\n"
+"Vaše připojení není soukromé."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
 msgctxt "QAuthDlg|"
 msgid "User Name"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
 msgctxt "QAuthDlg|"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
 msgctxt "QAuthDlg|"
 msgid "Log In"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
 msgctxt "QAuthDlg|"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../ndagent/BDUserManager.cpp:247
 msgctxt "QCoreApplication|"
 msgid ""
 "There is another Bdrive account logged in this device. Do you want to log "
 "the account out and log your account in?"
-msgstr ""
+msgstr "Je zde již jiný účet přihlášený. Chcete ho odhlásit a přihlásit svůj?"
 
 #: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
 #: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECT"
-msgstr ""
+msgstr "Připojit"
 
 #: ../../NetDriveUI/qdriveitem.cpp:223
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
-msgstr ""
+msgstr "%1 je již připojená cesta. Chcete odpojit %1 pro pokračování?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:241
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
-msgstr ""
+msgstr "Odpojení %1 selhalo. Zkuste to znovu později."
 
 #: ../../NetDriveUI/qdriveitem.cpp:257
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
-msgstr ""
+msgstr "Jste si jistí že chcete odpojit %1?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:667
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
-msgstr ""
+msgstr "Neexistuje žádný výpisový soubor pro [%1]"
 
 #: ../../NetDriveUI/qdriveitem.cpp:859
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
-msgstr ""
+msgstr "Odpojení selhalo"
 
 #: ../../NetDriveUI/qdriveitem.cpp:891
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
-msgstr ""
+msgstr "Konfigurace disku selhala kvůli duplikaci jména."
 
 #: ../../NetDriveUI/qdriveitem.cpp:895
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
-msgstr ""
+msgstr "Konfigurace disku selhala."
 
 #: ../../NetDriveUI/qdriveitem.cpp:936
 msgctxt "QDriveItem|"
 msgid "CANCEL"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../NetDriveUI/qdriveitem.cpp:943 ../../NetDriveUI/qdriveitem.cpp:1434
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
-msgstr ""
+msgstr "Nepřipojeno"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
-msgstr ""
+msgstr "Připojování"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1447
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
-msgstr ""
+msgstr "Připojeno"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "Odpojit"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1454
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
-msgstr ""
+msgstr "Odpojování"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1526
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
-msgstr ""
+msgstr "Jste si jistý, že chcete smazat %1?"
 
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr ""
+msgstr "Hledat"
 
 #: ../../NetDriveUI/qdriveitem.cpp:181
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "Selhání při otevírání prohlížeče souborů."
 
 #: ../../NetDriveUI/qdriveitem.cpp:184
 msgctxt "QDriveItem|"
 msgid "NetDrive"
-msgstr ""
+msgstr "NetDrive"
 
 #: ../../NetDriveUI/qdriveitem.cpp:626
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr ""
+msgstr "[%1] není ještě zkonfigurovaný. Chcete ho zkonfigurovat?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:701
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "Zveřejnění[%1] selhalo."
 
 #: ../../NetDriveUI/qdriveitem.cpp:721
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "Nezveřejnění [%1] selhalo."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1811
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "Chcete [%1] zveřejnit členům skupiny?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1829
 #, qt-format
@@ -1624,83 +1632,84 @@ msgid ""
 "When unpublished, the drive of the member being mounted is unmounted and the "
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
-msgstr ""
+msgstr "Při nezveřejnění, disk uživatele je odpojený a soubory neuložené na disk můžou být ztraceny.\n"
+"Chcete nezveřejnit [%1] ostatním členům skupiny?"
 
 #: ../../../common/aerrorstring.cpp:9
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall NetDrive."
-msgstr ""
+msgstr "Vyskytla se vážná chyba. Prosím přeinstalujte NetDrive."
 
 #: ../../../common/aerrorstring.cpp:11
 msgctxt "QObject|"
 msgid "Success."
-msgstr ""
+msgstr "Úspěch."
 
 #: ../../../common/aerrorstring.cpp:13
 msgctxt "QObject|"
 msgid "Failed."
-msgstr ""
+msgstr "Selhání."
 
 #: ../../NetDriveUI/errmsg.cpp:23
 msgctxt "QObject|"
 msgid "Access Denied."
-msgstr ""
+msgstr "Přístup odepřen."
 
 #: ../../NetDriveUI/errmsg.cpp:27
 msgctxt "QObject|"
 msgid "Path not found."
-msgstr ""
+msgstr "Cesta nebyla nalezena."
 
 #: ../../NetDriveUI/errmsg.cpp:31
 msgctxt "QObject|"
 msgid "Connection error."
-msgstr ""
+msgstr "Chyba připojení."
 
 #: ../../NetDriveUI/errmsg.cpp:35
 msgctxt "QObject|"
 msgid "Drive letter already used."
-msgstr ""
+msgstr "Písmeno disku je již obsazeno."
 
 #: ../../NetDriveUI/errmsg.cpp:39
 msgctxt "QObject|"
 msgid "Mount Error."
-msgstr ""
+msgstr "Chyba při připojování."
 
 #: ../../NetDriveUI/errmsg.cpp:43
 msgctxt "QObject|"
 msgid "Mount process is not executed."
-msgstr ""
+msgstr "Připojovací proces není vykonán."
 
 #: ../../NetDriveUI/errmsg.cpp:47
 msgctxt "QObject|"
 msgid ""
 "Files are currently being uploading. Do you want to disconnect forcefully?"
-msgstr ""
+msgstr "Soubory se nahrávají. Chcete se i tak odpojit?"
 
 #: ../../NetDriveUI/errmsg.cpp:51
 msgctxt "QObject|"
 msgid "NetDrive is not initialized."
-msgstr ""
+msgstr "NetDrive není inicializován."
 
 #: ../../NetDriveUI/errmsg.cpp:55
 msgctxt "QObject|"
 msgid "No available drive letter."
-msgstr ""
+msgstr "Nezbylo žádné doostupné písmeno pro disk."
 
 #: ../../NetDriveUI/errmsg.cpp:59
 msgctxt "QObject|"
 msgid "Wrong Parameter."
-msgstr ""
+msgstr "Chybný parametr."
 
 #: ../../NetDriveUI/errmsg.cpp:63
 msgctxt "QObject|"
 msgid "Network path already used."
-msgstr ""
+msgstr "Síťová cesta již použita."
 
 #: ../../NetDriveUI/errmsg.cpp:67
 msgctxt "QObject|"
 msgid "Cache path error."
-msgstr ""
+msgstr "Chyba v cestě k mezipaměti."
 
 #: ../../NetDriveUI/errmsg.cpp:71
 msgctxt "QObject|"
@@ -1710,108 +1719,108 @@ msgstr ""
 #: ../../NetDriveUI/errmsg.cpp:75
 msgctxt "QObject|"
 msgid "Not logged in user."
-msgstr ""
+msgstr "Nejste přihlášen v uživateli."
 
 #: ../../NetDriveUI/errmsg.cpp:79
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
-msgstr ""
+msgstr "Verze protokolu je odlišná od verze produktu. Prosím přeinstalujte NetDrive."
 
 #: ../../NetDriveUI/errmsg.cpp:83
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
-msgstr ""
+msgstr "Nemůžete používat tuto verzi. Prosím nainstalujte verzi, kterou můžete používat."
 
 #: ../../NetDriveUI/errmsg.cpp:87
 msgctxt "QObject|"
 msgid "Not supported protocol type"
-msgstr ""
+msgstr "Nepodporovaný typ protokolu."
 
 #: ../../NetDriveUI/errmsg.cpp:91
 msgctxt "QObject|"
 msgid "Already mounted drive item."
-msgstr ""
+msgstr "Disk je již připojený."
 
 #: ../../NetDriveUI/errmsg.cpp:99
 msgctxt "QObject|"
 msgid "Error occurred."
-msgstr ""
+msgstr "Objevila se chyba."
 
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr ""
+msgstr "Nemáte povolení."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
-msgstr ""
+msgstr "Na serveru se vyskytla chyba."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr ""
+msgstr "Soubor je už zamklý."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr ""
+msgstr "Disk neexistuje."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr ""
+msgstr "Soubor není v seznamu zamčených souborů."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr ""
+msgstr "Soubor je zamčený jiným uživatelem."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr ""
+msgstr "Soubor je zamčený na jiném zařízení."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr ""
+msgstr "Znovunačtení %1 selhalo."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr ""
+msgstr "Zamčení %1 selhalo."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr ""
+msgstr "Odemčení %1 selhalo."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr ""
+msgstr "Nucené odemčení %1 selhalo."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
 msgctxt "QObject|"
 msgid "Rename"
-msgstr ""
+msgstr "Přejmenovat"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
 msgctxt "QObject|"
 msgid "Move"
-msgstr ""
+msgstr "Přesunout"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
 #, qt-format
@@ -1819,38 +1828,38 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr ""
+msgstr "%1 selhalo, protože ve složce je zmženýsoubor. Odemkněte ho a zkuste to znovu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr ""
+msgstr "%1 selhalo, protože soubor je zamčený. Odemkněte ho a zkuste to znovu."
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr ""
+msgstr "Vyberte typ disku"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr ""
+msgstr "Vyperte typ disku, který chcete přidat."
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr ""
+msgstr "Položka na disku pro skupinu"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr ""
+msgstr "Položka na osobním disku"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "Poslat zprávu o zhroucení"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
 msgctxt "QSenderDlg|"
@@ -1863,160 +1872,162 @@ msgid ""
 "\n"
 "The information you send us will help us to fix this problem and it will not "
 "be used except for debugging purpose."
-msgstr ""
+msgstr "Byla udělána zpráva, kterou můžete odeslat do Bdrive Inc. pro zlepšení rozeznání problému.\n"
+"Prosím poskytňěte nám informace co se stalo před zhroucením.\n"
+"Informace které nám odešlete nám pomůžou opravit problém a nebudou použity jinak než k vývojovým účemům."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
-msgstr ""
+msgstr "zbývající minuty."
 
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr ""
+msgstr "Nový název:"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
 msgid "OK"
-msgstr ""
+msgstr "Ok"
 
 #: ../../../ui_helper/filebrowser/rename.ui:114
 msgctxt "Rename|"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr ""
+msgstr "Vytvořit složku"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr ""
+msgstr "Název složky:"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr ""
+msgstr "Přejmenovat"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr ""
+msgstr "Nový název:"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
-msgstr ""
+msgstr "Vybrat složku"
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
-msgstr ""
+msgstr "Vytvořit novou složku"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "Prohledávání složky selhalo."
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "Nemohu dostat seznam souborů ze serveru."
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:49
 msgctxt "SelectFolder|"
 msgid "OK"
-msgstr ""
+msgstr "Ok"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:59
 msgctxt "SelectFolder|"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
-msgstr ""
+msgstr "Řadit podle"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: ../../NetDriveUI/update.ui:14
 msgctxt "Update|"
 msgid "NetDrive Update"
-msgstr ""
+msgstr "Aktualizace NetDrive"
 
 #: ../../NetDriveUI/update.ui:78
 msgctxt "Update|"
 msgid "A new version of NetDrive is available!"
-msgstr ""
+msgstr "Nová verze NetDrive je dostupná!"
 
 #: ../../NetDriveUI/update.ui:104
 msgctxt "Update|"
 msgid "Release notes:"
-msgstr ""
+msgstr "Poznámky k vydání:"
 
 #: ../../NetDriveUI/update.ui:127
 msgctxt "Update|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "V budoucnu automaticky stáhnout a nainstalovat aktualizovanou verzi"
 
 #: ../../NetDriveUI/update.ui:150
 msgctxt "Update|"
 msgid "Skip this version"
-msgstr ""
+msgstr "Přeskočit tuto verzi"
 
 #: ../../NetDriveUI/update.ui:157
 msgctxt "Update|"
 msgid "Later"
-msgstr ""
+msgstr "Později"
 
 #: ../../NetDriveUI/update.ui:164
 msgctxt "Update|"
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 #: ../../NetDriveUI/uploaditem.cpp:105
 msgctxt "UploadItem|"
 msgid "Failed to upload"
-msgstr ""
+msgstr "Nahrávání selhalo"
 
 #: ../../NetDriveUI/uploaditem.cpp:241
 msgctxt "UploadItem|"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ../../NetDriveUI/uploaditem.cpp:244
 msgctxt "UploadItem|"
 msgid "Retry"
-msgstr ""
+msgstr "Zkusit znovu"
 
 #: ../../NetDriveUI/uploaditem.cpp:247
 msgctxt "UploadItem|"
 msgid "Save as"
-msgstr ""
+msgstr "Uložit jako"
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
 msgid "No files are being uploaded."
-msgstr ""
+msgstr "Žádné soubory se nenahrávají."
 
 #: ../../NetDriveUI/uploadings.cpp:59
 msgctxt "Uploadings|"
 msgid "Failed to retry."
-msgstr ""
+msgstr "Další pokus selhal"
 
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr ""
+msgstr "Uložení jako selhalo."
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
 msgid "Wait for authentication"
-msgstr ""
+msgstr "Čekání na ověření"

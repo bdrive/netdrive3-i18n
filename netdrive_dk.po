@@ -1,0 +1,2063 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../NetDriveUI/adddrive.ui:17
+msgctxt "AddDrive|"
+msgid "Add Drive"
+msgstr "Tilføj drev"
+
+#: ../../NetDriveUI/adddrive.ui:55
+msgctxt "AddDrive|"
+msgid "STORAGE TYPE"
+msgstr "LAGER TYPE"
+
+#: ../../NetDriveUI/adddrive.ui:124
+msgctxt "AddDrive|"
+msgid "CONNECT"
+msgstr "FORBIND"
+
+#: ../../NetDriveUI/adddrive.ui:137
+msgctxt "AddDrive|"
+msgid "OPTIONS"
+msgstr "OPSÆTNING"
+
+#: ../../NetDriveUI/adddrive.ui:146
+msgctxt "AddDrive|"
+msgid "Save authentication information"
+msgstr "Gem godkendelses information"
+
+#: ../../NetDriveUI/adddrive.ui:185
+msgctxt "AddDrive|"
+msgid "REMOTE PATH"
+msgstr "FJERNSTEDS STI"
+
+#: ../../NetDriveUI/adddrive.ui:213
+msgctxt "AddDrive|"
+msgid "BROWSE"
+msgstr "GENNEMSE"
+
+#: ../../NetDriveUI/adddrive.ui:240
+msgctxt "AddDrive|"
+msgid "LABEL"
+msgstr "ETIKET"
+
+#: ../../NetDriveUI/adddrive.ui:341
+msgctxt "AddDrive|"
+msgid "MOUNT"
+msgstr "MONTER"
+
+#: ../../NetDriveUI/adddrive.ui:358
+msgctxt "AddDrive|"
+msgid "as"
+msgstr "som"
+
+#: ../../NetDriveUI/adddrive.ui:386
+msgctxt "AddDrive|"
+msgid "AUTO CONNECT OPTIONS"
+msgstr "AUTO FORBIND OPSÆTNING"
+
+#: ../../NetDriveUI/adddrive.ui:392
+msgctxt "AddDrive|"
+msgid "No automatic mount"
+msgstr "Ingen automatisk forbindelse"
+
+#: ../../NetDriveUI/adddrive.ui:405
+msgctxt "AddDrive|"
+msgid "Mount on boot"
+msgstr "Forbind ved opstart"
+
+#: ../../NetDriveUI/adddrive.ui:412
+msgctxt "AddDrive|"
+msgid "Mount on login"
+msgstr "Forbind ved login"
+
+#: ../../NetDriveUI/adddrive.ui:422
+msgctxt "AddDrive|"
+msgid "UPLOAD OPTIONS"
+msgstr "UPLOAD OPSÆTNING"
+
+#: ../../NetDriveUI/adddrive.ui:428
+msgctxt "AddDrive|"
+msgid "Use on-the-fly uploading in Explorer"
+msgstr "Brug løbende uploadning i Explorer"
+
+#: ../../NetDriveUI/adddrive.ui:438
+msgctxt "AddDrive|"
+msgid "Use background uploading"
+msgstr "Brug baggrunds uploading"
+
+#: ../../NetDriveUI/adddrive.ui:451
+msgctxt "AddDrive|"
+msgid "READ ONLY OPTIONS"
+msgstr "SKRIVEBESKYTTET OPSÆTNING"
+
+#: ../../NetDriveUI/adddrive.ui:457
+msgctxt "AddDrive|"
+msgid "Writable drive"
+msgstr "Skrivbart drev"
+
+#: ../../NetDriveUI/adddrive.ui:467
+msgctxt "AddDrive|"
+msgid "Read only drive"
+msgstr "Skrivebeskyttet drev"
+
+#: ../../NetDriveUI/adddrive.ui:477
+msgctxt "AddDrive|"
+msgid "ADVANCED OPTION"
+msgstr "ADVANCERET OPSÆTNING"
+
+#: ../../NetDriveUI/adddrive.ui:483
+msgctxt "AddDrive|"
+msgid "Always retrieve file list from server"
+msgstr "Hent altid fil liste fra server"
+
+#: ../../NetDriveUI/adddrive.ui:490
+msgctxt "AddDrive|"
+msgid "As a removable drive"
+msgstr "Som et aftageligt drev"
+
+#: ../../NetDriveUI/adddrive.ui:497
+msgctxt "AddDrive|"
+msgid "Treat files and folders starting with a dot as hidden"
+msgstr "Behandel filer og foldere der starter med punktum som skjulte"
+
+#: ../../NetDriveUI/adddrive.ui:504
+msgctxt "AddDrive|"
+msgid "Use static filesystem(Experimental)"
+msgstr "Brug statisk filsystem(Eksperimental"
+
+#: ../../NetDriveUI/adddrive.cpp:151
+msgctxt "AddDrive|"
+msgid "COLOR"
+msgstr "FARVE"
+
+#: ../../NetDriveUI/adddrive.cpp:191
+msgctxt "AddDrive|"
+msgid "network drive"
+msgstr "Netværks drev"
+
+#: ../../NetDriveUI/adddrive.cpp:192
+msgctxt "AddDrive|"
+msgid "local drive"
+msgstr "Lokalt drev"
+
+#: ../../NetDriveUI/adddrive.cpp:640
+msgctxt "AddDrive|"
+msgid "Please press CONNECT button to set connection information."
+msgstr "Venligst tryk FORBIND knappen for at sætte forbindelses informationerne."
+
+#: ../../NetDriveUI/adddrive.cpp:671
+msgctxt "AddDrive|"
+msgid ""
+"A drive name cannot contain any of the following characters:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
+msgstr ""
+"Et drev navn kan ikke indeholde nogen af de følgende karaktere:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
+
+#: ../../NetDriveUI/adddrive.cpp:679
+msgctxt "AddDrive|"
+msgid "Please type in drive name."
+msgstr "Venligst indtast drev navn"
+
+#: ../../NetDriveUI/adddrive.cpp:687
+msgctxt "AddDrive|"
+msgid "The maximum length of the drive name is 50."
+msgstr "Den maksimale længde for et drev navn er 50"
+
+#: ../../NetDriveUI/adddrive.cpp:698
+msgctxt "AddDrive|"
+msgid "Please select remote path."
+msgstr "Venligst vælg fjernstedets sti"
+
+#: ../../NetDriveUI/adddrive.cpp:719
+msgctxt "AddDrive|"
+msgid "Please type in a different name since this drive name is already used."
+msgstr "Venligst tast et andet navn da dette drev navn allerede er i brug."
+
+#: ../../NetDriveUI/adddrive.cpp:1585
+msgctxt "AddDrive|"
+msgid " Please try again by pressing the CONNECT button."
+msgstr "Venligst prøv igen ved at trykke på FORBIND knappen"
+
+#: ../../NetDriveUI/adddrive.cpp:1681
+msgctxt "AddDrive|"
+msgid "We do not support this protocol."
+msgstr "Vi understøtter ikke denne protokol"
+
+#: ../../NetDriveUI/adddrive.ui:312
+msgctxt "AddDrive|"
+msgid "ITEM LOCATION"
+msgstr "Emne placering"
+
+#: ../../NetDriveUI/adddrive.cpp:293
+msgctxt "AddDrive|"
+msgid "In account"
+msgstr "I konto"
+
+#: ../../NetDriveUI/adddrive.cpp:294
+msgctxt "AddDrive|"
+msgid "In device"
+msgstr "I enhed"
+
+#: ../../NetDriveUI/adddrive.cpp:351
+msgctxt "AddDrive|"
+msgid "Add a Personal Drive"
+msgstr "Tilføj et Personligt Drev"
+
+#: ../../NetDriveUI/adddrive.cpp:357
+msgctxt "AddDrive|"
+msgid "Add a Team Drive"
+msgstr "Tilføj et Hold Drev"
+
+#: ../../NetDriveUI/adddrive.cpp:436
+msgctxt "AddDrive|"
+msgid "Configure a Team Drive"
+msgstr "Konfigurer et Hold Drev"
+
+#: ../../NetDriveUI/adddrive.cpp:441
+msgctxt "AddDrive|"
+msgid "Configure a Personal Drive"
+msgstr "Konfigurer et Personligt Drev"
+
+#: ../../NetDriveUI/adddrive.cpp:1652
+msgctxt "AddDrive|"
+msgid ""
+"This team drive has no connection information set yet. Do you want to do it "
+"now?"
+msgstr ""
+"Dette hold drev har ikke nogen forbindelses information sat endnu. Ønsker du at gøre det "
+"nu?"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
+msgctxt "BDLogin|"
+msgid "Login"
+msgstr "Log på"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:128
+msgctxt "BDLogin|"
+msgid "Email"
+msgstr "E-mail"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:141
+msgctxt "BDLogin|"
+msgid "Password"
+msgstr "Adgangskode"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:148
+msgctxt "BDLogin|"
+msgid "Keep me logged in"
+msgstr "Hold mig logget ind"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:182
+msgctxt "BDLogin|"
+msgid "OR"
+msgstr "ELLER"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:203
+msgctxt "BDLogin|"
+msgid "Sign in with"
+msgstr "Log på med"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:273
+msgctxt "BDLogin|"
+msgid "Cancel"
+msgstr "Fortryd"
+
+#: ../../../ui_helper/bdui/bdpassphrase.ui:14
+#: ../../../ui_helper/bdui/bdpassphrase.ui:29
+msgctxt "BDPassphrase|"
+msgid "Passphrase"
+msgstr "Adgangskode udtryk"
+
+#: ../../ndagent/BDUser.cpp:632
+msgctxt "BDUser|"
+msgid ""
+"Login failed because communication with the server failed. Please check your "
+"proxy or Internet connection."
+msgstr ""
+"Login er fejlet pga kommuniations fejl med serveren. Venligst undersøg din "
+"proxy eller Internet forbindelse."
+
+#: ../../ndagent/BDUser.cpp:647
+msgctxt "BDUser|"
+msgid "Login failed. Please click here to check."
+msgstr "Login fejl. Venligst tryk her for at kontrollere det."
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:14
+msgctxt "BDUserPassword|"
+msgid "Authentication Information"
+msgstr "Godkendelses Information"
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:29
+msgctxt "BDUserPassword|"
+msgid "Password"
+msgstr "Adgangskode"
+
+#: ../../../ui_helper/bdui/bduserpassword.ui:36
+msgctxt "BDUserPassword|"
+msgid "User"
+msgstr "Bruger"
+
+#: ../../NetDriveUI/qdriveitem.cpp:356
+msgctxt "ConfigureDrive|"
+msgid "Configure Drive"
+msgstr "Opsæt drev"
+
+#: ../../../ui_helper/filebrowser/downloadprogress.ui:32
+msgctxt "Dialog|"
+msgid "Progress"
+msgstr "Forløb"
+
+#: ../../../ui_helper/filebrowser/downloaditem.cpp:12
+msgctxt "DownloadItem|"
+msgid "Preparing Download..."
+msgstr "Forbereder Hentning..."
+
+#: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
+msgctxt "DownloadProgressDlg|"
+msgid "File Download"
+msgstr "Fil Hentet"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
+msgctxt "FileBrowserManager|"
+msgid "Save to Downloads Folder"
+msgstr "Gem i Hentnings Folderen"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
+msgctxt "FileBrowserManager|"
+msgid "Download to..."
+msgstr "Hent til..."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
+msgctxt "FileBrowserManager|"
+msgid "Open"
+msgstr "Åben"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
+msgctxt "FileBrowserManager|"
+msgid "Reload"
+msgstr "Genindlæs"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
+msgctxt "FileBrowserManager|"
+msgid "Rename"
+msgstr "Omdøb"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
+msgctxt "FileBrowserManager|"
+msgid "Move"
+msgstr "Flyt"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
+msgctxt "FileBrowserManager|"
+msgid "Delete"
+msgstr "Slet"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+msgctxt "FileBrowserManager|"
+msgid "New folder"
+msgstr "Ny folder"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Get Shareable Link"
+msgstr "Hent delbart Link"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
+msgctxt "FileBrowserManager|"
+msgid "Lock"
+msgstr "Låst"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
+msgctxt "FileBrowserManager|"
+msgid "Unlock"
+msgstr "Lås op"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
+msgctxt "FileBrowserManager|"
+msgid "Force unlock"
+msgstr "Gennemtving oplåsning"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
+msgctxt "FileBrowserManager|"
+msgid "Locked files list"
+msgstr "Låst fil liste"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Connection Fail"
+msgstr "Forbindelse Fejlet"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+msgctxt "FileBrowserManager|"
+msgid "Failed to connect protocol."
+msgstr "Kunne ikke forbinde med protokolen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
+msgctxt "FileBrowserManager|"
+msgid "Failed to get file list."
+msgstr "Kunne ikke hente fil liste"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+msgctxt "FileBrowserManager|"
+msgid "Failed to get root ID."
+msgstr "Kunne ikke hente rod ID"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Reload Folder"
+msgstr "Gendindlæs Folder"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+msgctxt "FileBrowserManager|"
+msgid "Failed to reload folder."
+msgstr "Kunne ikke genindlæse folder"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
+msgctxt "FileBrowserManager|"
+msgid "Download Complete."
+msgstr "Hentning Fuldført"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "File downloading failed"
+msgstr "Fil hentning er fejlet"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+msgctxt "FileBrowserManager|"
+msgid "Can not download file from server."
+msgstr "Kan ikke hente fil fra serveren"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid ""
+"Successful to get shareable link.\n"
+"%1\n"
+"Click the OK button to copy the shareable link."
+msgstr ""
+"Succes med at hente delbart link.\n"
+"%1\n"
+"Click på OK knappen for at kopiere det delbare link."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+msgctxt "FileBrowserManager|"
+msgid "Failed to get shareable link."
+msgstr "Kunne ikke hente det delbare link."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "Failed to rename file with %1"
+msgstr "Kunne ikke omdøbe filen %1"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1004
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
+msgctxt "FileBrowserManager|"
+msgid "Move File"
+msgstr "Flyt Fil"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file."
+msgstr "Kunne ikke flytte filen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+msgctxt "FileBrowserManager|"
+msgid "Delete File"
+msgstr "Slet Fil"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+msgctxt "FileBrowserManager|"
+msgid "Failed to delete file."
+msgstr "Kunne ikke slette filen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+msgctxt "FileBrowserManager|"
+msgid "Failed to create new folder."
+msgstr "Kunne ikke oprette en ny folder"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+msgctxt "FileBrowserManager|"
+msgid "Lock File"
+msgstr "Lås Fil"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+msgctxt "FileBrowserManager|"
+msgid "Failed to lock the file."
+msgstr "Kunne ikke låse filen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+msgctxt "FileBrowserManager|"
+msgid "Unlock File"
+msgstr "Lås filen op"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+msgctxt "FileBrowserManager|"
+msgid "Failed to unlock the file."
+msgstr "Kunne ikke låse filen op."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+msgctxt "FileBrowserManager|"
+msgid "Failed Action"
+msgstr "Fejlet Handling"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+#, qt-format
+msgctxt "FileBrowserManager|"
+msgid "A file with the same name as %1 exists."
+msgstr "En file med det samme navn som %1 eksistere allerede."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
+msgctxt "FileBrowserManager|"
+msgid "Failed to move file to destination folder."
+msgstr "Kunne ikke flytte filen til destinations folderen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+msgctxt "FileBrowserManager|"
+msgid "Destination folder has a file with the same name."
+msgstr "Destinations folderen har en fil med det same navn."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+msgctxt "FileBrowserManager|"
+msgid "File Open"
+msgstr "Fil Åben"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+msgctxt "FileBrowserManager|"
+msgid "Failed to create temporary directory."
+msgstr "Kunne ikke oprette den midlertidige folder"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
+msgctxt "FileBrowserManager|"
+msgid "Get File List"
+msgstr "Hent Fil Liste"
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Name"
+msgstr "Navn"
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Size"
+msgstr "Størrelse"
+
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+msgctxt "FileTreeModel|"
+msgid "Modified"
+msgstr "Ændret"
+
+#: ../../../ui_helper/bdui/flatabout.ui:14
+msgctxt "FlatAbout|"
+msgid "ABOUT"
+msgstr "OM"
+
+#: ../../../ui_helper/bdui/flatabout.ui:112
+#, qt-format
+msgctxt "FlatAbout|"
+msgid "Licensed to %1"
+msgstr "Licenseret til %1"
+
+#: ../../../ui_helper/bdui/flatabout.ui:135
+msgctxt "FlatAbout|"
+msgid "Trial"
+msgstr "Prøve"
+
+#: ../../../ui_helper/bdui/flatmenubar.ui:240
+msgctxt "FlatMenuBar|"
+msgid "Search"
+msgstr "Søg"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:14
+msgctxt "FlatSettingContents|"
+msgid "SETTINGS"
+msgstr "INDSTILLINGER"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:39
+msgctxt "FlatSettingContents|"
+msgid "GENERAL"
+msgstr "GENERELT"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:60
+msgctxt "FlatSettingContents|"
+msgid "Start at login"
+msgstr "Start ved login"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:67
+msgctxt "FlatSettingContents|"
+msgid "Launch Windows Explorer when newly connected to a remote storage."
+msgstr "Start Windows Explorer når du lige er forbundet til fjernlageret."
+
+#: ../../NetDriveUI/flatsettingcontents.ui:77
+msgctxt "FlatSettingContents|"
+msgid "Check for updates automatically"
+msgstr "Check automatisk efter opdateringer"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:87
+msgctxt "FlatSettingContents|"
+msgid "Check for updates to beta version if available"
+msgstr "Check for opdateringer til beta udgaver hvis de er tilgængelige"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:106
+msgctxt "FlatSettingContents|"
+msgid "Language"
+msgstr "Sprog"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:126
+msgctxt "FlatSettingContents|"
+msgid "Help us translate!"
+msgstr "Hjælp os med at oversætte!"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:151
+msgctxt "FlatSettingContents|"
+msgid "CACHE"
+msgstr "CACHE"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:172
+msgctxt "FlatSettingContents|"
+msgid "NetDrive keeps temporary copies of remote files in local disk."
+msgstr "NetDrive holder midlertidige kopier af fjernstedets filer på den lokale disk."
+
+#: ../../NetDriveUI/flatsettingcontents.ui:181
+msgctxt "FlatSettingContents|"
+msgid "Cache path"
+msgstr "Cache sti"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:198
+msgctxt "FlatSettingContents|"
+msgid "BROWSE"
+msgstr "GENNEMSE"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:232
+msgctxt "FlatSettingContents|"
+msgid "Use up to"
+msgstr "Brug op til"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:242
+msgctxt "FlatSettingContents|"
+msgid "GB for disk cache"
+msgstr "GB til disk cache"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:267
+msgctxt "FlatSettingContents|"
+msgid "LOG"
+msgstr "LOG"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:288
+msgctxt "FlatSettingContents|"
+msgid "Log level"
+msgstr "Lognings niveau"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:321
+msgctxt "FlatSettingContents|"
+msgid "OPEN LOG FOLDER"
+msgstr "ÅBEN LOG FOLDER"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:347
+msgctxt "FlatSettingContents|"
+msgid "NETWORK"
+msgstr "METVÆRK"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:353
+msgctxt "FlatSettingContents|"
+msgid "PROXY SETTINGS"
+msgstr "PROXY INDSTILLINGER"
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:54
+msgctxt "FlatSettingContents|"
+msgid "Launch Finder when newly connected to a remote storage"
+msgstr "Start Finder når du lige er forbundet til fjernlageret."
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:89
+msgctxt "FlatSettingContents|"
+msgid "Open Directory"
+msgstr "Åben Folderen"
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:114
+#, qt-format
+msgctxt "FlatSettingContents|"
+msgid "Currently %0.2f GB disk space available"
+msgstr "I øjeblikket %0.2f GB disk plads tilgængeligt"
+
+#: ../../NetDriveUI/flatsettingcontents.ui:94
+msgctxt "FlatSettingContents|"
+msgid "Unlock all locked files when disconnecting drive"
+msgstr "Lås alle filer op når der forbindelsen til drev lukkes"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:14
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid "%1 Update"
+msgstr "%1 Opdatering"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:74
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid "A new version of %1 is available!"
+msgstr "En ny version af %1 er tilgængelig!"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:81
+#, qt-format
+msgctxt "FlatUpdate|"
+msgid ""
+"%1 %2 is now available - you have %3. Would you like to download it now?"
+msgstr "%1 %2 er nu tilgængelig - du har %3. Ønsker du at hente den nu?"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:88
+msgctxt "FlatUpdate|"
+msgid "Release Note:"
+msgstr "Frigivelses Noter:"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:105
+msgctxt "FlatUpdate|"
+msgid "Automatically download and install updated version in the future"
+msgstr "Automatisk hentn og installer opdaterede versioner i fremtiden"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:121
+msgctxt "FlatUpdate|"
+msgid "SKIP THIS VERSION"
+msgstr "SKIP DENNE VERSION"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:128
+msgctxt "FlatUpdate|"
+msgid "REMIND ME LATER"
+msgstr "PÅMIND MIG SENERE"
+
+#: ../../../ui_helper/bdui/flatupdate.ui:135
+msgctxt "FlatUpdate|"
+msgid "INSTALL UPDATE"
+msgstr "INSTALLER OPDATERING"
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
+msgctxt "LockedFileListDlg|"
+msgid "Locked Files List"
+msgstr "Låst Fil Liste"
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+msgctxt "LockedFileListDlg|"
+msgid "There is no locked file."
+msgstr "Der er ikke nogen låste filer."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+msgctxt "LockedFileListDlg|"
+msgid "Unlock"
+msgstr "Lås op"
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+msgctxt "LockedFileListDlg|"
+msgid "Force unlock"
+msgstr "Gennemtving oplåsning"
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
+#, qt-format
+msgctxt "LockedFileListDlg|"
+msgid "Locked files list in %1"
+msgstr "Låste filliste i %1"
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
+msgctxt "LockedFileModel|"
+msgid "Missing"
+msgstr "Mangler"
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
+msgctxt "LockedFileModel|"
+msgid "Path"
+msgstr "Sti"
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
+msgctxt "LockedFileModel|"
+msgid "Locked by"
+msgstr "Låst af"
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
+msgctxt "LockedFileModel|"
+msgid "Device"
+msgstr "Enhed"
+
+#: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
+msgctxt "LockedFileModel|"
+msgid "Status"
+msgstr "Status"
+
+#: ../../NetDriveUI/ndflatui.cpp:176
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"The services of %1 must be running, but they are not running. Do you want to "
+"run them now?"
+msgstr ""
+"Servicerne til %1 skal være kørende, men det er de ikke. Ønsker du at "
+"køre dem nu?"
+
+#: ../../NetDriveUI/uploadstatusbase.cpp:60
+msgctxt "NDFlatUI|"
+msgid "UPLOADING"
+msgstr "SENDER"
+
+#: ../../NetDriveUI/uploadstatusbase.cpp:63
+msgctxt "NDFlatUI|"
+msgid "WAITING"
+msgstr "VENTER"
+
+#: ../../NetDriveUI/uploadstatusbase.cpp:66
+msgctxt "NDFlatUI|"
+msgid "FAILED"
+msgstr "FEJLET"
+
+#: ../../NetDriveUI/ndflatui.cpp:892
+msgctxt "NDFlatUI|"
+msgid "Add drive failure has occured because of duplicate drive name."
+msgstr "Tilføj drev der er sket en fejl pga ens drev navne."
+
+#: ../../NetDriveUI/ndflatui.cpp:896
+msgctxt "NDFlatUI|"
+msgid "Failed to add drive."
+msgstr "Kunne ikke tilføje drev."
+
+#: ../../NetDriveUI/ndflatui.cpp:1084
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"This issue might be caused by the network connection with Bdrive server "
+"which usually occurs when Bdrive server or your PC may not be connected to "
+"the Internet.\n"
+"If you are connected to the Internet and still have this issue, please visit "
+"%1 to leave a note."
+msgstr ""
+"Dette problem kan opstå fordi der er problemer med netværks forbindelsen til Bdrive serveren "
+"det sker normalt når Bdrive serveren eller din PC ikke er forbundet til "
+"Internettet.\n"
+
+#: ../../NetDriveUI/ndflatui.cpp:1181
+msgctxt "NDFlatUI|"
+msgid "Failed to delete drive."
+msgstr "Kunne ikke slette drevet."
+
+#: ../../NetDriveUI/ndflatui.cpp:1263
+msgctxt "NDFlatUI|"
+msgid "NetDrive Agent is starting."
+msgstr "NetDrive Agenten er ved at starte"
+
+#: ../../NetDriveUI/ndflatui.cpp:1267
+msgctxt "NDFlatUI|"
+msgid "Initializing Agent."
+msgstr "Initialisere Agenten"
+
+#: ../../NetDriveUI/ndflatui.cpp:1270
+msgctxt "NDFlatUI|"
+msgid "Initailizing SDK."
+msgstr "Initialisere SDK."
+
+#: ../../NetDriveUI/ndflatui.cpp:1276
+msgctxt "NDFlatUI|"
+msgid "Checking network."
+msgstr "Checker netværk."
+
+#: ../../NetDriveUI/ndflatui.cpp:1279
+msgctxt "NDFlatUI|"
+msgid "Logging remembered users in."
+msgstr "Logger kendte brugere ind."
+
+#: ../../NetDriveUI/ndflatui.cpp:1284
+msgctxt "NDFlatUI|"
+msgid "Mounting drives on boot."
+msgstr "Montere drev ved opstart."
+
+#: ../../NetDriveUI/ndflatui.cpp:1292
+msgctxt "NDFlatUI|"
+msgid "Agent is ready."
+msgstr "Agenten er allerede."
+
+#: ../../NetDriveUI/ndflatui.cpp:1300
+msgctxt "NDFlatUI|"
+msgid "Connecting to NetDrive Agent."
+msgstr "Forbinder til NetDrive Agenten."
+
+#: ../../NetDriveUI/ndflatui.cpp:1487
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "Failed to upload %1."
+msgstr "Kunne ikke sende %1."
+
+#: ../../NetDriveUI/ndflatui.cpp:2409
+msgctxt "NDFlatUI|"
+msgid "&Open"
+msgstr "&Åben"
+
+#: ../../NetDriveUI/ndflatui.cpp:2412
+msgctxt "NDFlatUI|"
+msgid "&Quit"
+msgstr "&Afslut"
+
+#: ../../NetDriveUI/ndflatui.cpp:2415
+msgctxt "NDFlatUI|"
+msgid "&Check for Updates"
+msgstr "&Søg efter opdateringer"
+
+#: ../../NetDriveUI/ndflatui.cpp:2418
+msgctxt "NDFlatUI|"
+msgid "&Login"
+msgstr "&Log på"
+
+#: ../../NetDriveUI/ndflatui.cpp:2422
+msgctxt "NDFlatUI|"
+msgid "Log&out"
+msgstr "Log &ud"
+
+#: ../../NetDriveUI/ndflatui.cpp:2429
+msgctxt "NDFlatUI|"
+msgid "Initializing..."
+msgstr "Initialisere..."
+
+#: ../../NetDriveUI/ndflatui.cpp:2581
+msgctxt "NDFlatUI|"
+msgid "NetDrive is Quiting..."
+msgstr "NetDrive er ved at lukke ned..."
+
+#: ../../NetDriveUI/ndflatui.cpp:2621
+msgctxt "NDFlatUI|"
+msgid ""
+"If you log out, 'mount on boot' items will not connect automatically. Are "
+"you sure to log out?"
+msgstr "Er du sikker på at du vil logge af?"
+
+#: ../../NetDriveUI/ndflatui.cpp:2757
+msgctxt "NDFlatUI|"
+msgid "Logging out..."
+msgstr "Logger af..."
+
+#: ../../NetDriveUI/ndflatui.cpp:3237
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "Current version %1 is the latest version available."
+msgstr "Nuværende version %1 er den nyeste tilgængelige version."
+
+#: ../../NetDriveUI/ndflatui.cpp:3412
+msgctxt "NDFlatUI|"
+msgid "Drives"
+msgstr "Drev"
+
+#: ../../NetDriveUI/ndflatui.cpp:3417
+msgctxt "NDFlatUI|"
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: ../../NetDriveUI/ndflatui.cpp:3420
+msgctxt "NDFlatUI|"
+msgid "Uploading"
+msgstr "Sender"
+
+#: ../../NetDriveUI/ndflatui.cpp:3425
+msgctxt "NDFlatUI|"
+msgid "About"
+msgstr "Om"
+
+#: ../../NetDriveUI/ndflatui.cpp:3428
+msgctxt "NDFlatUI|"
+msgid "Account Info"
+msgstr "Konto Information"
+
+#: ../../NetDriveUI/ndflatui.cpp:3431
+msgctxt "NDFlatUI|"
+msgid "Manage License"
+msgstr "Håndter Licens"
+
+#: ../../NetDriveUI/ndflatui.cpp:3434
+msgctxt "NDFlatUI|"
+msgid "Login"
+msgstr "Log på"
+
+#: ../../NetDriveUI/ndflatui.cpp:3437
+msgctxt "NDFlatUI|"
+msgid "Logout"
+msgstr "Log af"
+
+#: ../../NetDriveUI/ndflatui.cpp:3440
+msgctxt "NDFlatUI|"
+msgid "NetDrive Help"
+msgstr "NetDrive Hjælp"
+
+#: ../../NetDriveUI/ndflatui.cpp:3443
+msgctxt "NDFlatUI|"
+msgid "View"
+msgstr "Visning"
+
+#: ../../NetDriveUI/ndflatui.cpp:3444
+msgctxt "NDFlatUI|"
+msgid "Account"
+msgstr "Konto"
+
+#: ../../NetDriveUI/ndflatui.cpp:3445
+msgctxt "NDFlatUI|"
+msgid "Help"
+msgstr "Hjælp"
+
+#: ../../NetDriveUI/ndflatui.cpp:3644
+msgctxt "NDFlatUI|"
+msgid "Couldn't get drive's info"
+msgstr "Kunne ikke hente drevets informationer"
+
+#: ../../NetDriveUI/ndflatui.cpp:3653
+msgctxt "NDFlatUI|"
+msgid "Couldn't get drive's name"
+msgstr "Kunne ikke hente drevets navn"
+
+#: ../../NetDriveUI/ndflatui.cpp:209
+msgctxt "NDFlatUI|"
+msgid " (Maintainer)"
+msgstr "(Vedligeholder)"
+
+#: ../../NetDriveUI/ndflatui.cpp:531
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available!"
+msgstr "NetDrive Fil Låsnings Tjeneste er ikke tilgængelig!"
+
+#: ../../NetDriveUI/ndflatui.cpp:726
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"The team drive [%1] was unmounted because it was unpublished by maintainer."
+msgstr ""
+"Hold drev [%1] blev ikke monteret fordi det blev upubliceret af vedligeholdelsen."
+
+#: ../../NetDriveUI/ndflatui.cpp:872
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid ""
+"Do you want to publish [%1] to team members now? You can publish it later."
+msgstr ""
+"Ønsker du at publisere [%1] til hold medlemmerne nu= Du kan publisere det senere."
+
+#: ../../NetDriveUI/ndflatui.cpp:1930
+msgctxt "NDFlatUI|"
+msgid "Failed to connect Bdrive server."
+msgstr "Kunne ikke forbinde til Bdrive serveren."
+
+#: ../../NetDriveUI/ndflatui.cpp:2460
+msgctxt "NDFlatUI|"
+msgid "NetDrive File Lock Service is not available"
+msgstr "NetDrive Fil Lås Tjeneste er ikke tilgængelig"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:17
+msgctxt "ProxySelector|"
+msgid "PROXY SETTINGS"
+msgstr "PROXY INDSTILLINGER"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:27
+msgctxt "ProxySelector|"
+msgid "Use system proxy settings"
+msgstr "Brug systemets proxy indstillinger"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:36
+msgctxt "ProxySelector|"
+msgid "PROXY TYPE"
+msgstr "PROXY TYPE"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:45
+msgctxt "ProxySelector|"
+msgid "None"
+msgstr "Ingen"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:89
+msgctxt "ProxySelector|"
+msgid "User"
+msgstr "Bruger"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:96
+msgctxt "ProxySelector|"
+msgid "Password"
+msgstr "Kodeord"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:103
+msgctxt "ProxySelector|"
+msgid "Port"
+msgstr "Port"
+
+#: ../../../ui_helper/proxy/proxyselector.ui:133
+msgctxt "ProxySelector|"
+msgid "Host"
+msgstr "Vært"
+
+#: ../../../common/ndcore.cpp:245
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"Bdrive server returned an error. If the issue persists, please contact %1 "
+"support."
+msgstr ""
+"Bdrive server returnerede en fejl. Hvis problemet består, så kontakt %1 "
+"supporten.
+
+#: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
+msgctxt "QApplication|"
+msgid "Subscription status"
+msgstr "Abonnements status"
+
+#: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
+msgctxt "QApplication|"
+msgid "Subscription type"
+msgstr "Abonnements type"
+
+#: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
+msgctxt "QApplication|"
+msgid "Max registered devices"
+msgstr "Maks registrede enheder"
+
+#: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
+msgctxt "QApplication|"
+msgid "Max sessions (concurrent access)"
+msgstr "Maks sessioner (samtidig adgang)"
+
+#: ../../../common/ndcore.cpp:1601
+msgctxt "QApplication|"
+msgid "type"
+msgstr "type"
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:176
+#: ../../../ui_helper/bdui/bdlogin.cpp:184
+msgctxt "QApplication|"
+msgid "Login"
+msgstr "Log på"
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:176
+msgctxt "QApplication|"
+msgid "Email address required to login"
+msgstr "E-mail adressen fundet til login"
+
+#: ../../../ui_helper/bdui/bdlogin.cpp:184
+msgctxt "QApplication|"
+msgid "Proper password required to login"
+msgstr "Korrekt kodeord er nødvendigt for at logge på"
+
+#: ../../../ui_helper/bdui/bdloginbase.cpp:22
+msgctxt "QApplication|"
+msgid "LOGIN"
+msgstr "LOG PÅ"
+
+#: ../../../ui_helper/bdui/bdmessagebox.cpp:78
+msgctxt "QApplication|"
+msgid "Detail"
+msgstr "Detaljer"
+
+#: ../../../ui_helper/bdui/flatupdate.cpp:141
+#, qt-format
+msgctxt "QApplication|"
+msgid "A new version of %1 is available!"
+msgstr "En ny version af %1 er tilgængelig!"
+
+#: ../../../ui_helper/bdui/flatupdate.cpp:147
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"%1 %2 is now available - you have %3. Would you like to download it now?"
+msgstr ""
+"%1 &2 er nu tilgængelig - du har %3. Ønsker du at hente den nu ?"
+#: ../../../ui_helper/proxy/proxyfactory.cpp:29
+#: ../../../ui_helper/proxy/proxyfactory.cpp:76
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"%1 could not connect to Bdrive Server. This device may be offline or proxy "
+"settings may be required. Do you want proxy settings?"
+msgstr ""
+"%1 kunne ikke forbinde til Bdrive Serveren. Denne enhed er måske offline eller proxy "
+"indstiller kan være nødvendige. Ønsker du proxy indstillinger?"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
+msgctxt "QApplication|"
+msgid "Send Crash Report"
+msgstr "Send Nedbruds Rapport"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
+msgctxt "QApplication|"
+msgid "Failed to upload crash info."
+msgstr "Kunne ikke sende nedbruds information"
+
+#: ../../ndagent/BDUserManager.cpp:213
+msgctxt "QApplication|"
+msgid "It's wrong data. Try again, please."
+msgstr "Det er forkerte data. Prøv venligst igen."
+
+#: ../../ndagent/BDUserManager.cpp:262
+msgctxt "QApplication|"
+msgid "Failed to get drive list. Try again, please."
+msgstr "Kunne ikke hente drev liste. Prøv venligst igen."
+
+#: ../../../common/authtemplate.cpp:202
+msgctxt "QApplication|"
+msgid "BROWSE"
+msgstr "GENNEMSE"
+
+#: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
+msgctxt "QApplication|"
+msgid "NETWORK"
+msgstr "NETVÆRK"
+
+#: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
+#: ../../NetDriveUI/ndflatui.cpp:2002
+msgctxt "QApplication|"
+msgid "PROXY SETTINGS"
+msgstr "PROXY INDSTILLINGER"
+
+#: ../../../common/authtemplate.cpp:972
+msgctxt "QApplication|"
+msgid "Please check login credentials again"
+msgstr "Venligst undersøg log på legitimationsoplysninger igen"
+
+#: ../../../common/authtemplate.cpp:976
+msgctxt "QApplication|"
+msgid "Please check the server information"
+msgstr "Venligst undersøg server informationerne"
+
+#: ../../../common/authtemplate.cpp:980
+msgctxt "QApplication|"
+msgid "Please check the SSL information"
+msgstr "Venligst undersøg SSL informationerne"
+
+#: ../../../common/authtemplate.cpp:984
+msgctxt "QApplication|"
+msgid "Please check the connection information"
+msgstr "Venligst undersøg forbindelses informationerne"
+
+#: ../../../common/authtemplate.cpp:987
+msgctxt "QApplication|"
+msgid "Connection failed"
+msgstr "Forbindelse fejlet"
+
+#: ../../NetDriveUI/adddrive.cpp:157
+msgctxt "QApplication|"
+msgid "Auto"
+msgstr "Automatisk"
+
+#: ../../NetDriveUI/adddrive.cpp:986
+msgctxt "QApplication|"
+msgid "CONNECT"
+msgstr "FORBIND"
+
+#: ../../NetDriveUI/adddrive.cpp:1154
+msgctxt "QApplication|"
+msgid "Failed to set option."
+msgstr "Kunne ikke sætte valgmuligheden."
+
+#: ../../NetDriveUI/adddrive.cpp:1348
+msgctxt "QApplication|"
+msgid "Authentication failed"
+msgstr "Godkendelse fejlet"
+
+#: ../../NetDriveUI/adddrive.cpp:1348
+#, qt-format
+msgctxt "QApplication|"
+msgid "Authentication with %1 has failed"
+msgstr "Godkendelse med %1 er felet"
+
+#: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
+msgctxt "QApplication|"
+msgid "DISCONNECT"
+msgstr "KOBL FRA"
+
+#: ../../NetDriveUI/failedupload.cpp:33
+msgctxt "QApplication|"
+msgid "CANCEL ALL"
+msgstr "FORTRYD ALT"
+
+#: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
+msgctxt "QApplication|"
+msgid "CANCEL SELECTED"
+msgstr "FORTRYD UDVALGTE"
+
+#: ../../NetDriveUI/failedupload.cpp:45
+msgctxt "QApplication|"
+msgid "RETRY ALL"
+msgstr "PRØV IGEN MED ALLE"
+
+#: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
+msgctxt "QApplication|"
+msgid "RETRY SELECTED"
+msgstr "PRØV IGEN MED UDVALGTE"
+
+#: ../../NetDriveUI/failedupload.cpp:92
+msgctxt "QApplication|"
+msgid "SAVE AS"
+msgstr "GEM SOM"
+
+#: ../../NetDriveUI/main.cpp:125
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to get information of service %1"
+msgstr "Kunne ikke hente information fra tjenesten %1"
+
+#: ../../NetDriveUI/main.cpp:137
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to set start type of service %1"
+msgstr "Kunne ikke sætte start type for tjenesten %1"
+
+#: ../../NetDriveUI/main.cpp:149
+#, qt-format
+msgctxt "QApplication|"
+msgid "Failed to start service %1"
+msgstr "Kunne ikke starte tjenesten %1"
+
+#: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
+msgctxt "QApplication|"
+msgid "DRIVES"
+msgstr "DREV"
+
+#: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
+msgctxt "QApplication|"
+msgid "UPLOADING"
+msgstr "SENDER"
+
+#: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
+#: ../../NetDriveUI/ndflatui.cpp:3736
+msgctxt "QApplication|"
+msgid "SETTINGS"
+msgstr "INDSTILLINGER"
+
+#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
+msgctxt "QApplication|"
+msgid "ABOUT"
+msgstr "OM"
+
+#: ../../NetDriveUI/ndflatui.cpp:1980
+msgctxt "QApplication|"
+msgid "Create a free Bdrive account"
+msgstr "Opret en gratis Bdrive konto"
+
+#: ../../NetDriveUI/ndflatui.cpp:1982
+msgctxt "QApplication|"
+msgid "Can't log in?"
+msgstr "Kan du ikke logge på ?"
+
+#: ../../NetDriveUI/ndflatui.cpp:2058
+msgctxt "QApplication|"
+msgid "Device authorization"
+msgstr "Enheds godkendelse"
+
+#: ../../NetDriveUI/ndflatui.cpp:2059
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"NetDrive will be quit because failed to get device id. Please visit %1 to "
+"leave a note."
+msgstr ""
+"NetDrive vil blive lukket ned fordi det ikke kunne hente enheds id. Venligst besøg %1 for at "
+"efterlade en besked."
+
+#: ../../NetDriveUI/ndflatui.cpp:2329
+msgctxt "QApplication|"
+msgid "Notice"
+msgstr "Besked"
+
+#: ../../NetDriveUI/ndflatui.cpp:2977
+msgctxt "QApplication|"
+msgid "ACCOUNT INFO"
+msgstr "KONTO INFORMATION"
+
+#: ../../NetDriveUI/ndflatui.cpp:2984
+msgctxt "QApplication|"
+msgid "MANAGE LICENSE"
+msgstr "HÅNDTER LICENS"
+
+#: ../../NetDriveUI/ndflatui.cpp:2993
+msgctxt "QApplication|"
+msgid "LOGOUT"
+msgstr "LOG AF"
+
+#: ../../NetDriveUI/ndflatui.cpp:3223
+#, qt-format
+msgctxt "QApplication|"
+msgid "%1 %2 is now available!"
+msgstr "%1 %2 er nu tilgængelig!"
+
+#: ../../../common/protocolmap.h:11
+msgctxt "QApplication|"
+msgid ""
+"If it is the first connection and there are a lot of files, the connection "
+"may take a long time."
+msgstr ""
+"Hvis det er første forbindelse og der er mange filer, så kan forbindelse "
+"tage lang tid."
+
+#: ../../../common/protocolmap.h:17
+msgctxt "QApplication|"
+msgid "Rename and move operations are not supported."
+msgstr "Omdøb og flyt handlinger er ikke understøttet."
+
+#: ../../NetDriveUI/ndprotocoldll.cpp:130
+msgctxt "QApplication|"
+msgid "Wait for authentication..."
+msgstr "Vent på godkendelse..."
+
+#: ../../NetDriveUI/qdriveitem.cpp:1608
+msgctxt "QApplication|"
+msgid "Open"
+msgstr "Åben"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1639
+msgctxt "QApplication|"
+msgid "Config"
+msgstr "Konfigurer"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1647
+msgctxt "QApplication|"
+msgid "Duplicate"
+msgstr "Dupliker"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1653
+msgctxt "QApplication|"
+msgid "Delete"
+msgstr "Slet"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1659
+msgctxt "QApplication|"
+msgid "Log"
+msgstr "Log"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
+#: ../../NetDriveUI/selectfolder.cpp:177
+msgctxt "QApplication|"
+msgid "Folder listing failed"
+msgstr "Folder gennemgang er fejlet"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
+#: ../../NetDriveUI/selectfolder.cpp:177
+msgctxt "QApplication|"
+msgid "Can not retrieve folder list from server."
+msgstr "Kan ikke hente folder liste fra serveren."
+
+#: ../../NetDriveUI/sortitemwidget.cpp:46
+msgctxt "QApplication|"
+msgid "Name"
+msgstr "Navn"
+
+#: ../../NetDriveUI/sortitemwidget.cpp:51
+msgctxt "QApplication|"
+msgid "Letter"
+msgstr "Bogstav"
+
+#: ../../NetDriveUI/update.cpp:30
+#, qt-format
+msgctxt "QApplication|"
+msgid ""
+"NetDrive %1 is now available. You have %2. Would you like to update now?"
+msgstr ""
+"NetDrive %1 er nu tilgængelig. Du har %2. Ønsker du at opdatere nu?"
+
+#: ../../../common/protocolmap.h:27
+msgctxt "QApplication|"
+msgid "Recommend to register your own API KEY and SECRET KEY."
+msgstr "Anbefaler at du registere din egen API NØGLE og HEMMELIGE NØGLE"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1621
+msgctxt "QApplication|"
+msgid "Publish"
+msgstr "Publiser"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1628
+msgctxt "QApplication|"
+msgid "Republish"
+msgstr "Genpubliser"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1631
+msgctxt "QApplication|"
+msgid "Unpublish"
+msgstr "Fjern publisering"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
+msgctxt "QAuthDlg|"
+msgid "Authentication Required"
+msgstr "Godkendelse Krævet"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
+msgctxt "QAuthDlg|"
+msgid ""
+"The proxy requires a username and password.\n"
+"\n"
+"Your connection to this site is not private."
+msgstr ""
+"Proxyen kræver brugernavn og kodeord.\n"
+"\n"
+"Din forbindelse til dette sted er ikke privat."
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
+msgctxt "QAuthDlg|"
+msgid "User Name"
+msgstr "Bruger Navn"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
+msgctxt "QAuthDlg|"
+msgid "Password"
+msgstr "KODEORD"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
+msgctxt "QAuthDlg|"
+msgid "Log In"
+msgstr "Log På"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
+msgctxt "QAuthDlg|"
+msgid "Cancel"
+msgstr "Fortryd"
+
+#: ../../ndagent/BDUserManager.cpp:247
+msgctxt "QCoreApplication|"
+msgid ""
+"There is another Bdrive account logged in this device. Do you want to log "
+"the account out and log your account in?"
+msgstr ""
+"Der er en anden Bdrive konto logget ind på denne enhed. Ønsker du at logge "
+"kontoen ud og logge på med din egen konto ?"
+
+#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
+#: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
+msgctxt "QDriveItem|"
+msgid "CONNECT"
+msgstr "FORBIND"
+
+#: ../../NetDriveUI/qdriveitem.cpp:223
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
+msgstr "%1 er allerede en forbundet sti. Ønsker du at fjerne forbindelsen til %1 skal fortsætte?"
+
+#: ../../NetDriveUI/qdriveitem.cpp:241
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to unmount %1. Try later again."
+msgstr "Kunne ikke fjerne forbindelsen til %1. Prøv igen senere."
+
+#: ../../NetDriveUI/qdriveitem.cpp:257
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Are you sure you want to disconnect %1?"
+msgstr "Er du sikker på at du vil afkoble %1?"
+
+#: ../../NetDriveUI/qdriveitem.cpp:667
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "There is no log file for [%1]."
+msgstr "Der er ikke nogen log fil for [%1]."
+
+#: ../../NetDriveUI/qdriveitem.cpp:859
+msgctxt "QDriveItem|"
+msgid "Unmount failed"
+msgstr "Fjern forbindelse fejlede"
+
+#: ../../NetDriveUI/qdriveitem.cpp:891
+msgctxt "QDriveItem|"
+msgid "Failed to configure drive because of the duplicated name."
+msgstr "Kunne ikke konfigurere drevet fordi der er en duplikat af navnet"
+
+#: ../../NetDriveUI/qdriveitem.cpp:895
+msgctxt "QDriveItem|"
+msgid "Failed to configure drive."
+msgstr "Kunne ikke konfigurere drevet."
+
+#: ../../NetDriveUI/qdriveitem.cpp:936
+msgctxt "QDriveItem|"
+msgid "CANCEL"
+msgstr "FORTRYD"
+
+#: ../../NetDriveUI/qdriveitem.cpp:943 ../../NetDriveUI/qdriveitem.cpp:1434
+msgctxt "QDriveItem|"
+msgid "NOT CONNECTED"
+msgstr "IKKE FORBUNDET"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1441
+msgctxt "QDriveItem|"
+msgid "CONNECTING"
+msgstr "FORBINDER"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1447
+msgctxt "QDriveItem|"
+msgid "CONNECTED"
+msgstr "FORBUNDET"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1448
+msgctxt "QDriveItem|"
+msgid "DISCONNECT"
+msgstr "AFBRYD"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1454
+msgctxt "QDriveItem|"
+msgid "DISCONNECTING"
+msgstr "AFBRYDER"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1526
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Are you sure you want to delete %1?"
+msgstr "Er du sikker på at du vil slette %1?"
+
+#: ../../NetDriveUI/qdriveitem.ui:276
+msgctxt "QDriveItem|"
+msgid "BROWSE"
+msgstr "GENNEMSE"
+
+#: ../../NetDriveUI/qdriveitem.cpp:181
+msgctxt "QDriveItem|"
+msgid "Failed to open file browser."
+msgstr "Kunne ikke åbne filbrowseren."
+
+#: ../../NetDriveUI/qdriveitem.cpp:184
+msgctxt "QDriveItem|"
+msgid "NetDrive"
+msgstr "NetDrive"
+
+#: ../../NetDriveUI/qdriveitem.cpp:626
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "[%1] is not configured yet after published. Do you want to config?"
+msgstr "[%1] er ikke konfigureret efter publisering. Ønsker du at konfigurere det nu ?"
+
+#: ../../NetDriveUI/qdriveitem.cpp:701
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to publish [%1]."
+msgstr "Kunne ikke publisere [%1]."
+
+#: ../../NetDriveUI/qdriveitem.cpp:721
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Failed to unpublish [%1]"
+msgstr "Kunne ikke fjerne publiseringen [%1]"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1811
+#, qt-format
+msgctxt "QDriveItem|"
+msgid "Do you want to publish [%1] to team members?"
+msgstr "Ønsker du at publisere [1%] til hold medlemmer?"
+
+#: ../../NetDriveUI/qdriveitem.cpp:1829
+#, qt-format
+msgctxt "QDriveItem|"
+msgid ""
+"When unpublished, the drive of the member being mounted is unmounted and the "
+"file not saved in the drive may be lost.\n"
+"Do you want to unpublish [%1] from team members?"
+msgstr ""
+"Ved fjernelse af publisering, vil medlemmets monterede drev blive demonteret og filer der ikke er gemt på drevet kan gå tabt.\n"
+"Ønsker du at fjerne publiseringen [%1] fra hold medlemmer?"
+
+#: ../../../common/aerrorstring.cpp:9
+msgctxt "QObject|"
+msgid "A serious problem occurred. Please reinstall NetDrive."
+msgstr "Et alvorligt problem er opstået. Venligst reinstaller NetDrive."
+
+#: ../../../common/aerrorstring.cpp:11
+msgctxt "QObject|"
+msgid "Success."
+msgstr "Succes."
+
+#: ../../../common/aerrorstring.cpp:13
+msgctxt "QObject|"
+msgid "Failed."
+msgstr "Fejlet."
+
+#: ../../NetDriveUI/errmsg.cpp:23
+msgctxt "QObject|"
+msgid "Access Denied."
+msgstr "Adgang nægtet."
+
+#: ../../NetDriveUI/errmsg.cpp:27
+msgctxt "QObject|"
+msgid "Path not found."
+msgstr "Sti kunne ikke findes."
+
+#: ../../NetDriveUI/errmsg.cpp:31
+msgctxt "QObject|"
+msgid "Connection error."
+msgstr "Forbindelses fejl."
+
+#: ../../NetDriveUI/errmsg.cpp:35
+msgctxt "QObject|"
+msgid "Drive letter already used."
+msgstr "Drev bogstavet er allerede i brug."
+
+#: ../../NetDriveUI/errmsg.cpp:39
+msgctxt "QObject|"
+msgid "Mount Error."
+msgstr "Monterings Fejl."
+
+#: ../../NetDriveUI/errmsg.cpp:43
+msgctxt "QObject|"
+msgid "Mount process is not executed."
+msgstr "Monterings procesen kunne ikke udføres."
+
+#: ../../NetDriveUI/errmsg.cpp:47
+msgctxt "QObject|"
+msgid ""
+"Files are currently being uploading. Do you want to disconnect forcefully?"
+msgstr ""
+"Filer er ved at blive sendt. Ønsker du at gennemtvinge en afkobling?"
+
+#: ../../NetDriveUI/errmsg.cpp:51
+msgctxt "QObject|"
+msgid "NetDrive is not initialized."
+msgstr "NetDrive er ikke initialiseret."
+
+#: ../../NetDriveUI/errmsg.cpp:55
+msgctxt "QObject|"
+msgid "No available drive letter."
+msgstr "Der er ikke noget drev bogstav tilgængeligt."
+
+#: ../../NetDriveUI/errmsg.cpp:59
+msgctxt "QObject|"
+msgid "Wrong Parameter."
+msgstr "Forkert Parameter."
+
+#: ../../NetDriveUI/errmsg.cpp:63
+msgctxt "QObject|"
+msgid "Network path already used."
+msgstr "Netværkssti er allerede brugt."
+
+#: ../../NetDriveUI/errmsg.cpp:67
+msgctxt "QObject|"
+msgid "Cache path error."
+msgstr "Cache sti fejl."
+
+#: ../../NetDriveUI/errmsg.cpp:71
+msgctxt "QObject|"
+msgid "Operation Failed."
+msgstr "Handlingen Fejlede."
+
+#: ../../NetDriveUI/errmsg.cpp:75
+msgctxt "QObject|"
+msgid "Not logged in user."
+msgstr "Ikke logget på som bruger."
+
+#: ../../NetDriveUI/errmsg.cpp:79
+msgctxt "QObject|"
+msgid ""
+"The protocol version you are using is different from the product version. "
+"Please reinstall NetDrive."
+msgstr ""
+"Den protokol version du bruger er forskellig fra produkt versionnen. "
+"Venligst geninstaller NetDrive."
+
+#: ../../NetDriveUI/errmsg.cpp:83
+msgctxt "QObject|"
+msgid "You cannot use this version. Please install the version you can use."
+msgstr "Du kan ikke bruge denne version. Venligst installere den version du kan bruge."
+
+#: ../../NetDriveUI/errmsg.cpp:87
+msgctxt "QObject|"
+msgid "Not supported protocol type"
+msgstr "Ikke en understøttet type"
+
+#: ../../NetDriveUI/errmsg.cpp:91
+msgctxt "QObject|"
+msgid "Already mounted drive item."
+msgstr "Allerede monteret drev emne."
+
+#: ../../NetDriveUI/errmsg.cpp:99
+msgctxt "QObject|"
+msgid "Error occurred."
+msgstr "Fejl er opstået."
+
+#: ../../NetDriveUI/errmsg.cpp:95
+msgctxt "QObject|"
+msgid "You do not have permission."
+msgstr "Du har ikke tilladelse."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
+msgctxt "QObject|"
+msgid "An error occurred on the push server."
+msgstr "Der er opstået en fejl på udgivende server."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
+msgctxt "QObject|"
+msgid "The file is already locked."
+msgstr "Filen er allerede låst."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
+msgctxt "QObject|"
+msgid "The drive does not exist."
+msgstr "Drevet eksistere ikke."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
+msgctxt "QObject|"
+msgid "The file does not exist in the locked files list"
+msgstr "Filen eksistere ikke i listen over låste filer"
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
+msgctxt "QObject|"
+msgid "The file is locked by another user."
+msgstr "Filen er låst af en anden bruger."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
+msgctxt "QObject|"
+msgid "The file is locked on another device."
+msgstr "Filen er lås af en anden enhed."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to refresh %1."
+msgstr "Kunne ikke opdatre %1."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to lock %1."
+msgstr "Kunne ikke låse %1."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to unlock %1."
+msgstr "Kunne ikke låse op for %1."
+
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
+#, qt-format
+msgctxt "QObject|"
+msgid "Failed to force unlock %1."
+msgstr "Kunne ikke gennemtvinge en oplåsning af %1."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
+msgctxt "QObject|"
+msgid "Rename"
+msgstr "Omdøb"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
+msgctxt "QObject|"
+msgid "Move"
+msgstr "Flyt"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
+msgctxt "QObject|"
+msgid "Delete"
+msgstr "Slet"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"%1 failed because the locked file is in the folder. Unlock the file and try "
+"again."
+msgstr ""
+"%1 fejlede fordi den låste fil er i den folder. Lås filen op og prøv "
+"igen."
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 failed because the file is locked. Unlock the file and try again."
+msgstr "%1 fejlede fordi filen er låst. Lås filen op og prøv igen."
+
+#: ../../NetDriveUI/qselectitemtype.ui:14
+msgctxt "QSelectItemType|"
+msgid "Select a drive type"
+msgstr "Vælg drev type"
+
+#: ../../NetDriveUI/qselectitemtype.ui:22
+msgctxt "QSelectItemType|"
+msgid "Select a drive type you want to add."
+msgstr "Vælg en drev type du ønsker at tilføje."
+
+#: ../../NetDriveUI/qselectitemtype.ui:45
+msgctxt "QSelectItemType|"
+msgid "Team drive item"
+msgstr "Hold drev emne"
+
+#: ../../NetDriveUI/qselectitemtype.ui:52
+msgctxt "QSelectItemType|"
+msgid "Personal drive item"
+msgstr "Personligt drev emne"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
+msgctxt "QSenderDlg|"
+msgid "Send Crash Report"
+msgstr "Send Nedbruds Rapport"
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
+msgctxt "QSenderDlg|"
+msgid ""
+"A report has been created that you can send to Bdrive Inc. to help identify "
+"the problem.\n"
+"\n"
+"Please provide us any detailed description of what happened before the "
+"crash.\n"
+"\n"
+"The information you send us will help us to fix this problem and it will not "
+"be used except for debugging purpose."
+msgstr ""
+"Der er oprettet en rapport som du kan sende til Bdrive Inc. for at hjælpe med at identificere "
+"problemet.\n"
+"\n"
+"Informationen du sender til os vil hjælpe os med at rette problemet og vil ikke blive brug til andet end fejlsøgnings formål."
+
+#: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
+msgctxt "QSenderDlg|"
+msgid "minutes remaining."
+msgstr "minuter tilbage"
+
+#: ../../../ui_helper/filebrowser/rename.ui:43
+msgctxt "Rename|"
+msgid "New name:"
+msgstr "Nyt navn:"
+
+#: ../../../ui_helper/filebrowser/rename.ui:101
+msgctxt "Rename|"
+msgid "OK"
+msgstr "OK"
+
+#: ../../../ui_helper/filebrowser/rename.ui:114
+msgctxt "Rename|"
+msgid "Cancel"
+msgstr "Fortryd"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:11
+msgctxt "RenameDlg|"
+msgid "Create Directory"
+msgstr "Opret Folder"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:12
+msgctxt "RenameDlg|"
+msgid "Directory name:"
+msgstr "Folder navn:"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:16
+msgctxt "RenameDlg|"
+msgid "Rename"
+msgstr "Omdøb"
+
+#: ../../../ui_helper/filebrowser/renamedlg.cpp:17
+msgctxt "RenameDlg|"
+msgid "New name:"
+msgstr "Nyt navn:"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:23
+#: ../../NetDriveUI/selectfolder.ui:14
+msgctxt "SelectFolder|"
+msgid "Select Folder"
+msgstr "Vælg Folder"
+
+#: ../../NetDriveUI/selectfolder.ui:71
+msgctxt "SelectFolder|"
+msgid "CREATE NEW FOLDER"
+msgstr "OPRET NY FOLDER"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+msgctxt "SelectFolder|"
+msgid "Folder listing failed"
+msgstr "Folder gennemgang er fejlet"
+
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+msgctxt "SelectFolder|"
+msgid "Can not retrieve folder list from server."
+msgstr "Kan ikke hente folder liste fra serveren."
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:49
+msgctxt "SelectFolder|"
+msgid "OK"
+msgstr "OK"
+
+#: ../../../ui_helper/filebrowser/selectfolder.ui:59
+msgctxt "SelectFolder|"
+msgid "Cancel"
+msgstr "Fortryd"
+
+#: ../../NetDriveUI/sortitemwidget.ui:41
+msgctxt "SortItemWidget|"
+msgid "Sort by"
+msgstr "Sorter efter"
+
+#: ../../../common/urlwidget.ui:47
+msgctxt "URLWidget|"
+msgid "Port"
+msgstr "Port"
+
+#: ../../NetDriveUI/update.ui:14
+msgctxt "Update|"
+msgid "NetDrive Update"
+msgstr "NetDrive Opdatering"
+
+#: ../../NetDriveUI/update.ui:78
+msgctxt "Update|"
+msgid "A new version of NetDrive is available!"
+msgstr "En ny version af NetDrive er tilgængelig!"
+
+#: ../../NetDriveUI/update.ui:104
+msgctxt "Update|"
+msgid "Release notes:"
+msgstr "Frigivelses noter:"
+
+#: ../../NetDriveUI/update.ui:127
+msgctxt "Update|"
+msgid "Automatically download and install updated version in the future"
+msgstr "Automatisk hent og installer opdaterede versioner i fremtiden"
+
+#: ../../NetDriveUI/update.ui:150
+msgctxt "Update|"
+msgid "Skip this version"
+msgstr "Spring denne version over"
+
+#: ../../NetDriveUI/update.ui:157
+msgctxt "Update|"
+msgid "Later"
+msgstr "Senere"
+
+#: ../../NetDriveUI/update.ui:164
+msgctxt "Update|"
+msgid "Update"
+msgstr "Opdater"
+
+#: ../../NetDriveUI/uploaditem.cpp:105
+msgctxt "UploadItem|"
+msgid "Failed to upload"
+msgstr "Kunne ikke opdatere"
+
+#: ../../NetDriveUI/uploaditem.cpp:241
+msgctxt "UploadItem|"
+msgid "Cancel"
+msgstr "Fotryd"
+
+#: ../../NetDriveUI/uploaditem.cpp:244
+msgctxt "UploadItem|"
+msgid "Retry"
+msgstr "Prøv igen"
+
+#: ../../NetDriveUI/uploaditem.cpp:247
+msgctxt "UploadItem|"
+msgid "Save as"
+msgstr "Gem som"
+
+#: ../../NetDriveUI/uploadings.cpp:21
+msgctxt "Uploadings|"
+msgid "No files are being uploaded."
+msgstr "Ingen filer sendes."
+
+#: ../../NetDriveUI/uploadings.cpp:59
+msgctxt "Uploadings|"
+msgid "Failed to retry."
+msgstr "Kunne ikke prøve igen."
+
+#: ../../NetDriveUI/uploadings.cpp:74
+msgctxt "Uploadings|"
+msgid "Failed to save as."
+msgstr "Kunne ikke gemme som."
+
+#: ../../../ui_helper/oauth2/waiter.ui:14
+msgctxt "Waiter|"
+msgid "Wait for authentication"
+msgstr "Vent på godkendelse"

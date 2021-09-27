@@ -203,37 +203,37 @@ msgstr "Wir unterstützen dieses Protokoll nicht."
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "Artikelsuche"
 
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "Im Konto"
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "Im Gerät"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "Persönliches Laufwerk hunzufügen"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "Team Laufwerk hinzufügen"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "Teamlaufwerk konfigurieren"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "Persönliches Laufwerk konfigurieren"
 
 #: ../../NetDriveUI/adddrive.cpp:1652
 msgctxt "AddDrive|"
@@ -241,6 +241,8 @@ msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
 msgstr ""
+"Dieses Teamlaufwerk hat noch keine Verbindungsinformationen."
+"Möchten Sie diese jetzt einstellen?"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -321,27 +323,27 @@ msgstr "Laufwerk bearbeiten"
 #: ../../../ui_helper/filebrowser/downloadprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "Fortschritt"
 
 #: ../../../ui_helper/filebrowser/downloaditem.cpp:12
 msgctxt "DownloadItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "Bereite Download vor..."
 
 #: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
 msgctxt "DownloadProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "Dateidownload"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "Im Downloadverzeichnis sichern"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "Download nach..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
 #, fuzzy
@@ -352,13 +354,13 @@ msgstr "Öffnen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "Neu laden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "Umbenennen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
 msgctxt "FileBrowserManager|"
@@ -375,82 +377,82 @@ msgstr "Löschen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "Neuer Ordner"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "Teilbaren Link holen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "Sperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "Entsperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "Entsperren erzwingen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "Liste der gesperrten Dateien"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "Verbindung fehlgeschalgen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "Protokol verbinden fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "Dateiliste holen fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "Root ID holen fehlgeschalgen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "Verzeichnis neu laden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "Verzeichnis neu laden fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "Download abgeschlossen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "Datei herunterladen fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "Kann Datei nicht vom Server herunterladen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
 #, qt-format
@@ -710,7 +712,7 @@ msgstr "Aktuell sind %0.2f GB Festplattenspeicher verfügbar"
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "Alle gesperrten Dateien beim Trennen des Laufwerks freigeben"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
@@ -1974,7 +1976,7 @@ msgstr "Minuten verbleiben."
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr ""
+msgstr "Neuer Name:"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
@@ -1990,22 +1992,22 @@ msgstr "Abbrechen"
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr ""
+msgstr "Inhaltsverzeichnis erstellen"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr ""
+msgstr "Inhaltsaverzeichnis Name"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr ""
+msgstr "Umbenennen"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr ""
+msgstr "Neuer Name:"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14

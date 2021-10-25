@@ -10,13 +10,13 @@ msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
-msgid "Add Drive"
-msgstr "드라이브 추가"
+msgid "Sürücü Ekle"
+msgstr "Sürücü Ekle"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
-msgid "STORAGE TYPE"
-msgstr "스토리지 타입"
+msgid "SÜRÜCÜ TİPİ"
+msgstr "Sürücü Tipi"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"

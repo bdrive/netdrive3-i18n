@@ -23,7 +23,7 @@ lv | Latvian | [netdrive_lv.po](https://github.com/bdrive/netdrive3-i18n/blob/ma
 po | Polish | [netdrive_pl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_pl.po) |  | |
 sk | Slovak | [netdrive_sk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_sk.po) |  | |
 uk | Ukrainian | [netdrive_uk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_uk.po) |  | |
-tr | Turkish | [netdrive_tr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_tr.po) |  |[@huseyinergen] (https://github.com/huseyinergen) |
+tr | Turkish | [netdrive_tr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_tr.po) |  |[@huseyinergen](https://github.com/huseyinergen) |
 
 # How to Translate
 

@@ -13,6 +13,7 @@ hu | Hungarian | [netdrive_hu.po](https://github.com/bdrive/netdrive3-i18n/blob/
 it | Italian | [netdrive_it.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_it.po) | 3.8 | [@bovirus](https://github.com/bovirus) |
 vi | Vietnamese | [netdrive_vi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_vi.po) | 3.8 | [@thanthhot](https://github.com/thanhthot) |
 zh-CN | Simplified Chinese | [netdrive_zh-CN.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-CN.po) | 3.8 | [@airxw](https://github.com/airxw) |
+tr | Turkish | [netdrive_tr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_tr.po) | 3.8 |[@huseyinergen](https://github.com/huseyinergen) |
 ca | Catalan | [netdrive_ca.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ca.po) |  | |
 fi | Finnish | [netdrive_fi.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_fi.po) |  | |
 fr | French | [netdrive_fr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_fr.po) |  | |
@@ -23,7 +24,6 @@ lv | Latvian | [netdrive_lv.po](https://github.com/bdrive/netdrive3-i18n/blob/ma
 po | Polish | [netdrive_pl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_pl.po) |  | |
 sk | Slovak | [netdrive_sk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_sk.po) |  | |
 uk | Ukrainian | [netdrive_uk.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_uk.po) |  | |
-tr | Turkish | [netdrive_tr.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_tr.po) |  |[@huseyinergen](https://github.com/huseyinergen) |
 
 # How to Translate
 

@@ -10,183 +10,183 @@ msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
-msgid "Sürücü Ekle"
+msgid "Add Drive"
 msgstr "Sürücü Ekle"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
-msgid "SÜRÜCÜ TİPİ"
-msgstr "Sürücü Tipi"
+msgid "STORAGE TYPE"
+msgstr "SÜRÜCÜ TİPİ"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr "연결"
+msgstr "BAĞLAN"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr "옵션"
+msgstr "AYARLAR"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr "인증정보 저장"
+msgstr "Erişim bilgilerini kaydet"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr "원격지 경로"
+msgstr "UZAK KONUM"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr "검색"
+msgstr "GÖZAT"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr "이름"
+msgstr "ETİKET"
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr "아이템 위치"
+msgstr "NESNE KONUMU"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr "연결"
+msgstr "SÜRÜCÜ OLUŞTUR"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "as"
-msgstr "타입"
+msgstr "olarak"
 
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr "자동 연결 옵션"
+msgstr "OTOMATİK BAĞLANTI AYARLARI"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr "자동 연결 하지 않음"
+msgstr "Otomatik sürücü oluşturma yok"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr "부팅시 연결"
+msgstr "Açılışta sürücü oluştur"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr "로그인시 연결"
+msgstr "Girişte sürücü oluştur"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr "업로드 옵션"
+msgstr "YÜKLEME AYARLARI"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr "탐색기로 업로드시 바로 올리기"
+msgstr "Tarayıcıda anında yüklemeyi kullan"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr "백그라운드 업로드 사용"
+msgstr "Geri planda yüklemeyi kullan"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr "읽기 전용 옵션"
+msgstr "SALT OKUNUR AYARLARI"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr "쓰기 가능 드라이브"
+msgstr "Yazılabilir sürücü"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr "읽기 전용 드라이브"
+msgstr "Salt okunur sürücü"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr "상세 옵션"
+msgstr "GELİŞMİŞ AYARLAR"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr "서버로부터 항상 파일 목록 가져오기"
+msgstr "Dosya listesini her zaman sunucudan al"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr "이동식 드라이브로 사용"
+msgstr "Çıkarılabilir sürücü olarak"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ".으로 시작하는 파일을 숨김 파일로 처리"
+msgstr "Nokta ile başlayan dosya ve klasörleri gizli olarak ayarla"
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr "DB 파일 시스템 사용(실험용)"
+msgstr "Sabit dosya sistemini kullan (Deneme olarak)"
 
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr "색상"
+msgstr "RENK"
 
 #: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr "네트워크 드라이브"
+msgstr "ağ sürücüsü"
 
 #: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr "로컬 드라이브"
+msgstr "yerel sürücü"
 
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr "계정에 저장"
+msgstr "Hesapta"
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr "장치에 저장"
+msgstr "Aygıtta"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr "개인드라이브 추가"
+msgstr "Kişisel sürücü ekle"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr "팀드라이브 추가"
+msgstr "Takım Sürücüsü ekle"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr "팀드라이브 설정"
+msgstr "Takım Sürücüsü Yapılandır"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr "개인드라이브 설정"
+msgstr "Kişisel Sürücü ayarları"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr "연결 정보를 설정하기 위해 연결 버튼을 눌러주세요."
+msgstr "Lütfen bağlantı bilgilerini ayarlamak için BAĞLAN butonuna basın."
 
 #: ../../NetDriveUI/adddrive.cpp:671
 msgctxt "AddDrive|"
@@ -194,250 +194,250 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
-"다음의 문자들은 이름에 포함될 수 없습니다:\n"
+"Sürücü bilgileri bu karakterleri içeremez:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:679
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr "이름을 입력해 주세요."
+msgstr "Lütfen sürücü tipini girin."
 
 #: ../../NetDriveUI/adddrive.cpp:687
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
-msgstr "이름의 최대 길이는 50입니다."
+msgstr "Maksimum sürücü ismi 50 karakter olabilir."
 
 #: ../../NetDriveUI/adddrive.cpp:698
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr "원격 경로를 선택해 주세요."
+msgstr "Lütfen uzak konumu seçin."
 
 #: ../../NetDriveUI/adddrive.cpp:719
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr "이미 사용되고 있는 이름입니다. 다른 이름을 입력해 주세요."
+msgstr "Lütfen sürücü ismi için başka birini seçin. Seçilen isim kullanılıyor."
 
 #: ../../NetDriveUI/adddrive.cpp:1585
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr " 연결 버튼을 눌러서 다시 시도해 주세요."
+msgstr " Lütfen BAĞLAN tuşuna basarak tekrar deneyin."
 
 #: ../../NetDriveUI/adddrive.cpp:1652
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr "이 팀드라이브는 아직 연결 정보가 설정되지 않았습니다. 지금 설정하시겠습니까?"
+msgstr "Takım sürücüsü bağlantı bilgisi ayarlanmamış. Ayarlamak ister misiniz?"
 
 #: ../../NetDriveUI/adddrive.cpp:1681
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
-msgstr "이 프로토콜은 지원되지 않습니다."
+msgstr "Bu protokol desteklenmiyor."
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr "로그인"
+msgstr "Giriş Yap"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
 msgid "Email"
-msgstr "이메일"
+msgstr "Email"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
 msgid "Password"
-msgstr "비밀번호"
+msgstr "Şifre"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
 msgid "Keep me logged in"
-msgstr "로그인 유지하기"
+msgstr "Beni hatırla"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
 msgid "OR"
-msgstr "또는"
+msgstr "veya"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:203
 msgctxt "BDLogin|"
 msgid "Sign in with"
-msgstr "SNS로 로그인하기"
+msgstr "İle giriş yap"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:273
 msgctxt "BDLogin|"
 msgid "Cancel"
-msgstr "취소"
+msgstr "İptal"
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
 msgid "Passphrase"
-msgstr "암호문"
+msgstr "Parola"
 
 #: ../../ndagent/BDUser.cpp:632
 msgctxt "BDUser|"
 msgid ""
 "Login failed because communication with the server failed. Please check your "
 "proxy or Internet connection."
-msgstr "서버와의 통신에 문제가 있어서 로그인하지 못했습니다. 인터넷 연결 또는 프록시 설정을 확인해 주세요."
+msgstr "Giriş başarısız. Çünkü sunucu ile iletişimde sorun oluştu.Lütfen internet bağlantınızı kontrol edin."
 
 #: ../../ndagent/BDUser.cpp:647
 msgctxt "BDUser|"
 msgid "Login failed. Please click here to check."
-msgstr "로그인을 실패했습니다. 이곳을 눌러 확인해 주세요."
+msgstr "Giriş başarısız. Lütfen buraya tıklayarak kontrol ediniz."
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
 msgid "Authentication Information"
-msgstr "인증 정보"
+msgstr "Kimlik doğrulama bilgileri"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
 msgid "Password"
-msgstr "비밀번호"
+msgstr "Şifre"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
 msgid "User"
-msgstr "사용자"
+msgstr "Kullanıcı"
 
 #: ../../NetDriveUI/qdriveitem.cpp:356
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
-msgstr "드라이브 설정"
+msgstr "Sürücü Ayarları"
 
 #: ../../../ui_helper/filebrowser/downloadprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr "진행"
+msgstr "İlerleme"
 
 #: ../../../ui_helper/filebrowser/downloaditem.cpp:12
 msgctxt "DownloadItem|"
 msgid "Preparing Download..."
-msgstr "다운로드 준비중"
+msgstr "İndirme için hazırlanıyor..."
 
 #: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
 msgctxt "DownloadProgressDlg|"
 msgid "File Download"
-msgstr "파일 다운로드"
+msgstr "Dosya İndir"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr "다운로드 폴더에 저장"
+msgstr "İndirilenler Klasörüne Kaydet"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr "다운로드"
+msgstr "Buraya indir..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
 msgctxt "FileBrowserManager|"
 msgid "Open"
-msgstr "열기"
+msgstr "Aç"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr "새로 고침"
+msgstr "Yeniden yükle"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr "이름 변경"
+msgstr "Yeniden adlandır"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr "이동"
+msgstr "Taşı"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
 msgctxt "FileBrowserManager|"
 msgid "Delete"
-msgstr "삭제"
+msgstr "Sil"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr "새 폴더"
+msgstr "Yeni Klasör"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr "공유 링크 복사"
+msgstr "Paylaşım Linki Oluştur"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr "잠금"
+msgstr "Kilitle"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr "잠금 해제"
+msgstr "Kilidi Aç"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr "강제 잠금 해제"
+msgstr "Kilidi açmaya zorla"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr "잠긴 파일 목록"
+msgstr "Kilitli dosya listesi"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr "연결 실패"
+msgstr "Bağlantı Hatası"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr "연결 실패"
+msgstr "Protokol bağlantı hatası"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr "파일 목록 가져오기 실패"
+msgstr "Dosya listesi alınırken hata."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr "루트ID 가져오기 실패"
+msgstr "Root ID alınırken hata."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr "폴더 새로 고침"
+msgstr "Klasörü Yeniden Yükle"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr "폴더 새로 고침 실패"
+msgstr "Klasörü yeniden yüklerken hata."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr "다운로드 완료"
+msgstr "İndirme Tamamlandı."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr "다운로드 실패"
+msgstr "Dosya indirme hatası"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr "서버로부터 파일을 다운로드 할 수 없습니다."
+msgstr "Dosya sunucudan indirilemedi."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
 #, qt-format
@@ -446,18 +446,20 @@ msgid ""
 "Successful to get shareable link.\n"
 "%1\n"
 "Click the OK button to copy the shareable link."
-msgstr "공유 링크를 성공적으로 가져왔습니다. \\n%1\\n링크를 복사하려면 OK버튼을 누르세요."
+msgstr "Paylaşım linki başarıyla alındı."
+"%1\n"
+"Tamam tuşuna basarak linki kopyalayabilirsiniz."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr "공유 링크 가져오기 실패"
+msgstr "Dosya paylaşım linki alınırken hata."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr "%1으로 이름 변경 실패"
+msgstr "%1 dosya yeniden adlandırılırken hata oluştu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
@@ -465,331 +467,331 @@ msgstr "%1으로 이름 변경 실패"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr "파일 이동"
+msgstr "Dosyayı Taşı"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr "파일 이동 실패"
+msgstr "Dosya taşınırken hata oluştu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr "파일 삭제"
+msgstr "Dosyayı Sil"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr "파일 삭제 실패"
+msgstr "Dosya silinirken hata oluştu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr "새 폴더 생성 실패"
+msgstr "Yeni klasör oluşturulurken hata oluştu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr "파일 잠금"
+msgstr "Dosyayı Kilitle"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr "파일 잠금 실패"
+msgstr "Dosya kilitlenirken hata oluştu"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr "파일 잠금 해제"
+msgstr "Dosya Kilidini Aç"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr "파일 잠금 해제 실패"
+msgstr "Dosya kilidi açılırken hata oluştu."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr "실패"
+msgstr "Başarısız Eylem"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr "%1과 같은 이름이 있습니다."
+msgstr "%1 ile aynı isimde başka bir dosya var."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr "대상 폴더로 파일 이동을 실패했습니다."
+msgstr "Dosyayı hedef klasöre taşıma başarısız."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr "대상 폴더에 같은 이름이 있습니다."
+msgstr "Hedef klasör dosya ile aynı isme sahip."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr "파일 열기"
+msgstr "Dosya Aç"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr "임시 폴더 생성 실패"
+msgstr "Geçici dizin oluşturma başarısız."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr "파일 목록 가져오기"
+msgstr "Dosya Listesini Al"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Name"
-msgstr "이름"
+msgstr "İsim"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr "길이"
+msgstr "Boyut"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr "수정된 날짜"
+msgstr "Düzenlendi"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
-msgstr "정보"
+msgstr "HAKKINDA"
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr "%1에게 라이센스있음"
+msgstr "Lisans sahibi: %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr "시험판"
+msgstr "Deneme Sürümü"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
 msgid "Search"
-msgstr "검색"
+msgstr "Arama"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
 msgid "SETTINGS"
-msgstr "설정"
+msgstr "AYARLAR"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
 msgctxt "FlatSettingContents|"
 msgid "GENERAL"
-msgstr "일반"
+msgstr "GENEL"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
 msgid "Start at login"
-msgstr "로그인시 시작"
+msgstr "Girişte başlat"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr "원격 저장소에 새로 연결시 탐색기 실행"
+msgstr "Uzak depolamaya yeni bir bağlantı kurulursa Windows dosya gezginini aç"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
 msgid "Check for updates automatically"
-msgstr "업데이트를 자동으로 확인"
+msgstr "Güncellemeleri otomatik olarak kontrol et"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr "사용 가능한 베타 버젼을 확인"
+msgstr "Beta versiyonu için kontrol et"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr "드라이브의 연결을 끊을때 잠긴 모든 파일의 잠금 해제하기"
+msgstr "Sürücü bağlantısı kesilirse tüm kilitli dosyaların kilidini aç"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
 msgid "Language"
-msgstr "언어"
+msgstr "Dil"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:126
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
-msgstr "번역을 도와주세요!"
+msgstr "Tercüme için yardım et!"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:151
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
-msgstr "캐시"
+msgstr "GEÇİCİ BELLEK"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:172
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
-msgstr "넷드라이브는 원격지 파일의 일부 복사본을 로컬 디스크에 임시로 저장합니다."
+msgstr "NetDrive geçici kopyaları yerel diskte tutar."
 
 #: ../../NetDriveUI/flatsettingcontents.ui:181
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr "캐시 경로"
+msgstr "Geçici bellek yolu"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:198
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr "검색"
+msgstr "GÖZAT"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr " "
+msgstr "Kadarını kullan"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
-msgstr "GB 까지 캐시로 사용"
+msgstr "GB disk geçici belleği"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:267
 msgctxt "FlatSettingContents|"
 msgid "LOG"
-msgstr "로그"
+msgstr "GÜNLÜK"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:288
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr "로그 레벨"
+msgstr "Günlük seviyesi"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:321
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr "로그 폴더 열기"
+msgstr "GÜNLÜK KLASÖRÜNÜ AÇ"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:347
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
-msgstr "네트워크"
+msgstr "AĞ"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:353
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr "프록시 설정"
+msgstr "PROXY AYARLARI"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
-msgstr "원격 저장소에 새로 연결시 파인더 실행"
+msgstr "Uzak depolama cihazına yeni bağlantı kurulunca bulucuyu aç"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:89
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
-msgstr "디렉토리 열기"
+msgstr "Klasörü Aç"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:114
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr "현재 %0.2f GB 디스크 공간을 사용할 수 있습니다."
+msgstr "Şuan %0.2f GB disk alanı kullanılabilir."
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "%1 Update"
-msgstr "%1 업데이트"
+msgstr "%1 Güncelle"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "A new version of %1 is available!"
-msgstr "%1 새로운 버젼이 있습니다!"
+msgstr "%1 Yeni bir versiyon bulundu!"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr "%1 %2가 나왔습니다. - 사용하고 있는 버젼은 %3입니다. 지금 다운로드 하겠습니까?"
+msgstr "%1 %2 versiyonu kullanılabilir durumda. Mevcut sürüm: %3. Güncellemeyi indirmek ister misiniz?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr "출시 노트:"
+msgstr "Güncelleme Notları:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
 msgid "Automatically download and install updated version in the future"
-msgstr "앞으로 업데이트 버젼을 자동으로 다운로드하고 설치"
+msgstr "Gelecekte yeni versiyon çıkarsa otomatik olarak indir ve yükle"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:121
 msgctxt "FlatUpdate|"
 msgid "SKIP THIS VERSION"
-msgstr "이 버젼은 건너뛰기"
+msgstr "BU VERSİYONU ATLA"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:128
 msgctxt "FlatUpdate|"
 msgid "REMIND ME LATER"
-msgstr "나중에"
+msgstr "SONRA HATIRLAT"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:135
 msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
-msgstr "업데이트 설치"
+msgstr "GÜNCELLEMEYİ YÜKLE"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr "잠긴 파일 목록"
+msgstr "Kilitli Dosya Listesi"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr "잠긴 파일이 없습니다."
+msgstr "Kilitli dosya yok."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr "잠금 해제"
+msgstr "Kilidi Aç"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr "강제 잠금 해제"
+msgstr "Kilidi açmaya zorla"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr "%1에 있는 잠긴 파일 목록"
+msgstr "%1 Kilitlenmiş dosya listesi"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr "존재하지 않음"
+msgstr "Eksik"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr "경로"
+msgstr "Yol"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr "잠근 사용자"
+msgstr "Kilitleyen"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr "장치"
+msgstr "Aygıt"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr "상태"
+msgstr "Durum"
 
 #: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
@@ -797,56 +799,56 @@ msgctxt "NDFlatUI|"
 msgid ""
 "The services of %1 must be running, but they are not running. Do you want to "
 "run them now?"
-msgstr "%1 서비스는 반드시 실행되고 있어야 합니다. 그런데 실행되고 있지 않습니다. 지금 실행시키겠습니까?"
+msgstr "Servisler %1 çalışması lazım, fakat çalışmıyor. Bu servisleri çalıştırmak istiyor musunuz?"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
-msgstr "업로딩"
+msgstr "YÜKLENİYOR"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:63
 msgctxt "NDFlatUI|"
 msgid "WAITING"
-msgstr "대기"
+msgstr "BEKLENİYOR"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:66
 msgctxt "NDFlatUI|"
 msgid "FAILED"
-msgstr "실패"
+msgstr "BAŞARISIZ"
 
 #: ../../NetDriveUI/ndflatui.cpp:209
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr " (팀드라이브 관리자)"
+msgstr " (Bakım Yapıcı)"
 
 #: ../../NetDriveUI/ndflatui.cpp:531
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available!"
-msgstr "NetDrive File Lock Service를 사용할 수 없습니다."
+msgstr "NetDrive Dosya Kilitleme Servisi kullanılabilir değil."
 
 #: ../../NetDriveUI/ndflatui.cpp:726
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr "팀드라이브 관리자에 의해 게시가 취소되었기 때문에 [%1] 드라이브는 연결이 끊겼습니다."
+msgstr "Takım sürücüsü [%1] bakım yapıcı tarafından kaldırılmış."
 
 #: ../../NetDriveUI/ndflatui.cpp:872
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr "[%1]를 팀 멤버들에게 게시하겠습니까? 나중에 게시할 수도 있습니다."
+msgstr "[%1] Takım üyelerine yayınlamak istediğinize emin minisiz?. Daha sonra da yayınlayabilirsiniz."
 
 #: ../../NetDriveUI/ndflatui.cpp:892
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
-msgstr "중복된 이름이 있어서 드라이브 추가를 실패했습니다."
+msgstr "Sürücü ekleme başarısız. Çünkü aynı sürücü ismi mevcut."
 
 #: ../../NetDriveUI/ndflatui.cpp:896
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
-msgstr "드라이브 추가를 실패했습니다."
+msgstr "Sürücü ekleme başarısız."
 
 #: ../../NetDriveUI/ndflatui.cpp:1084
 #, qt-format
@@ -858,236 +860,238 @@ msgid ""
 "If you are connected to the Internet and still have this issue, please visit "
 "%1 to leave a note."
 msgstr ""
-"Bdrive의 서버와의 연결에 실패했습니다. 일반적으로 인터넷 연결이 안되어 있는 경우입니다. 인터넷 연결이 되어 있는데 이 문제가 "
-"발생한다면  %1을 방문해서 글을 남겨주세요."
+"Bu sorun Bdrive sunucusuyla ağ bağlantısından kaynaklanabilir "
+"Genellikle Bdrive sunucusu ile bilgisayarınızın bağlı olmasından kaynaklanır."
+"Eğer internet bağlantınız mevcutsa lütfen %1 adresini ziyaret edin. %1 not bırakın."
 
 #: ../../NetDriveUI/ndflatui.cpp:1181
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
-msgstr "드라이브 삭제를 실패했습니다."
+msgstr "Sürücü silme başarısız."
 
 #: ../../NetDriveUI/ndflatui.cpp:1263
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
-msgstr "NetDrive Agent 시작중."
+msgstr "NetDrive Hizmeti başlatılıyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1267
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
-msgstr "Agent의 초기화중"
+msgstr "Hizmet ayarlanıyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1270
 msgctxt "NDFlatUI|"
 msgid "Initailizing SDK."
-msgstr "SDK의 초기화중"
+msgstr "SDK ayarlanıyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1276
 msgctxt "NDFlatUI|"
 msgid "Checking network."
-msgstr "Network 확인중"
+msgstr "Ağ kontrol ediliyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1279
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
-msgstr "저장된 사용자 로그인중"
+msgstr "Hatırlanan kullanıcıların hesaplarına giriş yapılıyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1284
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
-msgstr "부팅시 연결하는 드라이브들의 연결중"
+msgstr "Açılışta oluşturulan sürücüler."
 
 #: ../../NetDriveUI/ndflatui.cpp:1292
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
-msgstr "Agent 준비 완료."
+msgstr "Hizmet hazır."
 
 #: ../../NetDriveUI/ndflatui.cpp:1300
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
-msgstr "NetDrive Agent에 연결중"
+msgstr "NetDrive hizmetine bağlanılıyor."
 
 #: ../../NetDriveUI/ndflatui.cpp:1487
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
-msgstr "%1 업로드 실패"
+msgstr "%1 Gönderme başarısız."
 
 #: ../../NetDriveUI/ndflatui.cpp:1930
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr "Bdrive 서버에 접속 실패"
+msgstr "Bdrive sunucusuna bağlantı başarısız."
 
 #: ../../NetDriveUI/ndflatui.cpp:2409
 msgctxt "NDFlatUI|"
 msgid "&Open"
-msgstr "열기"
+msgstr "&Aç"
 
 #: ../../NetDriveUI/ndflatui.cpp:2412
 msgctxt "NDFlatUI|"
 msgid "&Quit"
-msgstr "종료"
+msgstr "Çı&kış"
 
 #: ../../NetDriveUI/ndflatui.cpp:2415
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
-msgstr "업데이트 확인"
+msgstr "&Güncellemeleri kontrol et"
 
 #: ../../NetDriveUI/ndflatui.cpp:2418
 msgctxt "NDFlatUI|"
 msgid "&Login"
-msgstr "로그인"
+msgstr "G&iriş Yap"
 
 #: ../../NetDriveUI/ndflatui.cpp:2422
 msgctxt "NDFlatUI|"
 msgid "Log&out"
-msgstr "로그아웃"
+msgstr "Çıkış &Yap"
 
 #: ../../NetDriveUI/ndflatui.cpp:2429
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
-msgstr "초기화중..."
+msgstr "Başlatılıyor..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2460
 msgctxt "NDFlatUI|"
 msgid "NetDrive File Lock Service is not available"
-msgstr "NetDrive FIle Lock Service를 사용할 수 없습니다."
+msgstr "NetDrive Dosya Kilit servisi kullanılabilir değil."
 
 #: ../../NetDriveUI/ndflatui.cpp:2581
 msgctxt "NDFlatUI|"
 msgid "NetDrive is Quiting..."
-msgstr "종료중..."
+msgstr "NetDrive Kapatılıyor..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2621
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
-msgstr "로그아웃하면, '부팅시 연결' 아이템은 자동으로 연결되지 않습니다. 로그아웃 하겠습니까?"
+msgstr "Eğer çıkış yaparsanız açılışta oluştur nesneleri otomatik olarak bağlanamaz."
+"Çıkış yapmak istediğinize emin misiniz?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2757
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
-msgstr "로그아웃중..."
+msgstr "Çıkış yapılıyor..."
 
 #: ../../NetDriveUI/ndflatui.cpp:3237
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
-msgstr "%1 현재 버젼이 최신입니다."
+msgstr "%1 Mevcut sürüm son sürümdür."
 
 #: ../../NetDriveUI/ndflatui.cpp:3412
 msgctxt "NDFlatUI|"
 msgid "Drives"
-msgstr "드라이브 목록"
+msgstr "Sürücüler"
 
 #: ../../NetDriveUI/ndflatui.cpp:3417
 msgctxt "NDFlatUI|"
 msgid "Settings"
-msgstr "설정"
+msgstr "Ayarlar"
 
 #: ../../NetDriveUI/ndflatui.cpp:3420
 msgctxt "NDFlatUI|"
 msgid "Uploading"
-msgstr "업로드 목록"
+msgstr "Yükleniyor"
 
 #: ../../NetDriveUI/ndflatui.cpp:3425
 msgctxt "NDFlatUI|"
 msgid "About"
-msgstr "정보"
+msgstr "Hakkında"
 
 #: ../../NetDriveUI/ndflatui.cpp:3428
 msgctxt "NDFlatUI|"
 msgid "Account Info"
-msgstr "계정 정보"
+msgstr "Hesap Bilgisi"
 
 #: ../../NetDriveUI/ndflatui.cpp:3431
 msgctxt "NDFlatUI|"
 msgid "Manage License"
-msgstr "라이센스 관리"
+msgstr "Lisansları Yönet"
 
 #: ../../NetDriveUI/ndflatui.cpp:3434
 msgctxt "NDFlatUI|"
 msgid "Login"
-msgstr "로그인"
+msgstr "Giriş Yap"
 
 #: ../../NetDriveUI/ndflatui.cpp:3437
 msgctxt "NDFlatUI|"
 msgid "Logout"
-msgstr "로그아웃"
+msgstr "Çıkış Yap"
 
 #: ../../NetDriveUI/ndflatui.cpp:3440
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
-msgstr "NetDrive 도움말"
+msgstr "NetDrive Yardım"
 
 #: ../../NetDriveUI/ndflatui.cpp:3443
 msgctxt "NDFlatUI|"
 msgid "View"
-msgstr "보기"
+msgstr "Görüntüle"
 
 #: ../../NetDriveUI/ndflatui.cpp:3444
 msgctxt "NDFlatUI|"
 msgid "Account"
-msgstr "계정"
+msgstr "Hesap"
 
 #: ../../NetDriveUI/ndflatui.cpp:3445
 msgctxt "NDFlatUI|"
 msgid "Help"
-msgstr "도움말"
+msgstr "Yardım"
 
 #: ../../NetDriveUI/ndflatui.cpp:3644
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
-msgstr "드라이브의 정보를 가져오지 못했습니다."
+msgstr "Sürücü bilgisi alınamadı."
 
 #: ../../NetDriveUI/ndflatui.cpp:3653
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
-msgstr "드라이브의 이름을 가져오지 못했습니다."
+msgstr "Sürücü ismi alınamadı."
 
 #~ msgctxt "NetDriveSettings|"
 #~ msgid "Settings"
-#~ msgstr "설정"
+#~ msgstr "Ayarlar"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
 msgid "PROXY SETTINGS"
-msgstr "프록시 설정"
+msgstr "PROXY AYARLARI"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:27
 msgctxt "ProxySelector|"
 msgid "Use system proxy settings"
-msgstr "시스템 프록시 설정 사용"
+msgstr "Sistem proxy ayarlarını kullan"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:36
 msgctxt "ProxySelector|"
 msgid "PROXY TYPE"
-msgstr "프록시 타입"
+msgstr "PROXY TİPİ"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:45
 msgctxt "ProxySelector|"
 msgid "None"
-msgstr "없음"
+msgstr "Hiç"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:89
 msgctxt "ProxySelector|"
 msgid "User"
-msgstr "계정"
+msgstr "Kullanıcı"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:96
 msgctxt "ProxySelector|"
 msgid "Password"
-msgstr "비밀번호"
+msgstr "Şifre"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:103
 msgctxt "ProxySelector|"
 msgid "Port"
-msgstr "포트"
+msgstr "Port"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:133
 msgctxt "ProxySelector|"
 msgid "Host"
-msgstr "호스트"
+msgstr "Sunucu"
 
 #: ../../../common/ndcore.cpp:245
 #, qt-format
@@ -1095,71 +1099,71 @@ msgctxt "QApplication|"
 msgid ""
 "Bdrive server returned an error. If the issue persists, please contact %1 "
 "support."
-msgstr "Bdrive의 서버가 에러를 반환했습니다. 문제가 지속되면, %1에게 문의하시기 바랍니다."
+msgstr "Bdrive sunucusu bir hata gönderdi. Eğer hata devam ederse %1 destek ile görüşün."
 
 #: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
 msgctxt "QApplication|"
 msgid "Subscription status"
-msgstr "구독 상태"
+msgstr "Abonelik durumu"
 
 #: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
 msgctxt "QApplication|"
 msgid "Subscription type"
-msgstr "구독 형태"
+msgstr "Abonelik tipi"
 
 #: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
 msgctxt "QApplication|"
 msgid "Max registered devices"
-msgstr "등록된 최대 장치수"
+msgstr "Maksimum kayıtlı aygıt sayısı"
 
 #: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
-msgstr "최대 세션수 (동시 접근)"
+msgstr "Maksimum oturum (eşzamanlı oturum)"
 
 #: ../../../common/ndcore.cpp:1601
 msgctxt "QApplication|"
 msgid "type"
-msgstr "형태"
+msgstr "tip"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Login"
-msgstr "로그인"
+msgstr "Giriş Yap"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:176
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr "로그인을 위해 이메일 주소가 필요합니다."
+msgstr "Giriş yapmak için email adresi gereklidir."
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:184
 msgctxt "QApplication|"
 msgid "Proper password required to login"
-msgstr "로그인을 위해 비밀번호가 필요합니다."
+msgstr "Giriş yapmak için uygun şifre gerekli"
 
 #: ../../../ui_helper/bdui/bdloginbase.cpp:22
 msgctxt "QApplication|"
 msgid "LOGIN"
-msgstr "로그인"
+msgstr "GİRİŞ YAP"
 
 #: ../../../ui_helper/bdui/bdmessagebox.cpp:78
 msgctxt "QApplication|"
 msgid "Detail"
-msgstr "상세"
+msgstr "Detaylar"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:141
 #, qt-format
 msgctxt "QApplication|"
 msgid "A new version of %1 is available!"
-msgstr "새 버젼 %1이 있습니다."
+msgstr "Yeni bir versiyon var %1!"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:147
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr "%1 %2가 나왔습니다. - 사용하고 있는 버젼은 %3입니다. 지금 다운로드 하겠습니까?"
+msgstr "%1 %2 versiyonu kullanılabilir durumda. Mevcut sürüm: %3. Güncellemeyi indirmek ister misiniz?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1169,184 +1173,185 @@ msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
 msgstr ""
-"%1은 Bdrive의 서버에 접속하지 못했습니다. 이 장치는 오프라인이거나 프록시 설정이 필요할 수 있습니다. 프록시 설정을 하시겠습니까?"
+"%1 Bdrive sunucusuna bağlantı kurulamadı. Aygıt veya proxy çevrimdışı. Proxy ayarları açılsın mı?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
 msgid "Send Crash Report"
-msgstr "오류 보고서 보내기"
+msgstr "Çökme Raporu Gönder"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
 msgctxt "QApplication|"
 msgid "Failed to upload crash info."
-msgstr "오류 정보를 전송하는데 실패했습니다."
+msgstr "Çökme raporu gönderme başarısız."
 
 #: ../../ndagent/BDUserManager.cpp:213
 msgctxt "QApplication|"
 msgid "It's wrong data. Try again, please."
-msgstr "잘못된 데이터입니다. 다시 시도하세요."
+msgstr "Yanlış bilgi. Lütfen tekrar deneyin."
 
 #~ msgctxt "QApplication|"
 #~ msgid ""
 #~ "There is another Bdrive account logged in this device. Do you want to log "
 #~ "the account out and log your account in?"
-#~ msgstr "이 장차에 이미 로그인한 다른 Bdrive 계정이 있습니다. 그 계정을 로그아웃 시키고 다시 로그인하겠습니까?"
+#~ msgstr ""Bu sürücüye başka bir Bdrive hesabıyla giriş yapılmış."
+#" Bu hesaptan çıkış yapılıp sizin hesabınızla giriş yapılsın mı?"
 
 #: ../../ndagent/BDUserManager.cpp:262
 msgctxt "QApplication|"
 msgid "Failed to get drive list. Try again, please."
-msgstr "드라이브 목록을 가져오는데 실패했습니다. 다시 시도해 주세요."
+msgstr "Sürücü listesi alınamadı. Lütfen tekrar deneyin."
 
 #: ../../../common/authtemplate.cpp:202
 msgctxt "QApplication|"
 msgid "BROWSE"
-msgstr "검색"
+msgstr "GÖZAT"
 
 #: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
 msgctxt "QApplication|"
 msgid "NETWORK"
-msgstr "네트워크"
+msgstr "AĞ"
 
 #: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
 #: ../../NetDriveUI/ndflatui.cpp:2002
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
-msgstr "프록시 설정"
+msgstr "PROXY AYARLARI"
 
 #: ../../../common/authtemplate.cpp:972
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
-msgstr "로그인 정보를 다시 확인해 주세요."
+msgstr "Lütfen giriş bilgilerini kontrol edin."
 
 #: ../../../common/authtemplate.cpp:976
 msgctxt "QApplication|"
 msgid "Please check the server information"
-msgstr "서버 정보를 확인해 주세요."
+msgstr "Lütfen sunucu bilgilerini kontrol edin."
 
 #: ../../../common/authtemplate.cpp:980
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
-msgstr "SSL 정보를 확인해 주세요."
+msgstr "Lütfen SSL bilgilerini kontrol edin."
 
 #: ../../../common/authtemplate.cpp:984
 msgctxt "QApplication|"
 msgid "Please check the connection information"
-msgstr "연결 정보를 확인해 주세요."
+msgstr "Lütfen bağlantı bilgilerini kontrol edin."
 
 #: ../../../common/authtemplate.cpp:987
 msgctxt "QApplication|"
 msgid "Connection failed"
-msgstr "연결 실패"
+msgstr "Bağlantı sağlanamadı"
 
 #: ../../NetDriveUI/adddrive.cpp:157
 msgctxt "QApplication|"
 msgid "Auto"
-msgstr "자동"
+msgstr "Otomatik"
 
 #: ../../NetDriveUI/adddrive.cpp:986
 msgctxt "QApplication|"
 msgid "CONNECT"
-msgstr "연결"
+msgstr "BAĞLAN"
 
 #: ../../NetDriveUI/adddrive.cpp:1154
 msgctxt "QApplication|"
 msgid "Failed to set option."
-msgstr "옵션을 설정하는데 실패했습니다."
+msgstr "Seçenek ayarlama başarısız."
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 msgctxt "QApplication|"
 msgid "Authentication failed"
-msgstr "인증 실패"
+msgstr "Yetkilendirme başarısız"
 
 #: ../../NetDriveUI/adddrive.cpp:1348
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
-msgstr "%1으로 인증하는데 실패했습니다."
+msgstr "%1 ile yetkilendirme başarısız."
 
 #: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
 msgctxt "QApplication|"
 msgid "DISCONNECT"
-msgstr "연결 끊기"
+msgstr "BAĞLANTIYI KES"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
 msgid "CANCEL ALL"
-msgstr "모두 취소"
+msgstr "HEPSİNİ İPTAL ET"
 
 #: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
 msgctxt "QApplication|"
 msgid "CANCEL SELECTED"
-msgstr "선택된 것 취소"
+msgstr "SEÇİLENİ İPTAL ET"
 
 #: ../../NetDriveUI/failedupload.cpp:45
 msgctxt "QApplication|"
 msgid "RETRY ALL"
-msgstr "모두 재시도"
+msgstr "HEPSİNİ YENİDEN DENE"
 
 #: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
 msgctxt "QApplication|"
 msgid "RETRY SELECTED"
-msgstr "선택된 것 재시도"
+msgstr "YENİDEN DENE SEÇİLDİ"
 
 #: ../../NetDriveUI/failedupload.cpp:92
 msgctxt "QApplication|"
 msgid "SAVE AS"
-msgstr "다른 이름으로 저장"
+msgstr "FARKLI KAYDET"
 
 #: ../../NetDriveUI/main.cpp:125
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
-msgstr "서비스 %1의 정보를 가져오는데 실패했습니다."
+msgstr "Hizmet bilgisi alınamadı: %1"
 
 #: ../../NetDriveUI/main.cpp:137
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
-msgstr "서비스 %1의 시작형태를 설정하는데 실패했습니다."
+msgstr "Hizmet başlangıç türü ayarlanamadı: %1"
 
 #: ../../NetDriveUI/main.cpp:149
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
-msgstr "서비스 %1을 시작하는데 실패했습니다."
+msgstr "Hizmet başlatılamadı: %1"
 
 #: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
 msgctxt "QApplication|"
 msgid "DRIVES"
-msgstr "드라이브 목록"
+msgstr "SÜRÜCÜLER"
 
 #: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
 msgctxt "QApplication|"
 msgid "UPLOADING"
-msgstr "업로딩 목록"
+msgstr "YÜKLENİYOR"
 
 #: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
 #: ../../NetDriveUI/ndflatui.cpp:3736
 msgctxt "QApplication|"
 msgid "SETTINGS"
-msgstr "설정"
+msgstr "AYARLAR"
 
 #: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
 msgctxt "QApplication|"
 msgid "ABOUT"
-msgstr "정보"
+msgstr "HAKKINDA"
 
 #: ../../NetDriveUI/ndflatui.cpp:1980
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
-msgstr "무료 Bdrive 계정 만들기"
+msgstr "Ücretsiz Bdrive hesabı oluştur"
 
 #: ../../NetDriveUI/ndflatui.cpp:1982
 msgctxt "QApplication|"
 msgid "Can't log in?"
-msgstr "로그인 문제 문의"
+msgstr "Girişte Sorunmu Yaşıyorsunuz?"
 
 #: ../../NetDriveUI/ndflatui.cpp:2058
 msgctxt "QApplication|"
 msgid "Device authorization"
-msgstr "장치 인증"
+msgstr "Aygıt Yetkilendirme"
 
 #: ../../NetDriveUI/ndflatui.cpp:2059
 #, qt-format
@@ -1354,129 +1359,129 @@ msgctxt "QApplication|"
 msgid ""
 "NetDrive will be quit because failed to get device id. Please visit %1 to "
 "leave a note."
-msgstr "디바이스ID를 얻는데 실패했기 때문에 NetDrive는 종료됩니다. %1을 방문해서 글을 남겨주세요."
+msgstr "NetDrive kapanacak. Çünkü aygıt kimliği alınamadı. Lütfen ziyaret edip not bırakın %1 ."
 
 #: ../../NetDriveUI/ndflatui.cpp:2329
 msgctxt "QApplication|"
 msgid "Notice"
-msgstr "알림"
+msgstr "Not"
 
 #: ../../NetDriveUI/ndflatui.cpp:2977
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
-msgstr "계정 정보"
+msgstr "HESAP BİLGİLERİ"
 
 #: ../../NetDriveUI/ndflatui.cpp:2984
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
-msgstr "라이센스 관리"
+msgstr "LİSANSLARI YÖNET"
 
 #: ../../NetDriveUI/ndflatui.cpp:2993
 msgctxt "QApplication|"
 msgid "LOGOUT"
-msgstr "로그아웃"
+msgstr "ÇIKIŞ YAP"
 
 #: ../../NetDriveUI/ndflatui.cpp:3223
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
-msgstr "%1 %2가 있습니다!"
+msgstr "%1 %2 şimdi uygun!"
 
 #: ../../../common/protocolmap.h:11
 msgctxt "QApplication|"
 msgid ""
 "If it is the first connection and there are a lot of files, the connection "
 "may take a long time."
-msgstr "첫 연결이고 파일이 매우 많다면, 연결 완료하는데 오래 걸릴 수 있습니다."
+msgstr "Eğer dosya sayısı çok fazla ve ilk defa bağlantı sağlandıysa, bu uzun sürebilir."
 
 #: ../../../common/protocolmap.h:17
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr "이름변경(Rename)과 이동(Move) 명령을 지원하지 않음"
+msgstr "Yeniden adlandırma ve taşıma ayarları desteklenmiyor."
 
 #: ../../../common/protocolmap.h:27
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr "사용자의 API KEY와 SECRET KEY 등록을 추천합니다."
+msgstr "Size ait API ve SECRET KEY ile kayıt olmanız önerilir."
 
 #: ../../NetDriveUI/ndprotocoldll.cpp:130
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
-msgstr "인증 대기..."
+msgstr "Kimlik doğrulama için bekleniyor..."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1608
 msgctxt "QApplication|"
 msgid "Open"
-msgstr "열기"
+msgstr "Aç"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1621
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr "게시"
+msgstr "Yayınla"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1628
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr "재게시"
+msgstr "Yeniden Yayınla"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1631
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr "게시 취소"
+msgstr "Yayını Kes"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1639
 msgctxt "QApplication|"
 msgid "Config"
-msgstr "설정"
+msgstr "Ayar"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1647
 msgctxt "QApplication|"
 msgid "Duplicate"
-msgstr "복사"
+msgstr "Çoğalt"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1653
 msgctxt "QApplication|"
 msgid "Delete"
-msgstr "삭제"
+msgstr "Sil"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1659
 msgctxt "QApplication|"
 msgid "Log"
-msgstr "로그"
+msgstr "Günlük"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
-msgstr "폴더 목록 실패"
+msgstr "Sürücü listeleme hatası"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:222
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
-msgstr "폴더 목록을 서버로부터 가져오는데 실패했습니다."
+msgstr "Sürücü listesi sunucudan alınamadı."
 
 #: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
-msgstr "이름"
+msgstr "İsim"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
 msgid "Letter"
-msgstr "드라이브 문자"
+msgstr "Sürücü  Harfi"
 
 #: ../../NetDriveUI/update.cpp:30
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr "NetDrive %1가 나왔습니다. - 사용하고 있는 버젼은 %2입니다. 지금 업데이트 하시겠습니까?"
+msgstr "NetDrive %1 kullanılabilir. Sizdeki versiyon: %2. Güncelleme yapılsın mı?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
 msgid "Authentication Required"
-msgstr "인증 필요"
+msgstr "Yetkilendirme Gerekli"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
 msgctxt "QAuthDlg|"
@@ -1484,58 +1489,61 @@ msgid ""
 "The proxy requires a username and password.\n"
 "\n"
 "Your connection to this site is not private."
-msgstr "프록시의 계정 및 비밀번호가 필요합니다. 이 사이트로의 연결은 비공개가 아닐 수 있습니다."
+msgstr "Proxy için kullanıcı adı ve şifresi gerekli. \n"
+"\n"
+"Bu siteye bağlantınız gizli değil."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
 msgctxt "QAuthDlg|"
 msgid "User Name"
-msgstr "계정"
+msgstr "Kullanıcı Adı"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
 msgctxt "QAuthDlg|"
 msgid "Password"
-msgstr "비밀번호"
+msgstr "Şifre"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
 msgctxt "QAuthDlg|"
 msgid "Log In"
-msgstr "로그인"
+msgstr "Giriş Yap"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
 msgctxt "QAuthDlg|"
 msgid "Cancel"
-msgstr "취소"
+msgstr "İptal"
 
 #~ msgctxt "QCoreApplication|"
 #~ msgid "It's wrong data. Try again, please."
-#~ msgstr "잘못된 데이터입니다. 다시 시도하세요."
+#~ msgstr "Yanlış bilgi. Lütfen tekrar deneyin."
 
 #: ../../ndagent/BDUserManager.cpp:247
 msgctxt "QCoreApplication|"
 msgid ""
 "There is another Bdrive account logged in this device. Do you want to log "
 "the account out and log your account in?"
-msgstr "이 장차에 이미 로그인한 다른 Bdrive 계정이 있습니다. 그 계정을 로그아웃 시키고 다시 로그인하겠습니까?"
+msgstr "Bu sürücüye başka bir Bdrive hesabıyla giriş yapılmış."
+" Bu hesaptan çıkış yapılıp sizin hesabınızla giriş yapılsın mı?"
 
 #~ msgctxt "QCoreApplication|"
 #~ msgid "Failed to get drive list. Try again, please."
-#~ msgstr "드라이브 목록을 가져오는데 실패했습니다. 다시 시도해 주세요."
+#~ msgstr "Sürücü listesi alınamadı. Lütfen tekrar deneyin."
 
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr "탐색"
+msgstr "GÖZAT"
 
 #: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
 #: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECT"
-msgstr "연결"
+msgstr "BAĞLAN"
 
 #: ../../NetDriveUI/qdriveitem.cpp:181
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr "파일 브라우저 열기 실패"
+msgstr "Dosya gezgini açılamadı."
 
 #: ../../NetDriveUI/qdriveitem.cpp:184
 msgctxt "QDriveItem|"
@@ -1546,100 +1554,100 @@ msgstr "NetDrive"
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
-msgstr "%1은 이미 연결된 경로입니다. %1을 연결끊고 계속하시겠습니까?"
+msgstr "%1 sürücü oluşturma yolu zaten var. Mevcut %1 sürücü kaldırılsın mı?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:241
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
-msgstr "%1의 연결 끊는 것을 실패했습니다. 나중에 다시 시도하세요."
+msgstr "%1 Sürücü kaldırma başarısız. Daha sonra tekrar deneyin."
 
 #: ../../NetDriveUI/qdriveitem.cpp:257
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
-msgstr "%1의 연결 끊으시겠습니까?"
+msgstr "%1 Bağlantıyı kesmek istediğinize emin misiniz?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:626
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr "[%1]는 게시 후에 아직 설정되지 않았습니다. 설정하시겠습니까?"
+msgstr "[%1] yayınlanma için ayarlanmamış. Ayarlamak istiyor musunuz?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:667
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
-msgstr "%1에 대한 로그파일이 없습니다."
+msgstr "%1 için günlük dosyası yok."
 
 #: ../../NetDriveUI/qdriveitem.cpp:701
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr "[%1]의 게시 실패"
+msgstr "[%1] Yayınlama başarısız."
 
 #: ../../NetDriveUI/qdriveitem.cpp:721
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr "[%1]의 게시 취소 실패"
+msgstr "[%1] yayından kaldırılma başarısız"
 
 #: ../../NetDriveUI/qdriveitem.cpp:859
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
-msgstr "연결 끊기 실패"
+msgstr "Sürücü Kaldırma başarısız"
 
 #: ../../NetDriveUI/qdriveitem.cpp:891
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
-msgstr "중복된 이름이 있어서 드라이브 설정을 실패했습니다."
+msgstr "Tekrarlanan isimden dolayı sürücü yapılandırılamadı."
 
 #: ../../NetDriveUI/qdriveitem.cpp:895
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
-msgstr "드라이브 설정을 실패했습니다."
+msgstr "Sürücü yapılandırma başarısız."
 
 #: ../../NetDriveUI/qdriveitem.cpp:936
 msgctxt "QDriveItem|"
 msgid "CANCEL"
-msgstr "취소"
+msgstr "İPTAL"
 
 #: ../../NetDriveUI/qdriveitem.cpp:943 ../../NetDriveUI/qdriveitem.cpp:1434
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
-msgstr "연결 끊김"
+msgstr "BAĞLI DEĞİL"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
-msgstr "연결중"
+msgstr "BAĞLANIYOR"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1447
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
-msgstr "연결됨"
+msgstr "BAĞLANDI"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr "연결 끊기"
+msgstr "BAĞLANTIYI KES"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1454
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
-msgstr "연결 끊는중"
+msgstr "BAĞLANTI KESİLİYOR"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1526
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
-msgstr "%1를 삭제하시겠습니까?"
+msgstr "%1 Silmek istediğinize emin misiniz?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1811
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr "[%1]를 팀 멤버들에게 게시하겠습니까?"
+msgstr "[%1] takım üyelerine yayınlamak istiyor musunuz?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1829
 #, qt-format
@@ -1649,211 +1657,212 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
-"게시 취소하면, 팀 드라이브를 연결하고 있는 멤버들의 드라이브는 연결이 끊기고 저장되지 않은 파일들을 읽어버릴 수 있습니다. \\n게시 "
-"취소하시겠습니까?"
+"Sürücü yayından kaldırıldığında sürücünün üyesi olduğu sürücü kaldırılır "
+"ve kaydedilmemiş dosyaları kaybolacaktır. \n"
+"Yayından [%1] kaldırmak istiyor musunuz?"
 
 #: ../../../common/aerrorstring.cpp:9
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall NetDrive."
-msgstr "심각한 문제가 발생했습니다. NetDrive를 재설치해 주세요."
+msgstr "Bir çok problem oluştu. Lütfen NetDrive programını yeniden yükleyin."
 
 #: ../../../common/aerrorstring.cpp:11
 msgctxt "QObject|"
 msgid "Success."
-msgstr "성공"
+msgstr "Başarılı."
 
 #: ../../../common/aerrorstring.cpp:13
 msgctxt "QObject|"
 msgid "Failed."
-msgstr "실패"
+msgstr "Başarısız."
 
 #: ../../NetDriveUI/errmsg.cpp:23
 msgctxt "QObject|"
 msgid "Access Denied."
-msgstr "접근 거부됨"
+msgstr "Erişim Reddedildi."
 
 #: ../../NetDriveUI/errmsg.cpp:27
 msgctxt "QObject|"
 msgid "Path not found."
-msgstr "경로 없음"
+msgstr "Yol bulunamadı."
 
 #: ../../NetDriveUI/errmsg.cpp:31
 msgctxt "QObject|"
 msgid "Connection error."
-msgstr "연결 에러"
+msgstr "Bağlantı hatası."
 
 #: ../../NetDriveUI/errmsg.cpp:35
 msgctxt "QObject|"
 msgid "Drive letter already used."
-msgstr "이미 사용되고 있는 드라이브 문자"
+msgstr "Sürücü harfi zaten kullanımda."
 
 #: ../../NetDriveUI/errmsg.cpp:39
 msgctxt "QObject|"
 msgid "Mount Error."
-msgstr "연결 오류"
+msgstr "Sürücü Oluşturma Hatası"
 
 #: ../../NetDriveUI/errmsg.cpp:43
 msgctxt "QObject|"
 msgid "Mount process is not executed."
-msgstr "연결하는 프로세스가 실행되지 못했습니다."
+msgstr "Sürücü oluşturma işlemi başlatılamadı."
 
 #: ../../NetDriveUI/errmsg.cpp:47
 msgctxt "QObject|"
 msgid ""
 "Files are currently being uploading. Do you want to disconnect forcefully?"
-msgstr "업로드 중인 파일들이 있습니다. 강제로 연결 끊기를 하시겠습니까?"
+msgstr "Dosyaların yüklemesi sürüyor. Bağlantıyı kesmeye zorlamak istiyor musunuz?"
 
 #: ../../NetDriveUI/errmsg.cpp:51
 msgctxt "QObject|"
 msgid "NetDrive is not initialized."
-msgstr "NetDrive가 초기화되지 않았습니다."
+msgstr "NetDrive başlatılamadı."
 
 #: ../../NetDriveUI/errmsg.cpp:55
 msgctxt "QObject|"
 msgid "No available drive letter."
-msgstr "사용 가능한 드라이브 문자가 없습니다."
+msgstr "Kullanılabilir sürücü harfi yok."
 
 #: ../../NetDriveUI/errmsg.cpp:59
 msgctxt "QObject|"
 msgid "Wrong Parameter."
-msgstr "잘못된 인자입니다."
+msgstr "Geçersiz parametre."
 
 #: ../../NetDriveUI/errmsg.cpp:63
 msgctxt "QObject|"
 msgid "Network path already used."
-msgstr "네트워크 경로가 이미 사용되고 있습니다."
+msgstr "Ağ konumu zaten kullanımda."
 
 #: ../../NetDriveUI/errmsg.cpp:67
 msgctxt "QObject|"
 msgid "Cache path error."
-msgstr "캐시 경로 에러"
+msgstr "Geçici bellek yolu hatası."
 
 #: ../../NetDriveUI/errmsg.cpp:71
 msgctxt "QObject|"
 msgid "Operation Failed."
-msgstr "실행 에러"
+msgstr "İşlem Başarısız."
 
 #: ../../NetDriveUI/errmsg.cpp:75
 msgctxt "QObject|"
 msgid "Not logged in user."
-msgstr "로그인 되지 않은 사용자입니다."
+msgstr "Kullanıcı girişi yapılmamış."
 
 #: ../../NetDriveUI/errmsg.cpp:79
 msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall NetDrive."
-msgstr "프로토콜의 버젼이 제품의 버젼과 다릅니다. NetDrive를 재설치해 주세요."
+msgstr "Ürün versiyonu ile protokol versiyonu farklı. Lütfen NetDrive programını yeniden yükleyin."
 
 #~ msgctxt "QObject|"
 #~ msgid ""
 #~ "The protocol version you are using is different from the product version. "
 #~ "Please reinstall."
-#~ msgstr "프로토콜의 버젼이 제품의 버젼과 다릅니다. 재설치해 주세요."
+#~ msgstr "Ürün versiyonu ile protokol versiyonu farklı. Lütfen NetDrive programını yeniden yükleyin."
 
 #: ../../NetDriveUI/errmsg.cpp:83
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
-msgstr "이 버젼을 사용할 수 없습니다. 사용할 수 있는 버젼을 설치해 주세요."
+msgstr "Bu versiyonu kullanamazsınız. Kullanmak istediğiniz versiyonu yükleyin."
 
 #: ../../NetDriveUI/errmsg.cpp:87
 msgctxt "QObject|"
 msgid "Not supported protocol type"
-msgstr "지원되지 않는 프로토콜입니다."
+msgstr "Desteklenmeyen protokol tipi"
 
 #: ../../NetDriveUI/errmsg.cpp:91
 msgctxt "QObject|"
 msgid "Already mounted drive item."
-msgstr "이미 연결된 드라이브입니다."
+msgstr "Zaten oluşturulmuş sürücü nesnesi."
 
 #: ../../NetDriveUI/errmsg.cpp:95
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr "권한이 없습니다."
+msgstr "Yetkiniz Yok."
 
 #: ../../NetDriveUI/errmsg.cpp:99
 msgctxt "QObject|"
 msgid "Error occurred."
-msgstr "에러 발생"
+msgstr "Hata Oluştu."
 
 #~ msgctxt "QObject|"
 #~ msgid ""
 #~ "Login failed because communication with the server failed. Please check "
 #~ "your proxy or Internet connection."
-#~ msgstr "서버와의 통신에 문제가 있어서 로그인하지 못했습니다. 인터넷 연결 또는 프록시 설정을 확인해 주세요."
+#~ msgstr "Sunucu ile iletişimde hata oluştu. Lütfen internet bağlantınızı kontrol edin."
 
 #~ msgctxt "QObject|"
 #~ msgid "Login failed. Please click here to check."
-#~ msgstr "로그인을 실패했습니다. 이곳을 눌러 확인해 주세요."
+#~ msgstr "Giriş başarısız. Lütfen buraya tıklayarak kontrol edin."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
-msgstr "푸시 서버에서 에러가 발생했습니다."
+msgstr "Push sunucusunda bir hata oluştu."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr "이미 잠긴 파일입니다."
+msgstr "Dosya zaten kilitli."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr "드라이브가 존재하지 않습니다."
+msgstr "Sürücü mevcut değil."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr "잠긴 파일 목록에 없습니다."
+msgstr "Kilitli dosya listesinde dosya bulunamadı."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr "다른 사용자가 이미 잠근 파일입니다."
+msgstr "Dosya başka kullanıcı tarafından kilitlenmiş."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr "다른 장치에서 이미 잠긴 파일입니다."
+msgstr "Dosya başka cihaz tarafından kilitlenmiş."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr "%1의 갱신 실패"
+msgstr "%1 yenileme başarısız."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr "%1의 잠금 실패"
+msgstr "%1 kilitleme başarısız."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr "%1의 잠금 해제 실패"
+msgstr "%1 Kilidi açma başarısız."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr "%1의 강제 잠금 해제 실패"
+msgstr "%1 Kilidi açma başarısız."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
 msgctxt "QObject|"
 msgid "Rename"
-msgstr "이름 변경"
+msgstr "Yeniden adlandır"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
 msgctxt "QObject|"
 msgid "Move"
-msgstr "이동"
+msgstr "Taşı"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
 msgctxt "QObject|"
 msgid "Delete"
-msgstr "삭제"
+msgstr "Sil"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
 #, qt-format
@@ -1861,38 +1870,38 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr "폴더 안에 파일이 있기 때문에 %1 실패. 잠금 해제후 재시도 하세요."
+msgstr "% başarısız. Çünkü kilitli dosya klasör içinde. Dosya kilidini açarak tekrar deneyin."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr "잠긴 파일이기 때문에 %1 실패. 잠금 해제후 재시도 하세요."
+msgstr "% başarısız. Çünkü dosya kilitli. Dosya kilidini açarak yeniden deneyin."
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr "드라이브 타입 선택"
+msgstr "Sürücü türünü seç"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr "추가하려는 타입을 선택하세요."
+msgstr "Eklemek istediğiniz sürücü türünü seçin."
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr "팀드라이브"
+msgstr "Takım sürücü öğesi"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr "개인드라이브"
+msgstr "Kişisel sürücü öğesi"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
 msgid "Send Crash Report"
-msgstr "오류 보고서 보내기"
+msgstr "Çökme raporu gönder"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
 msgctxt "QSenderDlg|"
@@ -1906,168 +1915,169 @@ msgid ""
 "The information you send us will help us to fix this problem and it will not "
 "be used except for debugging purpose."
 msgstr ""
-"문제를 검토하기 위해 Bdrive Inc.에 보낼 수 있는 보고서가 생성되었습니다.\n"
+"Bdrive şirketine gönderilen çökme raporu sorunu araştırmamıza yardımcı olacak."
 "\n"
-"오류 나기 전에 어떤 일이 있었는지 자세한 설명을 보내주시면 도움이 됩니다.\n"
+"Çökme olmadan önce ne olduğunu lütfen bize iletin.\n"
 "\n"
-"이 정보를 우리에게 보내는 것은 문제를 해결하는데 큰 도움이 됩니다. 그리고 디버깅 외에 다른 용도로 사용되지 않습니다."
+"Göndereceğiniz rapor, problemi düzeltmemize yardımcı olacaktır.\n"
+"\n"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
-msgstr "분 남았습니다."
+msgstr "dakika kaldı."
 
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr "새 이름"
+msgstr Yeni isim:"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
 msgid "OK"
-msgstr "확인"
+msgstr "Tamam"
 
 #: ../../../ui_helper/filebrowser/rename.ui:114
 msgctxt "Rename|"
 msgid "Cancel"
-msgstr "취소"
+msgstr "İptal"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr "폴더 생성"
+msgstr "Klasör Oluştur"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr "폴더 이름"
+msgstr "Klasör ismi:"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr "이름 변경"
+msgstr "Yeniden adlandır"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr "새 이름"
+msgstr "Yeni isim:"
 
 #~ msgctxt "SelectFolder|"
 #~ msgid "SelectFolder"
-#~ msgstr "폴더 선택"
+#~ msgstr "KlasörSeç"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
-msgstr "폴더 선택"
+msgstr "Klasör Seç"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Folder listing failed"
-msgstr "폴더 목록 실패"
+msgstr "Klasör listeleme hatası"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:276
 msgctxt "SelectFolder|"
 msgid "Can not retrieve folder list from server."
-msgstr "폴더 목록을 서버로부터 가져오는데 실패했습니다."
+msgstr "Dosya listesi sunucudan alınamadı."
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
-msgstr "새 폴더 생성"
+msgstr "YENİ KLASÖR OLUŞTUR"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:49
 msgctxt "SelectFolder|"
 msgid "OK"
-msgstr "확인"
+msgstr "Tamam"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:59
 msgctxt "SelectFolder|"
 msgid "Cancel"
-msgstr "취소"
+msgstr "İptal"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
-msgstr "정렬"
+msgstr "Sırala"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
 msgid "Port"
-msgstr "포트"
+msgstr "Port"
 
 #: ../../NetDriveUI/update.ui:14
 msgctxt "Update|"
 msgid "NetDrive Update"
-msgstr "NetDrive 업데이트"
+msgstr "NetDrive Güncelleme"
 
 #: ../../NetDriveUI/update.ui:78
 msgctxt "Update|"
 msgid "A new version of NetDrive is available!"
-msgstr "NetDrive 새 버젼이 있습니다!"
+msgstr "NetDrive yeni versiyon bulundu!"
 
 #: ../../NetDriveUI/update.ui:104
 msgctxt "Update|"
 msgid "Release notes:"
-msgstr "출시 노트:"
+msgstr "Güncelleme notları:"
 
 #: ../../NetDriveUI/update.ui:127
 msgctxt "Update|"
 msgid "Automatically download and install updated version in the future"
-msgstr "앞으로 업데이트 버젼을 자동으로 다운로드하고 설치하기"
+msgstr "Gelecekte yeni versiyon çıkarsa otomatik olarak indir ve yükle"
 
 #: ../../NetDriveUI/update.ui:150
 msgctxt "Update|"
 msgid "Skip this version"
-msgstr "이 버젼 건너뛰기"
+msgstr "Bu versiyonu atla"
 
 #: ../../NetDriveUI/update.ui:157
 msgctxt "Update|"
 msgid "Later"
-msgstr "나중에"
+msgstr "Daha Sonra"
 
 #: ../../NetDriveUI/update.ui:164
 msgctxt "Update|"
 msgid "Update"
-msgstr "업데이트"
+msgstr "Güncelle"
 
 #: ../../NetDriveUI/uploaditem.cpp:105
 msgctxt "UploadItem|"
 msgid "Failed to upload"
-msgstr "업로드 실패"
+msgstr "Yükleme hatası"
 
 #: ../../NetDriveUI/uploaditem.cpp:241
 msgctxt "UploadItem|"
 msgid "Cancel"
-msgstr "취소"
+msgstr "İptal"
 
 #: ../../NetDriveUI/uploaditem.cpp:244
 msgctxt "UploadItem|"
 msgid "Retry"
-msgstr "재시도"
+msgstr "Tekrar Dene"
 
 #: ../../NetDriveUI/uploaditem.cpp:247
 msgctxt "UploadItem|"
 msgid "Save as"
-msgstr "다른 이름으로 저장"
+msgstr "Farklı kaydet"
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
 msgid "No files are being uploaded."
-msgstr "업로드중인 파일이 없습니다."
+msgstr "Hiç bir dosya yüklenemedi."
 
 #: ../../NetDriveUI/uploadings.cpp:59
 msgctxt "Uploadings|"
 msgid "Failed to retry."
-msgstr "재시도를 실패했습니다"
+msgstr "Tekrar denemede hata."
 
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr "다른 이름으로 저장하는데 실패했습니다."
+msgstr "Farklı kaydette hata."
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
 msgid "Wait for authentication"
-msgstr "인증 대기"
+msgstr "Kimlik doğrulama için bekleniyor"

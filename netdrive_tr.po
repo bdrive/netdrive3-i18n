@@ -1194,8 +1194,8 @@ msgstr "Yanlış bilgi. Lütfen tekrar deneyin."
 #~ msgid ""
 #~ "There is another Bdrive account logged in this device. Do you want to log "
 #~ "the account out and log your account in?"
-#~ msgstr ""Bu sürücüye başka bir Bdrive hesabıyla giriş yapılmış."
-#" Bu hesaptan çıkış yapılıp sizin hesabınızla giriş yapılsın mı?"
+#~ msgstr "Bu sürücüye başka bir Bdrive hesabıyla giriş yapılmış."
+#~ "Bu hesaptan çıkış yapılıp sizin hesabınızla giriş yapılsın mı?"
 
 #: ../../ndagent/BDUserManager.cpp:262
 msgctxt "QApplication|"
@@ -1870,13 +1870,13 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr "% başarısız. Çünkü kilitli dosya klasör içinde. Dosya kilidini açarak tekrar deneyin."
+msgstr "%1 başarısız. Çünkü kilitli dosya klasör içinde. Dosya kilidini açarak tekrar deneyin."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr "% başarısız. Çünkü dosya kilitli. Dosya kilidini açarak yeniden deneyin."
+msgstr "%1 başarısız. Çünkü dosya kilitli. Dosya kilidini açarak yeniden deneyin."
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
@@ -1919,8 +1919,7 @@ msgstr ""
 "\n"
 "Çökme olmadan önce ne olduğunu lütfen bize iletin.\n"
 "\n"
-"Göndereceğiniz rapor, problemi düzeltmemize yardımcı olacaktır.\n"
-"\n"
+"Göndereceğiniz rapor, problemi düzeltmemize yardımcı olacaktır."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
@@ -1930,7 +1929,7 @@ msgstr "dakika kaldı."
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr Yeni isim:"
+msgstr "Yeni isim:"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"

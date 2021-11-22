@@ -227,7 +227,7 @@ msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgid ""
+msgstr ""
 "Deze Team Schijf heeft nog geen verbindings gegevens. Wil je dit nu doen?"
 
 #: ../../NetDriveUI/adddrive.cpp:1681

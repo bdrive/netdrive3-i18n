@@ -1649,7 +1649,7 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
-"게시 취소하면, 팀 드라이브를 연결하고 있는 멤버들의 드라이브는 연결이 끊기고 저장되지 않은 파일들을 읽어버릴 수 있습니다. \\n게시 "
+"게시 취소하면, 팀 드라이브를 연결하고 있는 멤버들의 드라이브는 연결이 끊기고 저장되지 않은 파일들을 읽어버릴 수 있습니다. \\n게시 [%1] "
 "취소하시겠습니까?"
 
 #: ../../../common/aerrorstring.cpp:9

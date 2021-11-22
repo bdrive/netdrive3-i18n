@@ -573,7 +573,7 @@ msgstr "Rólunk"
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr "A licensz tulajdonosa %l"
+msgstr "A licensz tulajdonosa %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
@@ -1179,7 +1179,7 @@ msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
 msgstr ""
-"% 1 nem tudott csatlakozni a Bdrive Serverhez. Lehet, hogy ez az eszköz "
+"%1 nem tudott csatlakozni a Bdrive Serverhez. Lehet, hogy ez az eszköz "
 "offline vagy a proxybeállítások szükségesek. Szeretné beállítani a proxyt?"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338

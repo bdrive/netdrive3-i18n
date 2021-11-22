@@ -199,7 +199,7 @@ msgstr "Pozice položky"
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr V ůčtu""
+msgstr "V ůčtu"
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
@@ -231,7 +231,7 @@ msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr Tento disk pro skupinu nemá zadané žádné informace pro připojení. Chcete je zadat teď?""
+msgstr "Tento disk pro skupinu nemá zadané žádné informace pro připojení. Chcete je zadat teď?"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"

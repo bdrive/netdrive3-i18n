@@ -939,7 +939,7 @@ msgstr "正在登出"
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
-msgstr "目前最新的版本是 %!"
+msgstr "目前最新的版本是 %1"
 
 #: ../../NetDriveUI/ndflatui.cpp:3412
 msgctxt "NDFlatUI|"

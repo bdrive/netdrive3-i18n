@@ -894,6 +894,11 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr ""
 
+#: ../server_string.tri:1
+msgctxt "NDApplication|"
+msgid "Unable to log in with provided credentials."
+msgstr ""
+
 #: ../../NetDriveUI/ndflatui.cpp:178
 #, qt-format
 msgctxt "NDFlatUI|"

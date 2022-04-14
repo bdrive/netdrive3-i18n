@@ -120,7 +120,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "Visible to all Windows user"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
@@ -712,7 +712,7 @@ msgstr ""
 #: ../../NetDriveUI/flatsettingcontents.ui:249
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
-msgstr ""
+msgstr "(0 means do not notify)"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:273
 msgctxt "FlatSettingContents|"

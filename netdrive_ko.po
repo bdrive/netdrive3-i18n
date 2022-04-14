@@ -125,7 +125,7 @@ msgstr "서버로부터 항상 파일 목록 가져오기"
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "시스템 전체 사용자에게 보이기"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
@@ -241,22 +241,22 @@ msgstr "이 프로토콜은 지원되지 않습니다."
 #: ../../NetDriveUI/adddrive.cpp:1783
 msgctxt "AddDrive|"
 msgid "Authentication"
-msgstr ""
+msgstr "인증"
 
 #: ../../NetDriveUI/adddrive.cpp:1783
 msgctxt "AddDrive|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2단계 인증 코드"
 
 #: ../../../common/authtemplate.cpp:1063
 msgctxt "AuthTemplate|"
 msgid "Authentication"
-msgstr ""
+msgstr "인증"
 
 #: ../../../common/authtemplate.cpp:1063
 msgctxt "AuthTemplate|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2단계 인증 코드"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -339,17 +339,17 @@ msgstr "파일 삭제"
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
 msgid "Dialog"
-msgstr ""
+msgstr "다이얼로그"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
@@ -444,12 +444,12 @@ msgstr "연결 실패"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
-msgstr ""
+msgstr "인증"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2단계 인증 코드"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
@@ -460,7 +460,7 @@ msgstr "연결 실패"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
-msgstr ""
+msgstr "파일 업로드"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:684
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1478
@@ -550,17 +550,17 @@ msgstr "새 폴더 생성 실패"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1176
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
-msgstr ""
+msgstr "업로드 완료"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
 msgctxt "FileBrowserManager|"
 msgid "Upload"
-msgstr ""
+msgstr "업로드"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
-msgstr ""
+msgstr "파일 업로드 실패"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
 msgctxt "FileBrowserManager|"
@@ -722,7 +722,7 @@ msgstr "검색"
 #: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
-msgstr ""
+msgstr "캐시 경로에 가용 공간이 부족할 때 알리기"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:242
 msgctxt "FlatSettingContents|"
@@ -732,12 +732,12 @@ msgstr ""
 #: ../../NetDriveUI/flatsettingcontents.ui:249
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
-msgstr ""
+msgstr "(0은 알리지 않음)"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:273
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr " "
+msgstr "최대 사용 "
 
 #: ../../NetDriveUI/flatsettingcontents.ui:283
 msgctxt "FlatSettingContents|"
@@ -772,7 +772,7 @@ msgstr "프록시 설정"
 #: ../../NetDriveUI/flatsettingcontents.cpp:57
 msgctxt "FlatSettingContents|"
 msgid "CLDAstream keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "CLDAstream은 로컬 디스크에 원격 파일의 임시 복사본을 유지합니다."
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:73
 msgctxt "FlatSettingContents|"
@@ -1050,36 +1050,36 @@ msgstr "초기화중..."
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 파일 잠금 서비스에 접속할 수 없습니다!"
 
 #: ../../NetDriveUI/ndflatui.cpp:1297
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
-msgstr ""
+msgstr "%1 Agent 시작중."
 
 #: ../../NetDriveUI/ndflatui.cpp:1304
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
-msgstr ""
+msgstr "SDK 초기화"
 
 #: ../../NetDriveUI/ndflatui.cpp:1334
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
-msgstr ""
+msgstr "%1 agent에 연결 중."
 
 #: ../../NetDriveUI/ndflatui.cpp:2574
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
-msgstr ""
+msgstr "%1 파일 잠금 서비스에 접속할 수 없습니다"
 
 #: ../../NetDriveUI/ndflatui.cpp:2707
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr ""
+msgstr "%! 종료중..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2747
 msgctxt "NDFlatUI|"
@@ -1396,7 +1396,7 @@ msgstr "연결 끊기"
 #: ../../NetDriveUI/adddrive.cpp:2056
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
-msgstr ""
+msgstr "구글 포토에 접속"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
@@ -1483,7 +1483,7 @@ msgctxt "QApplication|"
 msgid ""
 "%1 will be quit because failed to get device id. Please visit %2 to leave a "
 "note."
-msgstr ""
+msgstr "장치 ID를 확인할 수 없어 %1을 종료합니다. %2에 방문해서 메시지를 남겨주세요."
 
 #, qt-format
 #~ msgctxt "QApplication|"
@@ -1754,12 +1754,12 @@ msgstr "연결 끊김"
 #: ../../NetDriveUI/qdriveitem.cpp:1025
 msgctxt "QDriveItem|"
 msgid "Authentication"
-msgstr ""
+msgstr "인증"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1025
 msgctxt "QDriveItem|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2단계 인증 코드"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1475
 msgctxt "QDriveItem|"
@@ -1864,7 +1864,7 @@ msgstr "업로드 중인 파일들이 있습니다. 강제로 연결 끊기를 �
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is not initialized."
-msgstr ""
+msgstr "%1 초기화되지 않음."
 
 #: ../../NetDriveUI/errmsg.cpp:80
 #, qt-format
@@ -1872,7 +1872,7 @@ msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall %1."
-msgstr ""
+msgstr "사용하고 있는 프로토콜의 버전이 제품 버전과 일치 하지 않습니다. %1을 다시 설치하시기 바랍니다."
 
 #~ msgctxt "QObject|"
 #~ msgid "NetDrive is not initialized."
@@ -2041,7 +2041,7 @@ msgstr "잠긴 파일이기 때문에 %1 실패. 잠금 해제후 재시도 하�
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:20
 msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
-msgstr ""
+msgstr "파일을 삭제하시겠습니까? \""
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
@@ -2175,7 +2175,7 @@ msgstr "다운로드 준비중"
 #: ../../../ui_helper/filebrowser/transferitem.cpp:15
 msgctxt "TransferItem|"
 msgid "Preparing Upload..."
-msgstr ""
+msgstr "업로드 준비..."
 
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:7
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:31
@@ -2187,7 +2187,7 @@ msgstr "파일 다운로드"
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:35
 msgctxt "TransferProgressDlg|"
 msgid "File Upload"
-msgstr ""
+msgstr "파일 업로드"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"

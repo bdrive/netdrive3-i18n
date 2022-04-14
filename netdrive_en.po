@@ -1014,7 +1014,7 @@ msgstr ""
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr ""
+msgstr "%1 is Quitting..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2747
 msgctxt "NDFlatUI|"

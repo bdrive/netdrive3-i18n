@@ -1079,7 +1079,7 @@ msgstr "%1 파일 잠금 서비스에 접속할 수 없습니다"
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr "%! 종료중..."
+msgstr "%1 종료중..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2747
 msgctxt "NDFlatUI|"

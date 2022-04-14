@@ -887,7 +887,6 @@ msgid "Status"
 msgstr "상태"
 
 #: ../../../common/ndapplication.cpp:234
-#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
@@ -1623,10 +1622,11 @@ msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
 msgstr "NetDrive %1가 나왔습니다. - 사용하고 있는 버젼은 %2입니다. 지금 업데이트 하시겠습니까?"
 
+#: ../server_string.tri:1
 #, fuzzy
-#~ msgctxt "QApplication|"
-#~ msgid "Unable to log in with provided credentials."
-#~ msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+msgctxt "QApplication|"
+msgid "Unable to log in with provided credentials."
+msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"

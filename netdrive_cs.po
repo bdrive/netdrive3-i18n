@@ -896,7 +896,6 @@ msgid "Status"
 msgstr "Status"
 
 #: ../../../common/ndapplication.cpp:234
-#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -1629,6 +1628,11 @@ msgstr "Znovuzveřejnit"
 msgctxt "QApplication|"
 msgid "Unpublish"
 msgstr "Odveřejnit"
+
+#: ../server_string.tri:1
+msgctxt "QApplication|"
+msgid "Unable to log in with provided credentials."
+msgstr ""
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"

@@ -895,7 +895,6 @@ msgid "Status"
 msgstr ""
 
 #: ../../../common/ndapplication.cpp:234
-#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -1644,6 +1643,11 @@ msgstr ""
 "È disponibile NetDrive %1.\n"
 "Versione installata: %2.\n"
 "Vuoi aggiornare ora NetDrive?"
+
+#: ../server_string.tri:1
+msgctxt "QApplication|"
+msgid "Unable to log in with provided credentials."
+msgstr ""
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"

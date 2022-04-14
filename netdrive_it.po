@@ -117,79 +117,84 @@ msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
 msgstr "OPZIONI AVANZATE"
 
-#: ../../NetDriveUI/adddrive.ui:483
+#: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
 msgstr "Recupera sempre elenco file dal server"
 
-#: ../../NetDriveUI/adddrive.ui:490
+#: ../../NetDriveUI/adddrive.ui:511
+msgctxt "AddDrive|"
+msgid "As a global drive"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "As a removable drive"
 msgstr "Come unità rimovibile"
 
-#: ../../NetDriveUI/adddrive.ui:497
+#: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
 msgstr "Tratta i file e le cartelle che inziano con un punto come nascoste"
 
-#: ../../NetDriveUI/adddrive.ui:504
+#: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
 msgstr "Usa file system statico (sperimentale)"
 
-#: ../../NetDriveUI/adddrive.cpp:151
+#: ../../NetDriveUI/adddrive.cpp:92
 msgctxt "AddDrive|"
 msgid "COLOR"
 msgstr "COLORE"
 
-#: ../../NetDriveUI/adddrive.cpp:191
+#: ../../NetDriveUI/adddrive.cpp:132
 msgctxt "AddDrive|"
 msgid "network drive"
 msgstr "unità di rete"
 
-#: ../../NetDriveUI/adddrive.cpp:192
+#: ../../NetDriveUI/adddrive.cpp:133
 msgctxt "AddDrive|"
 msgid "local drive"
 msgstr "unità locale"
 
-#: ../../NetDriveUI/adddrive.cpp:293
+#: ../../NetDriveUI/adddrive.cpp:242
 msgctxt "AddDrive|"
 msgid "In account"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:294
+#: ../../NetDriveUI/adddrive.cpp:243
 msgctxt "AddDrive|"
 msgid "In device"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:351
+#: ../../NetDriveUI/adddrive.cpp:302
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:357
+#: ../../NetDriveUI/adddrive.cpp:308
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:436
+#: ../../NetDriveUI/adddrive.cpp:392
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:441
+#: ../../NetDriveUI/adddrive.cpp:397
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:640
+#: ../../NetDriveUI/adddrive.cpp:604
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
 msgstr ""
 "Seleziona il puslante 'CONNETTI' per impostare le informazioni di "
 "connessione."
 
-#: ../../NetDriveUI/adddrive.cpp:671
+#: ../../NetDriveUI/adddrive.cpp:635
 msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
@@ -198,44 +203,64 @@ msgstr ""
 "Un nome unità non può contenere i seguenti caratteri:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
-#: ../../NetDriveUI/adddrive.cpp:679
+#: ../../NetDriveUI/adddrive.cpp:643
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
 msgstr "Inserisci il nome unità."
 
-#: ../../NetDriveUI/adddrive.cpp:687
+#: ../../NetDriveUI/adddrive.cpp:651
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
 msgstr "La lunghezza massima di un nome unità è 50 caratteri."
 
-#: ../../NetDriveUI/adddrive.cpp:698
+#: ../../NetDriveUI/adddrive.cpp:662
 msgctxt "AddDrive|"
 msgid "Please select remote path."
 msgstr "Seleziona il percorso remoto."
 
-#: ../../NetDriveUI/adddrive.cpp:719
+#: ../../NetDriveUI/adddrive.cpp:700
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr ""
 "Questo nome unità è già usato. \n"
 "Inserisci un altro nome."
 
-#: ../../NetDriveUI/adddrive.cpp:1585
+#: ../../NetDriveUI/adddrive.cpp:1633
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr " Riprova selezionando il pulsante 'CONNETTI'."
 
-#: ../../NetDriveUI/adddrive.cpp:1652
+#: ../../NetDriveUI/adddrive.cpp:1720
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1681
+#: ../../NetDriveUI/adddrive.cpp:1749
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "Questo protocollo non è supportato."
+
+#: ../../NetDriveUI/adddrive.cpp:1783
+msgctxt "AddDrive|"
+msgid "Authentication"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.cpp:1783
+msgctxt "AddDrive|"
+msgid "2FA Code"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:1063
+msgctxt "AuthTemplate|"
+msgid "Authentication"
+msgstr ""
+
+#: ../../../common/authtemplate.cpp:1063
+msgctxt "AuthTemplate|"
+msgid "2FA Code"
+msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -262,12 +287,11 @@ msgctxt "BDLogin|"
 msgid "OR"
 msgstr "O"
 
-#: ../../../ui_helper/bdui/bdlogin.ui:203
-msgctxt "BDLogin|"
-msgid "Sign in with"
-msgstr "Accedi con"
+#~ msgctxt "BDLogin|"
+#~ msgid "Sign in with"
+#~ msgstr "Accedi con"
 
-#: ../../../ui_helper/bdui/bdlogin.ui:273
+#: ../../../ui_helper/bdui/bdlogin.ui:270
 msgctxt "BDLogin|"
 msgid "Cancel"
 msgstr "Annulla"
@@ -309,146 +333,173 @@ msgctxt "BDUserPassword|"
 msgid "User"
 msgstr "Utente"
 
-#: ../../NetDriveUI/qdriveitem.cpp:356
+#: ../../NetDriveUI/qdriveitem.cpp:416
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
 msgstr "Configura unità"
 
-#: ../../../ui_helper/filebrowser/downloadprogress.ui:32
+#: ../../../ui_helper/filebrowser/deletedlg.cpp:9
+msgctxt "DeleteDlg|"
+msgid "Delete File"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/deletefile.ui:20
+msgctxt "DeleteFile|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/deletefile.ui:83
+msgctxt "DeleteFile|"
+msgid "Yes"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/deletefile.ui:96
+msgctxt "DeleteFile|"
+msgid "No"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/downloaditem.cpp:12
-msgctxt "DownloadItem|"
-msgid "Preparing Download..."
-msgstr ""
-
-#: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
-msgctxt "DownloadProgressDlg|"
-msgid "File Download"
-msgstr ""
-
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:395
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:396
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:397
 #, fuzzy
 msgctxt "FileBrowserManager|"
 msgid "Open"
 msgstr "Apri"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:398
 msgctxt "FileBrowserManager|"
 msgid "Reload"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:399
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1009
 msgctxt "FileBrowserManager|"
 msgid "Rename"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
 msgid "Move"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 #, fuzzy
 msgctxt "FileBrowserManager|"
 msgid "Delete"
 msgstr "Elimina"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:295
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
 msgctxt "FileBrowserManager|"
 msgid "New folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:433
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:931
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:443
 msgctxt "FileBrowserManager|"
 msgid "Lock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:444
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:445
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:456
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:683
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+msgctxt "FileBrowserManager|"
+msgid "Authentication"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+msgctxt "FileBrowserManager|"
+msgid "2FA Code"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
+msgctxt "FileBrowserManager|"
+msgid "Upload file"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:684
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1478
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:793
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:932
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid ""
@@ -457,114 +508,129 @@ msgid ""
 "Click the OK button to copy the shareable link."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1007
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1004
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1321
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1334
 msgctxt "FileBrowserManager|"
 msgid "Move File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1176
+msgctxt "FileBrowserManager|"
+msgid "Upload Complete."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+msgctxt "FileBrowserManager|"
+msgid "Upload"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+msgctxt "FileBrowserManager|"
+msgid "Failed to upload the file."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1322
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1335
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
 msgctxt "FileBrowserManager|"
 msgid "File Open"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1477
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 #, fuzzy
 msgctxt "FileTreeModel|"
 msgid "Name"
 msgstr "Nome"
 
-#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Size"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
+#: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Modified"
 msgstr ""
@@ -659,51 +725,71 @@ msgstr "SFOGLIA"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:232
 msgctxt "FlatSettingContents|"
+msgid "Notify when the available space of the cache path is less than"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:242
+msgctxt "FlatSettingContents|"
+msgid "GB."
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:249
+msgctxt "FlatSettingContents|"
+msgid "(0 means do not notify.)"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:273
+msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr "Usa fino a"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:242
+#: ../../NetDriveUI/flatsettingcontents.ui:283
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr "Cache disco (GB)"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:267
+#: ../../NetDriveUI/flatsettingcontents.ui:308
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr "REGISTRO"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:288
+#: ../../NetDriveUI/flatsettingcontents.ui:329
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr "Livello registrazione"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:321
+#: ../../NetDriveUI/flatsettingcontents.ui:362
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr "APRI CARTELLA REGISTRO"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:347
+#: ../../NetDriveUI/flatsettingcontents.ui:388
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr "RETE"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:353
+#: ../../NetDriveUI/flatsettingcontents.ui:394
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "IMPOSTAZIONI PROXY"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:54
+#: ../../NetDriveUI/flatsettingcontents.cpp:57
+msgctxt "FlatSettingContents|"
+msgid "CLDAstream keeps temporary copies of remote files in local disk."
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.cpp:73
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr ""
 "Esegui il Finder quando vengono collegate nuove unità allo storage remoto"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:89
+#: ../../NetDriveUI/flatsettingcontents.cpp:113
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "Apri cartella"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:114
+#: ../../NetDriveUI/flatsettingcontents.cpp:138
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -757,6 +843,7 @@ msgid "INSTALL UPDATE"
 msgstr "INSTALLA AGGIORNAMENTO"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
+#: ../../NetDriveUI/ndflatui.cpp:3954
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr ""
@@ -776,7 +863,7 @@ msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -807,7 +894,7 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:176
+#: ../../NetDriveUI/ndflatui.cpp:178
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -832,41 +919,36 @@ msgctxt "NDFlatUI|"
 msgid "FAILED"
 msgstr "FALLITO"
 
-#: ../../NetDriveUI/ndflatui.cpp:209
+#: ../../NetDriveUI/ndflatui.cpp:211
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:531
-msgctxt "NDFlatUI|"
-msgid "NetDrive File Lock Service is not available!"
-msgstr ""
-
-#: ../../NetDriveUI/ndflatui.cpp:726
+#: ../../NetDriveUI/ndflatui.cpp:747
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:872
+#: ../../NetDriveUI/ndflatui.cpp:895
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:892
+#: ../../NetDriveUI/ndflatui.cpp:915
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
 msgstr "Aggiunta unità fallita poichè il nome unità esiste già."
 
-#: ../../NetDriveUI/ndflatui.cpp:896
+#: ../../NetDriveUI/ndflatui.cpp:919
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
 msgstr "Aggiunta unità fallita."
 
-#: ../../NetDriveUI/ndflatui.cpp:1084
+#: ../../NetDriveUI/ndflatui.cpp:1118
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -882,103 +964,129 @@ msgstr ""
 "Se sei connesso ad Internet e hai ancora questo problema visita %1 per "
 "segnalare il problema."
 
-#: ../../NetDriveUI/ndflatui.cpp:1181
+#: ../../NetDriveUI/ndflatui.cpp:1215
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
 msgstr "Eliminazione unità fallita."
 
-#: ../../NetDriveUI/ndflatui.cpp:1263
-msgctxt "NDFlatUI|"
-msgid "NetDrive Agent is starting."
-msgstr "Avvio agente NetDrive."
+#~ msgctxt "NDFlatUI|"
+#~ msgid "NetDrive Agent is starting."
+#~ msgstr "Avvio agente NetDrive."
 
-#: ../../NetDriveUI/ndflatui.cpp:1267
+#: ../../NetDriveUI/ndflatui.cpp:1301
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
 msgstr "Inizializzazione agente."
 
-#: ../../NetDriveUI/ndflatui.cpp:1270
-msgctxt "NDFlatUI|"
-msgid "Initailizing SDK."
-msgstr "Inizializzazione SDK."
+#~ msgctxt "NDFlatUI|"
+#~ msgid "Initailizing SDK."
+#~ msgstr "Inizializzazione SDK."
 
-#: ../../NetDriveUI/ndflatui.cpp:1276
+#: ../../NetDriveUI/ndflatui.cpp:1310
 msgctxt "NDFlatUI|"
 msgid "Checking network."
 msgstr "Verifica rete."
 
-#: ../../NetDriveUI/ndflatui.cpp:1279
+#: ../../NetDriveUI/ndflatui.cpp:1313
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
 msgstr "Accesso utenti salvati."
 
-#: ../../NetDriveUI/ndflatui.cpp:1284
+#: ../../NetDriveUI/ndflatui.cpp:1318
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
 msgstr "Monta unità all'avvio."
 
-#: ../../NetDriveUI/ndflatui.cpp:1292
+#: ../../NetDriveUI/ndflatui.cpp:1326
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
 msgstr "L'agente è pronto."
 
-#: ../../NetDriveUI/ndflatui.cpp:1300
-msgctxt "NDFlatUI|"
-msgid "Connecting to NetDrive Agent."
-msgstr "Connessione all'agente NetDrive."
+#~ msgctxt "NDFlatUI|"
+#~ msgid "Connecting to NetDrive Agent."
+#~ msgstr "Connessione all'agente NetDrive."
 
-#: ../../NetDriveUI/ndflatui.cpp:1487
+#: ../../NetDriveUI/ndflatui.cpp:1554
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "Upload fallito di %1."
 
-#: ../../NetDriveUI/ndflatui.cpp:1930
+#: ../../NetDriveUI/ndflatui.cpp:1999
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2409
+#: ../../NetDriveUI/ndflatui.cpp:2509
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "&Apri"
 
-#: ../../NetDriveUI/ndflatui.cpp:2412
+#: ../../NetDriveUI/ndflatui.cpp:2512
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "&Esci"
 
-#: ../../NetDriveUI/ndflatui.cpp:2415
+#: ../../NetDriveUI/ndflatui.cpp:2515
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "&Controlla aggiornamenti"
 
-#: ../../NetDriveUI/ndflatui.cpp:2418
+#: ../../NetDriveUI/ndflatui.cpp:2518
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "&Accedi"
 
-#: ../../NetDriveUI/ndflatui.cpp:2422
+#: ../../NetDriveUI/ndflatui.cpp:2522
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "&DISCONNETTI"
 
-#: ../../NetDriveUI/ndflatui.cpp:2429
+#: ../../NetDriveUI/ndflatui.cpp:2529
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "Inizializzazione.."
 
-#: ../../NetDriveUI/ndflatui.cpp:2460
+#~ msgctxt "NDFlatUI|"
+#~ msgid "NetDrive is Quiting..."
+#~ msgstr "Chiusura NetDrive..."
+
+#: ../../NetDriveUI/ndflatui.cpp:546
+#, qt-format
 msgctxt "NDFlatUI|"
-msgid "NetDrive File Lock Service is not available"
+msgid "%1 File Lock Service is not available!"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2581
+#: ../../NetDriveUI/ndflatui.cpp:1297
+#, qt-format
 msgctxt "NDFlatUI|"
-msgid "NetDrive is Quiting..."
-msgstr "Chiusura NetDrive..."
+msgid "%1 Agent is starting."
+msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2621
+#: ../../NetDriveUI/ndflatui.cpp:1304
+msgctxt "NDFlatUI|"
+msgid "Initializing SDK."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:1334
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "Connecting to %1 Agent."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2574
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "%1 File Lock Service is not available"
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2707
+#, qt-format
+msgctxt "NDFlatUI|"
+msgid "%1 is Quiting..."
+msgstr ""
+
+#: ../../NetDriveUI/ndflatui.cpp:2747
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
@@ -988,83 +1096,83 @@ msgstr ""
 "automaticamente.\n"
 "Sei sicuro di volerti scollegare?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2757
+#: ../../NetDriveUI/ndflatui.cpp:2891
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "Scollegamento..."
 
-#: ../../NetDriveUI/ndflatui.cpp:3237
+#: ../../NetDriveUI/ndflatui.cpp:3409
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "La versione installata (%1) è aggiornata."
 
-#: ../../NetDriveUI/ndflatui.cpp:3412
+#: ../../NetDriveUI/ndflatui.cpp:3584
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "Unità"
 
-#: ../../NetDriveUI/ndflatui.cpp:3417
+#: ../../NetDriveUI/ndflatui.cpp:3589
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "Impostazioni"
 
-#: ../../NetDriveUI/ndflatui.cpp:3420
+#: ../../NetDriveUI/ndflatui.cpp:3592
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "Upload"
 
-#: ../../NetDriveUI/ndflatui.cpp:3425
+#: ../../NetDriveUI/ndflatui.cpp:3597
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "Info"
 
-#: ../../NetDriveUI/ndflatui.cpp:3428
+#: ../../NetDriveUI/ndflatui.cpp:3600
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr "Info account"
 
-#: ../../NetDriveUI/ndflatui.cpp:3431
+#: ../../NetDriveUI/ndflatui.cpp:3603
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "Gestione licenza"
 
-#: ../../NetDriveUI/ndflatui.cpp:3434
+#: ../../NetDriveUI/ndflatui.cpp:3606
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "Accedi"
 
-#: ../../NetDriveUI/ndflatui.cpp:3437
+#: ../../NetDriveUI/ndflatui.cpp:3609
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "Disconnetti"
 
-#: ../../NetDriveUI/ndflatui.cpp:3440
+#: ../../NetDriveUI/ndflatui.cpp:3612
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "Guida in linea NetDrive"
 
-#: ../../NetDriveUI/ndflatui.cpp:3443
+#: ../../NetDriveUI/ndflatui.cpp:3615
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "Visualizza"
 
-#: ../../NetDriveUI/ndflatui.cpp:3444
+#: ../../NetDriveUI/ndflatui.cpp:3616
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "Account"
 
-#: ../../NetDriveUI/ndflatui.cpp:3445
+#: ../../NetDriveUI/ndflatui.cpp:3617
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "Aiuto"
 
-#: ../../NetDriveUI/ndflatui.cpp:3644
+#: ../../NetDriveUI/ndflatui.cpp:3816
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "Impossibile ottenere info sull'unità"
 
-#: ../../NetDriveUI/ndflatui.cpp:3653
+#: ../../NetDriveUI/ndflatui.cpp:3825
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "Impossibile ottenere il nome dell'unità"
@@ -1109,7 +1217,7 @@ msgctxt "ProxySelector|"
 msgid "Host"
 msgstr "Host"
 
-#: ../../../common/ndcore.cpp:245
+#: ../../../common/ndcore.cpp:296
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1119,43 +1227,43 @@ msgstr ""
 "Il server Bdrive ha riportato un errore.\n"
 "Se il problema persiste contatta il supporto %1."
 
-#: ../../../common/ndcore.cpp:962 ../../../common/ndcore.cpp:1597
+#: ../../../common/ndcore.cpp:1154 ../../../common/ndcore.cpp:1815
 msgctxt "QApplication|"
 msgid "Subscription status"
 msgstr "Stato abbonamento"
 
-#: ../../../common/ndcore.cpp:974 ../../../common/ndcore.cpp:1598
+#: ../../../common/ndcore.cpp:1166 ../../../common/ndcore.cpp:1816
 msgctxt "QApplication|"
 msgid "Subscription type"
 msgstr "Tipo abbonamento"
 
-#: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
+#: ../../../common/ndcore.cpp:1178 ../../../common/ndcore.cpp:1817
 msgctxt "QApplication|"
 msgid "Max registered devices"
 msgstr "Unita registrate max"
 
-#: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
+#: ../../../common/ndcore.cpp:1190 ../../../common/ndcore.cpp:1818
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
 msgstr "Sessioni max (accesso contemporaneo)"
 
-#: ../../../common/ndcore.cpp:1601
+#: ../../../common/ndcore.cpp:1819
 msgctxt "QApplication|"
 msgid "type"
 msgstr "tipo"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:176
-#: ../../../ui_helper/bdui/bdlogin.cpp:184
+#: ../../../ui_helper/bdui/bdlogin.cpp:238
+#: ../../../ui_helper/bdui/bdlogin.cpp:246
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Accesso"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:176
+#: ../../../ui_helper/bdui/bdlogin.cpp:238
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Per accedere è richiesto l'indirizzo email"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:184
+#: ../../../ui_helper/bdui/bdlogin.cpp:246
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Per accedere è necessaria la password specifica"
@@ -1209,7 +1317,7 @@ msgctxt "QApplication|"
 msgid "Failed to upload crash info."
 msgstr "Impossibile inviare rapporto crash."
 
-#: ../../ndagent/BDUserManager.cpp:213
+#: ../../ndagent/BDUserManager.cpp:217
 msgctxt "QApplication|"
 msgid "It's wrong data. Try again, please."
 msgstr "Dati errati. Riprova."
@@ -1222,82 +1330,87 @@ msgstr "Dati errati. Riprova."
 #~ "C'è un altro account Bdrive registrato per questo dispositivo. \n"
 #~ "Vuoi disconnettere l'account attuale e accedere con il tuo account?"
 
-#: ../../ndagent/BDUserManager.cpp:262
+#: ../../ndagent/BDUserManager.cpp:266
 msgctxt "QApplication|"
 msgid "Failed to get drive list. Try again, please."
 msgstr "Recupero elenco unità fallito. Riprova."
 
-#: ../../../common/authtemplate.cpp:202
+#: ../../../common/authtemplate.cpp:204
 msgctxt "QApplication|"
 msgid "BROWSE"
 msgstr "SFOGLIA"
 
-#: ../../../common/authtemplate.cpp:700 ../../NetDriveUI/adddrive.cpp:313
+#: ../../../common/authtemplate.cpp:702 ../../NetDriveUI/adddrive.cpp:264
 msgctxt "QApplication|"
 msgid "NETWORK"
 msgstr "RETE"
 
-#: ../../../common/authtemplate.cpp:710 ../../NetDriveUI/adddrive.cpp:323
-#: ../../NetDriveUI/ndflatui.cpp:2002
+#: ../../../common/authtemplate.cpp:712 ../../NetDriveUI/adddrive.cpp:274
+#: ../../NetDriveUI/ndflatui.cpp:2079
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "IMPOSTAZIONI PROXY"
 
-#: ../../../common/authtemplate.cpp:972
+#: ../../../common/authtemplate.cpp:990
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
 msgstr "Controlla nuovamente le credenziali di accesso"
 
-#: ../../../common/authtemplate.cpp:976
+#: ../../../common/authtemplate.cpp:994
 msgctxt "QApplication|"
 msgid "Please check the server information"
 msgstr "Controlla nuovamente le informazioni server"
 
-#: ../../../common/authtemplate.cpp:980
+#: ../../../common/authtemplate.cpp:998
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
 msgstr "Controlla nuovamente le ifnromazioni SSL"
 
-#: ../../../common/authtemplate.cpp:984
+#: ../../../common/authtemplate.cpp:1002
 msgctxt "QApplication|"
 msgid "Please check the connection information"
 msgstr "Controlla nuovamente le informazioni connessione"
 
-#: ../../../common/authtemplate.cpp:987
+#: ../../../common/authtemplate.cpp:1005
 msgctxt "QApplication|"
 msgid "Connection failed"
 msgstr "Connessione fallita"
 
-#: ../../NetDriveUI/adddrive.cpp:157
+#: ../../NetDriveUI/adddrive.cpp:98
 msgctxt "QApplication|"
 msgid "Auto"
 msgstr "Automatica"
 
-#: ../../NetDriveUI/adddrive.cpp:986
+#: ../../NetDriveUI/adddrive.cpp:970 ../../NetDriveUI/adddrive.cpp:1237
 msgctxt "QApplication|"
 msgid "CONNECT"
 msgstr "CONNETTI"
 
-#: ../../NetDriveUI/adddrive.cpp:1154
+#: ../../NetDriveUI/adddrive.cpp:1148
 msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr "Impossibile impostare l'opzione."
 
-#: ../../NetDriveUI/adddrive.cpp:1348
+#: ../../NetDriveUI/adddrive.cpp:1387
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr "Autentificazione fallita"
 
-#: ../../NetDriveUI/adddrive.cpp:1348
+#: ../../NetDriveUI/adddrive.cpp:1387
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr "Autentificazione con %1 fallita"
 
-#: ../../NetDriveUI/adddrive.cpp:1389 ../../NetDriveUI/adddrive.cpp:1571
+#: ../../NetDriveUI/adddrive.cpp:1456 ../../NetDriveUI/adddrive.cpp:1606
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr "DISCONNETTI"
+
+#: ../../NetDriveUI/adddrive.cpp:2056
+msgctxt "QApplication|"
+msgid "Connect to Google Photos"
+msgstr ""
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
@@ -1324,98 +1437,105 @@ msgctxt "QApplication|"
 msgid "SAVE AS"
 msgstr "SALVA COME"
 
-#: ../../NetDriveUI/main.cpp:125
+#: ../../NetDriveUI/main.cpp:130
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
 msgstr "Impossibile recuperare informazioni sul servizio %1"
 
-#: ../../NetDriveUI/main.cpp:137
+#: ../../NetDriveUI/main.cpp:142
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
 msgstr "Impossibile impostare il tipo di avvio del servizio %1"
 
-#: ../../NetDriveUI/main.cpp:149
+#: ../../NetDriveUI/main.cpp:154
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "Impossibile avviare il servizio %1"
 
-#: ../../NetDriveUI/ndflatui.cpp:271 ../../NetDriveUI/ndflatui.cpp:3732
+#: ../../NetDriveUI/ndflatui.cpp:274 ../../NetDriveUI/ndflatui.cpp:3904
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "UNITA'"
 
-#: ../../NetDriveUI/ndflatui.cpp:277 ../../NetDriveUI/ndflatui.cpp:3734
+#: ../../NetDriveUI/ndflatui.cpp:284 ../../NetDriveUI/ndflatui.cpp:3906
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "UPLOAD"
 
-#: ../../NetDriveUI/ndflatui.cpp:318 ../../NetDriveUI/ndflatui.cpp:2025
-#: ../../NetDriveUI/ndflatui.cpp:3736
+#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:2102
+#: ../../NetDriveUI/ndflatui.cpp:3908
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "IMPOSTAZIONI"
 
-#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:3730
+#: ../../NetDriveUI/ndflatui.cpp:344 ../../NetDriveUI/ndflatui.cpp:3902
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "INFO"
 
-#: ../../NetDriveUI/ndflatui.cpp:1980
+#: ../../NetDriveUI/ndflatui.cpp:2050
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "Crea un account gratuito Bdrive"
 
-#: ../../NetDriveUI/ndflatui.cpp:1982
+#: ../../NetDriveUI/ndflatui.cpp:2058
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "Accesso fallito?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2058
+#: ../../NetDriveUI/ndflatui.cpp:2135
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "Autorizzazione dispositivo"
 
-#: ../../NetDriveUI/ndflatui.cpp:2059
+#: ../../NetDriveUI/ndflatui.cpp:2136
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
-"NetDrive will be quit because failed to get device id. Please visit %1 to "
-"leave a note."
+"%1 will be quit because failed to get device id. Please visit %2 to leave a "
+"note."
 msgstr ""
-"NetDrive si chiuderà in quanto non è riuscito ad ottenere l'ID del "
-"dispositivo.\n"
-"Visita %1 per segnalare il problema."
 
-#: ../../NetDriveUI/ndflatui.cpp:2329
+#, qt-format
+#~ msgctxt "QApplication|"
+#~ msgid ""
+#~ "NetDrive will be quit because failed to get device id. Please visit %1 to "
+#~ "leave a note."
+#~ msgstr ""
+#~ "NetDrive si chiuderà in quanto non è riuscito ad ottenere l'ID del "
+#~ "dispositivo.\n"
+#~ "Visita %1 per segnalare il problema."
+
+#: ../../NetDriveUI/ndflatui.cpp:2411
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "Avviso"
 
-#: ../../NetDriveUI/ndflatui.cpp:2977
+#: ../../NetDriveUI/ndflatui.cpp:3107
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "INFO ACCOUNT"
 
-#: ../../NetDriveUI/ndflatui.cpp:2984
+#: ../../NetDriveUI/ndflatui.cpp:3114
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "GESTIONE LICENZA"
 
-#: ../../NetDriveUI/ndflatui.cpp:2993
+#: ../../NetDriveUI/ndflatui.cpp:3123
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "DISCONNETTI"
 
-#: ../../NetDriveUI/ndflatui.cpp:3223
+#: ../../NetDriveUI/ndflatui.cpp:3395
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
 msgstr "È disponibile %1 v. %2!"
 
-#: ../../../common/protocolmap.h:11
+#: ../../../common/protocolmap.h:14
 msgctxt "QApplication|"
 msgid ""
 "If it is the first connection and there are a lot of files, the connection "
@@ -1424,68 +1544,75 @@ msgstr ""
 "Se è la tua prima connessione e ci sono un sacco di file, la connessione "
 "potrebbe richiedere un tempo lungo."
 
-#: ../../../common/protocolmap.h:17
+#: ../../../common/protocolmap.h:20
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
 msgstr "Le operazioni di rinomina e spostamento non sono supportate."
 
-#: ../../../common/protocolmap.h:27
+#: ../../../common/protocolmap.h:30
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
 msgstr ""
 
-#: ../../NetDriveUI/ndprotocoldll.cpp:130
+#: ../../../common/protocolmap.h:66
+msgctxt "QApplication|"
+msgid ""
+"Upload restricted to Albums/NetDrive according to Google API "
+"policy<br/>(rename, delete, and move not supported)."
+msgstr ""
+
+#: ../../../common/protocoldll.cpp:327
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
 msgstr "Attesa autentificazione..."
 
-#: ../../NetDriveUI/qdriveitem.cpp:1608
+#: ../../NetDriveUI/qdriveitem.cpp:1654
 msgctxt "QApplication|"
 msgid "Open"
 msgstr "Apri"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1621
+#: ../../NetDriveUI/qdriveitem.cpp:1667
 msgctxt "QApplication|"
 msgid "Publish"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1628
+#: ../../NetDriveUI/qdriveitem.cpp:1674
 msgctxt "QApplication|"
 msgid "Republish"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1631
+#: ../../NetDriveUI/qdriveitem.cpp:1677
 msgctxt "QApplication|"
 msgid "Unpublish"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1639
+#: ../../NetDriveUI/qdriveitem.cpp:1685
 msgctxt "QApplication|"
 msgid "Config"
 msgstr "Configura"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1647
+#: ../../NetDriveUI/qdriveitem.cpp:1693
 msgctxt "QApplication|"
 msgid "Duplicate"
 msgstr "Duplica"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1653
+#: ../../NetDriveUI/qdriveitem.cpp:1700 ../../NetDriveUI/qdriveitem.cpp:1705
 msgctxt "QApplication|"
 msgid "Delete"
 msgstr "Elimina"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1659
+#: ../../NetDriveUI/qdriveitem.cpp:1713
 msgctxt "QApplication|"
 msgid "Log"
 msgstr "Registro"
 
-#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:221
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Folder listing failed"
 msgstr "Elenco cartelle fallito"
 
-#: ../../../ui_helper/filebrowser/selectfolder.cpp:222
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:221
 #: ../../NetDriveUI/selectfolder.cpp:177
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
@@ -1552,7 +1679,7 @@ msgstr "Annulla"
 #~ msgid "It's wrong data. Try again, please."
 #~ msgstr "Dati errati. Riprova."
 
-#: ../../ndagent/BDUserManager.cpp:247
+#: ../../ndagent/BDUserManager.cpp:251
 #, fuzzy
 msgctxt "QCoreApplication|"
 msgid ""
@@ -1573,23 +1700,18 @@ msgctxt "QDriveItem|"
 msgid "BROWSE"
 msgstr "SFOGLIA"
 
-#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:743
-#: ../../NetDriveUI/qdriveitem.cpp:946 ../../NetDriveUI/qdriveitem.cpp:1435
+#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:813
+#: ../../NetDriveUI/qdriveitem.cpp:1019 ../../NetDriveUI/qdriveitem.cpp:1469
 msgctxt "QDriveItem|"
 msgid "CONNECT"
 msgstr "CONNETTI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:181
+#: ../../NetDriveUI/qdriveitem.cpp:232
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:184
-msgctxt "QDriveItem|"
-msgid "NetDrive"
-msgstr ""
-
-#: ../../NetDriveUI/qdriveitem.cpp:223
+#: ../../NetDriveUI/qdriveitem.cpp:274
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
@@ -1597,100 +1719,110 @@ msgstr ""
 "%1 è un percorso già montato.\n"
 "Vuoi smontare %1 e continuare?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:241
+#: ../../NetDriveUI/qdriveitem.cpp:292
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
 msgstr "Smontaggio di %1 fallito. Riprova più tardi."
 
-#: ../../NetDriveUI/qdriveitem.cpp:257
+#: ../../NetDriveUI/qdriveitem.cpp:307
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
 msgstr "Sei sicuro di voler scollegare %1?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:626
+#: ../../NetDriveUI/qdriveitem.cpp:696
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:667
+#: ../../NetDriveUI/qdriveitem.cpp:737
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
 msgstr "Non esiste un file registro per [%1]."
 
-#: ../../NetDriveUI/qdriveitem.cpp:701
+#: ../../NetDriveUI/qdriveitem.cpp:771
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:721
+#: ../../NetDriveUI/qdriveitem.cpp:791
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:859
+#: ../../NetDriveUI/qdriveitem.cpp:932
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
 msgstr "Smontaggio fallito"
 
-#: ../../NetDriveUI/qdriveitem.cpp:891
+#: ../../NetDriveUI/qdriveitem.cpp:964
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
 msgstr "Impossibile configurare l'unità poichè il nome esiste già."
 
-#: ../../NetDriveUI/qdriveitem.cpp:895
+#: ../../NetDriveUI/qdriveitem.cpp:968
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
 msgstr "Impossibile configurare l'unità."
 
-#: ../../NetDriveUI/qdriveitem.cpp:936
+#: ../../NetDriveUI/qdriveitem.cpp:1009
 msgctxt "QDriveItem|"
 msgid "CANCEL"
 msgstr "ANNULLA"
 
-#: ../../NetDriveUI/qdriveitem.cpp:943 ../../NetDriveUI/qdriveitem.cpp:1434
+#: ../../NetDriveUI/qdriveitem.cpp:1016 ../../NetDriveUI/qdriveitem.cpp:1468
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
 msgstr "NON CONNESSO"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1441
+#: ../../NetDriveUI/qdriveitem.cpp:1025
+msgctxt "QDriveItem|"
+msgid "Authentication"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1025
+msgctxt "QDriveItem|"
+msgid "2FA Code"
+msgstr ""
+
+#: ../../NetDriveUI/qdriveitem.cpp:1475
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
 msgstr "CONNESSIONE"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1447
+#: ../../NetDriveUI/qdriveitem.cpp:1481
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
 msgstr "CONNESSO"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1448
+#: ../../NetDriveUI/qdriveitem.cpp:1482
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
 msgstr "DISCONNETTI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1454
+#: ../../NetDriveUI/qdriveitem.cpp:1488
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
 msgstr "DISCONNESSIONE"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1526
+#: ../../NetDriveUI/qdriveitem.cpp:1568
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
 msgstr "Sei sicuro di voelr eliminare %1?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1811
+#: ../../NetDriveUI/qdriveitem.cpp:1875
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1829
+#: ../../NetDriveUI/qdriveitem.cpp:1893
 #, qt-format
 msgctxt "QDriveItem|"
 msgid ""
@@ -1699,54 +1831,59 @@ msgid ""
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
 
-#: ../../../common/aerrorstring.cpp:9
-msgctxt "QObject|"
-msgid "A serious problem occurred. Please reinstall NetDrive."
-msgstr ""
-"Si è verificato un serio problema.\n"
-"Reinstalla NetDrive."
+#~ msgctxt "QObject|"
+#~ msgid "A serious problem occurred. Please reinstall NetDrive."
+#~ msgstr ""
+#~ "Si è verificato un serio problema.\n"
+#~ "Reinstalla NetDrive."
 
-#: ../../../common/aerrorstring.cpp:11
+#: ../../../common/aerrorstring.cpp:10
+#, qt-format
+msgctxt "QObject|"
+msgid "A serious problem occurred. Please reinstall %1."
+msgstr ""
+
+#: ../../../common/aerrorstring.cpp:12
 msgctxt "QObject|"
 msgid "Success."
 msgstr "Completato."
 
-#: ../../../common/aerrorstring.cpp:13
+#: ../../../common/aerrorstring.cpp:14
 msgctxt "QObject|"
 msgid "Failed."
 msgstr "Fallito."
 
-#: ../../NetDriveUI/errmsg.cpp:23
+#: ../../NetDriveUI/errmsg.cpp:24
 msgctxt "QObject|"
 msgid "Access Denied."
 msgstr "Accesso negato."
 
-#: ../../NetDriveUI/errmsg.cpp:27
+#: ../../NetDriveUI/errmsg.cpp:28
 msgctxt "QObject|"
 msgid "Path not found."
 msgstr "Percorso non trovato."
 
-#: ../../NetDriveUI/errmsg.cpp:31
+#: ../../NetDriveUI/errmsg.cpp:32
 msgctxt "QObject|"
 msgid "Connection error."
 msgstr "Errore di connessione."
 
-#: ../../NetDriveUI/errmsg.cpp:35
+#: ../../NetDriveUI/errmsg.cpp:36
 msgctxt "QObject|"
 msgid "Drive letter already used."
 msgstr "Lettera unità già in uso."
 
-#: ../../NetDriveUI/errmsg.cpp:39
+#: ../../NetDriveUI/errmsg.cpp:40
 msgctxt "QObject|"
 msgid "Mount Error."
 msgstr "Errroe nel montaggio."
 
-#: ../../NetDriveUI/errmsg.cpp:43
+#: ../../NetDriveUI/errmsg.cpp:44
 msgctxt "QObject|"
 msgid "Mount process is not executed."
 msgstr "Processo montaggio non eseguito."
 
-#: ../../NetDriveUI/errmsg.cpp:47
+#: ../../NetDriveUI/errmsg.cpp:48
 msgctxt "QObject|"
 msgid ""
 "Files are currently being uploading. Do you want to disconnect forcefully?"
@@ -1754,73 +1891,85 @@ msgstr ""
 "I file sono attualmente in upload.\n"
 "Vuoi scollegarti comunque?"
 
-#: ../../NetDriveUI/errmsg.cpp:51
+#: ../../NetDriveUI/errmsg.cpp:52
+#, qt-format
 msgctxt "QObject|"
-msgid "NetDrive is not initialized."
-msgstr "NetDrive non inizializzato."
+msgid "%1 is not initialized."
+msgstr ""
 
-#: ../../NetDriveUI/errmsg.cpp:55
+#: ../../NetDriveUI/errmsg.cpp:80
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The protocol version you are using is different from the product version. "
+"Please reinstall %1."
+msgstr ""
+
+#~ msgctxt "QObject|"
+#~ msgid "NetDrive is not initialized."
+#~ msgstr "NetDrive non inizializzato."
+
+#: ../../NetDriveUI/errmsg.cpp:56
 msgctxt "QObject|"
 msgid "No available drive letter."
 msgstr "Nessuna lettera unità disponibile."
 
-#: ../../NetDriveUI/errmsg.cpp:59
+#: ../../NetDriveUI/errmsg.cpp:60
 msgctxt "QObject|"
 msgid "Wrong Parameter."
 msgstr "Parametro errato."
 
-#: ../../NetDriveUI/errmsg.cpp:63
+#: ../../NetDriveUI/errmsg.cpp:64
 msgctxt "QObject|"
 msgid "Network path already used."
 msgstr "Percorso di rete già usato."
 
-#: ../../NetDriveUI/errmsg.cpp:67
+#: ../../NetDriveUI/errmsg.cpp:68
 msgctxt "QObject|"
 msgid "Cache path error."
 msgstr "Errore percorso cache."
 
-#: ../../NetDriveUI/errmsg.cpp:71
+#: ../../NetDriveUI/errmsg.cpp:72
 msgctxt "QObject|"
 msgid "Operation Failed."
 msgstr "Operazione fallita."
 
-#: ../../NetDriveUI/errmsg.cpp:75
+#: ../../NetDriveUI/errmsg.cpp:76
 msgctxt "QObject|"
 msgid "Not logged in user."
 msgstr "Utente non connesso."
 
-#: ../../NetDriveUI/errmsg.cpp:79
-msgctxt "QObject|"
-msgid ""
-"The protocol version you are using is different from the product version. "
-"Please reinstall NetDrive."
-msgstr ""
-"La versione del protocollo in uso è differente dalla versione prodotto.\n"
-"Reinstallala."
+#~ msgctxt "QObject|"
+#~ msgid ""
+#~ "The protocol version you are using is different from the product version. "
+#~ "Please reinstall NetDrive."
+#~ msgstr ""
+#~ "La versione del protocollo in uso è differente dalla versione prodotto.\n"
+#~ "Reinstallala."
 
-#: ../../NetDriveUI/errmsg.cpp:83
+#: ../../NetDriveUI/errmsg.cpp:84
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
 msgstr ""
 "Non puoi usare questa versione.\n"
 "Installa la versione che puoi usare."
 
-#: ../../NetDriveUI/errmsg.cpp:87
+#: ../../NetDriveUI/errmsg.cpp:88
 msgctxt "QObject|"
 msgid "Not supported protocol type"
 msgstr "Tipo protocollo non supportato"
 
-#: ../../NetDriveUI/errmsg.cpp:91
+#: ../../NetDriveUI/errmsg.cpp:92
 msgctxt "QObject|"
 msgid "Already mounted drive item."
 msgstr "Unità già montata."
 
-#: ../../NetDriveUI/errmsg.cpp:95
+#: ../../NetDriveUI/errmsg.cpp:96
 msgctxt "QObject|"
 msgid "You do not have permission."
 msgstr ""
 
-#: ../../NetDriveUI/errmsg.cpp:99
+#: ../../NetDriveUI/errmsg.cpp:100
 msgctxt "QObject|"
 msgid "Error occurred."
 msgstr "Si è verificato un errore."
@@ -1841,77 +1990,77 @@ msgstr "Si è verificato un errore."
 #~ "Accesso fallito.\n"
 #~ "Fai clic qui per verificare."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:320
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:323
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:326
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:329
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:332
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:335
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:343
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:346
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:349
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:352
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:771
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:946
 msgctxt "QObject|"
 msgid "Rename"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:812
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 msgctxt "QObject|"
 msgid "Move"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:862
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1071
 #, fuzzy
 msgctxt "QObject|"
 msgid "Delete"
 msgstr "Elimina"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:958
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1241
 #, qt-format
 msgctxt "QObject|"
 msgid ""
@@ -1919,10 +2068,15 @@ msgid ""
 "again."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:962
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1245
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/deletedlg.cpp:20
+msgctxt "QObject|"
+msgid "Are you sure you want to delete \""
 msgstr ""
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
@@ -2018,13 +2172,13 @@ msgctxt "SelectFolder|"
 msgid "Select Folder"
 msgstr "Seleziona cartella"
 
-#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:275
 #, fuzzy
 msgctxt "SelectFolder|"
 msgid "Folder listing failed"
 msgstr "Elenco cartelle fallito"
 
-#: ../../../ui_helper/filebrowser/selectfolder.cpp:276
+#: ../../../ui_helper/filebrowser/selectfolder.cpp:275
 #, fuzzy
 msgctxt "SelectFolder|"
 msgid "Can not retrieve folder list from server."
@@ -2050,6 +2204,27 @@ msgstr "Annulla"
 msgctxt "SortItemWidget|"
 msgid "Sort by"
 msgstr "Ordina per"
+
+#: ../../../ui_helper/filebrowser/transferitem.cpp:13
+msgctxt "TransferItem|"
+msgid "Preparing Download..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/transferitem.cpp:15
+msgctxt "TransferItem|"
+msgid "Preparing Upload..."
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:7
+#: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:31
+msgctxt "TransferProgressDlg|"
+msgid "File Download"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:35
+msgctxt "TransferProgressDlg|"
+msgid "File Upload"
+msgstr ""
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
@@ -2130,3 +2305,8 @@ msgstr "Salvataggio fallito."
 msgctxt "Waiter|"
 msgid "Wait for authentication"
 msgstr "Attesa autentificazione"
+
+#: ../../../ui_helper/oauth2/waiter_mobile.ui:14
+msgctxt "WaiterMobile|"
+msgid "Form"
+msgstr ""

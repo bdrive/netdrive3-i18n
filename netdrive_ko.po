@@ -1541,7 +1541,7 @@ msgctxt "QApplication|"
 msgid ""
 "Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
 "delete, and move not supported)."
-msgstr ""
+msgstr "Google API 정책에 따라 Albums/%1으로 업로드가 제한됩니다. (이름 변경, 삭제, 이동은 지원되지 않음)"
 
 #: ../../../common/protocoldll.cpp:327
 msgctxt "QApplication|"

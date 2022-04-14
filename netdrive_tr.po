@@ -1561,10 +1561,11 @@ msgid "Recommend to register your own API KEY and SECRET KEY."
 msgstr "Size ait API ve SECRET KEY ile kayıt olmanız önerilir."
 
 #: ../../../common/protocolmap.h:66
+#, qt-format
 msgctxt "QApplication|"
 msgid ""
-"Upload restricted to Albums/NetDrive according to Google API "
-"policy<br/>(rename, delete, and move not supported)."
+"Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
+"delete, and move not supported)."
 msgstr ""
 
 #: ../../../common/protocoldll.cpp:327

@@ -1510,10 +1510,11 @@ msgid "Rename and move operations are not supported."
 msgstr "不支持重命名和移动操作。"
 
 #: ../../../common/protocolmap.h:66
+#, qt-format
 msgctxt "QApplication|"
 msgid ""
-"Upload restricted to Albums/NetDrive according to Google API "
-"policy<br/>(rename, delete, and move not supported)."
+"Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
+"delete, and move not supported)."
 msgstr ""
 
 #: ../../../common/protocoldll.cpp:327

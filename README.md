@@ -6,7 +6,7 @@ cs | Czech | [netdrive_cs.po](https://github.com/bdrive/netdrive3-i18n/blob/mast
 ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.9 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
 zh-TW | Traditional Chinese | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) | 3.9 | [@Hs0](https://github.com/Hs0) |
 nl | Dutch | [netdrive_nl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_nl.po) | 3.9 | tchabot |
-ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.9 | [@JulianYoon](https://github.com/JulianYoon) |
+ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.16 | [@JulianYoon](https://github.com/JulianYoon) |
 es | Spanish | [netdrive_es.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_es.po) | 3.8 | [@pjmh81](https://github.com/Pjmh81) |
 de | German | [netdrive_de.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_de.po) | 3.8  | [Reiser89](https://github.com/Reiser89) |
 hu | Hungarian | [netdrive_hu.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_hu.po) | 3.8 | oreg |

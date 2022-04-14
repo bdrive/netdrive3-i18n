@@ -896,7 +896,8 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "Status"
 
-#: ../server_string.tri:1
+#: ../../../common/ndapplication.cpp:234
+#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -1322,18 +1323,18 @@ msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
 msgstr "Kan de map lijst niet ophalen van de server"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Login"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Email adres is nodig voor de login"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Juiste wachtwoord is nodig voor de login"

@@ -903,7 +903,8 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "Estado"
 
-#: ../server_string.tri:1
+#: ../../../common/ndapplication.cpp:234
+#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -1279,18 +1280,18 @@ msgctxt "QApplication|"
 msgid "type"
 msgstr "tipo"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Conexión"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Correo electrónico requerido para conectarse"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Se necesita una contraseña correcta para conectarse"

@@ -880,7 +880,8 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr ""
 
-#: ../server_string.tri:1
+#: ../../../common/ndapplication.cpp:234
+#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -1231,18 +1232,18 @@ msgctxt "QApplication|"
 msgid "type"
 msgstr "类型"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "登录"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "使用邮箱来登录"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "登录所需的密码"

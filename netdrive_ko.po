@@ -886,7 +886,8 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "상태"
 
-#: ../server_string.tri:1
+#: ../../../common/ndapplication.cpp:234
+#: ../../NetDriveUI/nduapplication.cpp:313 ../server_string.tri:1
 msgctxt "NDApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
@@ -1251,18 +1252,18 @@ msgctxt "QApplication|"
 msgid "type"
 msgstr "형태"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "로그인"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:238
+#: ../../../ui_helper/bdui/bdlogin.cpp:235
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "로그인을 위해 이메일 주소가 필요합니다."
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:246
+#: ../../../ui_helper/bdui/bdlogin.cpp:243
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "로그인을 위해 비밀번호가 필요합니다."
@@ -1621,6 +1622,11 @@ msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
 msgstr "NetDrive %1가 나왔습니다. - 사용하고 있는 버젼은 %2입니다. 지금 업데이트 하시겠습니까?"
+
+#, fuzzy
+#~ msgctxt "QApplication|"
+#~ msgid "Unable to log in with provided credentials."
+#~ msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"

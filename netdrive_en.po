@@ -2170,3 +2170,38 @@ msgstr ""
 msgctxt "WaiterMobile|"
 msgid "Form"
 msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:112
+msgctxt "TrayManager|"
+msgid "&Quit "
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:151
+msgctxt "TrayManager|"
+msgid "%1 File Lock Service is not available!"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:220
+msgctxt "TrayManager|"
+msgid "&Open %1"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:226
+msgctxt "TrayManager|"
+msgid "&Check for Updates"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:229
+msgctxt "TrayManager|"
+msgid "&Login"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:232
+msgctxt "TrayManager|"
+msgid "Log&out"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:236
+msgctxt "TrayManager|"
+msgid "&File Browser"
+msgstr ""

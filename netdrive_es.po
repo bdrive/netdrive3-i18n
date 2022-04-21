@@ -857,22 +857,22 @@ msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr "Lista de Archivos Bloqueados"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:119
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
 msgstr "No hay ningún archivo bloqueado."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
 msgstr "Desbloquear"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:178
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr "Forzar desbloqueo"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:293
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -902,11 +902,6 @@ msgstr "Dispositivo"
 msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "Estado"
-
-#: ../../../common/ndapplication.cpp:234
-msgctxt "NDApplication|"
-msgid "Unable to log in with provided credentials."
-msgstr ""
 
 #: ../../NetDriveUI/ndflatui.cpp:178
 #, qt-format
@@ -1658,7 +1653,7 @@ msgctxt "QApplication|"
 msgid "Unpublish"
 msgstr "Des-publicar"
 
-#: ../server_string.tri:1
+#: ../server_strings.tri:1
 msgctxt "QApplication|"
 msgid "Unable to log in with provided credentials."
 msgstr ""
@@ -2014,55 +2009,55 @@ msgstr "No tienes permisos."
 #~ msgid "Login failed. Please click here to check."
 #~ msgstr "Identificación fallida. Por favor haga clic aqui para revisar."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:351
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr "Ocurrió un error en el servidor push."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr "El archivo ya está bloqueado."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr "El disco no existe."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr "El archivo no existe en la lista de archivos bloqueados."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr "El archivo está bloqueado por otro usuario."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr "El archivo está bloqueado en otro dispositivo."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:374
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr "Error al refrescar %1."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr "Error al bloquear %1."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr "Error al desbloquear %1."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
@@ -2105,6 +2100,47 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:20
 msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:112
+#: ../../netdrive_helper/traymanager.cpp:120
+msgctxt "QObject|"
+msgid "&Quit "
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:220
+#, qt-format
+msgctxt "QObject|"
+msgid "&Open %1"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:223
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Quit"
+msgstr "&Salir"
+
+#: ../../netdrive_helper/traymanager.cpp:226
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Check for Updates"
+msgstr "&Comprobar Actualizaciones"
+
+#: ../../netdrive_helper/traymanager.cpp:229
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Login"
+msgstr "&Conectar"
+
+#: ../../netdrive_helper/traymanager.cpp:232
+#, fuzzy
+msgctxt "QObject|"
+msgid "Log&out"
+msgstr "&Cerrar sesión"
+
+#: ../../netdrive_helper/traymanager.cpp:236
+msgctxt "QObject|"
+msgid "&File Browser"
 msgstr ""
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
@@ -2254,6 +2290,12 @@ msgstr "Descarga de Archivo"
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:35
 msgctxt "TransferProgressDlg|"
 msgid "File Upload"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:151
+#, qt-format
+msgctxt "TrayManager|"
+msgid "%1 File Lock Service is not available!"
 msgstr ""
 
 #: ../../../common/urlwidget.ui:47

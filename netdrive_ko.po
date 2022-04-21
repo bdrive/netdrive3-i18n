@@ -840,22 +840,22 @@ msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr "잠긴 파일 목록"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:119
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
 msgstr "잠긴 파일이 없습니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
 msgstr "잠금 해제"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:178
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr "강제 잠금 해제"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:293
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -886,10 +886,9 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "상태"
 
-#: ../../../common/ndapplication.cpp:234
-msgctxt "NDApplication|"
-msgid "Unable to log in with provided credentials."
-msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+#~ msgctxt "NDApplication|"
+#~ msgid "Unable to log in with provided credentials."
+#~ msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
 
 #: ../../NetDriveUI/ndflatui.cpp:178
 #, qt-format
@@ -1622,7 +1621,7 @@ msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
 msgstr "NetDrive %1가 나왔습니다. - 사용하고 있는 버젼은 %2입니다. 지금 업데이트 하시겠습니까?"
 
-#: ../server_string.tri:1
+#: ../server_strings.tri:1
 #, fuzzy
 msgctxt "QApplication|"
 msgid "Unable to log in with provided credentials."
@@ -1967,55 +1966,55 @@ msgstr "에러 발생"
 #~ msgid "Login failed. Please click here to check."
 #~ msgstr "로그인을 실패했습니다. 이곳을 눌러 확인해 주세요."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:351
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr "푸시 서버에서 에러가 발생했습니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr "이미 잠긴 파일입니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr "드라이브가 존재하지 않습니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr "잠긴 파일 목록에 없습니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr "다른 사용자가 이미 잠근 파일입니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr "다른 장치에서 이미 잠긴 파일입니다."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:374
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr "%1의 갱신 실패"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr "%1의 잠금 실패"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr "%1의 잠금 해제 실패"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
@@ -2054,6 +2053,47 @@ msgstr "잠긴 파일이기 때문에 %1 실패. 잠금 해제후 재시도 하�
 msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
 msgstr "파일을 삭제하시겠습니까? \""
+
+#: ../../netdrive_helper/traymanager.cpp:112
+#: ../../netdrive_helper/traymanager.cpp:120
+msgctxt "QObject|"
+msgid "&Quit "
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:220
+#, qt-format
+msgctxt "QObject|"
+msgid "&Open %1"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:223
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Quit"
+msgstr "종료"
+
+#: ../../netdrive_helper/traymanager.cpp:226
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Check for Updates"
+msgstr "업데이트 확인"
+
+#: ../../netdrive_helper/traymanager.cpp:229
+#, fuzzy
+msgctxt "QObject|"
+msgid "&Login"
+msgstr "로그인"
+
+#: ../../netdrive_helper/traymanager.cpp:232
+#, fuzzy
+msgctxt "QObject|"
+msgid "Log&out"
+msgstr "로그아웃"
+
+#: ../../netdrive_helper/traymanager.cpp:236
+msgctxt "QObject|"
+msgid "&File Browser"
+msgstr ""
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
@@ -2200,6 +2240,12 @@ msgstr "파일 다운로드"
 msgctxt "TransferProgressDlg|"
 msgid "File Upload"
 msgstr "파일 업로드"
+
+#: ../../netdrive_helper/traymanager.cpp:151
+#, fuzzy, qt-format
+msgctxt "TrayManager|"
+msgid "%1 File Lock Service is not available!"
+msgstr "%1 파일 잠금 서비스에 접속할 수 없습니다!"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"

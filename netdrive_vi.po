@@ -357,143 +357,143 @@ msgctxt "Dialog|"
 msgid "Progress"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:395
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:399
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:396
-msgctxt "FileBrowserManager|"
-msgid "Download to..."
-msgstr ""
-
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:397
-#, fuzzy
-msgctxt "FileBrowserManager|"
-msgid "Open"
-msgstr "Mở"
-
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:398
-msgctxt "FileBrowserManager|"
-msgid "Reload"
-msgstr ""
-
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:399
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1009
-msgctxt "FileBrowserManager|"
-msgid "Rename"
-msgstr ""
-
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
-msgid "Move"
+msgid "Download to..."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 #, fuzzy
 msgctxt "FileBrowserManager|"
+msgid "Open"
+msgstr "Mở"
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
+msgctxt "FileBrowserManager|"
+msgid "Reload"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1013
+msgctxt "FileBrowserManager|"
+msgid "Rename"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
+msgctxt "FileBrowserManager|"
+msgid "Move"
+msgstr ""
+
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
+#, fuzzy
+msgctxt "FileBrowserManager|"
 msgid "Delete"
 msgstr "Xóa"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1122
 msgctxt "FileBrowserManager|"
 msgid "New folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:433
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:931
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:437
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:443
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:447
 msgctxt "FileBrowserManager|"
 msgid "Lock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:444
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:445
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:456
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:460
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:683
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:353
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:664
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:687
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:705
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:353
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:664
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:407
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:684
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1478
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:688
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1482
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:705
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:778
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:778
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:793
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:797
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:805
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:805
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:932
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid ""
@@ -502,113 +502,113 @@ msgid ""
 "Click the OK button to copy the shareable link."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1007
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1011
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1321
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1334
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1033
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1058
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1325
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1338
 msgctxt "FileBrowserManager|"
 msgid "Move File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1033
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1058
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1089
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1089
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1122
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1176
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1180
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Upload"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1207
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1207
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1223
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1223
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1310
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1310
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1322
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1326
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1335
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1339
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1406
 msgctxt "FileBrowserManager|"
 msgid "File Open"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1406
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1477
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1481
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
 msgstr ""
@@ -837,22 +837,22 @@ msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:119
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:178
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:293
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -1239,18 +1239,18 @@ msgctxt "QApplication|"
 msgid "type"
 msgstr "loại"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:235
-#: ../../../ui_helper/bdui/bdlogin.cpp:243
+#: ../../../ui_helper/bdui/bdlogin.cpp:241
+#: ../../../ui_helper/bdui/bdlogin.cpp:249
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Đăng nhập"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:241
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Cần có địa chỉ thư điện tử để đăng nhập"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:243
+#: ../../../ui_helper/bdui/bdlogin.cpp:249
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Cần mật khẩu chính xác để đăng nhập"
@@ -1964,77 +1964,77 @@ msgstr ""
 #~ msgid "Login failed. Please click here to check."
 #~ msgstr "Đăng nhập thất bại. Nhấn vào đây để kiểm tra."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:351
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:374
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:946
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "QObject|"
 msgid "Rename"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1022
 msgctxt "QObject|"
 msgid "Move"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1071
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1075
 #, fuzzy
 msgctxt "QObject|"
 msgid "Delete"
 msgstr "Xóa"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1241
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1245
 #, qt-format
 msgctxt "QObject|"
 msgid ""
@@ -2042,7 +2042,7 @@ msgid ""
 "again."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1245
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1249
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."

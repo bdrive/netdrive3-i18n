@@ -364,141 +364,141 @@ msgstr "進度"
 #~ msgid "File Download"
 #~ msgstr "檔案下載"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:395
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:399
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
 msgstr "儲存到下載資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:396
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
 msgstr "下載到..."
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:397
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 msgctxt "FileBrowserManager|"
 msgid "Open"
 msgstr "開啟"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:398
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
 msgctxt "FileBrowserManager|"
 msgid "Reload"
 msgstr "重新整理"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:399
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1009
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1013
 msgctxt "FileBrowserManager|"
 msgid "Rename"
 msgstr "重新命名"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
 msgctxt "FileBrowserManager|"
 msgid "Move"
 msgstr "移動"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
 msgid "Delete"
 msgstr "刪除"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1122
 msgctxt "FileBrowserManager|"
 msgid "New folder"
 msgstr "新建資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:433
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:931
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:437
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:935
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
 msgstr "取得可分享的連結"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:443
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:447
 msgctxt "FileBrowserManager|"
 msgid "Lock"
 msgstr "鎖定"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:444
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
 msgstr "解鎖"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:445
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
 msgstr "強制解鎖"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:456
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:460
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
 msgstr "上鎖檔案列表"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:683
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:353
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:664
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:687
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:705
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
 msgstr "連接失敗"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:329
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:349
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:660
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:353
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:664
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:407
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:684
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1478
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:688
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1482
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
 msgstr "無法取得檔案列表"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:701
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:705
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
 msgstr "無法取得ROOT ID"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:778
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
 msgstr "重新載入資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:774
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:778
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
 msgstr "無法重新整理資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:793
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:797
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
 msgstr "下載完成"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:805
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
 msgstr "下載失敗"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:805
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
 msgstr "無法從伺服器下載檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:932
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid ""
@@ -510,113 +510,113 @@ msgstr ""
 "%1\n"
 "按下OK以複製連結"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:939
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
 msgstr "無法取得可下載的連結"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1007
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1011
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1321
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1334
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1033
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1058
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1325
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1338
 msgctxt "FileBrowserManager|"
 msgid "Move File"
 msgstr "移動檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1054
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1033
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1058
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
 msgstr "無法移動檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1089
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
 msgstr "刪除檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1089
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
 msgstr "無法刪除檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1118
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1122
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
 msgstr "無法新增資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1176
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1180
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Upload"
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1183
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1207
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
 msgstr "鎖定檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1203
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1207
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
 msgstr "無法鎖定檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1223
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
 msgstr "解鎖檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1219
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1223
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
 msgstr "無法解鎖檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1310
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
 msgstr "操作失敗"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1306
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1310
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
 msgstr "檔案名 %1 已存在"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1322
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1326
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1335
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1339
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1406
 msgctxt "FileBrowserManager|"
 msgid "File Open"
 msgstr "開啟檔案"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1402
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1406
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
 msgstr "無法建立臨時資料夾"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1477
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1481
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
 msgstr "取得檔案列表"
@@ -843,22 +843,22 @@ msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr "上鎖的檔案清單"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:119
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
 msgstr "沒有上鎖的檔案"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
 msgstr "解鎖"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:178
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr "強制解鎖"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:293
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -1243,18 +1243,18 @@ msgctxt "QApplication|"
 msgid "type"
 msgstr "類型"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:235
-#: ../../../ui_helper/bdui/bdlogin.cpp:243
+#: ../../../ui_helper/bdui/bdlogin.cpp:241
+#: ../../../ui_helper/bdui/bdlogin.cpp:249
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "登入"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:235
+#: ../../../ui_helper/bdui/bdlogin.cpp:241
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "需使用電子信箱登入"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:243
+#: ../../../ui_helper/bdui/bdlogin.cpp:249
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "需用密碼登入"
@@ -1927,76 +1927,76 @@ msgctxt "QObject|"
 msgid "You do not have permission."
 msgstr "您沒有權限"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:351
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr ""
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr "本文件已鎖定"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr "儲存空間不存在"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr "本文件不在上鎖檔案列表"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr "本檔案被其他使用者鎖定"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr "本檔案在其他儲存空間被鎖定"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:374
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr "無法重新整理 %1"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr "無法鎖定 %1"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr "無法解鎖 %1"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
 msgstr "無法強制解鎖 %1"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:946
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "QObject|"
 msgid "Rename"
 msgstr "重新命名"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1022
 msgctxt "QObject|"
 msgid "Move"
 msgstr "移動"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1071
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1075
 msgctxt "QObject|"
 msgid "Delete"
 msgstr "刪除"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1241
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1245
 #, qt-format
 msgctxt "QObject|"
 msgid ""
@@ -2004,7 +2004,7 @@ msgid ""
 "again."
 msgstr "因資料夾中的檔案被鎖定導致 %1 失敗，請解鎖檔案並再試一次"
 
-#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1245
+#: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1249
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."

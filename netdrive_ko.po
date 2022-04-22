@@ -2058,13 +2058,13 @@ msgstr "파일을 삭제하시겠습니까? \""
 #: ../../netdrive_helper/traymanager.cpp:120
 msgctxt "QObject|"
 msgid "&Quit "
-msgstr ""
+msgstr "종료"
 
 #: ../../netdrive_helper/traymanager.cpp:220
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
-msgstr ""
+msgstr "%1 열기"
 
 #: ../../netdrive_helper/traymanager.cpp:223
 #, fuzzy

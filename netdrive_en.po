@@ -1950,38 +1950,38 @@ msgstr ""
 #: ../../netdrive_helper/traymanager.cpp:120
 msgctxt "QObject|"
 msgid "&Quit "
-msgstr ""
+msgstr "종료"
 
 #: ../../netdrive_helper/traymanager.cpp:220
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
-msgstr ""
+msgstr "%1 열기"
 
 #: ../../netdrive_helper/traymanager.cpp:223
 msgctxt "QObject|"
 msgid "&Quit"
-msgstr ""
+msgstr "종료"
 
 #: ../../netdrive_helper/traymanager.cpp:226
 msgctxt "QObject|"
 msgid "&Check for Updates"
-msgstr ""
+msgstr "새 버전 확인"
 
 #: ../../netdrive_helper/traymanager.cpp:229
 msgctxt "QObject|"
 msgid "&Login"
-msgstr ""
+msgstr "로그인"
 
 #: ../../netdrive_helper/traymanager.cpp:232
 msgctxt "QObject|"
 msgid "Log&out"
-msgstr ""
+msgstr "로그아웃"
 
 #: ../../netdrive_helper/traymanager.cpp:236
 msgctxt "QObject|"
 msgid "&File Browser"
-msgstr ""
+msgstr "파일 브라우저"
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
@@ -2122,7 +2122,7 @@ msgstr ""
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 파일 잠금 서비스에 접속할 수 없습니다!"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"

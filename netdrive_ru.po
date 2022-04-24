@@ -1769,7 +1769,7 @@ msgstr "ОТМЕНА"
 #: ../../NetDriveUI/qdriveitem.cpp:1016 ../../NetDriveUI/qdriveitem.cpp:1468
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
-msgstr "НЕ ПОДКЛЮЧЕН"
+msgstr "НЕ ПОДКЛЮЧЁН"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1025
 msgctxt "QDriveItem|"
@@ -1789,7 +1789,7 @@ msgstr "СОЕДИНЕНИЕ"
 #: ../../NetDriveUI/qdriveitem.cpp:1481
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
-msgstr "ПОДКЛЮЧЕН"
+msgstr "ПОДКЛЮЧЁН"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1482
 msgctxt "QDriveItem|"

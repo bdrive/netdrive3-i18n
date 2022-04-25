@@ -3,7 +3,7 @@
 | Code | Language | File Name | The most recent version translated | Contributors |
 ----------| ----------|----------|------------|---------|
 cs | Czech | [netdrive_cs.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_cs.po) | 3.9 | [@lukavec](https://github.com/lukavec) |
-ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.9 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
+ru | Russian | [netdrive_ru.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ru.po) | 3.16 | [@hookzof](https://github.com/hookzof) and [@iFrez](https://github.com/iFrez) |
 zh-TW | Traditional Chinese | [netdrive_zh-TW.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_zh-TW.po) | 3.9 | [@Hs0](https://github.com/Hs0) |
 nl | Dutch | [netdrive_nl.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_nl.po) | 3.9 | tchabot |
 ko | Korean | [netdrive_ko.po](https://github.com/bdrive/netdrive3-i18n/blob/master/netdrive_ko.po) | 3.16 | [@JulianYoon](https://github.com/JulianYoon) |

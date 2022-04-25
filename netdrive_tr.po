@@ -841,27 +841,27 @@ msgid "INSTALL UPDATE"
 msgstr "GÜNCELLEMEYİ YÜKLE"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
-#: ../../NetDriveUI/ndflatui.cpp:3954
+#: ../../NetDriveUI/ndflatui.cpp:3970
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr "Kilitli Dosya Listesi"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:119
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
 msgstr "Kilitli dosya yok."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
 msgstr "Kilidi Aç"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:178
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
 msgstr "Kilidi açmaya zorla"
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:292
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:293
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
@@ -1009,43 +1009,43 @@ msgstr "Hizmet hazır."
 #~ msgid "Connecting to NetDrive Agent."
 #~ msgstr "NetDrive hizmetine bağlanılıyor."
 
-#: ../../NetDriveUI/ndflatui.cpp:1554
+#: ../../NetDriveUI/ndflatui.cpp:1570
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "%1 Gönderme başarısız."
 
-#: ../../NetDriveUI/ndflatui.cpp:1999
+#: ../../NetDriveUI/ndflatui.cpp:2015
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
 msgstr "Bdrive sunucusuna bağlantı başarısız."
 
-#: ../../NetDriveUI/ndflatui.cpp:2509
+#: ../../NetDriveUI/ndflatui.cpp:2525
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "&Aç"
 
-#: ../../NetDriveUI/ndflatui.cpp:2512
+#: ../../NetDriveUI/ndflatui.cpp:2528
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "Çı&kış"
 
-#: ../../NetDriveUI/ndflatui.cpp:2515
+#: ../../NetDriveUI/ndflatui.cpp:2531
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "&Güncellemeleri kontrol et"
 
-#: ../../NetDriveUI/ndflatui.cpp:2518
+#: ../../NetDriveUI/ndflatui.cpp:2534
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "G&iriş Yap"
 
-#: ../../NetDriveUI/ndflatui.cpp:2522
+#: ../../NetDriveUI/ndflatui.cpp:2538
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "Çıkış &Yap"
 
-#: ../../NetDriveUI/ndflatui.cpp:2529
+#: ../../NetDriveUI/ndflatui.cpp:2545
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "Başlatılıyor..."
@@ -1081,19 +1081,19 @@ msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2574
+#: ../../NetDriveUI/ndflatui.cpp:2590
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2707
+#: ../../NetDriveUI/ndflatui.cpp:2723
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2747
+#: ../../NetDriveUI/ndflatui.cpp:2763
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
@@ -1102,83 +1102,83 @@ msgstr ""
 "Eğer çıkış yaparsanız açılışta oluştur nesneleri otomatik olarak "
 "bağlanamaz.Çıkış yapmak istediğinize emin misiniz?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2891
+#: ../../NetDriveUI/ndflatui.cpp:2907
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "Çıkış yapılıyor..."
 
-#: ../../NetDriveUI/ndflatui.cpp:3409
+#: ../../NetDriveUI/ndflatui.cpp:3425
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "%1 Mevcut sürüm son sürümdür."
 
-#: ../../NetDriveUI/ndflatui.cpp:3584
+#: ../../NetDriveUI/ndflatui.cpp:3600
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "Sürücüler"
 
-#: ../../NetDriveUI/ndflatui.cpp:3589
+#: ../../NetDriveUI/ndflatui.cpp:3605
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "Ayarlar"
 
-#: ../../NetDriveUI/ndflatui.cpp:3592
+#: ../../NetDriveUI/ndflatui.cpp:3608
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "Yükleniyor"
 
-#: ../../NetDriveUI/ndflatui.cpp:3597
+#: ../../NetDriveUI/ndflatui.cpp:3613
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "Hakkında"
 
-#: ../../NetDriveUI/ndflatui.cpp:3600
+#: ../../NetDriveUI/ndflatui.cpp:3616
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr "Hesap Bilgisi"
 
-#: ../../NetDriveUI/ndflatui.cpp:3603
+#: ../../NetDriveUI/ndflatui.cpp:3619
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "Lisansları Yönet"
 
-#: ../../NetDriveUI/ndflatui.cpp:3606
+#: ../../NetDriveUI/ndflatui.cpp:3622
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "Giriş Yap"
 
-#: ../../NetDriveUI/ndflatui.cpp:3609
+#: ../../NetDriveUI/ndflatui.cpp:3625
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "Çıkış Yap"
 
-#: ../../NetDriveUI/ndflatui.cpp:3612
+#: ../../NetDriveUI/ndflatui.cpp:3628
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "NetDrive Yardım"
 
-#: ../../NetDriveUI/ndflatui.cpp:3615
+#: ../../NetDriveUI/ndflatui.cpp:3631
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "Görüntüle"
 
-#: ../../NetDriveUI/ndflatui.cpp:3616
+#: ../../NetDriveUI/ndflatui.cpp:3632
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "Hesap"
 
-#: ../../NetDriveUI/ndflatui.cpp:3617
+#: ../../NetDriveUI/ndflatui.cpp:3633
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "Yardım"
 
-#: ../../NetDriveUI/ndflatui.cpp:3816
+#: ../../NetDriveUI/ndflatui.cpp:3832
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "Sürücü bilgisi alınamadı."
 
-#: ../../NetDriveUI/ndflatui.cpp:3825
+#: ../../NetDriveUI/ndflatui.cpp:3841
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "Sürücü ismi alınamadı."
@@ -1353,7 +1353,7 @@ msgid "NETWORK"
 msgstr "AĞ"
 
 #: ../../../common/authtemplate.cpp:712 ../../NetDriveUI/adddrive.cpp:274
-#: ../../NetDriveUI/ndflatui.cpp:2079
+#: ../../NetDriveUI/ndflatui.cpp:2095
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "PROXY AYARLARI"
@@ -1462,43 +1462,43 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "Hizmet başlatılamadı: %1"
 
-#: ../../NetDriveUI/ndflatui.cpp:274 ../../NetDriveUI/ndflatui.cpp:3904
+#: ../../NetDriveUI/ndflatui.cpp:274 ../../NetDriveUI/ndflatui.cpp:3920
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "SÜRÜCÜLER"
 
-#: ../../NetDriveUI/ndflatui.cpp:284 ../../NetDriveUI/ndflatui.cpp:3906
+#: ../../NetDriveUI/ndflatui.cpp:284 ../../NetDriveUI/ndflatui.cpp:3922
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "YÜKLENİYOR"
 
-#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:2102
-#: ../../NetDriveUI/ndflatui.cpp:3908
+#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:2118
+#: ../../NetDriveUI/ndflatui.cpp:3924
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "AYARLAR"
 
-#: ../../NetDriveUI/ndflatui.cpp:344 ../../NetDriveUI/ndflatui.cpp:3902
+#: ../../NetDriveUI/ndflatui.cpp:344 ../../NetDriveUI/ndflatui.cpp:3918
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "HAKKINDA"
 
-#: ../../NetDriveUI/ndflatui.cpp:2050
+#: ../../NetDriveUI/ndflatui.cpp:2066
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "Ücretsiz Bdrive hesabı oluştur"
 
-#: ../../NetDriveUI/ndflatui.cpp:2058
+#: ../../NetDriveUI/ndflatui.cpp:2074
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "Girişte Sorunmu Yaşıyorsunuz?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2135
+#: ../../NetDriveUI/ndflatui.cpp:2151
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "Aygıt Yetkilendirme"
 
-#: ../../NetDriveUI/ndflatui.cpp:2136
+#: ../../NetDriveUI/ndflatui.cpp:2152
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1515,27 +1515,27 @@ msgstr ""
 #~ "NetDrive kapanacak. Çünkü aygıt kimliği alınamadı. Lütfen ziyaret edip "
 #~ "not bırakın %1 ."
 
-#: ../../NetDriveUI/ndflatui.cpp:2411
+#: ../../NetDriveUI/ndflatui.cpp:2427
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "Not"
 
-#: ../../NetDriveUI/ndflatui.cpp:3107
+#: ../../NetDriveUI/ndflatui.cpp:3123
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "HESAP BİLGİLERİ"
 
-#: ../../NetDriveUI/ndflatui.cpp:3114
+#: ../../NetDriveUI/ndflatui.cpp:3130
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "LİSANSLARI YÖNET"
 
-#: ../../NetDriveUI/ndflatui.cpp:3123
+#: ../../NetDriveUI/ndflatui.cpp:3139
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "ÇIKIŞ YAP"
 
-#: ../../NetDriveUI/ndflatui.cpp:3395
+#: ../../NetDriveUI/ndflatui.cpp:3411
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
@@ -2002,55 +2002,55 @@ msgstr "Hata Oluştu."
 #~ msgid "Login failed. Please click here to check."
 #~ msgstr "Giriş başarısız. Lütfen buraya tıklayarak kontrol edin."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:350
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:351
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
 msgstr "Push sunucusunda bir hata oluştu."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:353
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
 msgctxt "QObject|"
 msgid "The file is already locked."
 msgstr "Dosya zaten kilitli."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:356
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
 msgctxt "QObject|"
 msgid "The drive does not exist."
 msgstr "Sürücü mevcut değil."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:359
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
 msgstr "Kilitli dosya listesinde dosya bulunamadı."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:362
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
 msgctxt "QObject|"
 msgid "The file is locked by another user."
 msgstr "Dosya başka kullanıcı tarafından kilitlenmiş."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:365
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
 msgctxt "QObject|"
 msgid "The file is locked on another device."
 msgstr "Dosya başka cihaz tarafından kilitlenmiş."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:373
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:374
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
 msgstr "%1 yenileme başarısız."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:376
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
 msgstr "%1 kilitleme başarısız."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:379
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
 msgstr "%1 Kilidi açma başarısız."
 
-#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:382
+#: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
@@ -2099,37 +2099,37 @@ msgctxt "QObject|"
 msgid "&Quit "
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:220
+#: ../../netdrive_helper/traymanager.cpp:230
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:223
+#: ../../netdrive_helper/traymanager.cpp:233
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Quit"
 msgstr "Çı&kış"
 
-#: ../../netdrive_helper/traymanager.cpp:226
+#: ../../netdrive_helper/traymanager.cpp:236
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Check for Updates"
 msgstr "&Güncellemeleri kontrol et"
 
-#: ../../netdrive_helper/traymanager.cpp:229
+#: ../../netdrive_helper/traymanager.cpp:239
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Login"
 msgstr "G&iriş Yap"
 
-#: ../../netdrive_helper/traymanager.cpp:232
+#: ../../netdrive_helper/traymanager.cpp:242
 #, fuzzy
 msgctxt "QObject|"
 msgid "Log&out"
 msgstr "Çıkış &Yap"
 
-#: ../../netdrive_helper/traymanager.cpp:236
+#: ../../netdrive_helper/traymanager.cpp:246
 msgctxt "QObject|"
 msgid "&File Browser"
 msgstr ""

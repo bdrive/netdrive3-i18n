@@ -187,7 +187,8 @@ msgstr "Пожалуйста, выберите удалённый путь."
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr ""
-"Пожалуйста, введите другое название, так как это название диска уже используется."
+"Пожалуйста, введите другое название, так как это название диска уже "
+"используется."
 
 #: ../../NetDriveUI/adddrive.cpp:1633
 msgctxt "AddDrive|"
@@ -821,8 +822,7 @@ msgstr "Доступна новая версия %1!"
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
-"%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
+msgstr "%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
@@ -1307,8 +1307,7 @@ msgstr "Доступна новая версия %1!"
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
-"%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
+msgstr "%1 %2 теперь доступна - у вас %3. Вы хотите скачать сейчас?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1513,8 +1512,8 @@ msgid ""
 "%1 will be quit because failed to get device id. Please visit %2 to leave a "
 "note."
 msgstr ""
-"%1 будет закрыт, так как не удалось получить идентификатор устройства. Пожалуйста, посетите %2, чтобы оставить "
-"обращение."
+"%1 будет закрыт, так как не удалось получить идентификатор устройства. "
+"Пожалуйста, посетите %2, чтобы оставить обращение."
 
 #, qt-format
 #~ msgctxt "QApplication|"
@@ -1572,8 +1571,8 @@ msgid ""
 "Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
 "delete, and move not supported)."
 msgstr ""
-"Загрузка ограничена альбомами/%1 в соответствии с политикой Google API<br/>(переименование, "
-"удаление и перемещение не поддерживается)."
+"Загрузка ограничена альбомами/%1 в соответствии с политикой Google "
+"API<br/>(переименование, удаление и перемещение не поддерживается)."
 
 #: ../../../common/protocoldll.cpp:327
 msgctxt "QApplication|"
@@ -1632,8 +1631,7 @@ msgstr "Букве"
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr ""
-"NetDrive %1 теперь доступен. У вас %2. Вы хотите обновить сейчас?"
+msgstr "NetDrive %1 теперь доступен. У вас %2. Вы хотите обновить сейчас?"
 
 #: ../../../common/protocolmap.h:30
 msgctxt "QApplication|"

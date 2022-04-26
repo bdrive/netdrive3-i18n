@@ -2071,7 +2071,7 @@ msgstr "%1 열기"
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
-msgstr "%1 종료
+msgstr "%1 종료"
 
 #: ../../netdrive_helper/traymanager.cpp:240
 #, fuzzy

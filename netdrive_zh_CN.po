@@ -2000,44 +2000,55 @@ msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:113
-#: ../../netdrive_helper/traymanager.cpp:121
+#: ../../netdrive_helper/traymanager.cpp:127
 msgctxt "QObject|"
 msgid "&Quit "
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:231
+#: ../../netdrive_helper/traymanager.cpp:62
+#: ../../netdrive_helper/traymanager.cpp:123
+#: ../../netdrive_helper/traymanager.cpp:237
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:234
+#: ../../netdrive_helper/traymanager.cpp:118
+#, qt-format
+msgctxt "QObject|"
+msgid "&Quit %1"
+msgstr ""
+
+#: ../../netdrive_helper/traymanager.cpp:240
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Quit"
 msgstr "退出"
 
-#: ../../netdrive_helper/traymanager.cpp:237
+#: ../../netdrive_helper/traymanager.cpp:65
+#: ../../netdrive_helper/traymanager.cpp:112
+#: ../../netdrive_helper/traymanager.cpp:243
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Check for Updates"
 msgstr "检查更新"
 
-#: ../../netdrive_helper/traymanager.cpp:240
+#: ../../netdrive_helper/traymanager.cpp:108
+#: ../../netdrive_helper/traymanager.cpp:246
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Login"
 msgstr "登录"
 
-#: ../../netdrive_helper/traymanager.cpp:100
-#: ../../netdrive_helper/traymanager.cpp:243
+#: ../../netdrive_helper/traymanager.cpp:103
+#: ../../netdrive_helper/traymanager.cpp:249
 #, fuzzy
 msgctxt "QObject|"
 msgid "Log&out"
 msgstr "注销"
 
-#: ../../netdrive_helper/traymanager.cpp:247
+#: ../../netdrive_helper/traymanager.cpp:97
+#: ../../netdrive_helper/traymanager.cpp:253
 msgctxt "QObject|"
 msgid "&File Browser"
 msgstr ""
@@ -2181,7 +2192,7 @@ msgctxt "TransferProgressDlg|"
 msgid "File Upload"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:152
+#: ../../netdrive_helper/traymanager.cpp:158
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"

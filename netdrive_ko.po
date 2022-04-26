@@ -2071,7 +2071,7 @@ msgstr "%1 열기"
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
-msgstr ""
+msgstr "%1 종료
 
 #: ../../netdrive_helper/traymanager.cpp:240
 #, fuzzy
@@ -2105,7 +2105,7 @@ msgstr "로그아웃"
 #: ../../netdrive_helper/traymanager.cpp:253
 msgctxt "QObject|"
 msgid "&File Browser"
-msgstr ""
+msgstr "파일 탐색기"
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"

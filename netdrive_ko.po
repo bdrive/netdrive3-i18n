@@ -1636,212 +1636,212 @@ msgstr "계정"
 #: ../server_strings.tri:3
 msgctxt "QApplication|"
 msgid "Anomymous"
-msgstr ""
+msgstr "익명"
 
 #: ../server_strings.tri:4
 msgctxt "QApplication|"
 msgid "Attempt converting non-UTF-8 files to UTF-8"
-msgstr ""
+msgstr "UTF-8 파일로 변환 시도"
 
 #: ../server_strings.tri:5
 msgctxt "QApplication|"
 msgid "Autodetect"
-msgstr ""
+msgstr "자동 감지"
 
 #: ../server_strings.tri:6
 msgctxt "QApplication|"
 msgid "Charset"
-msgstr ""
+msgstr "문자셋"
 
 #: ../server_strings.tri:7
 msgctxt "QApplication|"
 msgid "Enable delete folder"
-msgstr ""
+msgstr "폴더 삭제 허용"
 
 #: ../server_strings.tri:8
 msgctxt "QApplication|"
 msgid "Enable rename/move folder"
-msgstr ""
+msgstr "폴더 이름변경/이동 허용"
 
 #: ../server_strings.tri:9
 msgctxt "QApplication|"
 msgid "For Limited Bucket Access"
-msgstr ""
+msgstr "Bucket 목록 접근 권한이 없을 때"
 
 #: ../server_strings.tri:10
 msgctxt "QApplication|"
 msgid "Force UTF-8"
-msgstr ""
+msgstr "UTF-8 강제하기"
 
 #: ../server_strings.tri:11
 msgctxt "QApplication|"
 msgid "Local charset"
-msgstr ""
+msgstr "로컬 문자셋"
 
 #: ../server_strings.tri:12
 msgctxt "QApplication|"
 msgid "MS SharePoint Server"
-msgstr ""
+msgstr "MS SharePoint 서버"
 
 #: ../server_strings.tri:13
 msgctxt "QApplication|"
 msgid "Mount Point"
-msgstr ""
+msgstr "마운트 위치"
 
 #: ../server_strings.tri:14
 msgctxt "QApplication|"
 msgid "Options"
-msgstr ""
+msgstr "옵션"
 
 #: ../server_strings.tri:15
 msgctxt "QApplication|"
 msgid "Process subdir node to display folder"
-msgstr ""
+msgstr "폴더 출력을 위해 subdir 노드 처리"
 
 #: ../server_strings.tri:16
 msgctxt "QApplication|"
 msgid "Receive changes to files from server"
-msgstr ""
+msgstr "서버로부터 파일 변경 알림 받기"
 
 #: ../server_strings.tri:17
 msgctxt "QApplication|"
 msgid "SSH Key"
-msgstr ""
+msgstr "SSH 키"
 
 #: ../server_strings.tri:18
 msgctxt "QApplication|"
 msgid "Save account ID and application key"
-msgstr ""
+msgstr "계정 ID와 애플리케이션 Key 저장"
 
 #: ../server_strings.tri:19
 msgctxt "QApplication|"
 msgid "Save account ID and secret key"
-msgstr ""
+msgstr "계정 ID와 보안 Key 저장"
 
 #: ../server_strings.tri:20
 msgctxt "QApplication|"
 msgid "Save account name and access key"
-msgstr ""
+msgstr "계정 이름과 접근 key 저장"
 
 #: ../server_strings.tri:21
 msgctxt "QApplication|"
 msgid "Save passphrase"
-msgstr ""
+msgstr "암호 저장"
 
 #: ../server_strings.tri:22
 msgctxt "QApplication|"
 msgid "Save user and API key"
-msgstr ""
+msgstr "사용자와 API key 저장"
 
 #: ../server_strings.tri:23
 msgctxt "QApplication|"
 msgid "Save user and password "
-msgstr ""
+msgstr "사용자와 암호 저장"
 
 #: ../server_strings.tri:24
 msgctxt "QApplication|"
 msgid "Server"
-msgstr ""
+msgstr "서버"
 
 #: ../server_strings.tri:25
 msgctxt "QApplication|"
 msgid "Set large enough disk space for unlimited Google TeamDrive"
-msgstr ""
+msgstr "구글 팀드라이브 무제한 사용자를 위해 최대 용량 디스크 공간으로 표시"
 
 #: ../server_strings.tri:26
 msgctxt "QApplication|"
 msgid "Show shared file/folders"
-msgstr ""
+msgstr "공유된 파일/폴더 표시"
 
 #: ../server_strings.tri:27
 msgctxt "QApplication|"
 msgid "System root"
-msgstr ""
+msgstr "시스템 루트"
 
 #: ../server_strings.tri:28
 msgctxt "QApplication|"
 msgid "Use SSL(https)"
-msgstr ""
+msgstr "SSL(https) 사용"
 
 #: ../server_strings.tri:29
 msgctxt "QApplication|"
 msgid "Use SSL/TLS"
-msgstr ""
+msgstr "SSL/TLS 사용"
 
 #: ../server_strings.tri:30
 msgctxt "QApplication|"
 msgid "Use active mode"
-msgstr ""
+msgstr "Active 모드 사용"
 
 #: ../server_strings.tri:31
 msgctxt "QApplication|"
 msgid "Use new file permission"
-msgstr ""
+msgstr "새로운 파일 권한 사용"
 
 #: ../server_strings.tri:32
 msgctxt "QApplication|"
 msgid "Use new folder permission"
-msgstr ""
+msgstr "새로운 폴더 권한 사용"
 
 #: ../server_strings.tri:33
 msgctxt "QApplication|"
 msgid "Use path-style instead of virtual-hosted style"
-msgstr ""
+msgstr "가상 호스트 방식 대신 경로 방식 사용"
 
 #: ../server_strings.tri:34
 msgctxt "QApplication|"
 msgid "Use server time for files/folders"
-msgstr ""
+msgstr "파일/폴더에 서버에서 받은 시간 정보 사용"
 
 #: ../server_strings.tri:35
 msgctxt "QApplication|"
 msgid "Use team drive"
-msgstr ""
+msgstr "팀 드라이브 사용"
 
 #: ../server_strings.tri:36
 msgctxt "QApplication|"
 msgid "User home"
-msgstr ""
+msgstr "사용자 홈"
 
 #: ../server_strings.tri:37
 msgctxt "QApplication|"
 msgid "API Key"
-msgstr ""
+msgstr "API 키"
 
 #: ../server_strings.tri:38
 msgctxt "QApplication|"
 msgid "Access ID"
-msgstr ""
+msgstr "접근 ID"
 
 #: ../server_strings.tri:39
 msgctxt "QApplication|"
 msgid "Account ID"
-msgstr ""
+msgstr "계정 ID"
 
 #: ../server_strings.tri:40
 msgctxt "QApplication|"
 msgid "Application Key"
-msgstr ""
+msgstr "애플리케이션 Key"
 
 #: ../server_strings.tri:41
 msgctxt "QApplication|"
 msgid "Bucket name"
-msgstr ""
+msgstr "버킷 이름"
 
 #: ../server_strings.tri:42
 msgctxt "QApplication|"
 msgid "File permission"
-msgstr ""
+msgstr "파일 권한"
 
 #: ../server_strings.tri:43
 msgctxt "QApplication|"
 msgid "Folder permission"
-msgstr ""
+msgstr "폴더 권한"
 
 #: ../server_strings.tri:44
 msgctxt "QApplication|"
 msgid "Max sessions"
-msgstr ""
+msgstr "최대 세션"
 
 #: ../server_strings.tri:45
 #, fuzzy
@@ -1858,37 +1858,37 @@ msgstr "비밀번호"
 #: ../server_strings.tri:47
 msgctxt "QApplication|"
 msgid "Project ID"
-msgstr ""
+msgstr "프로젝트 ID"
 
 #: ../server_strings.tri:48
 msgctxt "QApplication|"
 msgid "Secret Key"
-msgstr ""
+msgstr "보안 Key"
 
 #: ../server_strings.tri:49
 msgctxt "QApplication|"
 msgid "Server Address"
-msgstr ""
+msgstr "서버 주소"
 
 #: ../server_strings.tri:50
 msgctxt "QApplication|"
 msgid "Storage access key"
-msgstr ""
+msgstr "저장소 접근 key"
 
 #: ../server_strings.tri:51
 msgctxt "QApplication|"
 msgid "Storage account name"
-msgstr ""
+msgstr "저장소 계정 이름"
 
 #: ../server_strings.tri:52
 msgctxt "QApplication|"
 msgid "Total size (TB)"
-msgstr ""
+msgstr "전체 크기 (TB)"
 
 #: ../server_strings.tri:53
 msgctxt "QApplication|"
 msgid "User"
-msgstr ""
+msgstr "사용자"
 
 #: ../server_strings.tri:54
 msgctxt "QApplication|"
@@ -1898,27 +1898,27 @@ msgstr ""
 #: ../server_strings.tri:55
 msgctxt "QApplication|"
 msgid "limit ( KB/s : 0 means unlimited )"
-msgstr ""
+msgstr "제한 ( KB/s : 0 무제한)"
 
 #: ../server_strings.tri:56
 msgctxt "QApplication|"
 msgid "seconds"
-msgstr ""
+msgstr "초"
 
 #: ../server_strings.tri:57
 msgctxt "QApplication|"
 msgid "Bandwidth"
-msgstr ""
+msgstr "대역폭"
 
 #: ../server_strings.tri:58
 msgctxt "QApplication|"
 msgid "Connection Timeout"
-msgstr ""
+msgstr "연결 시간 제한"
 
 #: ../server_strings.tri:59
 msgctxt "QApplication|"
 msgid "Total space"
-msgstr ""
+msgstr "전체 크기"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"

@@ -130,18 +130,18 @@ msgstr "시스템 전체 사용자에게 보이기"
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "MS 오피스 임시 파일 업로드 방지"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "아래아 한글(HWP) 임시 파일(*.$$$, *.BAK) 업로드 방지"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
-msgstr ""
+msgstr "커널 확장 대신 File Provider 사용(실험적 기능, macOS에서만 사용 가능)"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
@@ -517,7 +517,7 @@ msgstr "서버로부터 파일을 다운로드 할 수 없습니다."
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
 msgid "Download file path"
-msgstr ""
+msgstr "다운로드 파일 경로"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
@@ -627,7 +627,7 @@ msgstr "대상 폴더에 같은 이름이 있습니다."
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1412
 msgctxt "FileBrowserManager|"
 msgid "File open path"
-msgstr ""
+msgstr "파일 열기 경로"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
@@ -718,7 +718,7 @@ msgstr "드라이브의 연결을 끊을때 잠긴 모든 파일의 잠금 해�
 #: ../../NetDriveUI/flatsettingcontents.ui:101
 msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
-msgstr ""
+msgstr "파일 브라우저에서 파일을 열거나 다운로드할때 경로 표시"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:113
 msgctxt "FlatSettingContents|"
@@ -2147,7 +2147,7 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall %1."
-msgstr ""
+msgstr "심각한 문제가 발생했습니다. %1를 재설치해 주세요."
 
 #: ../../../common/aerrorstring.cpp:12
 msgctxt "QObject|"

@@ -9,17 +9,17 @@ msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
-msgid "Add Drive"
+msgid "Ajouter disque"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:127
 msgctxt "AddDrive|"
-msgid "STORAGE TYPE"
+msgid "TYPE DE STOCKAGE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:196
 msgctxt "AddDrive|"
-msgid "CONNECT"
+msgid "CONNECTER"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:209
@@ -29,247 +29,247 @@ msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:218
 msgctxt "AddDrive|"
-msgid "Save authentication information"
+msgid "Enregistrer les informations d'authentification"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:257
 msgctxt "AddDrive|"
-msgid "REMOTE PATH"
+msgid "CHEMIN DISTANT"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:285
 msgctxt "AddDrive|"
-msgid "BROWSE"
+msgid "RECHERCHER DISQUE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:49
 msgctxt "AddDrive|"
-msgid "LABEL"
+msgid "LETTRE DE DISQUE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
-msgid "MOUNT"
+msgid "MONTER DISQUE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
-msgid "as"
+msgid "en tant que"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
-msgid "AUTO CONNECT OPTIONS"
+msgid "OPTIONS D'AUTOCONNEXION"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
-msgid "No automatic mount"
+msgid "Pas de montage automatique"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
-msgid "Mount on boot"
+msgid "Monter au démarrage de l'ordinateur"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
-msgid "Mount on login"
+msgid "Monter à l'ouverture de session de travail"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
-msgid "UPLOAD OPTIONS"
+msgid "OPTIONS DE TELECHARGEMENT"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
-msgid "Use on-the-fly uploading in Explorer"
+msgid "Utiliser le téléchargement à la volée dand un explorateur"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
-msgid "Use background uploading"
+msgid "Utiliser le téléchargement en arrière plan"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
-msgid "READ ONLY OPTIONS"
+msgid "OPTIONS LECTEUR SEULE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
-msgid "Writable drive"
+msgid "Disque en lecture/écriture"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
-msgid "Read only drive"
+msgid "Disque en lecture seule"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
-msgid "ADVANCED OPTION"
+msgid "OPTION AVANCEE"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
-msgid "Always retrieve file list from server"
+msgid "Toujours récupérer la liste de fichiers depuis le serveur"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
-msgid "As a global drive"
+msgid "Comme un disque global"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
-msgid "Prevent uploading of temporary MS Office files"
+msgid "Eviter de télécharger les fichier temporaires de MS Office"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
-msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
+msgid "Eviter de télécharger les fichiers temporaires HWP (*.$$$, *.BAK)"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
-"Use File Provider instead of Kernel Extension (experimental, macOS only)"
+"Utiliser 'File Provider' à la place de l'extension du noyau (expérimental, seulement macOS)"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
-msgid "As a removable drive"
+msgid "comme disque amovible"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
-msgid "Treat files and folders starting with a dot as hidden"
+msgid "Traiter les fichiers et dossiers commençant par un point comme des fichiers cachés"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
-msgid "Use static filesystem(Experimental)"
+msgid "Utiliser un système de fichier statique (expérimental)"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:92
 msgctxt "AddDrive|"
-msgid "COLOR"
+msgid "COULEUR"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:135
 msgctxt "AddDrive|"
-msgid "network drive"
+msgid "disque réseau"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:136
 msgctxt "AddDrive|"
-msgid "local drive"
+msgid "disque local"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:616
 msgctxt "AddDrive|"
-msgid "Please press CONNECT button to set connection information."
+msgid "Merci de cliquer sur le bouton CONNECTER pour definir les informations de connexion."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:647
 msgctxt "AddDrive|"
 msgid ""
-"A drive name cannot contain any of the following characters:\n"
+"Le nom d'un disque ne peut comporter aucun des caractères suivants:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:655
 msgctxt "AddDrive|"
-msgid "Please type in drive name."
+msgid "Merci d'entrer le nom d'un disque."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:663
 msgctxt "AddDrive|"
-msgid "The maximum length of the drive name is 50."
+msgid "La longueur max. d'un nom de disque est limitée à 50 caractères."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:674
 msgctxt "AddDrive|"
-msgid "Please select remote path."
+msgid "Merci de selectionner le chemint distant."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:712
 msgctxt "AddDrive|"
-msgid "Please type in a different name since this drive name is already used."
+msgid "Merci de choisir un autre nom de disque car il est déjà utilisé."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:1619
 msgctxt "AddDrive|"
-msgid " Please try again by pressing the CONNECT button."
+msgid " Merci de d'essayer encore en cliquant sur le bouton CONNECTER."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:1735
 msgctxt "AddDrive|"
-msgid "We do not support this protocol."
+msgid "Ce protocole n'est pas supporté."
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:1769
 msgctxt "AddDrive|"
-msgid "Authentication"
+msgid "Authentification"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:1769
 msgctxt "AddDrive|"
-msgid "2FA Code"
+msgid "Code d'authentification à deux facteurs (2FA)"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
-msgid "ITEM LOCATION"
+msgid "LOCALISATION OBJET"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:243
 msgctxt "AddDrive|"
-msgid "In account"
+msgid "Dans le compte utilisateur"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:244
 msgctxt "AddDrive|"
-msgid "In device"
+msgid "Dans le périphérique"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:303
 msgctxt "AddDrive|"
-msgid "Add a Personal Drive"
+msgid "Ajouter un disque personnel"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:309
 msgctxt "AddDrive|"
-msgid "Add a Team Drive"
+msgid "Ajouter un disque d'équipe"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:393
 msgctxt "AddDrive|"
-msgid "Configure a Team Drive"
+msgid "Configurer un disque d'équipe"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:398
 msgctxt "AddDrive|"
-msgid "Configure a Personal Drive"
+msgid "Configurer un disque personnel"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.cpp:1706
 msgctxt "AddDrive|"
 msgid ""
-"This team drive has no connection information set yet. Do you want to do it "
-"now?"
+"Ce disque d'équipe n'a pas encore d'information de connexion. Voulez-vous le faire "
+"maintenant ?"
 msgstr ""
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
-msgid "Authentication"
+msgid "Authentification"
 msgstr ""
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
-msgid "2FA Code"
+msgid "Code d'authentification à deux facteurs (2FA)"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
@@ -279,159 +279,159 @@ msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
-msgid "Email"
+msgid "Courrier électronique"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
-msgid "Password"
+msgid "Mot de passe"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
-msgid "Keep me logged in"
+msgid "Rester connecté"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
-msgid "OR"
+msgid "OU"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdlogin.ui:270
 msgctxt "BDLogin|"
-msgid "Cancel"
+msgid "Arrêter"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
-msgid "Passphrase"
+msgid "Paraphrase"
 msgstr ""
 
 #: ../../ndagent/BDUser.cpp:623
 msgctxt "BDUser|"
 msgid ""
-"Login failed because communication with the server failed. Please check your "
-"proxy or Internet connection."
+"La connexion à la session a échoué. Communication avec le serveur impossible. Merci de vérifier votre "
+"proxy ou votre connexion internet."
 msgstr ""
 
 #: ../../ndagent/BDUser.cpp:637
 msgctxt "BDUser|"
-msgid "Login failed. Please click here to check."
+msgid "La connexion à la session a échoué. Merci de cliquer ici pour vérifier."
 msgstr ""
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
-msgid "Authentication Information"
+msgid "*Information d'authentification"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
-msgid "Password"
+msgid "Mot de passe"
 msgstr ""
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
-msgid "User"
+msgid "Utilisateur"
 msgstr ""
 
 #: ../../NetDriveUI/qdriveitem.cpp:434
 msgctxt "ConfigureDrive|"
-msgid "Configure Drive"
+msgid "Configurer disque"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:9
 msgctxt "DeleteDlg|"
-msgid "Delete File"
+msgid "Supprimer fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
-msgid "Dialog"
+msgid "Dialogue"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
-msgid "Yes"
+msgid "Oui"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
-msgid "No"
+msgid "Non"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
-msgid "Progress"
+msgid "En cours"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
-msgid "Save to Downloads Folder"
+msgid "Enregidtrer dans le dossier des téléchargementsr"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 msgctxt "FileBrowserManager|"
-msgid "Download to..."
+msgid "Enregistrer vers..."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
 msgctxt "FileBrowserManager|"
-msgid "Open"
+msgid "Ouvrir"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
 msgctxt "FileBrowserManager|"
-msgid "Reload"
+msgid "Recharger"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1020
 msgctxt "FileBrowserManager|"
-msgid "Rename"
+msgid "Renommer"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
-msgid "Move"
+msgid "Déplacer"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
 msgctxt "FileBrowserManager|"
-msgid "Delete"
+msgid "Supprimer"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:407
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
-msgid "New folder"
+msgid "Nouveau dossier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:438
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:942
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
-msgid "Get Shareable Link"
+msgid "Obtenir un lien partagé"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
-msgid "Lock"
+msgid "Verrouiller"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
-msgid "Unlock"
+msgid "Déverrouiller"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:450
 msgctxt "FileBrowserManager|"
-msgid "Force unlock"
+msgid "Forcer le déverrouillage"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:461
 msgctxt "FileBrowserManager|"
-msgid "Locked files list"
+msgid "Liste des fichiers verouillésLocked files list"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
@@ -439,89 +439,89 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:688
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
-msgid "Connection Fail"
+msgid "Erreur lors de la connexion"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
-msgid "Authentication"
+msgid "Authentification"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
-msgid "2FA Code"
+msgid "Code d'authentification à deux facteurs (2FA)"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
 msgctxt "FileBrowserManager|"
-msgid "Failed to connect protocol."
+msgid "Erreur de connexion: protocole."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:408
 msgctxt "FileBrowserManager|"
-msgid "Upload file"
+msgid "Télécharger fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:689
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1497
 msgctxt "FileBrowserManager|"
-msgid "Failed to get file list."
+msgid "Erreur lors le l'obtention de la liste des fichiers."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
-msgid "Failed to get root ID."
+msgid "Erreur lors de la récupération de l'ID root."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
-msgid "Reload Folder"
+msgid "Recharger le dossier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
-msgid "Failed to reload folder."
+msgid "Erreur lors du rechargement du dossier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:798
 msgctxt "FileBrowserManager|"
-msgid "Download Complete."
+msgid "Téléchargement terminé."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
-msgid "File downloading failed"
+msgid "Erreur lors du téléchargement d'un fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
-msgid "Can not download file from server."
+msgid "Impossible de télécharger un fichier depuis le serveur."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
-msgid "Download file path"
+msgid "Télécharger le chemin du fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid ""
-"Successful to get shareable link.\n"
+"Le lien partagé a pu être obtenu avec succès.\n"
 "%1\n"
-"Click the OK button to copy the shareable link."
+"Cliquer sur le bouton OK pour copier le lien partagé."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
-msgid "Failed to get shareable link."
+msgid "Erreur d'obtention du lien partagé."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 #, qt-format
 msgctxt "FileBrowserManager|"
-msgid "Failed to rename file with %1"
+msgid "Erreur de renommage du fichier avec %1"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
@@ -529,23 +529,23 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1332
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1345
 msgctxt "FileBrowserManager|"
-msgid "Move File"
+msgid "Déplacer fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
 msgctxt "FileBrowserManager|"
-msgid "Failed to move file."
+msgid "Erreur lors du déplacement du fichier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
-msgid "Delete File"
+msgid "Supprimer fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
-msgid "Failed to delete file."
+msgid "Erruer lors de la suppression du fichier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
@@ -555,119 +555,119 @@ msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
-msgid "Upload Complete."
+msgid "Téléchargement terminé."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
-msgid "Upload"
+msgid "Télécharger"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
-msgid "Failed to upload the file."
+msgid "Erreur lors du téléchargement du fichier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
-msgid "Lock File"
+msgid "Verrouiller fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
-msgid "Failed to lock the file."
+msgid "Erreur lors du verrouillage di fichier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
-msgid "Unlock File"
+msgid "Déverrouiller fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
-msgid "Failed to unlock the file."
+msgid "Erreur lors du déverrouillage du fichier."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 msgctxt "FileBrowserManager|"
-msgid "Failed Action"
+msgid "Erreur lors de l'action"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 #, qt-format
 msgctxt "FileBrowserManager|"
-msgid "A file with the same name as %1 exists."
+msgid "Un fichier de même nom %1 existe déjà."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1333
 msgctxt "FileBrowserManager|"
-msgid "Failed to move file to destination folder."
+msgid "Erreur lors du déplacement du fichier vers le dossier cible."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1346
 msgctxt "FileBrowserManager|"
-msgid "Destination folder has a file with the same name."
+msgid "Le dossier cible contient un fichier avec le mêm nom."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1412
 msgctxt "FileBrowserManager|"
-msgid "File open path"
+msgid "Chemin d'ouverture du fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
-msgid "File Open"
+msgid "Ouvrir fichier"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
-msgid "Failed to create temporary directory."
+msgid "Erreur lors de la création d'un dossier temporaire."
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1496
 msgctxt "FileBrowserManager|"
-msgid "Get File List"
+msgid "Obtenir la liste des fichiers"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
-msgid "Name"
+msgid "Nom"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
-msgid "Size"
+msgid "Taille"
 msgstr ""
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
-msgid "Modified"
+msgid "Modifié"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
-msgid "ABOUT"
+msgid "A PROPOS"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
-msgid "Licensed to %1"
+msgid "Licence accordée à %1"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
-msgid "Trial"
+msgid "Essai"
 msgstr ""
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
-msgid "Search"
+msgid "Rechercher"
 msgstr ""
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
-msgid "SETTINGS"
+msgid "REGLAGES"
 msgstr ""
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
@@ -677,7 +677,7 @@ msgstr ""
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
-msgid "Start at login"
+msgid "Lancer à la connexion"
 msgstr ""
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67

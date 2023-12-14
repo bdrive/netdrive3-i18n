@@ -734,12 +734,12 @@ msgstr "Kontrolovat aktualizace na beta verze"
 #: ../../NetDriveUI/flatsettingcontents.ui:101
 msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
-msgstr ""
+msgstr "Zobrazit cestu k souboru při otevírání nebo stahování v prohlížeči souborů"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:108
 msgctxt "FlatSettingContents|"
 msgid "Show file upload progress in a pop-up window"
-msgstr ""
+msgstr "Zobrazit postup nahrávání souboru v okně"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
@@ -774,7 +774,7 @@ msgstr "Hledat"
 #: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
-msgstr ""
+msgstr "Upozornit, když je dostupné místo na cestě mezipaměti menší než"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"

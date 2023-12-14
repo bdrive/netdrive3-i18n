@@ -120,28 +120,28 @@ msgstr "Immer Dateiliste vom Server abrufen"
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "Als globaler Antrieb"
 
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "Verhindern Sie das Hochladen temporärer MS Office-Dateien"
 
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "Hochladen temporärer HWP-Dateien (*.$$$, *.BAK) verhindern"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Support desktop.ini on Windows"
-msgstr ""
+msgstr "Unterstützen Sie desktop.ini unter Windows"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
-msgstr ""
+msgstr "Verwenden Sie den Dateianbieter anstelle der Kernel-Erweiterung (experimentell, nur macOS)."
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
@@ -228,7 +228,7 @@ msgstr "Wir unterstützen dieses Protokoll nicht."
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "Authentication"
-msgstr ""
+msgstr "Authentifizierung"
 
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
@@ -282,12 +282,12 @@ msgstr ""
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "Authentication"
-msgstr ""
+msgstr "Authentifizierung"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2FA-Code"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -375,22 +375,22 @@ msgstr "Laufwerk bearbeiten"
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:9
 msgctxt "DeleteDlg|"
 msgid "Delete File"
-msgstr ""
+msgstr "Datei löschen"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
 msgid "Dialog"
-msgstr ""
+msgstr "Dialog"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
@@ -435,7 +435,7 @@ msgstr "Umbenennen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "Dateien verschieben"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
 #, fuzzy
@@ -487,12 +487,12 @@ msgstr "Verbindung fehlgeschalgen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
-msgstr ""
+msgstr "Authentifizierung"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2FA-Code"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
@@ -503,7 +503,7 @@ msgstr "Protokol verbinden fehlgeschlagen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:408
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
-msgstr ""
+msgstr "Daten hochladen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:689
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1497
@@ -544,7 +544,7 @@ msgstr "Kann Datei nicht vom Server herunterladen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
 msgid "Download file path"
-msgstr ""
+msgstr "Dateipfad hochladen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
@@ -554,17 +554,20 @@ msgid ""
 "%1\n"
 "Click the OK button to copy the shareable link."
 msgstr ""
+"Der gemeinsam nutzbare Link konnte erfolgreich abgerufen werden.\n"
+"%1\n"
+"Klicken Sie auf die Schaltfläche „OK“, um den gemeinsam nutzbaren Link zu kopieren."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "Der gemeinsam nutzbare Link konnte nicht abgerufen werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "Datei konnte mit %1 nicht umbenannt werden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
@@ -572,120 +575,120 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1345
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "Datei bewegen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "Datei konnte nicht verschoben werden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "Datei löschen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "Datei konnte nicht gelöscht werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "Fehler beim Erstellen eines neuen Ordners."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
-msgstr ""
+msgstr "Hochladen abgeschlossen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Upload"
-msgstr ""
+msgstr "Hochladen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
-msgstr ""
+msgstr "Die Datei konnte nicht hochgeladen werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "Datei sperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "Die Datei konnte nicht gesperrt werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "Datei entsperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "Die Datei konnte nicht entsperrt werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "Fehlgeschlagene Aktion"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "Es existiert eine Datei mit demselben Namen wie %1."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1333
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr ""
+msgstr "Die Datei konnte nicht in den Zielordner verschoben werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1346
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr ""
+msgstr "Der Zielordner enthält eine Datei mit demselben Namen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1412
 msgctxt "FileBrowserManager|"
 msgid "File open path"
-msgstr ""
+msgstr "Pfad zum Öffnen der Datei"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "Datei öffnen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "Das temporäre Verzeichnis konnte nicht erstellt werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1496
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "Dateiliste abrufen"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 #, fuzzy
 msgctxt "FileTreeModel|"
 msgid "Name"
-msgstr "Name"
+msgstr "Dateiname"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "Größe"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr ""
+msgstr "Geändert"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
@@ -741,12 +744,12 @@ msgstr "Nach Updates für Beta-Versionen suchen falls verfügbar"
 #: ../../NetDriveUI/flatsettingcontents.ui:101
 msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
-msgstr ""
+msgstr "Dateipfad anzeigen, wenn Dateien im FileBrowser geöffnet oder heruntergeladen werden"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:108
 msgctxt "FlatSettingContents|"
 msgid "Show file upload progress in a pop-up window"
-msgstr ""
+msgstr "Zeigen Sie den Fortschritt des Datei-Uploads in einem Popup-Fenster an"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
@@ -783,7 +786,7 @@ msgstr "DURCHSUCHEN"
 #: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
-msgstr ""
+msgstr "Benachrichtigen Sie, wenn der verfügbare Speicherplatz des Cache-Pfads kleiner ist als"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"
@@ -793,7 +796,7 @@ msgstr ""
 #: ../../NetDriveUI/flatsettingcontents.ui:263
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
-msgstr ""
+msgstr "(0 bedeutet nicht benachrichtigen.)"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:287
 msgctxt "FlatSettingContents|"
@@ -905,12 +908,12 @@ msgstr "AKTUALISIERUNG INSTALLIEREN"
 #: ../../NetDriveUI/ndflatui.cpp:3871
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "Liste der gesperrten Dateien"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "Es gibt keine gesperrte Datei."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:180
 #, fuzzy
@@ -928,27 +931,27 @@ msgstr "Entsperren erzwingen"
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "Liste der gesperrten Dateien in %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "Fehlen"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "Weg"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "Gesperrt von"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "Gerät"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
@@ -1099,30 +1102,30 @@ msgstr ""
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
-msgstr ""
+msgstr "%1 Agent wird gestartet."
 
 #: ../../NetDriveUI/ndflatui.cpp:1299
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
-msgstr ""
+msgstr "Initialisierung des SDK."
 
 #: ../../NetDriveUI/ndflatui.cpp:1328
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
-msgstr ""
+msgstr "Verbindung zu %1 Agent wird hergestellt."
 
 #: ../../NetDriveUI/ndflatui.cpp:2556
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
-msgstr ""
+msgstr "%1 Dateisperrdienst ist nicht verfügbar"
 
 #: ../../NetDriveUI/ndflatui.cpp:2688
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr ""
+msgstr "%1 wird beendet..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2727
 msgctxt "NDFlatUI|"
@@ -1218,26 +1221,26 @@ msgstr "Der Name des Laufwerks konnte nicht ermittelt werden"
 #: ../../NetDriveUI/ndflatui.cpp:245
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr " (Wartung)"
 
 #: ../../NetDriveUI/ndflatui.cpp:763
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "Die Bereitstellung des Teamlaufwerks [%1] wurde aufgehoben, da die Veröffentlichung durch den Betreuer aufgehoben wurde."
 
 #: ../../NetDriveUI/ndflatui.cpp:907
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "Möchten Sie [%1] jetzt für Teammitglieder veröffentlichen? Sie können es später veröffentlichen."
 
 #: ../../NetDriveUI/ndflatui.cpp:1988
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "Verbindung zum Bdrive-Server konnte nicht hergestellt werden."
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
@@ -1469,7 +1472,7 @@ msgstr "TRENNEN"
 #: ../../NetDriveUI/adddrive.cpp:2072
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
-msgstr ""
+msgstr "Stellen Sie eine Verbindung zu Google Fotos her"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
@@ -1679,27 +1682,27 @@ msgstr ""
 #: ../../../common/protocolmap.h:30
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr ""
+msgstr "Empfehlen Sie die Registrierung Ihres eigenen API-SCHLÜSSELS und GEHEIMSCHLÜSSELS."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1625
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "Veröffentlichen"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1632
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "Neu veröffentlichen"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1638
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "Veröffentlichung aufheben"
 
 #: ../server_strings.tri:1
 msgctxt "QApplication|"
 msgid "Unable to log in with provided credentials."
-msgstr ""
+msgstr "Anmeldung mit den angegebenen Anmeldeinformationen nicht möglich."
 
 #: ../server_strings.tri:2
 #, fuzzy
@@ -1710,47 +1713,47 @@ msgstr "Konto"
 #: ../server_strings.tri:3
 msgctxt "QApplication|"
 msgid "Anomymous"
-msgstr ""
+msgstr "Anonym"
 
 #: ../server_strings.tri:4
 msgctxt "QApplication|"
 msgid "Attempt converting non-UTF-8 files to UTF-8"
-msgstr ""
+msgstr "Versuchen Sie, Nicht-UTF-8-Dateien in UTF-8 zu konvertieren"
 
 #: ../server_strings.tri:5
 msgctxt "QApplication|"
 msgid "Autodetect"
-msgstr ""
+msgstr "Automatische Erkennung"
 
 #: ../server_strings.tri:6
 msgctxt "QApplication|"
 msgid "Charset"
-msgstr ""
+msgstr "Zeichensatz"
 
 #: ../server_strings.tri:7
 msgctxt "QApplication|"
 msgid "Enable delete folder"
-msgstr ""
+msgstr "Ordner löschen aktivieren"
 
 #: ../server_strings.tri:8
 msgctxt "QApplication|"
 msgid "Enable rename/move folder"
-msgstr ""
+msgstr "Ordner umbenennen/verschieben aktivieren"
 
 #: ../server_strings.tri:9
 msgctxt "QApplication|"
 msgid "For Limited Bucket Access"
-msgstr ""
+msgstr "Für eingeschränkten Bucket-Zugriff"
 
 #: ../server_strings.tri:10
 msgctxt "QApplication|"
 msgid "Force UTF-8"
-msgstr ""
+msgstr "UTF-8 erzwingen"
 
 #: ../server_strings.tri:11
 msgctxt "QApplication|"
 msgid "Local charset"
-msgstr ""
+msgstr "Lokaler Zeichensatz"
 
 #: ../server_strings.tri:12
 msgctxt "QApplication|"
@@ -1765,17 +1768,17 @@ msgstr ""
 #: ../server_strings.tri:14
 msgctxt "QApplication|"
 msgid "Options"
-msgstr ""
+msgstr "Optionen"
 
 #: ../server_strings.tri:15
 msgctxt "QApplication|"
 msgid "Process subdir node to display folder"
-msgstr ""
+msgstr "Verarbeiten Sie den Unterverzeichnisknoten, um den Ordner anzuzeigen"
 
 #: ../server_strings.tri:16
 msgctxt "QApplication|"
 msgid "Receive changes to files from server"
-msgstr ""
+msgstr "Erhalten Sie Änderungen an Dateien vom Server"
 
 #: ../server_strings.tri:17
 msgctxt "QApplication|"
@@ -1785,32 +1788,32 @@ msgstr ""
 #: ../server_strings.tri:18
 msgctxt "QApplication|"
 msgid "Save account ID and application key"
-msgstr ""
+msgstr "Konto-ID und Anwendungsschlüssel speichern"
 
 #: ../server_strings.tri:19
 msgctxt "QApplication|"
 msgid "Save account ID and secret key"
-msgstr ""
+msgstr "Konto-ID und geheimen Schlüssel speichern"
 
 #: ../server_strings.tri:20
 msgctxt "QApplication|"
 msgid "Save account name and access key"
-msgstr ""
+msgstr "Kontonamen und Zugriffsschlüssel speichern"
 
 #: ../server_strings.tri:21
 msgctxt "QApplication|"
 msgid "Save passphrase"
-msgstr ""
+msgstr "Passphrase speichern"
 
 #: ../server_strings.tri:22
 msgctxt "QApplication|"
 msgid "Save user and API key"
-msgstr ""
+msgstr "Benutzer und API-Schlüssel speichern"
 
 #: ../server_strings.tri:23
 msgctxt "QApplication|"
 msgid "Save user and password "
-msgstr ""
+msgstr "Benutzer und Passwort speichern "
 
 #: ../server_strings.tri:24
 msgctxt "QApplication|"
@@ -1820,12 +1823,12 @@ msgstr ""
 #: ../server_strings.tri:25
 msgctxt "QApplication|"
 msgid "Set large enough disk space for unlimited Google TeamDrive"
-msgstr ""
+msgstr "Stellen Sie einen ausreichend großen Speicherplatz für unbegrenztes Google TeamDrive ein"
 
 #: ../server_strings.tri:26
 msgctxt "QApplication|"
 msgid "Show shared file/folders"
-msgstr ""
+msgstr "Freigegebene Dateien/Ordner anzeigen"
 
 #: ../server_strings.tri:27
 msgctxt "QApplication|"
@@ -1835,17 +1838,17 @@ msgstr ""
 #: ../server_strings.tri:28
 msgctxt "QApplication|"
 msgid "Use SSL(https)"
-msgstr ""
+msgstr "Verwenden Sie SSL (https)"
 
 #: ../server_strings.tri:29
 msgctxt "QApplication|"
 msgid "Use SSL/TLS"
-msgstr ""
+msgstr "Verwenden Sie SSL/TLS"
 
 #: ../server_strings.tri:30
 msgctxt "QApplication|"
 msgid "Use active mode"
-msgstr ""
+msgstr "Verwenden Sie den aktiven Modus"
 
 #: ../server_strings.tri:31
 msgctxt "QApplication|"
@@ -1855,32 +1858,32 @@ msgstr ""
 #: ../server_strings.tri:32
 msgctxt "QApplication|"
 msgid "Use new folder permission"
-msgstr ""
+msgstr "Berechtigung für neue Datei verwenden"
 
 #: ../server_strings.tri:33
 msgctxt "QApplication|"
 msgid "Use path-style instead of virtual-hosted style"
-msgstr ""
+msgstr "Verwenden Sie den Pfadstil anstelle des virtuell gehosteten Stils"
 
 #: ../server_strings.tri:34
 msgctxt "QApplication|"
 msgid "Use server time for files/folders"
-msgstr ""
+msgstr "Verwenden Sie Serverzeit für Dateien/Ordner"
 
 #: ../server_strings.tri:35
 msgctxt "QApplication|"
 msgid "Use team drive"
-msgstr ""
+msgstr "Nutzen Sie Teamgeist"
 
 #: ../server_strings.tri:36
 msgctxt "QApplication|"
 msgid "User home"
-msgstr ""
+msgstr "Benutzer-Home"
 
 #: ../server_strings.tri:37
 msgctxt "QApplication|"
 msgid "API Key"
-msgstr ""
+msgstr "API-Schlüssel"
 
 #: ../server_strings.tri:38
 msgctxt "QApplication|"
@@ -1890,12 +1893,12 @@ msgstr ""
 #: ../server_strings.tri:39
 msgctxt "QApplication|"
 msgid "Account ID"
-msgstr ""
+msgstr "Zugriffs-ID"
 
 #: ../server_strings.tri:40
 msgctxt "QApplication|"
 msgid "Application Key"
-msgstr ""
+msgstr "Anwendungsschlüssel"
 
 #: ../server_strings.tri:41
 msgctxt "QApplication|"
@@ -1905,17 +1908,17 @@ msgstr ""
 #: ../server_strings.tri:42
 msgctxt "QApplication|"
 msgid "File permission"
-msgstr ""
+msgstr "Dateiberechtigung"
 
 #: ../server_strings.tri:43
 msgctxt "QApplication|"
 msgid "Folder permission"
-msgstr ""
+msgstr "Ordnerberechtigung"
 
 #: ../server_strings.tri:44
 msgctxt "QApplication|"
 msgid "Max sessions"
-msgstr ""
+msgstr "Max. Sitzungen"
 
 #: ../server_strings.tri:45
 #, fuzzy
@@ -1932,32 +1935,32 @@ msgstr "Passwort"
 #: ../server_strings.tri:47
 msgctxt "QApplication|"
 msgid "Project ID"
-msgstr ""
+msgstr "Projekt-ID"
 
 #: ../server_strings.tri:48
 msgctxt "QApplication|"
 msgid "Secret Key"
-msgstr ""
+msgstr "Geheimer Schlüssel"
 
 #: ../server_strings.tri:49
 msgctxt "QApplication|"
 msgid "Server Address"
-msgstr ""
+msgstr "Serveradresse"
 
 #: ../server_strings.tri:50
 msgctxt "QApplication|"
 msgid "Storage access key"
-msgstr ""
+msgstr "Speicherzugriffsschlüssel"
 
 #: ../server_strings.tri:51
 msgctxt "QApplication|"
 msgid "Storage account name"
-msgstr ""
+msgstr "Name des Speicherkontos"
 
 #: ../server_strings.tri:52
 msgctxt "QApplication|"
 msgid "Total size (TB)"
-msgstr ""
+msgstr "Gesamtgröße (TB)"
 
 #: ../server_strings.tri:53
 #, fuzzy
@@ -1973,27 +1976,27 @@ msgstr ""
 #: ../server_strings.tri:55
 msgctxt "QApplication|"
 msgid "limit ( KB/s : 0 means unlimited )"
-msgstr ""
+msgstr "Limit (KB/s: 0 bedeutet unbegrenzt)"
 
 #: ../server_strings.tri:56
 msgctxt "QApplication|"
 msgid "seconds"
-msgstr ""
+msgstr "Sekunden"
 
 #: ../server_strings.tri:57
 msgctxt "QApplication|"
 msgid "Bandwidth"
-msgstr ""
+msgstr "Bandbreite"
 
 #: ../server_strings.tri:58
 msgctxt "QApplication|"
 msgid "Connection Timeout"
-msgstr ""
+msgstr "Verbindungszeitüberschreitung"
 
 #: ../server_strings.tri:59
 msgctxt "QApplication|"
 msgid "Total space"
-msgstr ""
+msgstr "Gesamtfläche"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
@@ -2110,7 +2113,7 @@ msgstr "NICHT VERBUNDEN"
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "Authentication"
-msgstr ""
+msgstr "Authentifizierung"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
@@ -2152,31 +2155,31 @@ msgstr "DURCHSUCHEN"
 #: ../../NetDriveUI/qdriveitem.cpp:245
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "Dateibrowser konnte nicht geöffnet werden."
 
 #: ../../NetDriveUI/qdriveitem.cpp:694
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr ""
+msgstr "[%1] ist nach der Veröffentlichung noch nicht konfiguriert. Möchten Sie konfigurieren?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:767
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "[%1] konnte nicht veröffentlicht werden."
 
 #: ../../NetDriveUI/qdriveitem.cpp:787
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "Die Veröffentlichung von [%1] konnte nicht rückgängig gemacht werden."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1833
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "Möchten Sie [%1] für Teammitglieder veröffentlichen?"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1849
 #, qt-format
@@ -2186,6 +2189,9 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
+"Wenn die Veröffentlichung aufgehoben ist, wird das Laufwerk des Mitglieds, das gemountet wird, nicht gemountet und das "
+"Datei, die nicht auf dem Laufwerk gespeichert ist, geht möglicherweise verloren.\n"
+"Möchten Sie die Veröffentlichung von [%1] für Teammitglieder aufheben?"
 
 #~ msgctxt "QObject|"
 #~ msgid "A serious problem occurred. Please reinstall NetDrive."
@@ -2197,7 +2203,7 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall %1."
-msgstr ""
+msgstr "Es ist ein ernstes Problem aufgetreten. Bitte installieren Sie %1 neu."
 
 #: ../../../common/aerrorstring.cpp:12
 msgctxt "QObject|"

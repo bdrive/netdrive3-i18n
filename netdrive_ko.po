@@ -140,7 +140,7 @@ msgstr "아래아 한글(HWP) 임시 파일(*.$$$, *.BAK) 업로드 방지"
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Support desktop.ini on Windows"
-msgstr ""
+msgstr "윈도우에서 desktop.ini 지원"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
@@ -735,7 +735,7 @@ msgstr "파일 브라우저에서 파일을 열거나 다운로드할때 경로 
 #: ../../NetDriveUI/flatsettingcontents.ui:108
 msgctxt "FlatSettingContents|"
 msgid "Show file upload progress in a pop-up window"
-msgstr ""
+msgstr "파일 업로드 진행 상황을 팝업창으로 표시"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"

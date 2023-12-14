@@ -112,24 +112,29 @@ msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
 msgstr "進階選項"
 
-#: ../../NetDriveUI/adddrive.ui:504
+#: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
 msgstr "永遠從伺服器檢索檔案列表"
 
-#: ../../NetDriveUI/adddrive.ui:511
+#: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "As a global drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:518
+#: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:525
+#: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:525
+msgctxt "AddDrive|"
+msgid "Support desktop.ini on Windows"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:532
@@ -138,20 +143,19 @@ msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:483
+#: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
 msgstr "作為可攜式裝置"
 
-#: ../../NetDriveUI/adddrive.ui:490
+#: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
 msgstr "不顯示隱藏檔案及資料夾"
 
-#: ../../NetDriveUI/adddrive.ui:497
-msgctxt "AddDrive|"
-msgid "Use static filesystem(Experimental)"
-msgstr "使用靜態檔案系統(實驗性)"
+#~ msgctxt "AddDrive|"
+#~ msgid "Use static filesystem(Experimental)"
+#~ msgstr "使用靜態檔案系統(實驗性)"
 
 #: ../../NetDriveUI/adddrive.cpp:92
 msgctxt "AddDrive|"
@@ -168,12 +172,12 @@ msgctxt "AddDrive|"
 msgid "local drive"
 msgstr "本地硬碟"
 
-#: ../../NetDriveUI/adddrive.cpp:616
+#: ../../NetDriveUI/adddrive.cpp:619
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
 msgstr "請按連接按鈕設定連接資訊"
 
-#: ../../NetDriveUI/adddrive.cpp:647
+#: ../../NetDriveUI/adddrive.cpp:650
 msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
@@ -182,42 +186,42 @@ msgstr ""
 "硬碟名稱不能包含下列任何符號:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
-#: ../../NetDriveUI/adddrive.cpp:655
+#: ../../NetDriveUI/adddrive.cpp:658
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
 msgstr "請輸入儲存空間名稱"
 
-#: ../../NetDriveUI/adddrive.cpp:663
+#: ../../NetDriveUI/adddrive.cpp:666
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
 msgstr "儲存空間名稱最大長度為50字"
 
-#: ../../NetDriveUI/adddrive.cpp:674
+#: ../../NetDriveUI/adddrive.cpp:677
 msgctxt "AddDrive|"
 msgid "Please select remote path."
 msgstr "請選擇遠端路徑"
 
-#: ../../NetDriveUI/adddrive.cpp:712
+#: ../../NetDriveUI/adddrive.cpp:715
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr "名稱已被使用，請使用其他名稱"
 
-#: ../../NetDriveUI/adddrive.cpp:1619
+#: ../../NetDriveUI/adddrive.cpp:1622
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr "按“連接”按鈕後再試一次"
 
-#: ../../NetDriveUI/adddrive.cpp:1735
+#: ../../NetDriveUI/adddrive.cpp:1738
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "不支持這個協定"
 
-#: ../../NetDriveUI/adddrive.cpp:1769
+#: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1769
+#: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "2FA Code"
 msgstr ""
@@ -257,7 +261,7 @@ msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
 msgstr "配置個人儲存空間"
 
-#: ../../NetDriveUI/adddrive.cpp:1706
+#: ../../NetDriveUI/adddrive.cpp:1709
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
@@ -298,6 +302,14 @@ msgstr "保持登入狀態"
 msgctxt "BDLogin|"
 msgid "OR"
 msgstr "或"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:337
+msgctxt "BDLogin|"
+msgid ""
+"※ CLDA 초기 비밀번호 안내\n"
+"초기 비밀번호는 자동으로 설정되며, 클라우다이크 이메일 계정에서 @ 앞부분입니다.\n"
+"보안을 위해서라도 초기 비밀번호는 변경을 권장드립니다."
+msgstr ""
 
 #~ msgctxt "BDLogin|"
 #~ msgid "Sign in with"
@@ -341,7 +353,7 @@ msgctxt "BDUserPassword|"
 msgid "User"
 msgstr "使用者名稱"
 
-#: ../../NetDriveUI/qdriveitem.cpp:434
+#: ../../NetDriveUI/qdriveitem.cpp:427
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
 msgstr "設置儲存空間"
@@ -718,82 +730,87 @@ msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:113
+#: ../../NetDriveUI/flatsettingcontents.ui:108
+msgctxt "FlatSettingContents|"
+msgid "Show file upload progress in a pop-up window"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
 msgid "Language"
 msgstr "語言"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:133
+#: ../../NetDriveUI/flatsettingcontents.ui:140
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
 msgstr "幫助我們翻譯!"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:158
+#: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
 msgstr "快取"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:179
+#: ../../NetDriveUI/flatsettingcontents.ui:186
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
 msgstr "NetDrive在本地硬碟上保存遠端檔案的臨時副本"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:188
+#: ../../NetDriveUI/flatsettingcontents.ui:195
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
 msgstr "快取路徑"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:205
+#: ../../NetDriveUI/flatsettingcontents.ui:212
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
 msgstr "瀏覽"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:239
+#: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:249
+#: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"
 msgid "GB."
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:256
+#: ../../NetDriveUI/flatsettingcontents.ui:263
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:280
+#: ../../NetDriveUI/flatsettingcontents.ui:287
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr "用量"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:290
+#: ../../NetDriveUI/flatsettingcontents.ui:297
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr "GB用於硬碟快取"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:315
+#: ../../NetDriveUI/flatsettingcontents.ui:322
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr "日誌"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:336
+#: ../../NetDriveUI/flatsettingcontents.ui:343
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr "日誌等級"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:369
+#: ../../NetDriveUI/flatsettingcontents.ui:376
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr "開啟日誌資料夾"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:395
+#: ../../NetDriveUI/flatsettingcontents.ui:402
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr "網路"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:401
+#: ../../NetDriveUI/flatsettingcontents.ui:408
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "代理伺服器設置"
@@ -808,12 +825,12 @@ msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr "新連接到遠端儲存空間時啟動搜尋"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:114
+#: ../../NetDriveUI/flatsettingcontents.cpp:115
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "開啟目錄"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:138
+#: ../../NetDriveUI/flatsettingcontents.cpp:139
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -869,7 +886,7 @@ msgid "INSTALL UPDATE"
 msgstr "安裝更新"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
-#: ../../NetDriveUI/ndflatui.cpp:3961
+#: ../../NetDriveUI/ndflatui.cpp:3871
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr "上鎖的檔案清單"
@@ -920,7 +937,7 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr "狀態"
 
-#: ../../NetDriveUI/ndflatui.cpp:178
+#: ../../NetDriveUI/ndflatui.cpp:214
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -943,17 +960,17 @@ msgctxt "NDFlatUI|"
 msgid "FAILED"
 msgstr "失敗"
 
-#: ../../NetDriveUI/ndflatui.cpp:915
+#: ../../NetDriveUI/ndflatui.cpp:927
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
 msgstr "由於有重複的空間名稱，無法新增儲存空間"
 
-#: ../../NetDriveUI/ndflatui.cpp:919
+#: ../../NetDriveUI/ndflatui.cpp:931
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
 msgstr "無法新增儲存空間"
 
-#: ../../NetDriveUI/ndflatui.cpp:1118
+#: ../../NetDriveUI/ndflatui.cpp:1120
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -964,7 +981,7 @@ msgid ""
 "%1 to leave a note."
 msgstr "檢查網路連接，如果網路連接正常，請瀏覽 %1 進行說明"
 
-#: ../../NetDriveUI/ndflatui.cpp:1215
+#: ../../NetDriveUI/ndflatui.cpp:1214
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
 msgstr "刪除儲存空間失敗"
@@ -973,7 +990,7 @@ msgstr "刪除儲存空間失敗"
 #~ msgid "NetDrive Agent is starting."
 #~ msgstr "正在啟動NetDrive代理"
 
-#: ../../NetDriveUI/ndflatui.cpp:1301
+#: ../../NetDriveUI/ndflatui.cpp:1296
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
 msgstr "正在初始化代理"
@@ -982,22 +999,22 @@ msgstr "正在初始化代理"
 #~ msgid "Initailizing SDK."
 #~ msgstr "正在初始化SDK"
 
-#: ../../NetDriveUI/ndflatui.cpp:1310
+#: ../../NetDriveUI/ndflatui.cpp:1305
 msgctxt "NDFlatUI|"
 msgid "Checking network."
 msgstr "檢查網路"
 
-#: ../../NetDriveUI/ndflatui.cpp:1313
+#: ../../NetDriveUI/ndflatui.cpp:1308
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
 msgstr "使用記住的使用者名稱登入"
 
-#: ../../NetDriveUI/ndflatui.cpp:1318
+#: ../../NetDriveUI/ndflatui.cpp:1313
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
 msgstr "開機時掛載"
 
-#: ../../NetDriveUI/ndflatui.cpp:1326
+#: ../../NetDriveUI/ndflatui.cpp:1320
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
 msgstr "代理可用"
@@ -1006,38 +1023,38 @@ msgstr "代理可用"
 #~ msgid "Connecting to NetDrive Agent."
 #~ msgstr "正在連接到NetDrive代理"
 
-#: ../../NetDriveUI/ndflatui.cpp:1560
+#: ../../NetDriveUI/ndflatui.cpp:1549
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "上傳 %1 失敗"
 
-#: ../../NetDriveUI/ndflatui.cpp:2515
+#: ../../NetDriveUI/ndflatui.cpp:2492
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "開啟"
 
-#: ../../NetDriveUI/ndflatui.cpp:2518
+#: ../../NetDriveUI/ndflatui.cpp:2495
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "退出"
 
-#: ../../NetDriveUI/ndflatui.cpp:2521
+#: ../../NetDriveUI/ndflatui.cpp:2498
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "檢查更新"
 
-#: ../../NetDriveUI/ndflatui.cpp:2524
+#: ../../NetDriveUI/ndflatui.cpp:2501
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "登入"
 
-#: ../../NetDriveUI/ndflatui.cpp:2528
+#: ../../NetDriveUI/ndflatui.cpp:2504
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "登出"
 
-#: ../../NetDriveUI/ndflatui.cpp:2535
+#: ../../NetDriveUI/ndflatui.cpp:2511
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "正在初始化..."
@@ -1046,130 +1063,130 @@ msgstr "正在初始化..."
 #~ msgid "NetDrive is Quiting..."
 #~ msgstr "正在退出NetDrive..."
 
-#: ../../NetDriveUI/ndflatui.cpp:546
+#: ../../NetDriveUI/ndflatui.cpp:566
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available!"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1297
+#: ../../NetDriveUI/ndflatui.cpp:1292
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1304
+#: ../../NetDriveUI/ndflatui.cpp:1299
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1334
+#: ../../NetDriveUI/ndflatui.cpp:1328
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2580
+#: ../../NetDriveUI/ndflatui.cpp:2556
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2713
+#: ../../NetDriveUI/ndflatui.cpp:2688
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2753
+#: ../../NetDriveUI/ndflatui.cpp:2727
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
 msgstr "如果您登出，“開機時掛載”選項將不會自動連接，您確定要登出嗎?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2897
+#: ../../NetDriveUI/ndflatui.cpp:2864
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "正在登出"
 
-#: ../../NetDriveUI/ndflatui.cpp:3415
+#: ../../NetDriveUI/ndflatui.cpp:3360
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "目前最新的版本是 %1"
 
-#: ../../NetDriveUI/ndflatui.cpp:3590
+#: ../../NetDriveUI/ndflatui.cpp:3511
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "儲存空間"
 
-#: ../../NetDriveUI/ndflatui.cpp:3595
+#: ../../NetDriveUI/ndflatui.cpp:3516
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "設定"
 
-#: ../../NetDriveUI/ndflatui.cpp:3598
+#: ../../NetDriveUI/ndflatui.cpp:3519
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "正在上傳"
 
-#: ../../NetDriveUI/ndflatui.cpp:3603
+#: ../../NetDriveUI/ndflatui.cpp:3524
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "關於"
 
-#: ../../NetDriveUI/ndflatui.cpp:3606
+#: ../../NetDriveUI/ndflatui.cpp:3527
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr "帳戶資訊"
 
-#: ../../NetDriveUI/ndflatui.cpp:3609
+#: ../../NetDriveUI/ndflatui.cpp:3530
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "管理授權"
 
-#: ../../NetDriveUI/ndflatui.cpp:3612
+#: ../../NetDriveUI/ndflatui.cpp:3533
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "登入"
 
-#: ../../NetDriveUI/ndflatui.cpp:3615
+#: ../../NetDriveUI/ndflatui.cpp:3536
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "登出"
 
-#: ../../NetDriveUI/ndflatui.cpp:3618
+#: ../../NetDriveUI/ndflatui.cpp:3539
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "NetDrive說明"
 
-#: ../../NetDriveUI/ndflatui.cpp:3621
+#: ../../NetDriveUI/ndflatui.cpp:3542
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "視窗"
 
-#: ../../NetDriveUI/ndflatui.cpp:3622
+#: ../../NetDriveUI/ndflatui.cpp:3543
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "帳戶"
 
-#: ../../NetDriveUI/ndflatui.cpp:3623
+#: ../../NetDriveUI/ndflatui.cpp:3544
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "說明"
 
-#: ../../NetDriveUI/ndflatui.cpp:3822
+#: ../../NetDriveUI/ndflatui.cpp:3737
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "無法取得儲存空間資訊"
 
-#: ../../NetDriveUI/ndflatui.cpp:3831
+#: ../../NetDriveUI/ndflatui.cpp:3746
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "無法取得儲存空間名稱"
 
-#: ../../NetDriveUI/ndflatui.cpp:211
+#: ../../NetDriveUI/ndflatui.cpp:245
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
 msgstr "(管理者)"
@@ -1178,21 +1195,21 @@ msgstr "(管理者)"
 #~ msgid "NetDrive File Lock Service is not available!"
 #~ msgstr "目前無法使用NetDrive檔案鎖定服務!"
 
-#: ../../NetDriveUI/ndflatui.cpp:747
+#: ../../NetDriveUI/ndflatui.cpp:763
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
 msgstr "由於管理者取消公開，團隊儲存空間 [%1] 已被取消掛載"
 
-#: ../../NetDriveUI/ndflatui.cpp:895
+#: ../../NetDriveUI/ndflatui.cpp:907
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
 msgstr "您想要現在公開 [%1] 給團隊成員嗎?您也可以稍後再公開"
 
-#: ../../NetDriveUI/ndflatui.cpp:2005
+#: ../../NetDriveUI/ndflatui.cpp:1988
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
 msgstr "無法連結到Bdrive伺服器"
@@ -1241,7 +1258,7 @@ msgctxt "ProxySelector|"
 msgid "Host"
 msgstr "主機"
 
-#: ../../../common/ndcore.cpp:296
+#: ../../../common/ndcore.cpp:298
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1249,43 +1266,43 @@ msgid ""
 "support."
 msgstr "Bdrive回報錯誤，如果問題依然存在，請聯繫 %1 取得協助"
 
-#: ../../../common/ndcore.cpp:1150 ../../../common/ndcore.cpp:1811
+#: ../../../common/ndcore.cpp:1161 ../../../common/ndcore.cpp:1823
 msgctxt "QApplication|"
 msgid "Subscription status"
 msgstr "訂閱狀態"
 
-#: ../../../common/ndcore.cpp:1162 ../../../common/ndcore.cpp:1812
+#: ../../../common/ndcore.cpp:1173 ../../../common/ndcore.cpp:1824
 msgctxt "QApplication|"
 msgid "Subscription type"
 msgstr "訂閱類型"
 
-#: ../../../common/ndcore.cpp:1174 ../../../common/ndcore.cpp:1813
+#: ../../../common/ndcore.cpp:1185 ../../../common/ndcore.cpp:1825
 msgctxt "QApplication|"
 msgid "Max registered devices"
 msgstr "最大綁定裝置數"
 
-#: ../../../common/ndcore.cpp:1186 ../../../common/ndcore.cpp:1814
+#: ../../../common/ndcore.cpp:1197 ../../../common/ndcore.cpp:1826
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
 msgstr "最大連接數"
 
-#: ../../../common/ndcore.cpp:1815
+#: ../../../common/ndcore.cpp:1827
 msgctxt "QApplication|"
 msgid "type"
 msgstr "類型"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:290
-#: ../../../ui_helper/bdui/bdlogin.cpp:298
+#: ../../../ui_helper/bdui/bdlogin.cpp:292
+#: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "登入"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:290
+#: ../../../ui_helper/bdui/bdlogin.cpp:292
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "需使用電子信箱登入"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:298
+#: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "需用密碼登入"
@@ -1353,7 +1370,7 @@ msgid "NETWORK"
 msgstr "網路"
 
 #: ../../../common/authtemplate.cpp:803 ../../NetDriveUI/adddrive.cpp:275
-#: ../../NetDriveUI/ndflatui.cpp:2085
+#: ../../NetDriveUI/ndflatui.cpp:2067
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "代理伺服器設置"
@@ -1388,33 +1405,33 @@ msgctxt "QApplication|"
 msgid "Auto"
 msgstr "自動"
 
-#: ../../NetDriveUI/adddrive.cpp:952 ../../NetDriveUI/adddrive.cpp:1219
+#: ../../NetDriveUI/adddrive.cpp:955 ../../NetDriveUI/adddrive.cpp:1222
 msgctxt "QApplication|"
 msgid "CONNECT"
 msgstr "連接"
 
-#: ../../NetDriveUI/adddrive.cpp:1130
+#: ../../NetDriveUI/adddrive.cpp:1133
 msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr "無法設定選項"
 
-#: ../../NetDriveUI/adddrive.cpp:1373
+#: ../../NetDriveUI/adddrive.cpp:1376
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr "身分驗證失敗"
 
-#: ../../NetDriveUI/adddrive.cpp:1373
+#: ../../NetDriveUI/adddrive.cpp:1376
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr "因為 %1 導致驗證失敗"
 
-#: ../../NetDriveUI/adddrive.cpp:1442 ../../NetDriveUI/adddrive.cpp:1592
+#: ../../NetDriveUI/adddrive.cpp:1445 ../../NetDriveUI/adddrive.cpp:1595
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr "中斷連接"
 
-#: ../../NetDriveUI/adddrive.cpp:2069
+#: ../../NetDriveUI/adddrive.cpp:2072
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
 msgstr ""
@@ -1462,43 +1479,43 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "無法啟動 %1 服務"
 
-#: ../../NetDriveUI/ndflatui.cpp:274 ../../NetDriveUI/ndflatui.cpp:3910
+#: ../../NetDriveUI/ndflatui.cpp:305 ../../NetDriveUI/ndflatui.cpp:3819
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "儲存空間"
 
-#: ../../NetDriveUI/ndflatui.cpp:284 ../../NetDriveUI/ndflatui.cpp:3912
+#: ../../NetDriveUI/ndflatui.cpp:315 ../../NetDriveUI/ndflatui.cpp:3821
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "正在上傳"
 
-#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:2108
-#: ../../NetDriveUI/ndflatui.cpp:3914
+#: ../../NetDriveUI/ndflatui.cpp:361 ../../NetDriveUI/ndflatui.cpp:2090
+#: ../../NetDriveUI/ndflatui.cpp:3823
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "設定"
 
-#: ../../NetDriveUI/ndflatui.cpp:344 ../../NetDriveUI/ndflatui.cpp:3908
+#: ../../NetDriveUI/ndflatui.cpp:376 ../../NetDriveUI/ndflatui.cpp:3817
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "關於"
 
-#: ../../NetDriveUI/ndflatui.cpp:2056
+#: ../../NetDriveUI/ndflatui.cpp:2040
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "建立免費的Bdrive帳戶"
 
-#: ../../NetDriveUI/ndflatui.cpp:2064
+#: ../../NetDriveUI/ndflatui.cpp:2048
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "無法登入?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2141
+#: ../../NetDriveUI/ndflatui.cpp:2121
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "裝置授權"
 
-#: ../../NetDriveUI/ndflatui.cpp:2142
+#: ../../NetDriveUI/ndflatui.cpp:2122
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1513,27 +1530,27 @@ msgstr ""
 #~ "leave a note."
 #~ msgstr "因為無法取得裝置ID，NetDrive即將退出，請訪問 %1 並留言"
 
-#: ../../NetDriveUI/ndflatui.cpp:2417
+#: ../../NetDriveUI/ndflatui.cpp:2392
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "注意"
 
-#: ../../NetDriveUI/ndflatui.cpp:3113
+#: ../../NetDriveUI/ndflatui.cpp:3076
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "帳戶資訊"
 
-#: ../../NetDriveUI/ndflatui.cpp:3120
+#: ../../NetDriveUI/ndflatui.cpp:3082
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "管理授權"
 
-#: ../../NetDriveUI/ndflatui.cpp:3129
+#: ../../NetDriveUI/ndflatui.cpp:3090
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "登出"
 
-#: ../../NetDriveUI/ndflatui.cpp:3401
+#: ../../NetDriveUI/ndflatui.cpp:3347
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
@@ -1564,27 +1581,27 @@ msgctxt "QApplication|"
 msgid "Wait for authentication..."
 msgstr "等待授權"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1644
+#: ../../NetDriveUI/qdriveitem.cpp:1615
 msgctxt "QApplication|"
 msgid "Open"
 msgstr "開啟"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1677
+#: ../../NetDriveUI/qdriveitem.cpp:1646
 msgctxt "QApplication|"
 msgid "Config"
 msgstr "配置"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1688 ../../NetDriveUI/qdriveitem.cpp:1694
+#: ../../NetDriveUI/qdriveitem.cpp:1656 ../../NetDriveUI/qdriveitem.cpp:1662
 msgctxt "QApplication|"
 msgid "Duplicate"
 msgstr "重複"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1703 ../../NetDriveUI/qdriveitem.cpp:1708
+#: ../../NetDriveUI/qdriveitem.cpp:1670 ../../NetDriveUI/qdriveitem.cpp:1675
 msgctxt "QApplication|"
 msgid "Delete"
 msgstr "刪除"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1716
+#: ../../NetDriveUI/qdriveitem.cpp:1683
 msgctxt "QApplication|"
 msgid "Log"
 msgstr "日誌"
@@ -1623,17 +1640,17 @@ msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1656
+#: ../../NetDriveUI/qdriveitem.cpp:1625
 msgctxt "QApplication|"
 msgid "Publish"
 msgstr "公開"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1663
+#: ../../NetDriveUI/qdriveitem.cpp:1632
 msgctxt "QApplication|"
 msgid "Republish"
 msgstr "重新公開"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1669
+#: ../../NetDriveUI/qdriveitem.cpp:1638
 msgctxt "QApplication|"
 msgid "Unpublish"
 msgstr "取消公開"
@@ -1977,92 +1994,92 @@ msgid ""
 "the account out and log your account in?"
 msgstr "有另一個Bdrive在本裝置上登入，您是否要將其登出並重新登入目前的帳戶?"
 
-#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:819
-#: ../../NetDriveUI/qdriveitem.cpp:1024 ../../NetDriveUI/qdriveitem.cpp:1467
+#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:809
+#: ../../NetDriveUI/qdriveitem.cpp:1005 ../../NetDriveUI/qdriveitem.cpp:1429
 msgctxt "QDriveItem|"
 msgid "CONNECT"
 msgstr "連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:294
+#: ../../NetDriveUI/qdriveitem.cpp:287
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
 msgstr "%1 已掛載，是否要取消掛載 %1 以繼續?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:312
+#: ../../NetDriveUI/qdriveitem.cpp:305
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
 msgstr "無法取消掛載 %1 ，請稍後重試"
 
-#: ../../NetDriveUI/qdriveitem.cpp:326
+#: ../../NetDriveUI/qdriveitem.cpp:319
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
 msgstr "您是否想要中斷與 %1 的連接?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:741
+#: ../../NetDriveUI/qdriveitem.cpp:731
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
 msgstr "沒有 %1 的日誌檔"
 
-#: ../../NetDriveUI/qdriveitem.cpp:937
+#: ../../NetDriveUI/qdriveitem.cpp:920
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
 msgstr "取消掛載失敗"
 
-#: ../../NetDriveUI/qdriveitem.cpp:969
+#: ../../NetDriveUI/qdriveitem.cpp:950
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
 msgstr "因有重複名稱，無法配置儲存空間"
 
-#: ../../NetDriveUI/qdriveitem.cpp:973
+#: ../../NetDriveUI/qdriveitem.cpp:954
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
 msgstr "無法配置儲存空間"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1014
+#: ../../NetDriveUI/qdriveitem.cpp:995
 msgctxt "QDriveItem|"
 msgid "CANCEL"
 msgstr "取消"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1021 ../../NetDriveUI/qdriveitem.cpp:1466
+#: ../../NetDriveUI/qdriveitem.cpp:1002 ../../NetDriveUI/qdriveitem.cpp:1428
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
 msgstr "未連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1030
+#: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1030
+#: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "2FA Code"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1473
+#: ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
 msgstr "正在連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1479
+#: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
 msgstr "已連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1480
+#: ../../NetDriveUI/qdriveitem.cpp:1442
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
 msgstr "中斷連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1486
+#: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
 msgstr "正在中斷連接"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1562
+#: ../../NetDriveUI/qdriveitem.cpp:1537
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
@@ -2073,7 +2090,7 @@ msgctxt "QDriveItem|"
 msgid "BROWSE"
 msgstr "瀏覽"
 
-#: ../../NetDriveUI/qdriveitem.cpp:252
+#: ../../NetDriveUI/qdriveitem.cpp:245
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
 msgstr "無法開啟檔案瀏覽器"
@@ -2082,31 +2099,31 @@ msgstr "無法開啟檔案瀏覽器"
 #~ msgid "NetDrive"
 #~ msgstr "NetDrive"
 
-#: ../../NetDriveUI/qdriveitem.cpp:703
+#: ../../NetDriveUI/qdriveitem.cpp:694
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:777
+#: ../../NetDriveUI/qdriveitem.cpp:767
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
 msgstr "無法共享 [%1] "
 
-#: ../../NetDriveUI/qdriveitem.cpp:797
+#: ../../NetDriveUI/qdriveitem.cpp:787
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
 msgstr "無法取消共享 [%1] "
 
-#: ../../NetDriveUI/qdriveitem.cpp:1870
+#: ../../NetDriveUI/qdriveitem.cpp:1833
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
 msgstr "您確定要與團隊成員共享 [%1]嗎?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1887
+#: ../../NetDriveUI/qdriveitem.cpp:1849
 #, qt-format
 msgctxt "QDriveItem|"
 msgid ""
@@ -2340,55 +2357,55 @@ msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:126
+#: ../../netdrive_helper/traymanager.cpp:128
 msgctxt "QObject|"
 msgid "&Quit "
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:62
-#: ../../netdrive_helper/traymanager.cpp:122
-#: ../../netdrive_helper/traymanager.cpp:234
+#: ../../netdrive_helper/traymanager.cpp:64
+#: ../../netdrive_helper/traymanager.cpp:124
+#: ../../netdrive_helper/traymanager.cpp:248
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:117
+#: ../../netdrive_helper/traymanager.cpp:119
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:237
+#: ../../netdrive_helper/traymanager.cpp:251
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Quit"
 msgstr "退出"
 
-#: ../../netdrive_helper/traymanager.cpp:65
-#: ../../netdrive_helper/traymanager.cpp:111
-#: ../../netdrive_helper/traymanager.cpp:240
+#: ../../netdrive_helper/traymanager.cpp:67
+#: ../../netdrive_helper/traymanager.cpp:113
+#: ../../netdrive_helper/traymanager.cpp:254
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Check for Updates"
 msgstr "檢查更新"
 
-#: ../../netdrive_helper/traymanager.cpp:107
-#: ../../netdrive_helper/traymanager.cpp:243
+#: ../../netdrive_helper/traymanager.cpp:109
+#: ../../netdrive_helper/traymanager.cpp:257
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Login"
 msgstr "登入"
 
-#: ../../netdrive_helper/traymanager.cpp:102
-#: ../../netdrive_helper/traymanager.cpp:246
+#: ../../netdrive_helper/traymanager.cpp:104
+#: ../../netdrive_helper/traymanager.cpp:260
 #, fuzzy
 msgctxt "QObject|"
 msgid "Log&out"
 msgstr "登出"
 
-#: ../../netdrive_helper/traymanager.cpp:96
-#: ../../netdrive_helper/traymanager.cpp:250
+#: ../../netdrive_helper/traymanager.cpp:98
+#: ../../netdrive_helper/traymanager.cpp:264
 msgctxt "QObject|"
 msgid "&File Browser"
 msgstr ""
@@ -2541,7 +2558,7 @@ msgctxt "TransferProgressDlg|"
 msgid "File Upload"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:157
+#: ../../netdrive_helper/traymanager.cpp:161
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"
@@ -2606,6 +2623,11 @@ msgstr "重試"
 msgctxt "UploadItem|"
 msgid "Save as"
 msgstr "另存新檔"
+
+#: ../../NetDriveUI/uploadprogressdlg.cpp:13
+msgctxt "UploadProgressDlg|"
+msgid "File Upload"
+msgstr ""
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"

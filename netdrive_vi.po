@@ -112,24 +112,29 @@ msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
 msgstr "TÙY CHỌN NÂNG CAO"
 
-#: ../../NetDriveUI/adddrive.ui:504
+#: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
 msgstr "Luôn lấy danh sách tập tin từ máy chủ"
 
-#: ../../NetDriveUI/adddrive.ui:511
+#: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "As a global drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:518
+#: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:525
+#: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
+msgstr ""
+
+#: ../../NetDriveUI/adddrive.ui:525
+msgctxt "AddDrive|"
+msgid "Support desktop.ini on Windows"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:532
@@ -138,20 +143,19 @@ msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.ui:483
+#: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
 msgstr "Như một ổ đĩa có thể tháo rời"
 
-#: ../../NetDriveUI/adddrive.ui:490
+#: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
 msgstr "Ẩn các tập tin có tên bắt đầu bằng một dấu chấm"
 
-#: ../../NetDriveUI/adddrive.ui:497
-msgctxt "AddDrive|"
-msgid "Use static filesystem(Experimental)"
-msgstr "Dùng hệ thống tập tin tĩnh (Thử nghiệm)"
+#~ msgctxt "AddDrive|"
+#~ msgid "Use static filesystem(Experimental)"
+#~ msgstr "Dùng hệ thống tập tin tĩnh (Thử nghiệm)"
 
 #: ../../NetDriveUI/adddrive.cpp:92
 msgctxt "AddDrive|"
@@ -168,12 +172,12 @@ msgctxt "AddDrive|"
 msgid "local drive"
 msgstr "ổ đĩa cục bộ"
 
-#: ../../NetDriveUI/adddrive.cpp:616
+#: ../../NetDriveUI/adddrive.cpp:619
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
 msgstr "Hãy nhấn nút KẾT NỐI để đặt thông tin kết nối"
 
-#: ../../NetDriveUI/adddrive.cpp:647
+#: ../../NetDriveUI/adddrive.cpp:650
 msgctxt "AddDrive|"
 msgid ""
 "A drive name cannot contain any of the following characters:\n"
@@ -182,42 +186,42 @@ msgstr ""
 "Tên ổ đĩa không được chứa các kí tự:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 
-#: ../../NetDriveUI/adddrive.cpp:655
+#: ../../NetDriveUI/adddrive.cpp:658
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
 msgstr "Hãy điền tên ổ đĩa"
 
-#: ../../NetDriveUI/adddrive.cpp:663
+#: ../../NetDriveUI/adddrive.cpp:666
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
 msgstr "Tên ổ đĩa có độ dài tối đa là 50 kí tự."
 
-#: ../../NetDriveUI/adddrive.cpp:674
+#: ../../NetDriveUI/adddrive.cpp:677
 msgctxt "AddDrive|"
 msgid "Please select remote path."
 msgstr "Hãy chọn đường dẫn."
 
-#: ../../NetDriveUI/adddrive.cpp:712
+#: ../../NetDriveUI/adddrive.cpp:715
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
 msgstr "Hãy điền tên khác vì tên ổ đĩa này đã tồn tại."
 
-#: ../../NetDriveUI/adddrive.cpp:1619
+#: ../../NetDriveUI/adddrive.cpp:1622
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr "Hãy thử lại bằng cách nhấn nút KẾT NỐI."
 
-#: ../../NetDriveUI/adddrive.cpp:1735
+#: ../../NetDriveUI/adddrive.cpp:1738
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
 msgstr "Chúng tôi không hỗ trợ giao thức này."
 
-#: ../../NetDriveUI/adddrive.cpp:1769
+#: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1769
+#: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "2FA Code"
 msgstr ""
@@ -257,7 +261,7 @@ msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
 msgstr ""
 
-#: ../../NetDriveUI/adddrive.cpp:1706
+#: ../../NetDriveUI/adddrive.cpp:1709
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
@@ -298,6 +302,14 @@ msgstr "Giữ tôi đăng nhập"
 msgctxt "BDLogin|"
 msgid "OR"
 msgstr "HOẶC"
+
+#: ../../../ui_helper/bdui/bdlogin.ui:337
+msgctxt "BDLogin|"
+msgid ""
+"※ CLDA 초기 비밀번호 안내\n"
+"초기 비밀번호는 자동으로 설정되며, 클라우다이크 이메일 계정에서 @ 앞부분입니다.\n"
+"보안을 위해서라도 초기 비밀번호는 변경을 권장드립니다."
+msgstr ""
 
 #~ msgctxt "BDLogin|"
 #~ msgid "Sign in with"
@@ -343,7 +355,7 @@ msgctxt "BDUserPassword|"
 msgid "User"
 msgstr "Người dùng"
 
-#: ../../NetDriveUI/qdriveitem.cpp:434
+#: ../../NetDriveUI/qdriveitem.cpp:427
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
 msgstr "Cấu hình ổ đĩa"
@@ -711,83 +723,88 @@ msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:113
+#: ../../NetDriveUI/flatsettingcontents.ui:108
+msgctxt "FlatSettingContents|"
+msgid "Show file upload progress in a pop-up window"
+msgstr ""
+
+#: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
 msgid "Language"
 msgstr "Ngôn ngữ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:133
+#: ../../NetDriveUI/flatsettingcontents.ui:140
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
 msgstr "Giúp chúng tôi phiên dịch!"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:158
+#: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
 msgstr "BỘ NHỚ TẠM"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:179
+#: ../../NetDriveUI/flatsettingcontents.ui:186
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
 msgstr "NetDrive giữ các bản sao tạm thời của các tệp trong ổ đĩa cục bộ."
 
-#: ../../NetDriveUI/flatsettingcontents.ui:188
+#: ../../NetDriveUI/flatsettingcontents.ui:195
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
 msgstr "Đường dẫn bộ nhớ tạm"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:205
+#: ../../NetDriveUI/flatsettingcontents.ui:212
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
 msgstr "DUYỆT"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:239
+#: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:249
+#: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"
 msgid "GB."
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:256
+#: ../../NetDriveUI/flatsettingcontents.ui:263
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
 msgstr ""
 
-#: ../../NetDriveUI/flatsettingcontents.ui:280
+#: ../../NetDriveUI/flatsettingcontents.ui:287
 #, fuzzy
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
 msgstr "Sử dụng tối đa"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:290
+#: ../../NetDriveUI/flatsettingcontents.ui:297
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
 msgstr "GB cho bộ nhớ đệm"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:315
+#: ../../NetDriveUI/flatsettingcontents.ui:322
 msgctxt "FlatSettingContents|"
 msgid "LOG"
 msgstr "NHẬT KÝ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:336
+#: ../../NetDriveUI/flatsettingcontents.ui:343
 msgctxt "FlatSettingContents|"
 msgid "Log level"
 msgstr "Cấp độ ghi nhật ký"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:369
+#: ../../NetDriveUI/flatsettingcontents.ui:376
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
 msgstr "MỞ THƯ MỤC LƯU NHẬT KÝ"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:395
+#: ../../NetDriveUI/flatsettingcontents.ui:402
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
 msgstr "MẠNG"
 
-#: ../../NetDriveUI/flatsettingcontents.ui:401
+#: ../../NetDriveUI/flatsettingcontents.ui:408
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
 msgstr "CÀI ĐẶT PROXY"
@@ -802,12 +819,12 @@ msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
 msgstr "Mở Finder khi kết nối tới một ổ đĩa mới"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:114
+#: ../../NetDriveUI/flatsettingcontents.cpp:115
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
 msgstr "Mở thư mục"
 
-#: ../../NetDriveUI/flatsettingcontents.cpp:138
+#: ../../NetDriveUI/flatsettingcontents.cpp:139
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
@@ -863,7 +880,7 @@ msgid "INSTALL UPDATE"
 msgstr "CÀI ĐẶT BẢN CẬP NHẬT"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
-#: ../../NetDriveUI/ndflatui.cpp:3961
+#: ../../NetDriveUI/ndflatui.cpp:3871
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
 msgstr ""
@@ -914,7 +931,7 @@ msgctxt "LockedFileModel|"
 msgid "Status"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:178
+#: ../../NetDriveUI/ndflatui.cpp:214
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -939,17 +956,17 @@ msgctxt "NDFlatUI|"
 msgid "FAILED"
 msgstr "THẤT BẠI"
 
-#: ../../NetDriveUI/ndflatui.cpp:915
+#: ../../NetDriveUI/ndflatui.cpp:927
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
 msgstr "Thêm ổ đĩa thất bại vì tên ổ đĩa bị trùng lặp."
 
-#: ../../NetDriveUI/ndflatui.cpp:919
+#: ../../NetDriveUI/ndflatui.cpp:931
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
 msgstr "Thêm ổ đĩa thất bại."
 
-#: ../../NetDriveUI/ndflatui.cpp:1118
+#: ../../NetDriveUI/ndflatui.cpp:1120
 #, fuzzy, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
@@ -964,7 +981,7 @@ msgstr ""
 "Nếu bạn đã kết nối tới Internet mà vẫn gặp lỗi trên, hãy ghé %1 và để lại "
 "thông báo."
 
-#: ../../NetDriveUI/ndflatui.cpp:1215
+#: ../../NetDriveUI/ndflatui.cpp:1214
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
 msgstr "Xóa ổ đĩa thất bại."
@@ -973,7 +990,7 @@ msgstr "Xóa ổ đĩa thất bại."
 #~ msgid "NetDrive Agent is starting."
 #~ msgstr "NetDrive Agent đang khởi động."
 
-#: ../../NetDriveUI/ndflatui.cpp:1301
+#: ../../NetDriveUI/ndflatui.cpp:1296
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
 msgstr "Đăng bắt đầu Agent."
@@ -982,22 +999,22 @@ msgstr "Đăng bắt đầu Agent."
 #~ msgid "Initailizing SDK."
 #~ msgstr "Đang bắt đầu SDK."
 
-#: ../../NetDriveUI/ndflatui.cpp:1310
+#: ../../NetDriveUI/ndflatui.cpp:1305
 msgctxt "NDFlatUI|"
 msgid "Checking network."
 msgstr "Đang kiểm tra mạng."
 
-#: ../../NetDriveUI/ndflatui.cpp:1313
+#: ../../NetDriveUI/ndflatui.cpp:1308
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
 msgstr "Ghi lại những người dùng đã biết."
 
-#: ../../NetDriveUI/ndflatui.cpp:1318
+#: ../../NetDriveUI/ndflatui.cpp:1313
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
 msgstr "Kết nối ổ đĩa khi khởi động."
 
-#: ../../NetDriveUI/ndflatui.cpp:1326
+#: ../../NetDriveUI/ndflatui.cpp:1320
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
 msgstr "Agent đã sẵn sàng."
@@ -1006,38 +1023,38 @@ msgstr "Agent đã sẵn sàng."
 #~ msgid "Connecting to NetDrive Agent."
 #~ msgstr "Đang kết nối tới NetDrive Agent."
 
-#: ../../NetDriveUI/ndflatui.cpp:1560
+#: ../../NetDriveUI/ndflatui.cpp:1549
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
 msgstr "Tải lên %1 không thành công."
 
-#: ../../NetDriveUI/ndflatui.cpp:2515
+#: ../../NetDriveUI/ndflatui.cpp:2492
 msgctxt "NDFlatUI|"
 msgid "&Open"
 msgstr "&Mở"
 
-#: ../../NetDriveUI/ndflatui.cpp:2518
+#: ../../NetDriveUI/ndflatui.cpp:2495
 msgctxt "NDFlatUI|"
 msgid "&Quit"
 msgstr "&Thoát"
 
-#: ../../NetDriveUI/ndflatui.cpp:2521
+#: ../../NetDriveUI/ndflatui.cpp:2498
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
 msgstr "&Kiểm tra cập nhật"
 
-#: ../../NetDriveUI/ndflatui.cpp:2524
+#: ../../NetDriveUI/ndflatui.cpp:2501
 msgctxt "NDFlatUI|"
 msgid "&Login"
 msgstr "&Đăng nhập"
 
-#: ../../NetDriveUI/ndflatui.cpp:2528
+#: ../../NetDriveUI/ndflatui.cpp:2504
 msgctxt "NDFlatUI|"
 msgid "Log&out"
 msgstr "Đăng&xuất"
 
-#: ../../NetDriveUI/ndflatui.cpp:2535
+#: ../../NetDriveUI/ndflatui.cpp:2511
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
 msgstr "Đang bắt đầu..."
@@ -1046,42 +1063,42 @@ msgstr "Đang bắt đầu..."
 #~ msgid "NetDrive is Quiting..."
 #~ msgstr "NetDrive đang thoát..."
 
-#: ../../NetDriveUI/ndflatui.cpp:546
+#: ../../NetDriveUI/ndflatui.cpp:566
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available!"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1297
+#: ../../NetDriveUI/ndflatui.cpp:1292
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1304
+#: ../../NetDriveUI/ndflatui.cpp:1299
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:1334
+#: ../../NetDriveUI/ndflatui.cpp:1328
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2580
+#: ../../NetDriveUI/ndflatui.cpp:2556
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2713
+#: ../../NetDriveUI/ndflatui.cpp:2688
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2753
+#: ../../NetDriveUI/ndflatui.cpp:2727
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
@@ -1090,107 +1107,107 @@ msgstr ""
 "Nếu bạn đăng xuất, các tập tin 'được kết nối khi khởi động' sẽ không được tự "
 "động kết nối. Bạn có chắc muốn đăng xuất?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2897
+#: ../../NetDriveUI/ndflatui.cpp:2864
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
 msgstr "Đang đăng xuất..."
 
-#: ../../NetDriveUI/ndflatui.cpp:3415
+#: ../../NetDriveUI/ndflatui.cpp:3360
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
 msgstr "Hiện phiên bản %1 là phiên bản mới nhất có sẵn."
 
-#: ../../NetDriveUI/ndflatui.cpp:3590
+#: ../../NetDriveUI/ndflatui.cpp:3511
 msgctxt "NDFlatUI|"
 msgid "Drives"
 msgstr "Các ổ đĩa"
 
-#: ../../NetDriveUI/ndflatui.cpp:3595
+#: ../../NetDriveUI/ndflatui.cpp:3516
 msgctxt "NDFlatUI|"
 msgid "Settings"
 msgstr "Cài đặt"
 
-#: ../../NetDriveUI/ndflatui.cpp:3598
+#: ../../NetDriveUI/ndflatui.cpp:3519
 msgctxt "NDFlatUI|"
 msgid "Uploading"
 msgstr "Đang tải lên"
 
-#: ../../NetDriveUI/ndflatui.cpp:3603
+#: ../../NetDriveUI/ndflatui.cpp:3524
 msgctxt "NDFlatUI|"
 msgid "About"
 msgstr "Về"
 
-#: ../../NetDriveUI/ndflatui.cpp:3606
+#: ../../NetDriveUI/ndflatui.cpp:3527
 msgctxt "NDFlatUI|"
 msgid "Account Info"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:3609
+#: ../../NetDriveUI/ndflatui.cpp:3530
 msgctxt "NDFlatUI|"
 msgid "Manage License"
 msgstr "Quản lí giấy phép"
 
-#: ../../NetDriveUI/ndflatui.cpp:3612
+#: ../../NetDriveUI/ndflatui.cpp:3533
 msgctxt "NDFlatUI|"
 msgid "Login"
 msgstr "Đăng nhập"
 
-#: ../../NetDriveUI/ndflatui.cpp:3615
+#: ../../NetDriveUI/ndflatui.cpp:3536
 msgctxt "NDFlatUI|"
 msgid "Logout"
 msgstr "Đăng xuất"
 
-#: ../../NetDriveUI/ndflatui.cpp:3618
+#: ../../NetDriveUI/ndflatui.cpp:3539
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
 msgstr "Hỗ trợ NetDrive"
 
-#: ../../NetDriveUI/ndflatui.cpp:3621
+#: ../../NetDriveUI/ndflatui.cpp:3542
 msgctxt "NDFlatUI|"
 msgid "View"
 msgstr "Xem"
 
-#: ../../NetDriveUI/ndflatui.cpp:3622
+#: ../../NetDriveUI/ndflatui.cpp:3543
 msgctxt "NDFlatUI|"
 msgid "Account"
 msgstr "Tài khoản"
 
-#: ../../NetDriveUI/ndflatui.cpp:3623
+#: ../../NetDriveUI/ndflatui.cpp:3544
 msgctxt "NDFlatUI|"
 msgid "Help"
 msgstr "Hỗ trợ"
 
-#: ../../NetDriveUI/ndflatui.cpp:3822
+#: ../../NetDriveUI/ndflatui.cpp:3737
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
 msgstr "Không thể lấy thông tin ổ đĩa"
 
-#: ../../NetDriveUI/ndflatui.cpp:3831
+#: ../../NetDriveUI/ndflatui.cpp:3746
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
 msgstr "Không thể lấy tên ổ đĩa"
 
-#: ../../NetDriveUI/ndflatui.cpp:211
+#: ../../NetDriveUI/ndflatui.cpp:245
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:747
+#: ../../NetDriveUI/ndflatui.cpp:763
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:895
+#: ../../NetDriveUI/ndflatui.cpp:907
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
 msgstr ""
 
-#: ../../NetDriveUI/ndflatui.cpp:2005
+#: ../../NetDriveUI/ndflatui.cpp:1988
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
 msgstr ""
@@ -1235,7 +1252,7 @@ msgctxt "ProxySelector|"
 msgid "Host"
 msgstr "Máy chủ"
 
-#: ../../../common/ndcore.cpp:296
+#: ../../../common/ndcore.cpp:298
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1245,43 +1262,43 @@ msgstr ""
 "Máy chủ Bdrive trả về một lỗi. Nếu vấn đề tiếp diễn, hãy liên hệ %1 để được "
 "giúp đỡ."
 
-#: ../../../common/ndcore.cpp:1150 ../../../common/ndcore.cpp:1811
+#: ../../../common/ndcore.cpp:1161 ../../../common/ndcore.cpp:1823
 msgctxt "QApplication|"
 msgid "Subscription status"
 msgstr "Tình trạng thuê bao"
 
-#: ../../../common/ndcore.cpp:1162 ../../../common/ndcore.cpp:1812
+#: ../../../common/ndcore.cpp:1173 ../../../common/ndcore.cpp:1824
 msgctxt "QApplication|"
 msgid "Subscription type"
 msgstr "Loại thuê bao"
 
-#: ../../../common/ndcore.cpp:1174 ../../../common/ndcore.cpp:1813
+#: ../../../common/ndcore.cpp:1185 ../../../common/ndcore.cpp:1825
 msgctxt "QApplication|"
 msgid "Max registered devices"
 msgstr "Thiết bị đăng kí tối đã"
 
-#: ../../../common/ndcore.cpp:1186 ../../../common/ndcore.cpp:1814
+#: ../../../common/ndcore.cpp:1197 ../../../common/ndcore.cpp:1826
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
 msgstr "Số lượng phiên tối đa (truy cập cùng lúc)"
 
-#: ../../../common/ndcore.cpp:1815
+#: ../../../common/ndcore.cpp:1827
 msgctxt "QApplication|"
 msgid "type"
 msgstr "loại"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:290
-#: ../../../ui_helper/bdui/bdlogin.cpp:298
+#: ../../../ui_helper/bdui/bdlogin.cpp:292
+#: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Login"
 msgstr "Đăng nhập"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:290
+#: ../../../ui_helper/bdui/bdlogin.cpp:292
 msgctxt "QApplication|"
 msgid "Email address required to login"
 msgstr "Cần có địa chỉ thư điện tử để đăng nhập"
 
-#: ../../../ui_helper/bdui/bdlogin.cpp:298
+#: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Proper password required to login"
 msgstr "Cần mật khẩu chính xác để đăng nhập"
@@ -1359,7 +1376,7 @@ msgid "NETWORK"
 msgstr "MẠNG"
 
 #: ../../../common/authtemplate.cpp:803 ../../NetDriveUI/adddrive.cpp:275
-#: ../../NetDriveUI/ndflatui.cpp:2085
+#: ../../NetDriveUI/ndflatui.cpp:2067
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
 msgstr "CÀI ĐẶT PROXY"
@@ -1394,33 +1411,33 @@ msgctxt "QApplication|"
 msgid "Auto"
 msgstr "Tự động"
 
-#: ../../NetDriveUI/adddrive.cpp:952 ../../NetDriveUI/adddrive.cpp:1219
+#: ../../NetDriveUI/adddrive.cpp:955 ../../NetDriveUI/adddrive.cpp:1222
 msgctxt "QApplication|"
 msgid "CONNECT"
 msgstr "KẾT NỐI"
 
-#: ../../NetDriveUI/adddrive.cpp:1130
+#: ../../NetDriveUI/adddrive.cpp:1133
 msgctxt "QApplication|"
 msgid "Failed to set option."
 msgstr "Đặt tùy chọn không thành công."
 
-#: ../../NetDriveUI/adddrive.cpp:1373
+#: ../../NetDriveUI/adddrive.cpp:1376
 msgctxt "QApplication|"
 msgid "Authentication failed"
 msgstr "Xác thực thất bại"
 
-#: ../../NetDriveUI/adddrive.cpp:1373
+#: ../../NetDriveUI/adddrive.cpp:1376
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
 msgstr "Xác thực với %1 đã thất bại"
 
-#: ../../NetDriveUI/adddrive.cpp:1442 ../../NetDriveUI/adddrive.cpp:1592
+#: ../../NetDriveUI/adddrive.cpp:1445 ../../NetDriveUI/adddrive.cpp:1595
 msgctxt "QApplication|"
 msgid "DISCONNECT"
 msgstr "NGẮT KẾT NỐI"
 
-#: ../../NetDriveUI/adddrive.cpp:2069
+#: ../../NetDriveUI/adddrive.cpp:2072
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
 msgstr ""
@@ -1468,43 +1485,43 @@ msgctxt "QApplication|"
 msgid "Failed to start service %1"
 msgstr "Khởi động dịch vụ %1 thất bại"
 
-#: ../../NetDriveUI/ndflatui.cpp:274 ../../NetDriveUI/ndflatui.cpp:3910
+#: ../../NetDriveUI/ndflatui.cpp:305 ../../NetDriveUI/ndflatui.cpp:3819
 msgctxt "QApplication|"
 msgid "DRIVES"
 msgstr "Ổ ĐĨA"
 
-#: ../../NetDriveUI/ndflatui.cpp:284 ../../NetDriveUI/ndflatui.cpp:3912
+#: ../../NetDriveUI/ndflatui.cpp:315 ../../NetDriveUI/ndflatui.cpp:3821
 msgctxt "QApplication|"
 msgid "UPLOADING"
 msgstr "ĐANG TẢI LÊN"
 
-#: ../../NetDriveUI/ndflatui.cpp:329 ../../NetDriveUI/ndflatui.cpp:2108
-#: ../../NetDriveUI/ndflatui.cpp:3914
+#: ../../NetDriveUI/ndflatui.cpp:361 ../../NetDriveUI/ndflatui.cpp:2090
+#: ../../NetDriveUI/ndflatui.cpp:3823
 msgctxt "QApplication|"
 msgid "SETTINGS"
 msgstr "CÀI ĐẶT"
 
-#: ../../NetDriveUI/ndflatui.cpp:344 ../../NetDriveUI/ndflatui.cpp:3908
+#: ../../NetDriveUI/ndflatui.cpp:376 ../../NetDriveUI/ndflatui.cpp:3817
 msgctxt "QApplication|"
 msgid "ABOUT"
 msgstr "VỀ"
 
-#: ../../NetDriveUI/ndflatui.cpp:2056
+#: ../../NetDriveUI/ndflatui.cpp:2040
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
 msgstr "Tạo một tài khoản Bdrive miễn phí"
 
-#: ../../NetDriveUI/ndflatui.cpp:2064
+#: ../../NetDriveUI/ndflatui.cpp:2048
 msgctxt "QApplication|"
 msgid "Can't log in?"
 msgstr "Không thể đăng nhập?"
 
-#: ../../NetDriveUI/ndflatui.cpp:2141
+#: ../../NetDriveUI/ndflatui.cpp:2121
 msgctxt "QApplication|"
 msgid "Device authorization"
 msgstr "Ủy quyền thiết bị"
 
-#: ../../NetDriveUI/ndflatui.cpp:2142
+#: ../../NetDriveUI/ndflatui.cpp:2122
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
@@ -1520,27 +1537,27 @@ msgstr ""
 #~ msgstr ""
 #~ "NetDrive sẽ thoát vì không thể lấy ID thiết bị. Hãy đến %1 để báo cáo."
 
-#: ../../NetDriveUI/ndflatui.cpp:2417
+#: ../../NetDriveUI/ndflatui.cpp:2392
 msgctxt "QApplication|"
 msgid "Notice"
 msgstr "Chú ý"
 
-#: ../../NetDriveUI/ndflatui.cpp:3113
+#: ../../NetDriveUI/ndflatui.cpp:3076
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
 msgstr "THÔNG TIN TÀI KHOẢN"
 
-#: ../../NetDriveUI/ndflatui.cpp:3120
+#: ../../NetDriveUI/ndflatui.cpp:3082
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
 msgstr "QUẢN LÍ GIẤY PHÉP"
 
-#: ../../NetDriveUI/ndflatui.cpp:3129
+#: ../../NetDriveUI/ndflatui.cpp:3090
 msgctxt "QApplication|"
 msgid "LOGOUT"
 msgstr "ĐĂNG XUẤT"
 
-#: ../../NetDriveUI/ndflatui.cpp:3401
+#: ../../NetDriveUI/ndflatui.cpp:3347
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
@@ -1573,27 +1590,27 @@ msgctxt "QApplication|"
 msgid "Wait for authentication..."
 msgstr "Chờ xác thực..."
 
-#: ../../NetDriveUI/qdriveitem.cpp:1644
+#: ../../NetDriveUI/qdriveitem.cpp:1615
 msgctxt "QApplication|"
 msgid "Open"
 msgstr "Mở"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1677
+#: ../../NetDriveUI/qdriveitem.cpp:1646
 msgctxt "QApplication|"
 msgid "Config"
 msgstr "Cấu hình"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1688 ../../NetDriveUI/qdriveitem.cpp:1694
+#: ../../NetDriveUI/qdriveitem.cpp:1656 ../../NetDriveUI/qdriveitem.cpp:1662
 msgctxt "QApplication|"
 msgid "Duplicate"
 msgstr "Lặp bản sao"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1703 ../../NetDriveUI/qdriveitem.cpp:1708
+#: ../../NetDriveUI/qdriveitem.cpp:1670 ../../NetDriveUI/qdriveitem.cpp:1675
 msgctxt "QApplication|"
 msgid "Delete"
 msgstr "Xóa"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1716
+#: ../../NetDriveUI/qdriveitem.cpp:1683
 msgctxt "QApplication|"
 msgid "Log"
 msgstr "Nhật ký"
@@ -1632,17 +1649,17 @@ msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1656
+#: ../../NetDriveUI/qdriveitem.cpp:1625
 msgctxt "QApplication|"
 msgid "Publish"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1663
+#: ../../NetDriveUI/qdriveitem.cpp:1632
 msgctxt "QApplication|"
 msgid "Republish"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1669
+#: ../../NetDriveUI/qdriveitem.cpp:1638
 msgctxt "QApplication|"
 msgid "Unpublish"
 msgstr ""
@@ -2002,92 +2019,92 @@ msgstr ""
 #~ msgid "Failed to get drive list. Try again, please."
 #~ msgstr "Thất bại khi lấy danh sách thiết bị, xin hãy thử lại."
 
-#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:819
-#: ../../NetDriveUI/qdriveitem.cpp:1024 ../../NetDriveUI/qdriveitem.cpp:1467
+#: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:809
+#: ../../NetDriveUI/qdriveitem.cpp:1005 ../../NetDriveUI/qdriveitem.cpp:1429
 msgctxt "QDriveItem|"
 msgid "CONNECT"
 msgstr "KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:294
+#: ../../NetDriveUI/qdriveitem.cpp:287
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
 msgstr "%1 là đường dẫn đã được liên kết. Bạn có muốn gỡ %1 để tiếp tục?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:312
+#: ../../NetDriveUI/qdriveitem.cpp:305
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
 msgstr "Không thể gỡ %1, hãy thử lại sau"
 
-#: ../../NetDriveUI/qdriveitem.cpp:326
+#: ../../NetDriveUI/qdriveitem.cpp:319
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
 msgstr "Bạn chắc chắn muốn ngắt kết nối %1?"
 
-#: ../../NetDriveUI/qdriveitem.cpp:741
+#: ../../NetDriveUI/qdriveitem.cpp:731
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
 msgstr "Không có tập tin ghi nhật kí về [%1]"
 
-#: ../../NetDriveUI/qdriveitem.cpp:937
+#: ../../NetDriveUI/qdriveitem.cpp:920
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
 msgstr "Gỡ thất bại"
 
-#: ../../NetDriveUI/qdriveitem.cpp:969
+#: ../../NetDriveUI/qdriveitem.cpp:950
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
 msgstr "Không thể cấu hình ổ đĩa vì tên trùng lặp."
 
-#: ../../NetDriveUI/qdriveitem.cpp:973
+#: ../../NetDriveUI/qdriveitem.cpp:954
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
 msgstr "Cấu hình ổ đĩa không thành công."
 
-#: ../../NetDriveUI/qdriveitem.cpp:1014
+#: ../../NetDriveUI/qdriveitem.cpp:995
 msgctxt "QDriveItem|"
 msgid "CANCEL"
 msgstr "HỦY"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1021 ../../NetDriveUI/qdriveitem.cpp:1466
+#: ../../NetDriveUI/qdriveitem.cpp:1002 ../../NetDriveUI/qdriveitem.cpp:1428
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
 msgstr "CHƯA KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1030
+#: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "Authentication"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1030
+#: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "2FA Code"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1473
+#: ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
 msgstr "ĐANG KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1479
+#: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
 msgstr "ĐÃ KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1480
+#: ../../NetDriveUI/qdriveitem.cpp:1442
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
 msgstr "NGẮT KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1486
+#: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
 msgstr "ĐANG NGẮT KẾT NỐI"
 
-#: ../../NetDriveUI/qdriveitem.cpp:1562
+#: ../../NetDriveUI/qdriveitem.cpp:1537
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
@@ -2099,36 +2116,36 @@ msgctxt "QDriveItem|"
 msgid "BROWSE"
 msgstr "DUYỆT"
 
-#: ../../NetDriveUI/qdriveitem.cpp:252
+#: ../../NetDriveUI/qdriveitem.cpp:245
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:703
+#: ../../NetDriveUI/qdriveitem.cpp:694
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:777
+#: ../../NetDriveUI/qdriveitem.cpp:767
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:797
+#: ../../NetDriveUI/qdriveitem.cpp:787
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1870
+#: ../../NetDriveUI/qdriveitem.cpp:1833
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
 msgstr ""
 
-#: ../../NetDriveUI/qdriveitem.cpp:1887
+#: ../../NetDriveUI/qdriveitem.cpp:1849
 #, qt-format
 msgctxt "QDriveItem|"
 msgid ""
@@ -2378,55 +2395,55 @@ msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:126
+#: ../../netdrive_helper/traymanager.cpp:128
 msgctxt "QObject|"
 msgid "&Quit "
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:62
-#: ../../netdrive_helper/traymanager.cpp:122
-#: ../../netdrive_helper/traymanager.cpp:234
+#: ../../netdrive_helper/traymanager.cpp:64
+#: ../../netdrive_helper/traymanager.cpp:124
+#: ../../netdrive_helper/traymanager.cpp:248
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:117
+#: ../../netdrive_helper/traymanager.cpp:119
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:237
+#: ../../netdrive_helper/traymanager.cpp:251
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Quit"
 msgstr "&Thoát"
 
-#: ../../netdrive_helper/traymanager.cpp:65
-#: ../../netdrive_helper/traymanager.cpp:111
-#: ../../netdrive_helper/traymanager.cpp:240
+#: ../../netdrive_helper/traymanager.cpp:67
+#: ../../netdrive_helper/traymanager.cpp:113
+#: ../../netdrive_helper/traymanager.cpp:254
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Check for Updates"
 msgstr "&Kiểm tra cập nhật"
 
-#: ../../netdrive_helper/traymanager.cpp:107
-#: ../../netdrive_helper/traymanager.cpp:243
+#: ../../netdrive_helper/traymanager.cpp:109
+#: ../../netdrive_helper/traymanager.cpp:257
 #, fuzzy
 msgctxt "QObject|"
 msgid "&Login"
 msgstr "&Đăng nhập"
 
-#: ../../netdrive_helper/traymanager.cpp:102
-#: ../../netdrive_helper/traymanager.cpp:246
+#: ../../netdrive_helper/traymanager.cpp:104
+#: ../../netdrive_helper/traymanager.cpp:260
 #, fuzzy
 msgctxt "QObject|"
 msgid "Log&out"
 msgstr "Đăng&xuất"
 
-#: ../../netdrive_helper/traymanager.cpp:96
-#: ../../netdrive_helper/traymanager.cpp:250
+#: ../../netdrive_helper/traymanager.cpp:98
+#: ../../netdrive_helper/traymanager.cpp:264
 msgctxt "QObject|"
 msgid "&File Browser"
 msgstr ""
@@ -2589,7 +2606,7 @@ msgctxt "TransferProgressDlg|"
 msgid "File Upload"
 msgstr ""
 
-#: ../../netdrive_helper/traymanager.cpp:157
+#: ../../netdrive_helper/traymanager.cpp:161
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"
@@ -2655,6 +2672,11 @@ msgstr "Thử lại"
 msgctxt "UploadItem|"
 msgid "Save as"
 msgstr "Lưu như"
+
+#: ../../NetDriveUI/uploadprogressdlg.cpp:13
+msgctxt "UploadProgressDlg|"
+msgid "File Upload"
+msgstr ""
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"

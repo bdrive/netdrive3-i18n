@@ -253,7 +253,7 @@ msgstr "Im Gerät"
 #: ../../NetDriveUI/adddrive.cpp:303
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr "Persönliches Laufwerk hunzufügen"
+msgstr "Persönliches Laufwerk hinzufügen"
 
 #: ../../NetDriveUI/adddrive.cpp:309
 msgctxt "AddDrive|"

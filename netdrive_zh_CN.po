@@ -120,28 +120,28 @@ msgstr "始终从服务器检索文件列表"
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "作为全局驱动器"
 
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "阻止上传 MS Office 临时文件"
 
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "阻止上传 HWP 临时文件 (*.$$$, *.BAK)"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Support desktop.ini on Windows"
-msgstr ""
+msgstr "在 Windows 上支持 desktop.ini"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
-msgstr ""
+msgstr "使用 File Provider 替代 Kernel Extension（实验性功能，仅限 macOS）"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
@@ -219,64 +219,64 @@ msgstr "不支持的协议"
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "2FA Code"
-msgstr ""
+msgstr "两步验证码"
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "项目位置"
 
 #: ../../NetDriveUI/adddrive.cpp:243
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "在账户中"
 
 #: ../../NetDriveUI/adddrive.cpp:244
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "在设备中"
 
 #: ../../NetDriveUI/adddrive.cpp:303
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "添加个人驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:309
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "添加团队驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:393
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "配置团队驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:398
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "配置个人驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:1709
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr "此团队驱动器尚未设置连接信息。是否现在设置？"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "2FA Code"
-msgstr ""
+msgstr "两步验证码"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -361,37 +361,37 @@ msgstr "配置驱动"
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:9
 msgctxt "DeleteDlg|"
 msgid "Delete File"
-msgstr ""
+msgstr "删除文件"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
 msgid "Dialog"
-msgstr ""
+msgstr "对话框"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "进度"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "保存到下载文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "下载到..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
 #, fuzzy
@@ -402,18 +402,18 @@ msgstr "打开"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "重新加载"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1020
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
 #, fuzzy
@@ -425,34 +425,34 @@ msgstr "删除"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "新建文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:438
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:942
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "获取共享链接"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "解锁"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:450
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "强制解锁"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:461
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "已锁定文件列表"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
@@ -460,69 +460,69 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "连接失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
-msgstr ""
+msgstr "两步验证码"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "协议连接失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:408
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
-msgstr ""
+msgstr "上传文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:689
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1497
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "获取文件列表失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "获取根 ID 失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "重新加载文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "重新加载文件夹失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:798
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "下载完成。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "文件下载失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "无法从服务器下载文件。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
 msgid "Download file path"
-msgstr ""
+msgstr "下载文件路径"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
@@ -532,17 +532,20 @@ msgid ""
 "%1\n"
 "Click the OK button to copy the shareable link."
 msgstr ""
+"成功获取共享链接。\n"
+"%1\n"
+"点击确定按钮复制共享链接。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "获取共享链接失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "重命名文件 %1 失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
@@ -550,104 +553,104 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1345
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "移动文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "移动文件失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "删除文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "删除文件失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "创建新文件夹失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
-msgstr ""
+msgstr "上传完成。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
-msgstr ""
+msgstr "上传文件失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "锁定文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "锁定文件失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "解锁文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "解锁文件失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "操作失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "已存在与 %1 同名的文件。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1333
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr ""
+msgstr "无法将文件移动到目标文件夹。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1346
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr ""
+msgstr "目标文件夹中已存在同名文件。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1412
 msgctxt "FileBrowserManager|"
 msgid "File open path"
-msgstr ""
+msgstr "文件打开路径"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "打开文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "创建临时目录失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1496
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "获取文件列表"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 #, fuzzy
@@ -658,12 +661,12 @@ msgstr "名字"
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr ""
+msgstr "修改时间"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
@@ -719,12 +722,12 @@ msgstr "检查beta版本的更新（如果可用）"
 #: ../../NetDriveUI/flatsettingcontents.ui:101
 msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
-msgstr ""
+msgstr "在文件浏览器中打开或下载文件时显示文件路径"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:108
 msgctxt "FlatSettingContents|"
 msgid "Show file upload progress in a pop-up window"
-msgstr ""
+msgstr "在弹出窗口中显示文件上传进度"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
@@ -759,17 +762,17 @@ msgstr "浏览"
 #: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
-msgstr ""
+msgstr "当缓存路径可用空间低于以下值时通知"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"
 msgid "GB."
-msgstr ""
+msgstr "GB。"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:263
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
-msgstr ""
+msgstr "（0 表示不通知。）"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:287
 msgctxt "FlatSettingContents|"
@@ -809,7 +812,7 @@ msgstr "端口设置"
 #: ../../NetDriveUI/flatsettingcontents.cpp:57
 msgctxt "FlatSettingContents|"
 msgid "CLDAstream keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "CLDAstream 在本地磁盘上保存远程文件的临时副本。"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:73
 msgctxt "FlatSettingContents|"
@@ -830,7 +833,7 @@ msgstr "当前有 %0.2f GB可用磁盘空间"
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "断开驱动器时解锁所有已锁定文件"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
@@ -880,53 +883,53 @@ msgstr "安装更新"
 #: ../../NetDriveUI/ndflatui.cpp:3871
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "已锁定文件列表"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "没有已锁定的文件。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:180
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "解锁"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:181
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "强制解锁"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:296
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "%1 中的已锁定文件列表"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "缺失"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "路径"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "锁定者"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "设备"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: ../../NetDriveUI/ndflatui.cpp:214
 #, qt-format
@@ -1058,36 +1061,36 @@ msgstr "正在初始化中"
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 文件锁定服务不可用！"
 
 #: ../../NetDriveUI/ndflatui.cpp:1292
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
-msgstr ""
+msgstr "%1 代理正在启动。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1299
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
-msgstr ""
+msgstr "正在初始化 SDK。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1328
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
-msgstr ""
+msgstr "正在连接到 %1 代理。"
 
 #: ../../NetDriveUI/ndflatui.cpp:2556
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
-msgstr ""
+msgstr "%1 文件锁定服务不可用"
 
 #: ../../NetDriveUI/ndflatui.cpp:2688
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr ""
+msgstr "%1 正在退出..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2727
 msgctxt "NDFlatUI|"
@@ -1180,26 +1183,26 @@ msgstr "找不到磁盘的名字"
 #: ../../NetDriveUI/ndflatui.cpp:245
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr " （管理员）"
 
 #: ../../NetDriveUI/ndflatui.cpp:763
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "团队驱动器 [%1] 已被卸载，因为管理员已取消发布。"
 
 #: ../../NetDriveUI/ndflatui.cpp:907
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "是否现在将 [%1] 发布给团队成员？您也可以稍后发布。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1988
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "连接 Bdrive 服务器失败。"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
@@ -1423,7 +1426,7 @@ msgstr "断开连接"
 #: ../../NetDriveUI/adddrive.cpp:2072
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
-msgstr ""
+msgstr "连接到 Google 相册"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
@@ -1510,7 +1513,7 @@ msgctxt "QApplication|"
 msgid ""
 "%1 will be quit because failed to get device id. Please visit %2 to leave a "
 "note."
-msgstr ""
+msgstr "%1 将因获取设备 ID 失败而退出。请访问 %2 留言。"
 
 #, qt-format
 #~ msgctxt "QApplication|"
@@ -1563,7 +1566,7 @@ msgctxt "QApplication|"
 msgid ""
 "Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
 "delete, and move not supported)."
-msgstr ""
+msgstr "根据 Google API 策略，上传仅限于 Albums/%1<br/>（不支持重命名、删除和移动）。"
 
 #: ../../../common/protocoldll.cpp:327
 msgctxt "QApplication|"
@@ -1627,27 +1630,27 @@ msgstr "NetDrive %1 现在可用。目前版本为 %2。现在更新吗?"
 #: ../../../common/protocolmap.h:30
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr ""
+msgstr "建议注册您自己的 API KEY 和 SECRET KEY。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1625
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "发布"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1632
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "重新发布"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1638
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "取消发布"
 
 #: ../server_strings.tri:1
 msgctxt "QApplication|"
 msgid "Unable to log in with provided credentials."
-msgstr ""
+msgstr "无法使用提供的凭据登录。"
 
 #: ../server_strings.tri:2
 #, fuzzy
@@ -1658,212 +1661,212 @@ msgstr "账户"
 #: ../server_strings.tri:3
 msgctxt "QApplication|"
 msgid "Anomymous"
-msgstr ""
+msgstr "匿名"
 
 #: ../server_strings.tri:4
 msgctxt "QApplication|"
 msgid "Attempt converting non-UTF-8 files to UTF-8"
-msgstr ""
+msgstr "尝试将非 UTF-8 文件转换为 UTF-8"
 
 #: ../server_strings.tri:5
 msgctxt "QApplication|"
 msgid "Autodetect"
-msgstr ""
+msgstr "自动检测"
 
 #: ../server_strings.tri:6
 msgctxt "QApplication|"
 msgid "Charset"
-msgstr ""
+msgstr "字符集"
 
 #: ../server_strings.tri:7
 msgctxt "QApplication|"
 msgid "Enable delete folder"
-msgstr ""
+msgstr "启用删除文件夹"
 
 #: ../server_strings.tri:8
 msgctxt "QApplication|"
 msgid "Enable rename/move folder"
-msgstr ""
+msgstr "启用重命名/移动文件夹"
 
 #: ../server_strings.tri:9
 msgctxt "QApplication|"
 msgid "For Limited Bucket Access"
-msgstr ""
+msgstr "用于受限存储桶访问"
 
 #: ../server_strings.tri:10
 msgctxt "QApplication|"
 msgid "Force UTF-8"
-msgstr ""
+msgstr "强制 UTF-8"
 
 #: ../server_strings.tri:11
 msgctxt "QApplication|"
 msgid "Local charset"
-msgstr ""
+msgstr "本地字符集"
 
 #: ../server_strings.tri:12
 msgctxt "QApplication|"
 msgid "MS SharePoint Server"
-msgstr ""
+msgstr "MS SharePoint 服务器"
 
 #: ../server_strings.tri:13
 msgctxt "QApplication|"
 msgid "Mount Point"
-msgstr ""
+msgstr "挂载点"
 
 #: ../server_strings.tri:14
 msgctxt "QApplication|"
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 #: ../server_strings.tri:15
 msgctxt "QApplication|"
 msgid "Process subdir node to display folder"
-msgstr ""
+msgstr "处理子目录节点以显示文件夹"
 
 #: ../server_strings.tri:16
 msgctxt "QApplication|"
 msgid "Receive changes to files from server"
-msgstr ""
+msgstr "从服务器接收文件更改"
 
 #: ../server_strings.tri:17
 msgctxt "QApplication|"
 msgid "SSH Key"
-msgstr ""
+msgstr "SSH 密钥"
 
 #: ../server_strings.tri:18
 msgctxt "QApplication|"
 msgid "Save account ID and application key"
-msgstr ""
+msgstr "保存账户 ID 和应用密钥"
 
 #: ../server_strings.tri:19
 msgctxt "QApplication|"
 msgid "Save account ID and secret key"
-msgstr ""
+msgstr "保存账户 ID 和秘密密钥"
 
 #: ../server_strings.tri:20
 msgctxt "QApplication|"
 msgid "Save account name and access key"
-msgstr ""
+msgstr "保存账户名称和访问密钥"
 
 #: ../server_strings.tri:21
 msgctxt "QApplication|"
 msgid "Save passphrase"
-msgstr ""
+msgstr "保存密码短语"
 
 #: ../server_strings.tri:22
 msgctxt "QApplication|"
 msgid "Save user and API key"
-msgstr ""
+msgstr "保存用户名和 API 密钥"
 
 #: ../server_strings.tri:23
 msgctxt "QApplication|"
 msgid "Save user and password "
-msgstr ""
+msgstr "保存用户名和密码"
 
 #: ../server_strings.tri:24
 msgctxt "QApplication|"
 msgid "Server"
-msgstr ""
+msgstr "服务器"
 
 #: ../server_strings.tri:25
 msgctxt "QApplication|"
 msgid "Set large enough disk space for unlimited Google TeamDrive"
-msgstr ""
+msgstr "为无限容量的 Google TeamDrive 设置足够大的磁盘空间"
 
 #: ../server_strings.tri:26
 msgctxt "QApplication|"
 msgid "Show shared file/folders"
-msgstr ""
+msgstr "显示共享文件/文件夹"
 
 #: ../server_strings.tri:27
 msgctxt "QApplication|"
 msgid "System root"
-msgstr ""
+msgstr "系统根目录"
 
 #: ../server_strings.tri:28
 msgctxt "QApplication|"
 msgid "Use SSL(https)"
-msgstr ""
+msgstr "使用 SSL(https)"
 
 #: ../server_strings.tri:29
 msgctxt "QApplication|"
 msgid "Use SSL/TLS"
-msgstr ""
+msgstr "使用 SSL/TLS"
 
 #: ../server_strings.tri:30
 msgctxt "QApplication|"
 msgid "Use active mode"
-msgstr ""
+msgstr "使用主动模式"
 
 #: ../server_strings.tri:31
 msgctxt "QApplication|"
 msgid "Use new file permission"
-msgstr ""
+msgstr "使用新文件权限"
 
 #: ../server_strings.tri:32
 msgctxt "QApplication|"
 msgid "Use new folder permission"
-msgstr ""
+msgstr "使用新文件夹权限"
 
 #: ../server_strings.tri:33
 msgctxt "QApplication|"
 msgid "Use path-style instead of virtual-hosted style"
-msgstr ""
+msgstr "使用路径样式替代虚拟主机样式"
 
 #: ../server_strings.tri:34
 msgctxt "QApplication|"
 msgid "Use server time for files/folders"
-msgstr ""
+msgstr "使用服务器时间作为文件/文件夹时间"
 
 #: ../server_strings.tri:35
 msgctxt "QApplication|"
 msgid "Use team drive"
-msgstr ""
+msgstr "使用团队驱动器"
 
 #: ../server_strings.tri:36
 msgctxt "QApplication|"
 msgid "User home"
-msgstr ""
+msgstr "用户主目录"
 
 #: ../server_strings.tri:37
 msgctxt "QApplication|"
 msgid "API Key"
-msgstr ""
+msgstr "API 密钥"
 
 #: ../server_strings.tri:38
 msgctxt "QApplication|"
 msgid "Access ID"
-msgstr ""
+msgstr "访问 ID"
 
 #: ../server_strings.tri:39
 msgctxt "QApplication|"
 msgid "Account ID"
-msgstr ""
+msgstr "账户 ID"
 
 #: ../server_strings.tri:40
 msgctxt "QApplication|"
 msgid "Application Key"
-msgstr ""
+msgstr "应用密钥"
 
 #: ../server_strings.tri:41
 msgctxt "QApplication|"
 msgid "Bucket name"
-msgstr ""
+msgstr "存储桶名称"
 
 #: ../server_strings.tri:42
 msgctxt "QApplication|"
 msgid "File permission"
-msgstr ""
+msgstr "文件权限"
 
 #: ../server_strings.tri:43
 msgctxt "QApplication|"
 msgid "Folder permission"
-msgstr ""
+msgstr "文件夹权限"
 
 #: ../server_strings.tri:44
 msgctxt "QApplication|"
 msgid "Max sessions"
-msgstr ""
+msgstr "最大会话数"
 
 #: ../server_strings.tri:45
 #, fuzzy
@@ -1880,32 +1883,32 @@ msgstr "密码"
 #: ../server_strings.tri:47
 msgctxt "QApplication|"
 msgid "Project ID"
-msgstr ""
+msgstr "项目 ID"
 
 #: ../server_strings.tri:48
 msgctxt "QApplication|"
 msgid "Secret Key"
-msgstr ""
+msgstr "秘密密钥"
 
 #: ../server_strings.tri:49
 msgctxt "QApplication|"
 msgid "Server Address"
-msgstr ""
+msgstr "服务器地址"
 
 #: ../server_strings.tri:50
 msgctxt "QApplication|"
 msgid "Storage access key"
-msgstr ""
+msgstr "存储访问密钥"
 
 #: ../server_strings.tri:51
 msgctxt "QApplication|"
 msgid "Storage account name"
-msgstr ""
+msgstr "存储账户名称"
 
 #: ../server_strings.tri:52
 msgctxt "QApplication|"
 msgid "Total size (TB)"
-msgstr ""
+msgstr "总大小 (TB)"
 
 #: ../server_strings.tri:53
 #, fuzzy
@@ -1916,32 +1919,32 @@ msgstr "用户名"
 #: ../server_strings.tri:54
 msgctxt "QApplication|"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #: ../server_strings.tri:55
 msgctxt "QApplication|"
 msgid "limit ( KB/s : 0 means unlimited )"
-msgstr ""
+msgstr "限制 ( KB/s : 0 表示无限制 )"
 
 #: ../server_strings.tri:56
 msgctxt "QApplication|"
 msgid "seconds"
-msgstr ""
+msgstr "秒"
 
 #: ../server_strings.tri:57
 msgctxt "QApplication|"
 msgid "Bandwidth"
-msgstr ""
+msgstr "带宽"
 
 #: ../server_strings.tri:58
 msgctxt "QApplication|"
 msgid "Connection Timeout"
-msgstr ""
+msgstr "连接超时"
 
 #: ../server_strings.tri:59
 msgctxt "QApplication|"
 msgid "Total space"
-msgstr ""
+msgstr "总空间"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
@@ -2042,12 +2045,12 @@ msgstr "没有连接"
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "2FA Code"
-msgstr ""
+msgstr "两步验证码"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
@@ -2078,36 +2081,36 @@ msgstr "确定要删除 %1 吗?"
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr ""
+msgstr "浏览"
 
 #: ../../NetDriveUI/qdriveitem.cpp:245
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "打开文件浏览器失败。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:694
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr ""
+msgstr "[%1] 发布后尚未配置。是否现在配置？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:767
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "发布 [%1] 失败。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:787
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "取消发布 [%1] 失败"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1833
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "是否将 [%1] 发布给团队成员？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1849
 #, qt-format
@@ -2117,6 +2120,8 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
+"取消发布后，成员已挂载的驱动器将被卸载，未保存的文件可能会丢失。\n"
+"是否将 [%1] 从团队成员中取消发布？"
 
 #~ msgctxt "QObject|"
 #~ msgid "A serious problem occurred. Please reinstall NetDrive."
@@ -2126,7 +2131,7 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall %1."
-msgstr ""
+msgstr "发生严重问题。请重新安装 %1。"
 
 #: ../../../common/aerrorstring.cpp:12
 msgctxt "QObject|"
@@ -2178,7 +2183,7 @@ msgstr "文件正在上传。确定要强行断开连接吗?"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is not initialized."
-msgstr ""
+msgstr "%1 未初始化。"
 
 #: ../../NetDriveUI/errmsg.cpp:80
 #, qt-format
@@ -2186,7 +2191,7 @@ msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall %1."
-msgstr ""
+msgstr "您使用的协议版本与产品版本不同。请重新安装 %1。"
 
 #~ msgctxt "QObject|"
 #~ msgid "NetDrive is not initialized."
@@ -2251,71 +2256,71 @@ msgstr "发生错误"
 #: ../../NetDriveUI/errmsg.cpp:96
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr ""
+msgstr "您没有权限。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
-msgstr ""
+msgstr "推送服务器发生错误。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr ""
+msgstr "文件已被锁定。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr ""
+msgstr "驱动器不存在。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr ""
+msgstr "该文件不在已锁定文件列表中"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr ""
+msgstr "文件已被其他用户锁定。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:369
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr ""
+msgstr "文件已在其他设备上锁定。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr ""
+msgstr "刷新 %1 失败。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr ""
+msgstr "锁定 %1 失败。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr ""
+msgstr "解锁 %1 失败。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:386
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr ""
+msgstr "强制解锁 %1 失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:957
 msgctxt "QObject|"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
 msgctxt "QObject|"
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1082
 #, fuzzy
@@ -2329,23 +2334,23 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr ""
+msgstr "%1 失败，因为文件夹中包含已锁定的文件。请解锁文件后重试。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1256
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr ""
+msgstr "%1 失败，因为文件已被锁定。请解锁文件后重试。"
 
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:20
 msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
-msgstr ""
+msgstr "确定要删除 \""
 
 #: ../../netdrive_helper/traymanager.cpp:128
 msgctxt "QObject|"
 msgid "&Quit "
-msgstr ""
+msgstr "退出(&Q) "
 
 #: ../../netdrive_helper/traymanager.cpp:64
 #: ../../netdrive_helper/traymanager.cpp:124
@@ -2353,13 +2358,13 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
-msgstr ""
+msgstr "打开 %1(&O)"
 
 #: ../../netdrive_helper/traymanager.cpp:119
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
-msgstr ""
+msgstr "退出 %1(&Q)"
 
 #: ../../netdrive_helper/traymanager.cpp:251
 #, fuzzy
@@ -2393,27 +2398,27 @@ msgstr "注销"
 #: ../../netdrive_helper/traymanager.cpp:264
 msgctxt "QObject|"
 msgid "&File Browser"
-msgstr ""
+msgstr "文件浏览器(&F)"
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr ""
+msgstr "选择驱动器类型"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr ""
+msgstr "选择您要添加的驱动器类型。"
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr ""
+msgstr "团队驱动器"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr ""
+msgstr "个人驱动器"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
@@ -2431,6 +2436,11 @@ msgid ""
 "The information you send us will help us to fix this problem and it will not "
 "be used except for debugging purpose."
 msgstr ""
+"已创建一份报告，您可以发送以帮助我们定位问题。\n"
+"\n"
+"请提供崩溃前发生了什么的详细描述。\n"
+"\n"
+"您发送的信息将帮助我们修复此问题，且仅用于调试目的。"
 
 #~ msgctxt "QSenderDlg|"
 #~ msgid ""
@@ -2452,12 +2462,12 @@ msgstr "分钟剩余"
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr ""
+msgstr "新名称："
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: ../../../ui_helper/filebrowser/rename.ui:114
 #, fuzzy
@@ -2468,22 +2478,22 @@ msgstr "取消"
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr ""
+msgstr "创建目录"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr ""
+msgstr "目录名称："
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr ""
+msgstr "新名称："
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
@@ -2511,7 +2521,7 @@ msgstr "无法从服务器检索文件夹列表。"
 #: ../../../ui_helper/filebrowser/selectfolder.ui:49
 msgctxt "SelectFolder|"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:59
 #, fuzzy
@@ -2527,29 +2537,29 @@ msgstr "排序"
 #: ../../../ui_helper/filebrowser/transferitem.cpp:13
 msgctxt "TransferItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "正在准备下载..."
 
 #: ../../../ui_helper/filebrowser/transferitem.cpp:15
 msgctxt "TransferItem|"
 msgid "Preparing Upload..."
-msgstr ""
+msgstr "正在准备上传..."
 
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:7
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:31
 msgctxt "TransferProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "文件下载"
 
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:35
 msgctxt "TransferProgressDlg|"
 msgid "File Upload"
-msgstr ""
+msgstr "文件上传"
 
 #: ../../netdrive_helper/traymanager.cpp:161
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 文件锁定服务不可用！"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
@@ -2614,7 +2624,7 @@ msgstr "另存为"
 #: ../../NetDriveUI/uploadprogressdlg.cpp:13
 msgctxt "UploadProgressDlg|"
 msgid "File Upload"
-msgstr ""
+msgstr "文件上传"
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
@@ -2639,4 +2649,4 @@ msgstr "等待验证"
 #: ../../../ui_helper/oauth2/waiter_mobile.ui:14
 msgctxt "WaiterMobile|"
 msgid "Form"
-msgstr ""
+msgstr "表单"

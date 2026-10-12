@@ -10,168 +10,168 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "ドライブの追加"
 
 #: ../../NetDriveUI/adddrive.ui:127
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "ストレージの種類"
 
 #: ../../NetDriveUI/adddrive.ui:196
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "接続"
 
 #: ../../NetDriveUI/adddrive.ui:209
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "オプション"
 
 #: ../../NetDriveUI/adddrive.ui:218
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "認証情報を保存する"
 
 #: ../../NetDriveUI/adddrive.ui:257
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "リモートパス"
 
 #: ../../NetDriveUI/adddrive.ui:285
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "参照"
 
 #: ../../NetDriveUI/adddrive.ui:49
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "ラベル"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "マウント"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "種類"
 
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "自動接続オプション"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "自動でマウントしない"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "起動時にマウント"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "ログイン時にマウント"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "アップロードオプション"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "エクスプローラーでのアップロードを即時に行う"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "バックグラウンドアップロードを使用する"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "読み取り専用オプション"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "書き込み可能なドライブ"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "読み取り専用ドライブ"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "詳細オプション"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr ""
+msgstr "常にサーバーからファイル一覧を取得する"
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "すべてのユーザーに表示する"
 
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "MS Office の一時ファイルをアップロードしない"
 
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "HWP の一時ファイル (*.$$$, *.BAK) をアップロードしない"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Support desktop.ini on Windows"
-msgstr ""
+msgstr "Windows で desktop.ini をサポートする"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
-msgstr ""
+msgstr "カーネル機能拡張の代わりに File Provider を使用する (試験的機能、macOS のみ)"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "リムーバブルドライブとして使用する"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ""
+msgstr "ドットで始まるファイルとフォルダーを隠しファイルとして扱う"
 
 #: ../../NetDriveUI/adddrive.cpp:92
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "色"
 
 #: ../../NetDriveUI/adddrive.cpp:135
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "ネットワークドライブ"
 
 #: ../../NetDriveUI/adddrive.cpp:136
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "ローカルドライブ"
 
 #: ../../NetDriveUI/adddrive.cpp:619
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr ""
+msgstr "接続情報を設定するには、接続ボタンを押してください。"
 
 #: ../../NetDriveUI/adddrive.cpp:650
 msgctxt "AddDrive|"
@@ -179,128 +179,130 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
+"ドライブ名には次の文字を使用できません:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:658
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr ""
+msgstr "ドライブ名を入力してください。"
 
 #: ../../NetDriveUI/adddrive.cpp:666
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
-msgstr ""
+msgstr "ドライブ名の最大長は 50 文字です。"
 
 #: ../../NetDriveUI/adddrive.cpp:677
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr ""
+msgstr "リモートパスを選択してください。"
 
 #: ../../NetDriveUI/adddrive.cpp:715
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr ""
+msgstr "このドライブ名はすでに使用されています。別の名前を入力してください。"
 
 #: ../../NetDriveUI/adddrive.cpp:1622
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr ""
+msgstr " 接続ボタンを押して、もう一度お試しください。"
 
 #: ../../NetDriveUI/adddrive.cpp:1738
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
-msgstr ""
+msgstr "このプロトコルはサポートされていません。"
 
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "Authentication"
-msgstr ""
+msgstr "認証"
 
 #: ../../NetDriveUI/adddrive.cpp:1772
 msgctxt "AddDrive|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2 段階認証コード"
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "アイテムの保存場所"
 
 #: ../../NetDriveUI/adddrive.cpp:243
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "アカウントに保存"
 
 #: ../../NetDriveUI/adddrive.cpp:244
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "デバイスに保存"
 
 #: ../../NetDriveUI/adddrive.cpp:303
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "個人ドライブの追加"
 
 #: ../../NetDriveUI/adddrive.cpp:309
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "チームドライブの追加"
 
 #: ../../NetDriveUI/adddrive.cpp:393
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "チームドライブの設定"
 
 #: ../../NetDriveUI/adddrive.cpp:398
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "個人ドライブの設定"
 
 #: ../../NetDriveUI/adddrive.cpp:1709
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr "このチームドライブには接続情報がまだ設定されていません。今すぐ設定しますか？"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "Authentication"
-msgstr ""
+msgstr "認証"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2 段階認証コード"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
 msgid "Email"
-msgstr ""
+msgstr "メールアドレス"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
 msgid "Keep me logged in"
-msgstr ""
+msgstr "ログイン状態を保持する"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
 msgid "OR"
-msgstr ""
+msgstr "または"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:270
 msgctxt "BDLogin|"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:337
 msgctxt "BDLogin|"
@@ -309,138 +311,141 @@ msgid ""
 "초기 비밀번호는 자동으로 설정되며, 클라우다이크 이메일 계정에서 @ 앞부분입니다.\n"
 "보안을 위해서라도 초기 비밀번호는 변경을 권장드립니다."
 msgstr ""
+"※ CLDA 初期パスワードのご案内\n"
+"初期パスワードは自動的に設定され、Cloudike のメールアドレスの @ より前の部分になります。\n"
+"セキュリティのため、初期パスワードを変更することをおすすめします。"
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
 msgid "Passphrase"
-msgstr ""
+msgstr "パスフレーズ"
 
 #: ../../ndagent/BDUser.cpp:623
 msgctxt "BDUser|"
 msgid ""
 "Login failed because communication with the server failed. Please check your "
 "proxy or Internet connection."
-msgstr ""
+msgstr "サーバーとの通信に失敗したため、ログインできませんでした。プロキシまたはインターネット接続を確認してください。"
 
 #: ../../ndagent/BDUser.cpp:637
 msgctxt "BDUser|"
 msgid "Login failed. Please click here to check."
-msgstr ""
+msgstr "ログインに失敗しました。ここをクリックして確認してください。"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
 msgid "Authentication Information"
-msgstr ""
+msgstr "認証情報"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
 msgid "User"
-msgstr ""
+msgstr "ユーザー"
 
 #: ../../NetDriveUI/qdriveitem.cpp:427
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
-msgstr ""
+msgstr "ドライブの設定"
 
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:9
 msgctxt "DeleteDlg|"
 msgid "Delete File"
-msgstr ""
+msgstr "ファイルの削除"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
 msgid "Dialog"
-msgstr ""
+msgstr "ダイアログ"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "進行状況"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "ダウンロードフォルダーに保存"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "場所を指定してダウンロード..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
 msgctxt "FileBrowserManager|"
 msgid "Open"
-msgstr ""
+msgstr "開く"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "再読み込み"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1020
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "名前の変更"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
 msgctxt "FileBrowserManager|"
 msgid "Delete"
-msgstr ""
+msgstr "削除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:407
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "新しいフォルダー"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:438
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:942
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "共有リンクを取得"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "ロック"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "ロック解除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:450
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "強制ロック解除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:461
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "ロック中のファイル一覧"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
@@ -448,69 +453,69 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "接続失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
-msgstr ""
+msgstr "認証"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2 段階認証コード"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "プロトコルへの接続に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:408
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
-msgstr ""
+msgstr "ファイルのアップロード"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:689
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1497
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "ファイル一覧の取得に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "ルート ID の取得に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "フォルダーの再読み込み"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "フォルダーの再読み込みに失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:798
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "ダウンロードが完了しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "ファイルのダウンロード失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "サーバーからファイルをダウンロードできません。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
 msgid "Download file path"
-msgstr ""
+msgstr "ダウンロードしたファイルのパス"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
@@ -520,17 +525,20 @@ msgid ""
 "%1\n"
 "Click the OK button to copy the shareable link."
 msgstr ""
+"共有リンクを取得しました。\n"
+"%1\n"
+"OK ボタンをクリックすると共有リンクをコピーします。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "共有リンクの取得に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "%1 へのファイル名の変更に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
@@ -538,382 +546,382 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1345
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "ファイルの移動"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "ファイルの移動に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "ファイルの削除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "ファイルの削除に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "新しいフォルダーの作成に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1187
 msgctxt "FileBrowserManager|"
 msgid "Upload Complete."
-msgstr ""
+msgstr "アップロードが完了しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Upload"
-msgstr ""
+msgstr "アップロード"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1194
 msgctxt "FileBrowserManager|"
 msgid "Failed to upload the file."
-msgstr ""
+msgstr "ファイルのアップロードに失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "ファイルのロック"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1214
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "ファイルのロックに失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "ファイルのロック解除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1230
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "ファイルのロック解除に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "操作失敗"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1317
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "%1 と同じ名前のファイルが存在します。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1333
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr ""
+msgstr "移動先フォルダーへのファイルの移動に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1346
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr ""
+msgstr "移動先フォルダーに同じ名前のファイルがあります。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1412
 msgctxt "FileBrowserManager|"
 msgid "File open path"
-msgstr ""
+msgstr "開いたファイルのパス"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "ファイルを開く"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1421
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "一時ディレクトリの作成に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1496
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "ファイル一覧の取得"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "サイズ"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:21
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr ""
+msgstr "更新日時"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
-msgstr ""
+msgstr "情報"
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr ""
+msgstr "ライセンス取得者: %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr ""
+msgstr "試用版"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
 msgctxt "FlatSettingContents|"
 msgid "GENERAL"
-msgstr ""
+msgstr "一般"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
 msgid "Start at login"
-msgstr ""
+msgstr "ログイン時に起動する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr ""
+msgstr "リモートストレージに新しく接続したときにエクスプローラーを起動する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "アップデートを自動的に確認する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr ""
+msgstr "利用可能な場合はベータ版のアップデートも確認する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:101
 msgctxt "FlatSettingContents|"
 msgid "Show file path when opening or downloading files in FileBrowser"
-msgstr ""
+msgstr "ファイルブラウザーでファイルを開くとき、またはダウンロードするときにファイルパスを表示する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:108
 msgctxt "FlatSettingContents|"
 msgid "Show file upload progress in a pop-up window"
-msgstr ""
+msgstr "ファイルのアップロード状況をポップアップウィンドウで表示する"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:120
 msgctxt "FlatSettingContents|"
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:140
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
-msgstr ""
+msgstr "翻訳にご協力ください！"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
-msgstr ""
+msgstr "キャッシュ"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:186
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "NetDrive はリモートファイルの一時コピーをローカルディスクに保持します。"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:195
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr ""
+msgstr "キャッシュパス"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:212
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr ""
+msgstr "参照"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:246
 msgctxt "FlatSettingContents|"
 msgid "Notify when the available space of the cache path is less than"
-msgstr ""
+msgstr "キャッシュパスの空き容量が"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:256
 msgctxt "FlatSettingContents|"
 msgid "GB."
-msgstr ""
+msgstr "GB 未満になったら通知します。"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:263
 msgctxt "FlatSettingContents|"
 msgid "(0 means do not notify.)"
-msgstr ""
+msgstr "(0 の場合は通知しません。)"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:287
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr ""
+msgstr "ディスクキャッシュに最大"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:297
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
-msgstr ""
+msgstr "GB まで使用"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:322
 msgctxt "FlatSettingContents|"
 msgid "LOG"
-msgstr ""
+msgstr "ログ"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:343
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr ""
+msgstr "ログレベル"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:376
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr ""
+msgstr "ログフォルダーを開く"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:402
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
-msgstr ""
+msgstr "ネットワーク"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:408
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "プロキシ設定"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:57
 msgctxt "FlatSettingContents|"
 msgid "CLDAstream keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "CLDAstream はリモートファイルの一時コピーをローカルディスクに保持します。"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:73
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
-msgstr ""
+msgstr "リモートストレージに新しく接続したときに Finder を起動する"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:115
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
-msgstr ""
+msgstr "フォルダーの選択"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:139
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr ""
+msgstr "現在のディスク空き容量: %0.2f GB"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "ドライブを切断するときにロック中のファイルをすべてロック解除する"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "%1 Update"
-msgstr ""
+msgstr "%1 のアップデート"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "%1 の新しいバージョンがあります！"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 が利用可能です (現在のバージョン: %3)。今すぐダウンロードしますか？"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr ""
+msgstr "リリースノート:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "今後、アップデートを自動的にダウンロードしてインストールする"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:121
 msgctxt "FlatUpdate|"
 msgid "SKIP THIS VERSION"
-msgstr ""
+msgstr "このバージョンをスキップ"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:128
 msgctxt "FlatUpdate|"
 msgid "REMIND ME LATER"
-msgstr ""
+msgstr "後で通知"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:135
 msgctxt "FlatUpdate|"
 msgid "INSTALL UPDATE"
-msgstr ""
+msgstr "アップデートをインストール"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 #: ../../NetDriveUI/ndflatui.cpp:3871
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "ロック中のファイル一覧"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "ロック中のファイルはありません。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:180
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "ロック解除"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:181
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "強制ロック解除"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:296
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "%1 のロック中のファイル一覧"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "見つかりません"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "パス"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "ロックしたユーザー"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "デバイス"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "状態"
 
 #: ../../NetDriveUI/ndflatui.cpp:214
 #, qt-format
@@ -921,32 +929,32 @@ msgctxt "NDFlatUI|"
 msgid ""
 "The services of %1 must be running, but they are not running. Do you want to "
 "run them now?"
-msgstr ""
+msgstr "%1 のサービスが実行されている必要がありますが、実行されていません。今すぐ実行しますか？"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "アップロード中"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:63
 msgctxt "NDFlatUI|"
 msgid "WAITING"
-msgstr ""
+msgstr "待機中"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:66
 msgctxt "NDFlatUI|"
 msgid "FAILED"
-msgstr ""
+msgstr "失敗"
 
 #: ../../NetDriveUI/ndflatui.cpp:927
 msgctxt "NDFlatUI|"
 msgid "Add drive failure has occured because of duplicate drive name."
-msgstr ""
+msgstr "ドライブ名が重複しているため、ドライブの追加に失敗しました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:931
 msgctxt "NDFlatUI|"
 msgid "Failed to add drive."
-msgstr ""
+msgstr "ドライブの追加に失敗しました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1120
 #, qt-format
@@ -958,259 +966,261 @@ msgid ""
 "If you are connected to the Internet and still have this issue, please visit "
 "%1 to leave a note."
 msgstr ""
+"この問題は、Bdrive サーバーとのネットワーク接続が原因の可能性があります。Bdrive サーバーまたはお使いの PC がインターネットに接続されていない場合によく発生します。\n"
+"インターネットに接続されているのにこの問題が発生する場合は、%1 にアクセスしてお問い合わせください。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1214
 msgctxt "NDFlatUI|"
 msgid "Failed to delete drive."
-msgstr ""
+msgstr "ドライブの削除に失敗しました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1296
 msgctxt "NDFlatUI|"
 msgid "Initializing Agent."
-msgstr ""
+msgstr "エージェントを初期化しています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1305
 msgctxt "NDFlatUI|"
 msgid "Checking network."
-msgstr ""
+msgstr "ネットワークを確認しています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1308
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
-msgstr ""
+msgstr "保存されたユーザーでログインしています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1313
 msgctxt "NDFlatUI|"
 msgid "Mounting drives on boot."
-msgstr ""
+msgstr "「起動時にマウント」のドライブをマウントしています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1320
 msgctxt "NDFlatUI|"
 msgid "Agent is ready."
-msgstr ""
+msgstr "エージェントの準備ができました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1549
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Failed to upload %1."
-msgstr ""
+msgstr "%1 のアップロードに失敗しました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:2492
 msgctxt "NDFlatUI|"
 msgid "&Open"
-msgstr ""
+msgstr "開く(&O)"
 
 #: ../../NetDriveUI/ndflatui.cpp:2495
 msgctxt "NDFlatUI|"
 msgid "&Quit"
-msgstr ""
+msgstr "終了(&Q)"
 
 #: ../../NetDriveUI/ndflatui.cpp:2498
 msgctxt "NDFlatUI|"
 msgid "&Check for Updates"
-msgstr ""
+msgstr "アップデートの確認(&C)"
 
 #: ../../NetDriveUI/ndflatui.cpp:2501
 msgctxt "NDFlatUI|"
 msgid "&Login"
-msgstr ""
+msgstr "ログイン(&L)"
 
 #: ../../NetDriveUI/ndflatui.cpp:2504
 msgctxt "NDFlatUI|"
 msgid "Log&out"
-msgstr ""
+msgstr "ログアウト(&O)"
 
 #: ../../NetDriveUI/ndflatui.cpp:2511
 msgctxt "NDFlatUI|"
 msgid "Initializing..."
-msgstr ""
+msgstr "初期化中..."
 
 #: ../../NetDriveUI/ndflatui.cpp:566
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 ファイルロックサービスを利用できません！"
 
 #: ../../NetDriveUI/ndflatui.cpp:1292
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 Agent is starting."
-msgstr ""
+msgstr "%1 エージェントを起動しています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1299
 msgctxt "NDFlatUI|"
 msgid "Initializing SDK."
-msgstr ""
+msgstr "SDK を初期化しています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1328
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Connecting to %1 Agent."
-msgstr ""
+msgstr "%1 エージェントに接続しています。"
 
 #: ../../NetDriveUI/ndflatui.cpp:2556
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 File Lock Service is not available"
-msgstr ""
+msgstr "%1 ファイルロックサービスを利用できません"
 
 #: ../../NetDriveUI/ndflatui.cpp:2688
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "%1 is Quiting..."
-msgstr ""
+msgstr "%1 を終了しています..."
 
 #: ../../NetDriveUI/ndflatui.cpp:2727
 msgctxt "NDFlatUI|"
 msgid ""
 "If you log out, 'mount on boot' items will not connect automatically. Are "
 "you sure to log out?"
-msgstr ""
+msgstr "ログアウトすると、「起動時にマウント」に設定したドライブは自動的に接続されなくなります。ログアウトしてもよろしいですか？"
 
 #: ../../NetDriveUI/ndflatui.cpp:2864
 msgctxt "NDFlatUI|"
 msgid "Logging out..."
-msgstr ""
+msgstr "ログアウトしています..."
 
 #: ../../NetDriveUI/ndflatui.cpp:3360
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid "Current version %1 is the latest version available."
-msgstr ""
+msgstr "現在のバージョン %1 が最新です。"
 
 #: ../../NetDriveUI/ndflatui.cpp:3511
 msgctxt "NDFlatUI|"
 msgid "Drives"
-msgstr ""
+msgstr "ドライブ"
 
 #: ../../NetDriveUI/ndflatui.cpp:3516
 msgctxt "NDFlatUI|"
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/ndflatui.cpp:3519
 msgctxt "NDFlatUI|"
 msgid "Uploading"
-msgstr ""
+msgstr "アップロード中"
 
 #: ../../NetDriveUI/ndflatui.cpp:3524
 msgctxt "NDFlatUI|"
 msgid "About"
-msgstr ""
+msgstr "情報"
 
 #: ../../NetDriveUI/ndflatui.cpp:3527
 msgctxt "NDFlatUI|"
 msgid "Account Info"
-msgstr ""
+msgstr "アカウント情報"
 
 #: ../../NetDriveUI/ndflatui.cpp:3530
 msgctxt "NDFlatUI|"
 msgid "Manage License"
-msgstr ""
+msgstr "ライセンスの管理"
 
 #: ../../NetDriveUI/ndflatui.cpp:3533
 msgctxt "NDFlatUI|"
 msgid "Login"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../NetDriveUI/ndflatui.cpp:3536
 msgctxt "NDFlatUI|"
 msgid "Logout"
-msgstr ""
+msgstr "ログアウト"
 
 #: ../../NetDriveUI/ndflatui.cpp:3539
 msgctxt "NDFlatUI|"
 msgid "NetDrive Help"
-msgstr ""
+msgstr "NetDrive ヘルプ"
 
 #: ../../NetDriveUI/ndflatui.cpp:3542
 msgctxt "NDFlatUI|"
 msgid "View"
-msgstr ""
+msgstr "表示"
 
 #: ../../NetDriveUI/ndflatui.cpp:3543
 msgctxt "NDFlatUI|"
 msgid "Account"
-msgstr ""
+msgstr "アカウント"
 
 #: ../../NetDriveUI/ndflatui.cpp:3544
 msgctxt "NDFlatUI|"
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #: ../../NetDriveUI/ndflatui.cpp:3737
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's info"
-msgstr ""
+msgstr "ドライブの情報を取得できませんでした。"
 
 #: ../../NetDriveUI/ndflatui.cpp:3746
 msgctxt "NDFlatUI|"
 msgid "Couldn't get drive's name"
-msgstr ""
+msgstr "ドライブの名前を取得できませんでした。"
 
 #: ../../NetDriveUI/ndflatui.cpp:245
 msgctxt "NDFlatUI|"
 msgid " (Maintainer)"
-msgstr ""
+msgstr " (管理者)"
 
 #: ../../NetDriveUI/ndflatui.cpp:763
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "The team drive [%1] was unmounted because it was unpublished by maintainer."
-msgstr ""
+msgstr "チームドライブ [%1] は、管理者によって公開が停止されたためアンマウントされました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:907
 #, qt-format
 msgctxt "NDFlatUI|"
 msgid ""
 "Do you want to publish [%1] to team members now? You can publish it later."
-msgstr ""
+msgstr "[%1] をチームメンバーに今すぐ公開しますか？後から公開することもできます。"
 
 #: ../../NetDriveUI/ndflatui.cpp:1988
 msgctxt "NDFlatUI|"
 msgid "Failed to connect Bdrive server."
-msgstr ""
+msgstr "Bdrive サーバーへの接続に失敗しました。"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:17
 msgctxt "ProxySelector|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "プロキシ設定"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:27
 msgctxt "ProxySelector|"
 msgid "Use system proxy settings"
-msgstr ""
+msgstr "システムのプロキシ設定を使用する"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:36
 msgctxt "ProxySelector|"
 msgid "PROXY TYPE"
-msgstr ""
+msgstr "プロキシの種類"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:45
 msgctxt "ProxySelector|"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:89
 msgctxt "ProxySelector|"
 msgid "User"
-msgstr ""
+msgstr "ユーザー"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:96
 msgctxt "ProxySelector|"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:103
 msgctxt "ProxySelector|"
 msgid "Port"
-msgstr ""
+msgstr "ポート"
 
 #: ../../../ui_helper/proxy/proxyselector.ui:133
 msgctxt "ProxySelector|"
 msgid "Host"
-msgstr ""
+msgstr "ホスト"
 
 #: ../../../common/ndcore.cpp:298
 #, qt-format
@@ -1218,71 +1228,71 @@ msgctxt "QApplication|"
 msgid ""
 "Bdrive server returned an error. If the issue persists, please contact %1 "
 "support."
-msgstr ""
+msgstr "Bdrive サーバーからエラーが返されました。問題が解決しない場合は、%1 のサポートにお問い合わせください。"
 
 #: ../../../common/ndcore.cpp:1161 ../../../common/ndcore.cpp:1823
 msgctxt "QApplication|"
 msgid "Subscription status"
-msgstr ""
+msgstr "サブスクリプションの状態"
 
 #: ../../../common/ndcore.cpp:1173 ../../../common/ndcore.cpp:1824
 msgctxt "QApplication|"
 msgid "Subscription type"
-msgstr ""
+msgstr "サブスクリプションの種類"
 
 #: ../../../common/ndcore.cpp:1185 ../../../common/ndcore.cpp:1825
 msgctxt "QApplication|"
 msgid "Max registered devices"
-msgstr ""
+msgstr "登録可能なデバイスの最大数"
 
 #: ../../../common/ndcore.cpp:1197 ../../../common/ndcore.cpp:1826
 msgctxt "QApplication|"
 msgid "Max sessions (concurrent access)"
-msgstr ""
+msgstr "最大セッション数 (同時アクセス)"
 
 #: ../../../common/ndcore.cpp:1827
 msgctxt "QApplication|"
 msgid "type"
-msgstr ""
+msgstr "種類"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:292
 #: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Login"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:292
 msgctxt "QApplication|"
 msgid "Email address required to login"
-msgstr ""
+msgstr "ログインにはメールアドレスが必要です。"
 
 #: ../../../ui_helper/bdui/bdlogin.cpp:300
 msgctxt "QApplication|"
 msgid "Proper password required to login"
-msgstr ""
+msgstr "ログインには正しいパスワードが必要です。"
 
 #: ../../../ui_helper/bdui/bdloginbase.cpp:22
 msgctxt "QApplication|"
 msgid "LOGIN"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../../ui_helper/bdui/bdmessagebox.cpp:78
 msgctxt "QApplication|"
 msgid "Detail"
-msgstr ""
+msgstr "詳細"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:141
 #, qt-format
 msgctxt "QApplication|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "%1 の新しいバージョンがあります！"
 
 #: ../../../ui_helper/bdui/flatupdate.cpp:147
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2 が利用可能です (現在のバージョン: %3)。今すぐダウンロードしますか？"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1291,183 +1301,183 @@ msgctxt "QApplication|"
 msgid ""
 "%1 could not connect to Bdrive Server. This device may be offline or proxy "
 "settings may be required. Do you want proxy settings?"
-msgstr ""
+msgstr "%1 は Bdrive サーバーに接続できませんでした。このデバイスがオフラインか、プロキシ設定が必要な可能性があります。プロキシを設定しますか？"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:338
 msgctxt "QApplication|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "クラッシュレポートの送信"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.cpp:339
 msgctxt "QApplication|"
 msgid "Failed to upload crash info."
-msgstr ""
+msgstr "クラッシュ情報のアップロードに失敗しました。"
 
 #: ../../ndagent/BDUserManager.cpp:204
 msgctxt "QApplication|"
 msgid "It's wrong data. Try again, please."
-msgstr ""
+msgstr "データが正しくありません。もう一度お試しください。"
 
 #: ../../ndagent/BDUserManager.cpp:250
 msgctxt "QApplication|"
 msgid "Failed to get drive list. Try again, please."
-msgstr ""
+msgstr "ドライブ一覧の取得に失敗しました。もう一度お試しください。"
 
 #: ../../../common/authtemplate.cpp:259
 msgctxt "QApplication|"
 msgid "BROWSE"
-msgstr ""
+msgstr "参照"
 
 #: ../../../common/authtemplate.cpp:793 ../../NetDriveUI/adddrive.cpp:265
 msgctxt "QApplication|"
 msgid "NETWORK"
-msgstr ""
+msgstr "ネットワーク"
 
 #: ../../../common/authtemplate.cpp:803 ../../NetDriveUI/adddrive.cpp:275
 #: ../../NetDriveUI/ndflatui.cpp:2067
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "プロキシ設定"
 
 #: ../../../common/authtemplate.cpp:1081
 msgctxt "QApplication|"
 msgid "Please check login credentials again"
-msgstr ""
+msgstr "ログイン情報をもう一度確認してください。"
 
 #: ../../../common/authtemplate.cpp:1085
 msgctxt "QApplication|"
 msgid "Please check the server information"
-msgstr ""
+msgstr "サーバー情報を確認してください。"
 
 #: ../../../common/authtemplate.cpp:1089
 msgctxt "QApplication|"
 msgid "Please check the SSL information"
-msgstr ""
+msgstr "SSL 情報を確認してください。"
 
 #: ../../../common/authtemplate.cpp:1093
 msgctxt "QApplication|"
 msgid "Please check the connection information"
-msgstr ""
+msgstr "接続情報を確認してください。"
 
 #: ../../../common/authtemplate.cpp:1096
 msgctxt "QApplication|"
 msgid "Connection failed"
-msgstr ""
+msgstr "接続失敗"
 
 #: ../../NetDriveUI/adddrive.cpp:98
 msgctxt "QApplication|"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 #: ../../NetDriveUI/adddrive.cpp:955 ../../NetDriveUI/adddrive.cpp:1222
 msgctxt "QApplication|"
 msgid "CONNECT"
-msgstr ""
+msgstr "接続"
 
 #: ../../NetDriveUI/adddrive.cpp:1133
 msgctxt "QApplication|"
 msgid "Failed to set option."
-msgstr ""
+msgstr "オプションの設定に失敗しました。"
 
 #: ../../NetDriveUI/adddrive.cpp:1376
 msgctxt "QApplication|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "認証失敗"
 
 #: ../../NetDriveUI/adddrive.cpp:1376
 #, qt-format
 msgctxt "QApplication|"
 msgid "Authentication with %1 has failed"
-msgstr ""
+msgstr "%1 での認証に失敗しました。"
 
 #: ../../NetDriveUI/adddrive.cpp:1445 ../../NetDriveUI/adddrive.cpp:1595
 msgctxt "QApplication|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "切断"
 
 #: ../../NetDriveUI/adddrive.cpp:2072
 msgctxt "QApplication|"
 msgid "Connect to Google Photos"
-msgstr ""
+msgstr "Google フォトに接続"
 
 #: ../../NetDriveUI/failedupload.cpp:33
 msgctxt "QApplication|"
 msgid "CANCEL ALL"
-msgstr ""
+msgstr "すべてキャンセル"
 
 #: ../../NetDriveUI/failedupload.cpp:39 ../../NetDriveUI/failedupload.cpp:135
 msgctxt "QApplication|"
 msgid "CANCEL SELECTED"
-msgstr ""
+msgstr "選択項目をキャンセル"
 
 #: ../../NetDriveUI/failedupload.cpp:45
 msgctxt "QApplication|"
 msgid "RETRY ALL"
-msgstr ""
+msgstr "すべて再試行"
 
 #: ../../NetDriveUI/failedupload.cpp:51 ../../NetDriveUI/failedupload.cpp:141
 msgctxt "QApplication|"
 msgid "RETRY SELECTED"
-msgstr ""
+msgstr "選択項目を再試行"
 
 #: ../../NetDriveUI/failedupload.cpp:92
 msgctxt "QApplication|"
 msgid "SAVE AS"
-msgstr ""
+msgstr "名前を付けて保存"
 
 #: ../../NetDriveUI/main.cpp:131
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to get information of service %1"
-msgstr ""
+msgstr "サービス %1 の情報の取得に失敗しました。"
 
 #: ../../NetDriveUI/main.cpp:143
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to set start type of service %1"
-msgstr ""
+msgstr "サービス %1 のスタートアップの種類の設定に失敗しました。"
 
 #: ../../NetDriveUI/main.cpp:155
 #, qt-format
 msgctxt "QApplication|"
 msgid "Failed to start service %1"
-msgstr ""
+msgstr "サービス %1 の開始に失敗しました。"
 
 #: ../../NetDriveUI/ndflatui.cpp:305 ../../NetDriveUI/ndflatui.cpp:3819
 msgctxt "QApplication|"
 msgid "DRIVES"
-msgstr ""
+msgstr "ドライブ"
 
 #: ../../NetDriveUI/ndflatui.cpp:315 ../../NetDriveUI/ndflatui.cpp:3821
 msgctxt "QApplication|"
 msgid "UPLOADING"
-msgstr ""
+msgstr "アップロード中"
 
 #: ../../NetDriveUI/ndflatui.cpp:361 ../../NetDriveUI/ndflatui.cpp:2090
 #: ../../NetDriveUI/ndflatui.cpp:3823
 msgctxt "QApplication|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/ndflatui.cpp:376 ../../NetDriveUI/ndflatui.cpp:3817
 msgctxt "QApplication|"
 msgid "ABOUT"
-msgstr ""
+msgstr "情報"
 
 #: ../../NetDriveUI/ndflatui.cpp:2040
 msgctxt "QApplication|"
 msgid "Create a free Bdrive account"
-msgstr ""
+msgstr "Bdrive アカウントを無料で作成"
 
 #: ../../NetDriveUI/ndflatui.cpp:2048
 msgctxt "QApplication|"
 msgid "Can't log in?"
-msgstr ""
+msgstr "ログインできませんか？"
 
 #: ../../NetDriveUI/ndflatui.cpp:2121
 msgctxt "QApplication|"
 msgid "Device authorization"
-msgstr ""
+msgstr "デバイス認証"
 
 #: ../../NetDriveUI/ndflatui.cpp:2122
 #, qt-format
@@ -1475,45 +1485,45 @@ msgctxt "QApplication|"
 msgid ""
 "%1 will be quit because failed to get device id. Please visit %2 to leave a "
 "note."
-msgstr ""
+msgstr "デバイス ID を取得できなかったため、%1 を終了します。%2 にアクセスしてお問い合わせください。"
 
 #: ../../NetDriveUI/ndflatui.cpp:2392
 msgctxt "QApplication|"
 msgid "Notice"
-msgstr ""
+msgstr "お知らせ"
 
 #: ../../NetDriveUI/ndflatui.cpp:3076
 msgctxt "QApplication|"
 msgid "ACCOUNT INFO"
-msgstr ""
+msgstr "アカウント情報"
 
 #: ../../NetDriveUI/ndflatui.cpp:3082
 msgctxt "QApplication|"
 msgid "MANAGE LICENSE"
-msgstr ""
+msgstr "ライセンスの管理"
 
 #: ../../NetDriveUI/ndflatui.cpp:3090
 msgctxt "QApplication|"
 msgid "LOGOUT"
-msgstr ""
+msgstr "ログアウト"
 
 #: ../../NetDriveUI/ndflatui.cpp:3347
 #, qt-format
 msgctxt "QApplication|"
 msgid "%1 %2 is now available!"
-msgstr ""
+msgstr "%1 %2 が利用可能になりました！"
 
 #: ../../../common/protocolmap.h:14
 msgctxt "QApplication|"
 msgid ""
 "If it is the first connection and there are a lot of files, the connection "
 "may take a long time."
-msgstr ""
+msgstr "初回の接続でファイル数が多い場合、接続に時間がかかることがあります。"
 
 #: ../../../common/protocolmap.h:20
 msgctxt "QApplication|"
 msgid "Rename and move operations are not supported."
-msgstr ""
+msgstr "名前の変更と移動の操作はサポートされていません。"
 
 #: ../../../common/protocolmap.h:64
 #, qt-format
@@ -1521,386 +1531,386 @@ msgctxt "QApplication|"
 msgid ""
 "Upload restricted to Albums/%1 according to Google API policy<br/>(rename, "
 "delete, and move not supported)."
-msgstr ""
+msgstr "Google API のポリシーにより、アップロードは Albums/%1 に制限されます<br/>(名前の変更、削除、移動はサポートされていません)。"
 
 #: ../../../common/protocoldll.cpp:327
 msgctxt "QApplication|"
 msgid "Wait for authentication..."
-msgstr ""
+msgstr "認証を待っています..."
 
 #: ../../NetDriveUI/qdriveitem.cpp:1615
 msgctxt "QApplication|"
 msgid "Open"
-msgstr ""
+msgstr "開く"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1646
 msgctxt "QApplication|"
 msgid "Config"
-msgstr ""
+msgstr "設定"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1656 ../../NetDriveUI/qdriveitem.cpp:1662
 msgctxt "QApplication|"
 msgid "Duplicate"
-msgstr ""
+msgstr "複製"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1670 ../../NetDriveUI/qdriveitem.cpp:1675
 msgctxt "QApplication|"
 msgid "Delete"
-msgstr ""
+msgstr "削除"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1683
 msgctxt "QApplication|"
 msgid "Log"
-msgstr ""
+msgstr "ログ"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:221
 #: ../../NetDriveUI/selectfolder.cpp:167
 msgctxt "QApplication|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "フォルダー一覧の取得失敗"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:221
 #: ../../NetDriveUI/selectfolder.cpp:167
 msgctxt "QApplication|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "サーバーからフォルダー一覧を取得できません。"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:46
 msgctxt "QApplication|"
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: ../../NetDriveUI/sortitemwidget.cpp:51
 msgctxt "QApplication|"
 msgid "Letter"
-msgstr ""
+msgstr "ドライブ文字"
 
 #: ../../NetDriveUI/update.cpp:30
 #, qt-format
 msgctxt "QApplication|"
 msgid ""
 "NetDrive %1 is now available. You have %2. Would you like to update now?"
-msgstr ""
+msgstr "NetDrive %1 が利用可能です (現在のバージョン: %2)。今すぐアップデートしますか？"
 
 #: ../../../common/protocolmap.h:30
 msgctxt "QApplication|"
 msgid "Recommend to register your own API KEY and SECRET KEY."
-msgstr ""
+msgstr "独自の API キーとシークレットキーを登録することをおすすめします。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1625
 msgctxt "QApplication|"
 msgid "Publish"
-msgstr ""
+msgstr "公開"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1632
 msgctxt "QApplication|"
 msgid "Republish"
-msgstr ""
+msgstr "再公開"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1638
 msgctxt "QApplication|"
 msgid "Unpublish"
-msgstr ""
+msgstr "公開停止"
 
 #: ../server_strings.tri:1
 msgctxt "QApplication|"
 msgid "Unable to log in with provided credentials."
-msgstr ""
+msgstr "入力された認証情報ではログインできません。"
 
 #: ../server_strings.tri:2
 msgctxt "QApplication|"
 msgid "Account"
-msgstr ""
+msgstr "アカウント"
 
 #: ../server_strings.tri:3
 msgctxt "QApplication|"
 msgid "Anomymous"
-msgstr ""
+msgstr "匿名でログインする"
 
 #: ../server_strings.tri:4
 msgctxt "QApplication|"
 msgid "Attempt converting non-UTF-8 files to UTF-8"
-msgstr ""
+msgstr "UTF-8 以外のファイルを UTF-8 に変換する"
 
 #: ../server_strings.tri:5
 msgctxt "QApplication|"
 msgid "Autodetect"
-msgstr ""
+msgstr "自動検出"
 
 #: ../server_strings.tri:6
 msgctxt "QApplication|"
 msgid "Charset"
-msgstr ""
+msgstr "文字セット"
 
 #: ../server_strings.tri:7
 msgctxt "QApplication|"
 msgid "Enable delete folder"
-msgstr ""
+msgstr "フォルダーの削除を有効にする"
 
 #: ../server_strings.tri:8
 msgctxt "QApplication|"
 msgid "Enable rename/move folder"
-msgstr ""
+msgstr "フォルダーの名前変更/移動を有効にする"
 
 #: ../server_strings.tri:9
 msgctxt "QApplication|"
 msgid "For Limited Bucket Access"
-msgstr ""
+msgstr "バケットへのアクセスが制限されている場合"
 
 #: ../server_strings.tri:10
 msgctxt "QApplication|"
 msgid "Force UTF-8"
-msgstr ""
+msgstr "UTF-8 に固定"
 
 #: ../server_strings.tri:11
 msgctxt "QApplication|"
 msgid "Local charset"
-msgstr ""
+msgstr "ローカルの文字セット"
 
 #: ../server_strings.tri:12
 msgctxt "QApplication|"
 msgid "MS SharePoint Server"
-msgstr ""
+msgstr "MS SharePoint Server"
 
 #: ../server_strings.tri:13
 msgctxt "QApplication|"
 msgid "Mount Point"
-msgstr ""
+msgstr "マウントポイント"
 
 #: ../server_strings.tri:14
 msgctxt "QApplication|"
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 #: ../server_strings.tri:15
 msgctxt "QApplication|"
 msgid "Process subdir node to display folder"
-msgstr ""
+msgstr "サブディレクトリのノードを処理してフォルダーとして表示する"
 
 #: ../server_strings.tri:16
 msgctxt "QApplication|"
 msgid "Receive changes to files from server"
-msgstr ""
+msgstr "サーバー上のファイルの変更を受信する"
 
 #: ../server_strings.tri:17
 msgctxt "QApplication|"
 msgid "SSH Key"
-msgstr ""
+msgstr "SSH キー"
 
 #: ../server_strings.tri:18
 msgctxt "QApplication|"
 msgid "Save account ID and application key"
-msgstr ""
+msgstr "アカウント ID とアプリケーションキーを保存する"
 
 #: ../server_strings.tri:19
 msgctxt "QApplication|"
 msgid "Save account ID and secret key"
-msgstr ""
+msgstr "アカウント ID とシークレットキーを保存する"
 
 #: ../server_strings.tri:20
 msgctxt "QApplication|"
 msgid "Save account name and access key"
-msgstr ""
+msgstr "アカウント名とアクセスキーを保存する"
 
 #: ../server_strings.tri:21
 msgctxt "QApplication|"
 msgid "Save passphrase"
-msgstr ""
+msgstr "パスフレーズを保存する"
 
 #: ../server_strings.tri:22
 msgctxt "QApplication|"
 msgid "Save user and API key"
-msgstr ""
+msgstr "ユーザーと API キーを保存する"
 
 #: ../server_strings.tri:23
 msgctxt "QApplication|"
 msgid "Save user and password "
-msgstr ""
+msgstr "ユーザーとパスワードを保存する "
 
 #: ../server_strings.tri:24
 msgctxt "QApplication|"
 msgid "Server"
-msgstr ""
+msgstr "サーバー"
 
 #: ../server_strings.tri:25
 msgctxt "QApplication|"
 msgid "Set large enough disk space for unlimited Google TeamDrive"
-msgstr ""
+msgstr "無制限の Google 共有ドライブ用に十分な大きさのディスク容量を設定する"
 
 #: ../server_strings.tri:26
 msgctxt "QApplication|"
 msgid "Show shared file/folders"
-msgstr ""
+msgstr "共有ファイル/フォルダーを表示する"
 
 #: ../server_strings.tri:27
 msgctxt "QApplication|"
 msgid "System root"
-msgstr ""
+msgstr "システムルート"
 
 #: ../server_strings.tri:28
 msgctxt "QApplication|"
 msgid "Use SSL(https)"
-msgstr ""
+msgstr "SSL (https) を使用する"
 
 #: ../server_strings.tri:29
 msgctxt "QApplication|"
 msgid "Use SSL/TLS"
-msgstr ""
+msgstr "SSL/TLS を使用する"
 
 #: ../server_strings.tri:30
 msgctxt "QApplication|"
 msgid "Use active mode"
-msgstr ""
+msgstr "アクティブモードを使用する"
 
 #: ../server_strings.tri:31
 msgctxt "QApplication|"
 msgid "Use new file permission"
-msgstr ""
+msgstr "新規ファイルのパーミッションを使用する"
 
 #: ../server_strings.tri:32
 msgctxt "QApplication|"
 msgid "Use new folder permission"
-msgstr ""
+msgstr "新規フォルダーのパーミッションを使用する"
 
 #: ../server_strings.tri:33
 msgctxt "QApplication|"
 msgid "Use path-style instead of virtual-hosted style"
-msgstr ""
+msgstr "仮想ホスト形式ではなくパス形式を使用する"
 
 #: ../server_strings.tri:34
 msgctxt "QApplication|"
 msgid "Use server time for files/folders"
-msgstr ""
+msgstr "ファイル/フォルダーにサーバーの時刻を使用する"
 
 #: ../server_strings.tri:35
 msgctxt "QApplication|"
 msgid "Use team drive"
-msgstr ""
+msgstr "共有ドライブを使用する"
 
 #: ../server_strings.tri:36
 msgctxt "QApplication|"
 msgid "User home"
-msgstr ""
+msgstr "ユーザーのホーム"
 
 #: ../server_strings.tri:37
 msgctxt "QApplication|"
 msgid "API Key"
-msgstr ""
+msgstr "API キー"
 
 #: ../server_strings.tri:38
 msgctxt "QApplication|"
 msgid "Access ID"
-msgstr ""
+msgstr "アクセス ID"
 
 #: ../server_strings.tri:39
 msgctxt "QApplication|"
 msgid "Account ID"
-msgstr ""
+msgstr "アカウント ID"
 
 #: ../server_strings.tri:40
 msgctxt "QApplication|"
 msgid "Application Key"
-msgstr ""
+msgstr "アプリケーションキー"
 
 #: ../server_strings.tri:41
 msgctxt "QApplication|"
 msgid "Bucket name"
-msgstr ""
+msgstr "バケット名"
 
 #: ../server_strings.tri:42
 msgctxt "QApplication|"
 msgid "File permission"
-msgstr ""
+msgstr "ファイルのパーミッション"
 
 #: ../server_strings.tri:43
 msgctxt "QApplication|"
 msgid "Folder permission"
-msgstr ""
+msgstr "フォルダーのパーミッション"
 
 #: ../server_strings.tri:44
 msgctxt "QApplication|"
 msgid "Max sessions"
-msgstr ""
+msgstr "最大セッション数"
 
 #: ../server_strings.tri:45
 msgctxt "QApplication|"
 msgid "Passphrase"
-msgstr ""
+msgstr "パスフレーズ"
 
 #: ../server_strings.tri:46
 msgctxt "QApplication|"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ../server_strings.tri:47
 msgctxt "QApplication|"
 msgid "Project ID"
-msgstr ""
+msgstr "プロジェクト ID"
 
 #: ../server_strings.tri:48
 msgctxt "QApplication|"
 msgid "Secret Key"
-msgstr ""
+msgstr "シークレットキー"
 
 #: ../server_strings.tri:49
 msgctxt "QApplication|"
 msgid "Server Address"
-msgstr ""
+msgstr "サーバーアドレス"
 
 #: ../server_strings.tri:50
 msgctxt "QApplication|"
 msgid "Storage access key"
-msgstr ""
+msgstr "ストレージアクセスキー"
 
 #: ../server_strings.tri:51
 msgctxt "QApplication|"
 msgid "Storage account name"
-msgstr ""
+msgstr "ストレージアカウント名"
 
 #: ../server_strings.tri:52
 msgctxt "QApplication|"
 msgid "Total size (TB)"
-msgstr ""
+msgstr "合計サイズ (TB)"
 
 #: ../server_strings.tri:53
 msgctxt "QApplication|"
 msgid "User"
-msgstr ""
+msgstr "ユーザー"
 
 #: ../server_strings.tri:54
 msgctxt "QApplication|"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #: ../server_strings.tri:55
 msgctxt "QApplication|"
 msgid "limit ( KB/s : 0 means unlimited )"
-msgstr ""
+msgstr "制限 (KB/s: 0 は無制限)"
 
 #: ../server_strings.tri:56
 msgctxt "QApplication|"
 msgid "seconds"
-msgstr ""
+msgstr "秒"
 
 #: ../server_strings.tri:57
 msgctxt "QApplication|"
 msgid "Bandwidth"
-msgstr ""
+msgstr "帯域幅"
 
 #: ../server_strings.tri:58
 msgctxt "QApplication|"
 msgid "Connection Timeout"
-msgstr ""
+msgstr "接続タイムアウト"
 
 #: ../server_strings.tri:59
 msgctxt "QApplication|"
 msgid "Total space"
-msgstr ""
+msgstr "合計容量"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:14
 msgctxt "QAuthDlg|"
 msgid "Authentication Required"
-msgstr ""
+msgstr "認証が必要です"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:22
 msgctxt "QAuthDlg|"
@@ -1909,158 +1919,161 @@ msgid ""
 "\n"
 "Your connection to this site is not private."
 msgstr ""
+"プロキシにはユーザー名とパスワードが必要です。\n"
+"\n"
+"このサイトへの接続はプライベートではありません。"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:36
 msgctxt "QAuthDlg|"
 msgid "User Name"
-msgstr ""
+msgstr "ユーザー名"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:43
 msgctxt "QAuthDlg|"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:90
 msgctxt "QAuthDlg|"
 msgid "Log In"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qauthdlg.ui:100
 msgctxt "QAuthDlg|"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../ndagent/BDUserManager.cpp:236
 msgctxt "QCoreApplication|"
 msgid ""
 "There is another Bdrive account logged in this device. Do you want to log "
 "the account out and log your account in?"
-msgstr ""
+msgstr "このデバイスには別の Bdrive アカウントがログインしています。そのアカウントをログアウトして、あなたのアカウントでログインしますか？"
 
 #: ../../NetDriveUI/qdriveitem.ui:289 ../../NetDriveUI/qdriveitem.cpp:809
 #: ../../NetDriveUI/qdriveitem.cpp:1005 ../../NetDriveUI/qdriveitem.cpp:1429
 msgctxt "QDriveItem|"
 msgid "CONNECT"
-msgstr ""
+msgstr "接続"
 
 #: ../../NetDriveUI/qdriveitem.cpp:287
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "%1 is already mounted path. Do you want to unmount %1 to continue?"
-msgstr ""
+msgstr "%1 はすでにマウントされているパスです。%1 をアンマウントして続行しますか？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:305
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unmount %1. Try later again."
-msgstr ""
+msgstr "%1 のアンマウントに失敗しました。後でもう一度お試しください。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:319
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to disconnect %1?"
-msgstr ""
+msgstr "%1 を切断してもよろしいですか？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:731
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "There is no log file for [%1]."
-msgstr ""
+msgstr "[%1] のログファイルがありません。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:920
 msgctxt "QDriveItem|"
 msgid "Unmount failed"
-msgstr ""
+msgstr "アンマウント失敗"
 
 #: ../../NetDriveUI/qdriveitem.cpp:950
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive because of the duplicated name."
-msgstr ""
+msgstr "名前が重複しているため、ドライブの設定に失敗しました。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:954
 msgctxt "QDriveItem|"
 msgid "Failed to configure drive."
-msgstr ""
+msgstr "ドライブの設定に失敗しました。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:995
 msgctxt "QDriveItem|"
 msgid "CANCEL"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1002 ../../NetDriveUI/qdriveitem.cpp:1428
 msgctxt "QDriveItem|"
 msgid "NOT CONNECTED"
-msgstr ""
+msgstr "未接続"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "Authentication"
-msgstr ""
+msgstr "認証"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1011
 msgctxt "QDriveItem|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2 段階認証コード"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1435
 msgctxt "QDriveItem|"
 msgid "CONNECTING"
-msgstr ""
+msgstr "接続中"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1441
 msgctxt "QDriveItem|"
 msgid "CONNECTED"
-msgstr ""
+msgstr "接続済み"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1442
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr ""
+msgstr "切断"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECTING"
-msgstr ""
+msgstr "切断中"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1537
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Are you sure you want to delete %1?"
-msgstr ""
+msgstr "%1 を削除してもよろしいですか？"
 
 #: ../../NetDriveUI/qdriveitem.ui:276
 msgctxt "QDriveItem|"
 msgid "BROWSE"
-msgstr ""
+msgstr "参照"
 
 #: ../../NetDriveUI/qdriveitem.cpp:245
 msgctxt "QDriveItem|"
 msgid "Failed to open file browser."
-msgstr ""
+msgstr "ファイルブラウザーを開けませんでした。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:694
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "[%1] is not configured yet after published. Do you want to config?"
-msgstr ""
+msgstr "[%1] は公開後にまだ設定されていません。設定しますか？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:767
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to publish [%1]."
-msgstr ""
+msgstr "[%1] の公開に失敗しました。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:787
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Failed to unpublish [%1]"
-msgstr ""
+msgstr "[%1] の公開停止に失敗しました。"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1833
 #, qt-format
 msgctxt "QDriveItem|"
 msgid "Do you want to publish [%1] to team members?"
-msgstr ""
+msgstr "[%1] をチームメンバーに公開しますか？"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1849
 #, qt-format
@@ -2070,64 +2083,66 @@ msgid ""
 "file not saved in the drive may be lost.\n"
 "Do you want to unpublish [%1] from team members?"
 msgstr ""
+"公開を停止すると、マウント中のメンバーのドライブはアンマウントされ、ドライブに保存されていないファイルが失われる可能性があります。\n"
+"[%1] のチームメンバーへの公開を停止しますか？"
 
 #: ../../../common/aerrorstring.cpp:10
 #, qt-format
 msgctxt "QObject|"
 msgid "A serious problem occurred. Please reinstall %1."
-msgstr ""
+msgstr "重大な問題が発生しました。%1 を再インストールしてください。"
 
 #: ../../../common/aerrorstring.cpp:12
 msgctxt "QObject|"
 msgid "Success."
-msgstr ""
+msgstr "成功しました。"
 
 #: ../../../common/aerrorstring.cpp:14
 msgctxt "QObject|"
 msgid "Failed."
-msgstr ""
+msgstr "失敗しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:24
 msgctxt "QObject|"
 msgid "Access Denied."
-msgstr ""
+msgstr "アクセスが拒否されました。"
 
 #: ../../NetDriveUI/errmsg.cpp:28
 msgctxt "QObject|"
 msgid "Path not found."
-msgstr ""
+msgstr "パスが見つかりません。"
 
 #: ../../NetDriveUI/errmsg.cpp:32
 msgctxt "QObject|"
 msgid "Connection error."
-msgstr ""
+msgstr "接続エラーが発生しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:36
 msgctxt "QObject|"
 msgid "Drive letter already used."
-msgstr ""
+msgstr "ドライブ文字はすでに使用されています。"
 
 #: ../../NetDriveUI/errmsg.cpp:40
 msgctxt "QObject|"
 msgid "Mount Error."
-msgstr ""
+msgstr "マウントエラーが発生しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:44
 msgctxt "QObject|"
 msgid "Mount process is not executed."
-msgstr ""
+msgstr "マウントプロセスが実行されていません。"
 
 #: ../../NetDriveUI/errmsg.cpp:48
 msgctxt "QObject|"
 msgid ""
 "Files are currently being uploading. Do you want to disconnect forcefully?"
-msgstr ""
+msgstr "ファイルをアップロード中です。強制的に切断しますか？"
 
 #: ../../NetDriveUI/errmsg.cpp:52
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is not initialized."
-msgstr ""
+msgstr "%1 は初期化されていません。"
 
 #: ../../NetDriveUI/errmsg.cpp:80
 #, qt-format
@@ -2135,131 +2150,131 @@ msgctxt "QObject|"
 msgid ""
 "The protocol version you are using is different from the product version. "
 "Please reinstall %1."
-msgstr ""
+msgstr "使用中のプロトコルのバージョンが製品のバージョンと異なります。%1 を再インストールしてください。"
 
 #: ../../NetDriveUI/errmsg.cpp:56
 msgctxt "QObject|"
 msgid "No available drive letter."
-msgstr ""
+msgstr "使用可能なドライブ文字がありません。"
 
 #: ../../NetDriveUI/errmsg.cpp:60
 msgctxt "QObject|"
 msgid "Wrong Parameter."
-msgstr ""
+msgstr "パラメーターが正しくありません。"
 
 #: ../../NetDriveUI/errmsg.cpp:64
 msgctxt "QObject|"
 msgid "Network path already used."
-msgstr ""
+msgstr "ネットワークパスはすでに使用されています。"
 
 #: ../../NetDriveUI/errmsg.cpp:68
 msgctxt "QObject|"
 msgid "Cache path error."
-msgstr ""
+msgstr "キャッシュパスでエラーが発生しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:72
 msgctxt "QObject|"
 msgid "Operation Failed."
-msgstr ""
+msgstr "操作に失敗しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:76
 msgctxt "QObject|"
 msgid "Not logged in user."
-msgstr ""
+msgstr "ユーザーがログインしていません。"
 
 #: ../../NetDriveUI/errmsg.cpp:84
 msgctxt "QObject|"
 msgid "You cannot use this version. Please install the version you can use."
-msgstr ""
+msgstr "このバージョンは使用できません。使用可能なバージョンをインストールしてください。"
 
 #: ../../NetDriveUI/errmsg.cpp:88
 msgctxt "QObject|"
 msgid "Not supported protocol type"
-msgstr ""
+msgstr "サポートされていないプロトコルの種類です。"
 
 #: ../../NetDriveUI/errmsg.cpp:92
 msgctxt "QObject|"
 msgid "Already mounted drive item."
-msgstr ""
+msgstr "すでにマウントされているドライブです。"
 
 #: ../../NetDriveUI/errmsg.cpp:100
 msgctxt "QObject|"
 msgid "Error occurred."
-msgstr ""
+msgstr "エラーが発生しました。"
 
 #: ../../NetDriveUI/errmsg.cpp:96
 msgctxt "QObject|"
 msgid "You do not have permission."
-msgstr ""
+msgstr "権限がありません。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:354
 msgctxt "QObject|"
 msgid "An error occurred on the push server."
-msgstr ""
+msgstr "プッシュサーバーでエラーが発生しました。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:357
 msgctxt "QObject|"
 msgid "The file is already locked."
-msgstr ""
+msgstr "ファイルはすでにロックされています。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:360
 msgctxt "QObject|"
 msgid "The drive does not exist."
-msgstr ""
+msgstr "ドライブが存在しません。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:363
 msgctxt "QObject|"
 msgid "The file does not exist in the locked files list"
-msgstr ""
+msgstr "ファイルはロック中のファイル一覧にありません。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:366
 msgctxt "QObject|"
 msgid "The file is locked by another user."
-msgstr ""
+msgstr "ファイルは別のユーザーによってロックされています。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:369
 msgctxt "QObject|"
 msgid "The file is locked on another device."
-msgstr ""
+msgstr "ファイルは別のデバイスでロックされています。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:377
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to refresh %1."
-msgstr ""
+msgstr "%1 の更新に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:380
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to lock %1."
-msgstr ""
+msgstr "%1 のロックに失敗しました。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:383
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to unlock %1."
-msgstr ""
+msgstr "%1 のロック解除に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:386
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to force unlock %1."
-msgstr ""
+msgstr "%1 の強制ロック解除に失敗しました。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:957
 msgctxt "QObject|"
 msgid "Rename"
-msgstr ""
+msgstr "名前の変更"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1029
 msgctxt "QObject|"
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1082
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "削除"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1252
 #, qt-format
@@ -2267,23 +2282,23 @@ msgctxt "QObject|"
 msgid ""
 "%1 failed because the locked file is in the folder. Unlock the file and try "
 "again."
-msgstr ""
+msgstr "フォルダー内にロック中のファイルがあるため、%1に失敗しました。ファイルのロックを解除してから、もう一度お試しください。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1256
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 failed because the file is locked. Unlock the file and try again."
-msgstr ""
+msgstr "ファイルがロックされているため、%1に失敗しました。ファイルのロックを解除してから、もう一度お試しください。"
 
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:20
 msgctxt "QObject|"
 msgid "Are you sure you want to delete \""
-msgstr ""
+msgstr "削除してもよろしいですか？ \""
 
 #: ../../netdrive_helper/traymanager.cpp:128
 msgctxt "QObject|"
 msgid "&Quit "
-msgstr ""
+msgstr "終了(&Q) "
 
 #: ../../netdrive_helper/traymanager.cpp:64
 #: ../../netdrive_helper/traymanager.cpp:124
@@ -2291,68 +2306,68 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "&Open %1"
-msgstr ""
+msgstr "%1 を開く(&O)"
 
 #: ../../netdrive_helper/traymanager.cpp:119
 #, qt-format
 msgctxt "QObject|"
 msgid "&Quit %1"
-msgstr ""
+msgstr "%1 を終了(&Q)"
 
 #: ../../netdrive_helper/traymanager.cpp:251
 msgctxt "QObject|"
 msgid "&Quit"
-msgstr ""
+msgstr "終了(&Q)"
 
 #: ../../netdrive_helper/traymanager.cpp:67
 #: ../../netdrive_helper/traymanager.cpp:113
 #: ../../netdrive_helper/traymanager.cpp:254
 msgctxt "QObject|"
 msgid "&Check for Updates"
-msgstr ""
+msgstr "アップデートの確認(&C)"
 
 #: ../../netdrive_helper/traymanager.cpp:109
 #: ../../netdrive_helper/traymanager.cpp:257
 msgctxt "QObject|"
 msgid "&Login"
-msgstr ""
+msgstr "ログイン(&L)"
 
 #: ../../netdrive_helper/traymanager.cpp:104
 #: ../../netdrive_helper/traymanager.cpp:260
 msgctxt "QObject|"
 msgid "Log&out"
-msgstr ""
+msgstr "ログアウト(&O)"
 
 #: ../../netdrive_helper/traymanager.cpp:98
 #: ../../netdrive_helper/traymanager.cpp:264
 msgctxt "QObject|"
 msgid "&File Browser"
-msgstr ""
+msgstr "ファイルブラウザー(&F)"
 
 #: ../../NetDriveUI/qselectitemtype.ui:14
 msgctxt "QSelectItemType|"
 msgid "Select a drive type"
-msgstr ""
+msgstr "ドライブの種類の選択"
 
 #: ../../NetDriveUI/qselectitemtype.ui:22
 msgctxt "QSelectItemType|"
 msgid "Select a drive type you want to add."
-msgstr ""
+msgstr "追加するドライブの種類を選択してください。"
 
 #: ../../NetDriveUI/qselectitemtype.ui:45
 msgctxt "QSelectItemType|"
 msgid "Team drive item"
-msgstr ""
+msgstr "チームドライブ"
 
 #: ../../NetDriveUI/qselectitemtype.ui:52
 msgctxt "QSelectItemType|"
 msgid "Personal drive item"
-msgstr ""
+msgstr "個人ドライブ"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:14
 msgctxt "QSenderDlg|"
 msgid "Send Crash Report"
-msgstr ""
+msgstr "クラッシュレポートの送信"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:61
 msgctxt "QSenderDlg|"
@@ -2365,196 +2380,201 @@ msgid ""
 "The information you send us will help us to fix this problem and it will not "
 "be used except for debugging purpose."
 msgstr ""
+"問題の特定に役立つレポートが作成されました。送信してください。\n"
+"\n"
+"クラッシュ前に何が起きたか、詳しい内容をご記入ください。\n"
+"\n"
+"送信された情報は、この問題の修正に役立てられ、デバッグ以外の目的には使用されません。"
 
 #: ../../../common_helper/bdcrash/bdcrashsender/qsenderdlg.ui:86
 msgctxt "QSenderDlg|"
 msgid "minutes remaining."
-msgstr ""
+msgstr "分残っています。"
 
 #: ../../../ui_helper/filebrowser/rename.ui:43
 msgctxt "Rename|"
 msgid "New name:"
-msgstr ""
+msgstr "新しい名前:"
 
 #: ../../../ui_helper/filebrowser/rename.ui:101
 msgctxt "Rename|"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../../../ui_helper/filebrowser/rename.ui:114
 msgctxt "Rename|"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:11
 msgctxt "RenameDlg|"
 msgid "Create Directory"
-msgstr ""
+msgstr "フォルダーの作成"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:12
 msgctxt "RenameDlg|"
 msgid "Directory name:"
-msgstr ""
+msgstr "フォルダー名:"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:16
 msgctxt "RenameDlg|"
 msgid "Rename"
-msgstr ""
+msgstr "名前の変更"
 
 #: ../../../ui_helper/filebrowser/renamedlg.cpp:17
 msgctxt "RenameDlg|"
 msgid "New name:"
-msgstr ""
+msgstr "新しい名前:"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:23
 #: ../../NetDriveUI/selectfolder.ui:14
 msgctxt "SelectFolder|"
 msgid "Select Folder"
-msgstr ""
+msgstr "フォルダーの選択"
 
 #: ../../NetDriveUI/selectfolder.ui:71
 msgctxt "SelectFolder|"
 msgid "CREATE NEW FOLDER"
-msgstr ""
+msgstr "新しいフォルダーの作成"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:275
 msgctxt "SelectFolder|"
 msgid "Folder listing failed"
-msgstr ""
+msgstr "フォルダー一覧の取得失敗"
 
 #: ../../../ui_helper/filebrowser/selectfolder.cpp:275
 msgctxt "SelectFolder|"
 msgid "Can not retrieve folder list from server."
-msgstr ""
+msgstr "サーバーからフォルダー一覧を取得できません。"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:49
 msgctxt "SelectFolder|"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../../../ui_helper/filebrowser/selectfolder.ui:59
 msgctxt "SelectFolder|"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../NetDriveUI/sortitemwidget.ui:41
 msgctxt "SortItemWidget|"
 msgid "Sort by"
-msgstr ""
+msgstr "並べ替え"
 
 #: ../../../ui_helper/filebrowser/transferitem.cpp:13
 msgctxt "TransferItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "ダウンロードを準備中..."
 
 #: ../../../ui_helper/filebrowser/transferitem.cpp:15
 msgctxt "TransferItem|"
 msgid "Preparing Upload..."
-msgstr ""
+msgstr "アップロードを準備中..."
 
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:7
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:31
 msgctxt "TransferProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "ファイルのダウンロード"
 
 #: ../../../ui_helper/filebrowser/transferprogressdlg.cpp:35
 msgctxt "TransferProgressDlg|"
 msgid "File Upload"
-msgstr ""
+msgstr "ファイルのアップロード"
 
 #: ../../netdrive_helper/traymanager.cpp:161
 #, qt-format
 msgctxt "TrayManager|"
 msgid "%1 File Lock Service is not available!"
-msgstr ""
+msgstr "%1 ファイルロックサービスを利用できません！"
 
 #: ../../../common/urlwidget.ui:47
 msgctxt "URLWidget|"
 msgid "Port"
-msgstr ""
+msgstr "ポート"
 
 #: ../../NetDriveUI/update.ui:14
 msgctxt "Update|"
 msgid "NetDrive Update"
-msgstr ""
+msgstr "NetDrive のアップデート"
 
 #: ../../NetDriveUI/update.ui:78
 msgctxt "Update|"
 msgid "A new version of NetDrive is available!"
-msgstr ""
+msgstr "NetDrive の新しいバージョンがあります！"
 
 #: ../../NetDriveUI/update.ui:104
 msgctxt "Update|"
 msgid "Release notes:"
-msgstr ""
+msgstr "リリースノート:"
 
 #: ../../NetDriveUI/update.ui:127
 msgctxt "Update|"
 msgid "Automatically download and install updated version in the future"
-msgstr ""
+msgstr "今後、アップデートを自動的にダウンロードしてインストールする"
 
 #: ../../NetDriveUI/update.ui:150
 msgctxt "Update|"
 msgid "Skip this version"
-msgstr ""
+msgstr "このバージョンをスキップ"
 
 #: ../../NetDriveUI/update.ui:157
 msgctxt "Update|"
 msgid "Later"
-msgstr ""
+msgstr "後で通知"
 
 #: ../../NetDriveUI/update.ui:164
 msgctxt "Update|"
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 #: ../../NetDriveUI/uploaditem.cpp:105
 msgctxt "UploadItem|"
 msgid "Failed to upload"
-msgstr ""
+msgstr "アップロード失敗"
 
 #: ../../NetDriveUI/uploaditem.cpp:241
 msgctxt "UploadItem|"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../../NetDriveUI/uploaditem.cpp:244
 msgctxt "UploadItem|"
 msgid "Retry"
-msgstr ""
+msgstr "再試行"
 
 #: ../../NetDriveUI/uploaditem.cpp:247
 msgctxt "UploadItem|"
 msgid "Save as"
-msgstr ""
+msgstr "名前を付けて保存"
 
 #: ../../NetDriveUI/uploadprogressdlg.cpp:13
 msgctxt "UploadProgressDlg|"
 msgid "File Upload"
-msgstr ""
+msgstr "ファイルのアップロード"
 
 #: ../../NetDriveUI/uploadings.cpp:21
 msgctxt "Uploadings|"
 msgid "No files are being uploaded."
-msgstr ""
+msgstr "アップロード中のファイルはありません。"
 
 #: ../../NetDriveUI/uploadings.cpp:59
 msgctxt "Uploadings|"
 msgid "Failed to retry."
-msgstr ""
+msgstr "再試行に失敗しました。"
 
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr ""
+msgstr "名前を付けて保存できませんでした。"
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
 msgid "Wait for authentication"
-msgstr ""
+msgstr "認証の待機"
 
 #: ../../../ui_helper/oauth2/waiter_mobile.ui:14
 msgctxt "WaiterMobile|"
 msgid "Form"
-msgstr ""
+msgstr "フォーム"

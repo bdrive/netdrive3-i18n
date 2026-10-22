@@ -1703,6 +1703,11 @@ msgctxt "QApplication|"
 msgid "Anomymous"
 msgstr ""
 
+#: ../server_strings.tri:3
+msgctxt "QApplication|"
+msgid "Anonymous"
+msgstr ""
+
 #: ../server_strings.tri:4
 msgctxt "QApplication|"
 msgid "Attempt converting non-UTF-8 files to UTF-8"
